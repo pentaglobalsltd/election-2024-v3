@@ -1,0 +1,108 @@
+svg:focus{
+  outline: unset  !important;
+  border: 0 !important;
+  pointer-events: none !important;
+}
+
+g{
+  pointer-events: auto !important;
+}
+
+path{
+  pointer-events: auto !important;
+}
+
+.ant-layout {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.ant-layout-content {
+  // padding: 8px 0;
+  margin: 0 !important;
+
+  @media screen and (min-width: 992px) {
+    // padding:  16px 0;
+  }
+}
+
+.ant-layout-sider {
+  margin: unset;
+  border-radius: 8px;
+
+  @media screen and (min-width: 992px) {
+    margin: 16px 8px 0 16px;
+  }
+}
+
+.ant-layout-sider-children {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: auto;
+}
+
+.ant-menu {
+  background-color: transparent !important;
+  border-inline-end: none !important;
+
+  padding: 16px;
+}
+
+.ant-layout-header {
+  padding: 16px;
+  background-color: unset !important;
+  flex-wrap: wrap;
+  min-height: 64px;
+  height: unset !important;
+}
+
+.ant-card {
+  height: fit-content;
+  width: fit-content;
+  &-body {
+    padding: 24px !important;
+  }
+}
+
+.ant-btn {
+  font-weight: bold;
+}
+
+.ant-table {
+  margin-top: 24px !important;
+}
+
+.ant-steps {
+  margin: 24px 0 !important;
+}
+
+.ant-transfer-list {
+  width: 100% !important;
+}
+
+.ant-tag {
+  width: fit-content;
+}
+
+.ant-list-header {
+  border-block-end: unset !important;
+}
+
+.ant-float-btn{
+  z-index: 1000 !important;
+}
+
+.ant-notification-notice-wrapper{
+  // background: unset !important;
+}
+
+.leaflet-container{
+  border-radius: 8px !important;
+  margin: 16px 8px;
+  background: transparent !important;
+}
+
+.leaflet-map-pane{
+  z-index: 0 !important;
+}
