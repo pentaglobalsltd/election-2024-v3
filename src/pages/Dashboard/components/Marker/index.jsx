@@ -4,13 +4,13 @@ import MarkerClusterGroup from 'react-leaflet-cluster';
 
 import CustomMarker from './CustomMarker';
 
-import centers from '../../../../staticData/centers.json';
+import readJsonFile from '../../../../staticData/centers/getDataFRomFile';
 
 export const MarkerLayer = () => {
   return (
     <>
       <MarkerClusterGroup chunkedLoading spiderfyDistanceMultiplier={2}>
-        {centers
+        {readJsonFile(1)
           .filter((center) => center.settings_code === 111)
           .map((data, index) => {
             return data?.latitude && data?.longitude ? (
