@@ -2,25 +2,24 @@ import React from 'react';
 import { Affix, Statistic, Card, Flex } from 'antd';
 
 import { toBN } from 'react-en-bn';
-
-import useVoteCount from '../../../../hooks/useVoteCount';
+import totalVoteCounts from '../../../../staticData/totalCounts.json';
 
 const VoteCountSummary = () => {
-  const { voteCount } = useVoteCount();
   const {
-    invalid_vote: invalidVote,
-    total_vote: totalVote,
-    valid_vote: validVote,
-  } = voteCount || {};
+    total_voter: totalVoter,
+    male_voter: maleVoter,
+    female_voter: femaleVoter,
+    hijra_voter: hijraVoter,
+  } = totalVoteCounts || {};
 
   return (
     <Affix>
       <Card>
-        {totalVote ? (
+        {totalVoter ? (
           <Statistic
             className="vote"
             title="মোট ভোট"
-            value={toBN(totalVote)}
+            value={toBN(totalVoter)}
             valueStyle={{
               color: '#3d7bf2',
               fontWeight: 'bold',
@@ -33,11 +32,11 @@ const VoteCountSummary = () => {
 
         <hr />
         <Flex gap="16px">
-          {totalVote ? (
+          {maleVoter ? (
             <Statistic
               className="vote"
               title="বৈধ ভোট"
-              value={toBN(validVote)}
+              value={toBN(maleVoter)}
               valueStyle={{
                 color: '#3f8600',
                 fontSize: '14px',
@@ -48,11 +47,26 @@ const VoteCountSummary = () => {
             <></>
           )}
 
-          {totalVote ? (
+          {femaleVoter ? (
             <Statistic
               className="vote"
               title="অবৈধ ভোট"
-              value={toBN(invalidVote)}
+              value={toBN(femaleVoter)}
+              valueStyle={{
+                color: '#ff8399',
+                fontSize: '14px',
+                fontWeight: 'bold',
+              }}
+            />
+          ) : (
+            <></>
+          )}
+
+          {hijraVoter ? (
+            <Statistic
+              className="vote"
+              title="অবৈধ ভোট"
+              value={toBN(hijraVoter)}
               valueStyle={{
                 color: '#ff8399',
                 fontSize: '14px',

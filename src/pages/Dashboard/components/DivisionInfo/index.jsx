@@ -5,7 +5,7 @@ import { toBN } from 'react-en-bn';
 import { notification, Table, Typography } from 'antd';
 
 import { selectMenu } from '../../../../actions/menu';
-import useDivisionVoteCount from '../../../../hooks/useDivisionVoteCount.js';
+import divisionVoteCounts from '../../../../staticData/divisionInfo.json';
 
 import { getElectionAreas } from '../../../../staticData/ElectionArea';
 import { isUnique } from '../../../../utilities/uniqe.js';
@@ -14,15 +14,23 @@ const { Text } = Typography;
 
 const columns = [
   {
-    title: 'মার্কা',
-    dataIndex: 'symbol_bn',
-    key: 'symbol_bn',
+    title: 'পুরুষ ভোট',
+    dataIndex: 'male_count',
+    key: 'male_count',
+    render: (value) => {
+      return <Text>{toBN(value)}</Text>;
+    },
+  },
+  {
+    title: 'মহিলা ভোট',
+    dataIndex: 'female_count',
+    key: 'female_count',
     render: (value) => <Text>{toBN(value)}</Text>,
   },
   {
-    title: 'ভোট সংখ্যা',
-    dataIndex: 'count',
-    key: 'count',
+    title: 'হিজড়া ভোট',
+    dataIndex: 'hijra_count',
+    key: 'hijra_count',
     render: (value) => <Text>{toBN(value)}</Text>,
   },
 ];
@@ -46,8 +54,6 @@ const Result = ({ data }) => {
 const DivisionInfo = () => {
   const dispatch = useDispatch();
 
-  const { divisionVoteCount, handleDivisionVoteCount } = useDivisionVoteCount();
-
   const _menu = useSelector((state) => state.menu);
   const { selectedMenu } = _menu;
 
@@ -58,7 +64,6 @@ const DivisionInfo = () => {
   );
 
   const onClose = () => {
-    handleDivisionVoteCount(null);
     dispatch(
       selectMenu({
         selectedMenu: -1,
@@ -69,9 +74,13 @@ const DivisionInfo = () => {
   const [api, contextHolder] = notification.useNotification({ stack: false });
 
   const openNotification = (selectedDivision) => {
+    const selectedDivisionCount = divisionVoteCounts.filter(
+      (item) => Number(item.code) === selectedDivision.code,
+    );
+
     api.open({
       message: selectedDivision ? selectedDivision.name : '',
-      description: <Result data={divisionVoteCount || []} />,
+      description: <Result data={selectedDivisionCount || []} />,
       duration: null,
       onClose: onClose,
       role: 'status',
@@ -80,7 +89,6 @@ const DivisionInfo = () => {
   };
 
   const closeNotification = () => {
-    handleDivisionVoteCount(null);
     api.destroy();
   };
 
@@ -95,9 +103,9 @@ const DivisionInfo = () => {
         : null;
 
     closeNotification();
-    if (selectedMenu && divisionVoteCount)
+    if (selectedMenu && divisionVoteCounts)
       setTimeout(() => openNotification(selectedDivision), 250);
-  }, [divisionVoteCount, selectedMenu]);
+  }, [divisionVoteCounts, selectedMenu]);
 
   return <>{contextHolder}</>;
 };

@@ -1,27 +1,36 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { toBN } from 'react-en-bn';
 
 import { Table, Typography, Drawer } from 'antd';
 
 import { selectDistrict } from '../../../../actions/district.js';
-import useDistrictVoteCount from '../../../../hooks/useDistrictVoteCount.js';
-
+import districtCounts from '../../../../staticData/districtInfo.json';
 import './styles.scss';
+import { selectConstituency } from '../../../../actions/constituency.js';
+import ConstituencyInfo from '../ConstituencyInfo/index.jsx';
 
 const { Text } = Typography;
 
 const columns = [
   {
-    title: 'মার্কা',
-    dataIndex: 'symbol_bn',
-    key: 'symbol_bn',
+    title: 'পুরুষ ভোট',
+    dataIndex: 'male_count',
+    key: 'male_count',
+    render: (value) => {
+      return <Text>{toBN(value)}</Text>;
+    },
+  },
+  {
+    title: 'মহিলা ভোট',
+    dataIndex: 'female_count',
+    key: 'female_count',
     render: (value) => <Text>{toBN(value)}</Text>,
   },
   {
-    title: 'ভোট সংখ্যা',
-    dataIndex: 'count',
-    key: 'count',
+    title: 'হিজড়া ভোট',
+    dataIndex: 'hijra_count',
+    key: 'hijra_count',
     render: (value) => <Text>{toBN(value)}</Text>,
   },
 ];
@@ -45,20 +54,32 @@ const Result = ({ data }) => {
 const DistrictInfo = () => {
   const dispatch = useDispatch();
 
-  const { districtVoteCount, handleDistrictVoteCount } = useDistrictVoteCount();
-
   const _selectedDistrict = useSelector((state) => state.district);
   const { selectedDistrict } = _selectedDistrict || {};
   const { seats, viewBox } = selectedDistrict || {};
+  const [selectedDistrictCount, setSelectedDistrictCount] = useState(null);
 
   const onClose = () => {
-    handleDistrictVoteCount(null);
     dispatch(
       selectDistrict({
         selectedDistrict: null,
       }),
     );
   };
+
+  const handleSelectedConstituency = (seat) => {
+    dispatch(selectConstituency({ selectedConstituency: seat }));
+  };
+
+  useEffect(() => {
+    if (selectedDistrict && selectedDistrict?.code) {
+      const data = districtCounts.filter(
+        (district) => district.zilla_code === selectedDistrict.code,
+      );
+
+      setSelectedDistrictCount(data);
+    }
+  }, [selectedDistrict]);
 
   return (
     <Drawer
@@ -84,6 +105,7 @@ const DistrictInfo = () => {
                   id={`${seat.name}`}
                   key={`${seat.name}`}
                   className={`svg__seat `}
+                  onClick={() => handleSelectedConstituency(seat)}
                 >
                   {seat.component}
                 </g>
@@ -93,8 +115,9 @@ const DistrictInfo = () => {
             <></>
           )}
         </svg>
-        <Result data={districtVoteCount || []} />
+        <Result data={selectedDistrictCount || []} />
       </>
+      <ConstituencyInfo />
     </Drawer>
   );
 };

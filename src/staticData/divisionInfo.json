@@ -1,0 +1,58 @@
+[
+  {
+    "code": 6,
+    "name": "বরিশাল",
+    "male_count": 3774265,
+    "female_count": 3648978,
+    "hijra_count": 57
+  },
+  {
+    "code": 3,
+    "name": "চট্টগ্রাম",
+    "male_count": 12303314,
+    "female_count": 11411914,
+    "hijra_count": 113
+  },
+  {
+    "code": 2,
+    "name": "ঢাকা",
+    "male_count": 14742468,
+    "female_count": 14129403,
+    "hijra_count": 2611
+  },
+  {
+    "code": 5,
+    "name": "খুলনা",
+    "male_count": 6746490,
+    "female_count": 6700206,
+    "hijra_count": 87
+  },
+  {
+    "code": 9,
+    "name": "ময়মনসিংহ",
+    "male_count": 4795764,
+    "female_count": 4754416,
+    "hijra_count": 100
+  },
+  {
+    "code": 4,
+    "name": "রাজশাহী",
+    "male_count": 7748922,
+    "female_count": 7713125,
+    "hijra_count": 103
+  },
+  {
+    "code": 8,
+    "name": "রংপুর",
+    "male_count": 6641989,
+    "female_count": 6654865,
+    "hijra_count": 98
+  },
+  {
+    "code": 7,
+    "name": "সিলেট",
+    "male_count": 3991781,
+    "female_count": 3854963,
+    "hijra_count": 40
+  }
+]
