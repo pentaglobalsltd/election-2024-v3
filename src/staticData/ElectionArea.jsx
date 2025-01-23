@@ -1327,7 +1327,5 @@ export const getElectionAreas = () => {
     };
   });
 
-  console.log(newData.map((i) => i.district.seats));
-
   return newData;
 };

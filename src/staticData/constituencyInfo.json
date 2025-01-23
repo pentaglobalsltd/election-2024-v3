@@ -1,0 +1,2402 @@
+[
+  {
+    "zilla_code": 78,
+    "settings_code": 111,
+    "settings_name": "পটুয়াখালী-১",
+    "male_count": 238432,
+    "female_count": 234815,
+    "hijra_count": 10
+  },
+  {
+    "zilla_code": 78,
+    "settings_code": 112,
+    "settings_name": "পটুয়াখালী-২",
+    "male_count": 149764,
+    "female_count": 143559,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 78,
+    "settings_code": 113,
+    "settings_name": "পটুয়াখালী-৩",
+    "male_count": 177154,
+    "female_count": 175105,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 78,
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "male_count": 146859,
+    "female_count": 143824,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 42,
+    "settings_code": 126,
+    "settings_name": "ঝালোকাঠি-২",
+    "male_count": 173900,
+    "female_count": 168253,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 42,
+    "settings_code": 125,
+    "settings_name": "ঝালোকাঠি-১",
+    "male_count": 107860,
+    "female_count": 104145,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 79,
+    "settings_code": 127,
+    "settings_name": "পিরোজপুর-১",
+    "male_count": 186304,
+    "female_count": 180733,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 79,
+    "settings_code": 128,
+    "settings_name": "পিরোজপুর-২",
+    "male_count": 192828,
+    "female_count": 191663,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 79,
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "male_count": 112967,
+    "female_count": 110474,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 9,
+    "settings_code": 115,
+    "settings_name": "ভোলা-১",
+    "male_count": 193632,
+    "female_count": 181179,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 9,
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "male_count": 190261,
+    "female_count": 175177,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 9,
+    "settings_code": 117,
+    "settings_name": "ভোলা-৩",
+    "male_count": 185556,
+    "female_count": 174258,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 9,
+    "settings_code": 118,
+    "settings_name": "ভোলা-৪",
+    "male_count": 238169,
+    "female_count": 215506,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 4,
+    "settings_code": 109,
+    "settings_name": "বরগুনা-১",
+    "male_count": 241750,
+    "female_count": 242153,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 4,
+    "settings_code": 110,
+    "settings_name": "বরগুনা-২",
+    "male_count": 157593,
+    "female_count": 159652,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 6,
+    "settings_code": 119,
+    "settings_name": "বরিশাল-১",
+    "male_count": 153756,
+    "female_count": 150547,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 6,
+    "settings_code": 120,
+    "settings_name": "বরিশাল-২",
+    "male_count": 182368,
+    "female_count": 175877,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 6,
+    "settings_code": 121,
+    "settings_name": "বরিশাল-৩",
+    "male_count": 156825,
+    "female_count": 153266,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 6,
+    "settings_code": 122,
+    "settings_name": "বরিশাল-৪",
+    "male_count": 203034,
+    "female_count": 189973,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 6,
+    "settings_code": 123,
+    "settings_name": "বরিশাল-৫",
+    "male_count": 235655,
+    "female_count": 232911,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 6,
+    "settings_code": 124,
+    "settings_name": "বরিশাল-৬",
+    "male_count": 149598,
+    "female_count": 145908,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 12,
+    "settings_code": 244,
+    "settings_name": "ব্রাক্ষণবাড়িয়া-২",
+    "male_count": 217395,
+    "female_count": 192676,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 12,
+    "settings_code": 248,
+    "settings_name": "ব্রাক্ষণবাড়িয়া-৬",
+    "male_count": 133387,
+    "female_count": 131045,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 12,
+    "settings_code": 245,
+    "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+    "male_count": 325203,
+    "female_count": 296381,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 12,
+    "settings_code": 247,
+    "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+    "male_count": 224576,
+    "female_count": 207729,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 12,
+    "settings_code": 243,
+    "settings_name": "ব্রাক্ষণবাড়িয়া-১",
+    "male_count": 133109,
+    "female_count": 119436,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 12,
+    "settings_code": 246,
+    "settings_name": "ব্রাক্ষণবাড়িয়া-৪",
+    "male_count": 207847,
+    "female_count": 194739,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 249,
+    "settings_name": "কুমিল্লা-১",
+    "male_count": 238335,
+    "female_count": 225181,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 250,
+    "settings_name": "কুমিল্লা-২",
+    "male_count": 147781,
+    "female_count": 134881,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 251,
+    "settings_name": "কুমিল্লা-৩",
+    "male_count": 233334,
+    "female_count": 219460,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 252,
+    "settings_name": "কুমিল্লা-৪",
+    "male_count": 193255,
+    "female_count": 178452,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 253,
+    "settings_name": "কুমিল্লা-৫",
+    "male_count": 226116,
+    "female_count": 210795,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 254,
+    "settings_name": "কুমিল্লা-৬",
+    "male_count": 236099,
+    "female_count": 238087,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 255,
+    "settings_name": "কুমিল্লা-৭",
+    "male_count": 155385,
+    "female_count": 147900,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 256,
+    "settings_name": "কুমিল্লা-৮",
+    "male_count": 179213,
+    "female_count": 170179,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 257,
+    "settings_name": "কুমিল্লা-৯",
+    "male_count": 229152,
+    "female_count": 214394,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 258,
+    "settings_name": "কুমিল্লা-১০",
+    "male_count": 319046,
+    "female_count": 302873,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 19,
+    "settings_code": 259,
+    "settings_name": "কুমিল্লা-১১",
+    "male_count": 192032,
+    "female_count": 184371,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 13,
+    "settings_code": 260,
+    "settings_name": "চাঁদপুর-১",
+    "male_count": 169331,
+    "female_count": 156427,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 13,
+    "settings_code": 261,
+    "settings_name": "চাঁদপুর-২",
+    "male_count": 238633,
+    "female_count": 228593,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 13,
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "male_count": 263893,
+    "female_count": 245037,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 13,
+    "settings_code": 263,
+    "settings_name": "চাঁদপুর-৪",
+    "male_count": 192768,
+    "female_count": 176361,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 13,
+    "settings_code": 264,
+    "settings_name": "চাঁদপুর-৫",
+    "male_count": 247951,
+    "female_count": 237609,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 30,
+    "settings_code": 265,
+    "settings_name": "ফেনী-১",
+    "male_count": 184938,
+    "female_count": 174370,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 30,
+    "settings_code": 266,
+    "settings_name": "ফেনী-২",
+    "male_count": 212850,
+    "female_count": 197870,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 30,
+    "settings_code": 267,
+    "settings_name": "ফেনী-৩",
+    "male_count": 245656,
+    "female_count": 230689,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 75,
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "male_count": 199401,
+    "female_count": 189924,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 75,
+    "settings_code": 269,
+    "settings_name": "নোয়াখালী-২",
+    "male_count": 185972,
+    "female_count": 174491,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 75,
+    "settings_code": 270,
+    "settings_name": "নোয়াখালী-৩",
+    "male_count": 248775,
+    "female_count": 224232,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 75,
+    "settings_code": 271,
+    "settings_name": "নোয়াখালী-৪",
+    "male_count": 355628,
+    "female_count": 323169,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 75,
+    "settings_code": 272,
+    "settings_name": "নোয়াখালী-৫",
+    "male_count": 209693,
+    "female_count": 195284,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 75,
+    "settings_code": 273,
+    "settings_name": "নোয়াখালী-৬",
+    "male_count": 166169,
+    "female_count": 148962,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 51,
+    "settings_code": 274,
+    "settings_name": "লক্ষীপুর-১",
+    "male_count": 134834,
+    "female_count": 126959,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 51,
+    "settings_code": 276,
+    "settings_name": "লক্ষীপুর-৩",
+    "male_count": 209090,
+    "female_count": 194652,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 51,
+    "settings_code": 275,
+    "settings_name": "লক্ষীপুর-২",
+    "male_count": 231889,
+    "female_count": 219535,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 51,
+    "settings_code": 277,
+    "settings_name": "লক্ষীপুর-৪",
+    "male_count": 198380,
+    "female_count": 181253,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 278,
+    "settings_name": "চট্রগ্রাম-১",
+    "male_count": 188741,
+    "female_count": 177782,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 279,
+    "settings_name": "চট্রগ্রাম-২",
+    "male_count": 239902,
+    "female_count": 216582,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 280,
+    "settings_name": "চট্রগ্রাম-৩",
+    "male_count": 123969,
+    "female_count": 117943,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 281,
+    "settings_name": "চট্রগ্রাম-৪",
+    "male_count": 224827,
+    "female_count": 202337,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 282,
+    "settings_name": "চট্রগ্রাম-৫",
+    "male_count": 245811,
+    "female_count": 229901,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 283,
+    "settings_name": "চট্রগ্রাম-৬",
+    "male_count": 166218,
+    "female_count": 150702,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 284,
+    "settings_name": "চট্রগ্রাম-৭",
+    "male_count": 165150,
+    "female_count": 147941,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 285,
+    "settings_name": "চট্রগ্রাম-৮",
+    "male_count": 262736,
+    "female_count": 252836,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "male_count": 211738,
+    "female_count": 197830,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "male_count": 247399,
+    "female_count": 238376,
+    "hijra_count": 26
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 288,
+    "settings_name": "চট্রগ্রাম-১১",
+    "male_count": 256474,
+    "female_count": 245376,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 289,
+    "settings_name": "চট্রগ্রাম-১২",
+    "male_count": 172240,
+    "female_count": 157188,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 290,
+    "settings_name": "চট্রগ্রাম-১৩",
+    "male_count": 189243,
+    "female_count": 167621,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 291,
+    "settings_name": "চট্রগ্রাম-১৪",
+    "male_count": 152557,
+    "female_count": 135735,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 292,
+    "settings_name": "চট্রগ্রাম-১৫",
+    "male_count": 244709,
+    "female_count": 213702,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 15,
+    "settings_code": 293,
+    "settings_name": "চট্রগ্রাম-১৬",
+    "male_count": 197876,
+    "female_count": 172897,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 22,
+    "settings_code": 294,
+    "settings_name": "কক্সবাজার-১",
+    "male_count": 255572,
+    "female_count": 221600,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 22,
+    "settings_code": 295,
+    "settings_name": "কক্সবাজার-২",
+    "male_count": 185254,
+    "female_count": 162873,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 22,
+    "settings_code": 296,
+    "settings_name": "কক্সবাজার-৩",
+    "male_count": 260597,
+    "female_count": 229013,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 22,
+    "settings_code": 297,
+    "settings_name": "কক্সবাজার-৪",
+    "male_count": 167141,
+    "female_count": 159828,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 46,
+    "settings_code": 298,
+    "settings_name": "খাগড়াছড়ি",
+    "male_count": 262044,
+    "female_count": 253373,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 84,
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "male_count": 247416,
+    "female_count": 227036,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 3,
+    "settings_code": 300,
+    "settings_name": "বান্দারবান",
+    "male_count": 148584,
+    "female_count": 139446,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 93,
+    "settings_code": 132,
+    "settings_name": "টাংগাইল-৩",
+    "male_count": 180490,
+    "female_count": 178881,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 93,
+    "settings_code": 136,
+    "settings_name": "টাংগাইল-৭",
+    "male_count": 180206,
+    "female_count": 178220,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 93,
+    "settings_code": 134,
+    "settings_name": "টাংগাইল-৫",
+    "male_count": 217472,
+    "female_count": 216722,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 93,
+    "settings_code": 137,
+    "settings_name": "টাংগাইল-৮",
+    "male_count": 194082,
+    "female_count": 196034,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 93,
+    "settings_code": 135,
+    "settings_name": "টাংগাইল-৬",
+    "male_count": 223171,
+    "female_count": 219250,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 93,
+    "settings_code": 131,
+    "settings_name": "টাংগাইল-২",
+    "male_count": 197796,
+    "female_count": 195196,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 93,
+    "settings_code": 133,
+    "settings_name": "টাংগাইল-৪",
+    "male_count": 178892,
+    "female_count": 175662,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 93,
+    "settings_code": 130,
+    "settings_name": "টাংগাইল-১",
+    "male_count": 204088,
+    "female_count": 208235,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 48,
+    "settings_code": 162,
+    "settings_name": "কিশোরগঞ্জ-১",
+    "male_count": 260404,
+    "female_count": 253571,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 48,
+    "settings_code": 163,
+    "settings_name": "কিশোরগঞ্জ-২",
+    "male_count": 247974,
+    "female_count": 245825,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 48,
+    "settings_code": 164,
+    "settings_name": "কিশোরগঞ্জ-৩",
+    "male_count": 212195,
+    "female_count": 201448,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 48,
+    "settings_code": 165,
+    "settings_name": "কিশোরগঞ্জ-৪",
+    "male_count": 196842,
+    "female_count": 185409,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 48,
+    "settings_code": 166,
+    "settings_name": "কিশোরগঞ্জ-৫",
+    "male_count": 170471,
+    "female_count": 160291,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 48,
+    "settings_code": 167,
+    "settings_name": "কিশোরগঞ্জ-৬",
+    "male_count": 205528,
+    "female_count": 193712,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 56,
+    "settings_code": 168,
+    "settings_name": "মানিকগঞ্জ-১",
+    "male_count": 219491,
+    "female_count": 217504,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 56,
+    "settings_code": 169,
+    "settings_name": "মানিকগঞ্জ-২",
+    "male_count": 234873,
+    "female_count": 232113,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 56,
+    "settings_code": 170,
+    "settings_name": "মানিকগঞ্জ-৩",
+    "male_count": 178544,
+    "female_count": 179915,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 59,
+    "settings_code": 172,
+    "settings_name": "মুন্সিগঞ্জ-২",
+    "male_count": 182538,
+    "female_count": 169978,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 59,
+    "settings_code": 171,
+    "settings_name": "মুন্সিগঞ্জ-১",
+    "male_count": 261845,
+    "female_count": 247140,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 59,
+    "settings_code": 173,
+    "settings_name": "মুন্সিগঞ্জ-৩",
+    "male_count": 248508,
+    "female_count": 231737,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 175,
+    "settings_name": "ঢাকা-২",
+    "male_count": 289453,
+    "female_count": 269488,
+    "hijra_count": 13
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 176,
+    "settings_name": "ঢাকা-৩",
+    "male_count": 174894,
+    "female_count": 167646,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 177,
+    "settings_name": "ঢাকা-৪",
+    "male_count": 132410,
+    "female_count": 122162,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 178,
+    "settings_name": "ঢাকা-৫",
+    "male_count": 254129,
+    "female_count": 234270,
+    "hijra_count": 2365
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 179,
+    "settings_name": "ঢাকা-৬",
+    "male_count": 147792,
+    "female_count": 133638,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 180,
+    "settings_name": "ঢাকা-৭",
+    "male_count": 180638,
+    "female_count": 162450,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 181,
+    "settings_name": "ঢাকা-৮",
+    "male_count": 148593,
+    "female_count": 122056,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 182,
+    "settings_name": "ঢাকা-৯",
+    "male_count": 228355,
+    "female_count": 221592,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 183,
+    "settings_name": "ঢাকা-১০",
+    "male_count": 173272,
+    "female_count": 151658,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 184,
+    "settings_name": "ঢাকা-১১",
+    "male_count": 217217,
+    "female_count": 209317,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 185,
+    "settings_name": "ঢাকা-১২",
+    "male_count": 175527,
+    "female_count": 157581,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 186,
+    "settings_name": "ঢাকা-১৩",
+    "male_count": 203741,
+    "female_count": 191689,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 187,
+    "settings_name": "ঢাকা-১৪",
+    "male_count": 213466,
+    "female_count": 204742,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 188,
+    "settings_name": "ঢাকা-১৫",
+    "male_count": 179548,
+    "female_count": 164955,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 189,
+    "settings_name": "ঢাকা-১৬",
+    "male_count": 195690,
+    "female_count": 192542,
+    "hijra_count": 9
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 190,
+    "settings_name": "ঢাকা-১৭",
+    "male_count": 170783,
+    "female_count": 153144,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 191,
+    "settings_name": "ঢাকা-১৮",
+    "male_count": 301870,
+    "female_count": 286673,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 192,
+    "settings_name": "ঢাকা-১৯",
+    "male_count": 389329,
+    "female_count": 367074,
+    "hijra_count": 13
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 193,
+    "settings_name": "ঢাকা-২০",
+    "male_count": 177412,
+    "female_count": 178570,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 26,
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "male_count": 259443,
+    "female_count": 254163,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 33,
+    "settings_code": 194,
+    "settings_name": "গাজীপুর-১",
+    "male_count": 349507,
+    "female_count": 346334,
+    "hijra_count": 11
+  },
+  {
+    "zilla_code": 33,
+    "settings_code": 195,
+    "settings_name": "গাজীপুর-২",
+    "male_count": 391370,
+    "female_count": 388347,
+    "hijra_count": 9
+  },
+  {
+    "zilla_code": 33,
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "male_count": 245434,
+    "female_count": 248988,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 33,
+    "settings_code": 197,
+    "settings_name": "গাজীপুর-৪",
+    "male_count": 154871,
+    "female_count": 155876,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 33,
+    "settings_code": 198,
+    "settings_name": "গাজীপুর-৫",
+    "male_count": 169101,
+    "female_count": 164472,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 68,
+    "settings_code": 199,
+    "settings_name": "নরসিংদী-১",
+    "male_count": 226740,
+    "female_count": 214689,
+    "hijra_count": 7
+  },
+  {
+    "zilla_code": 68,
+    "settings_code": 200,
+    "settings_name": "নরসিংদী-২",
+    "male_count": 137778,
+    "female_count": 131472,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 68,
+    "settings_code": 201,
+    "settings_name": "নরসিংদী-৩",
+    "male_count": 131410,
+    "female_count": 127780,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 68,
+    "settings_code": 202,
+    "settings_name": "নরসিংদী-৪",
+    "male_count": 198579,
+    "female_count": 201821,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 68,
+    "settings_code": 203,
+    "settings_name": "নরসিংদী-৫",
+    "male_count": 234096,
+    "female_count": 221187,
+    "hijra_count": 14
+  },
+  {
+    "zilla_code": 67,
+    "settings_code": 204,
+    "settings_name": "নারায়ণগঞ্জ-১",
+    "male_count": 196894,
+    "female_count": 188720,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 67,
+    "settings_code": 205,
+    "settings_name": "নারায়ণগঞ্জ-২",
+    "male_count": 168487,
+    "female_count": 159686,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 67,
+    "settings_code": 206,
+    "settings_name": "নারায়ণগঞ্জ-৩",
+    "male_count": 178149,
+    "female_count": 167489,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 67,
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "male_count": 357271,
+    "female_count": 338862,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 67,
+    "settings_code": 208,
+    "settings_name": "নারায়ণগঞ্জ-৫",
+    "male_count": 249368,
+    "female_count": 245026,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 82,
+    "settings_code": 209,
+    "settings_name": "রাজবাড়ী-১",
+    "male_count": 204260,
+    "female_count": 199915,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 82,
+    "settings_code": 210,
+    "settings_name": "রাজবাড়ী-২",
+    "male_count": 269449,
+    "female_count": 258867,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 29,
+    "settings_code": 211,
+    "settings_name": "ফরিদপুর-১",
+    "male_count": 242984,
+    "female_count": 234996,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 29,
+    "settings_code": 212,
+    "settings_name": "ফরিদপুর-২",
+    "male_count": 159788,
+    "female_count": 147779,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 29,
+    "settings_code": 213,
+    "settings_name": "ফরিদপুর-৩",
+    "male_count": 202767,
+    "female_count": 201530,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 29,
+    "settings_code": 214,
+    "settings_name": "ফরিদপুর-৪",
+    "male_count": 237056,
+    "female_count": 224785,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 35,
+    "settings_code": 215,
+    "settings_name": "গোপালগঞ্জ-১",
+    "male_count": 190353,
+    "female_count": 184469,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 35,
+    "settings_code": 216,
+    "settings_name": "গোপালগঞ্জ-২",
+    "male_count": 182270,
+    "female_count": 178359,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 35,
+    "settings_code": 217,
+    "settings_name": "গোপালগঞ্জ-৩",
+    "male_count": 148692,
+    "female_count": 141604,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 54,
+    "settings_code": 220,
+    "settings_name": "মাদারীপুর-৩",
+    "male_count": 187170,
+    "female_count": 171167,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 54,
+    "settings_code": 219,
+    "settings_name": "মাদারিপুর-২",
+    "male_count": 209018,
+    "female_count": 198456,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 54,
+    "settings_code": 218,
+    "settings_name": "মাদারিপুর-১",
+    "male_count": 157379,
+    "female_count": 143713,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 86,
+    "settings_code": 221,
+    "settings_name": "শরীয়তপুর-১",
+    "male_count": 192317,
+    "female_count": 173011,
+    "hijra_count": 11
+  },
+  {
+    "zilla_code": 86,
+    "settings_code": 222,
+    "settings_name": "শরীয়তপুর-২",
+    "male_count": 198261,
+    "female_count": 183024,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 86,
+    "settings_code": 223,
+    "settings_name": "শরীয়তপুর-৩",
+    "male_count": 162677,
+    "female_count": 154726,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 57,
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "male_count": 149556,
+    "female_count": 150481,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 57,
+    "settings_code": 74,
+    "settings_name": "মেহেরপুর-২",
+    "male_count": 127493,
+    "female_count": 128434,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 50,
+    "settings_code": 75,
+    "settings_name": "কুষ্টিয়া-১",
+    "male_count": 191223,
+    "female_count": 189064,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 50,
+    "settings_code": 76,
+    "settings_name": "কুষ্টিয়া-২",
+    "male_count": 226405,
+    "female_count": 225528,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 50,
+    "settings_code": 77,
+    "settings_name": "কুষ্টিয়া-৩",
+    "male_count": 205155,
+    "female_count": 209936,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 50,
+    "settings_code": 78,
+    "settings_name": "কুষ্টিয়া-৪",
+    "male_count": 199733,
+    "female_count": 196860,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 18,
+    "settings_code": 79,
+    "settings_name": "চুয়াডাঙ্গা-১",
+    "male_count": 241389,
+    "female_count": 242587,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 18,
+    "settings_code": 80,
+    "settings_name": "চুয়াডাঙ্গা-২",
+    "male_count": 234403,
+    "female_count": 231691,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 44,
+    "settings_code": 81,
+    "settings_name": "ঝিনাইদহ-১",
+    "male_count": 153577,
+    "female_count": 152759,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 44,
+    "settings_code": 82,
+    "settings_name": "ঝিনাইদহ-২",
+    "male_count": 237533,
+    "female_count": 238762,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 44,
+    "settings_code": 83,
+    "settings_name": "ঝিনাইদহ-৩",
+    "male_count": 203944,
+    "female_count": 199277,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 44,
+    "settings_code": 84,
+    "settings_name": "ঝিনাইদহ-৪",
+    "male_count": 159616,
+    "female_count": 156000,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 41,
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "male_count": 147576,
+    "female_count": 147114,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 41,
+    "settings_code": 86,
+    "settings_name": "যশোর-২",
+    "male_count": 229423,
+    "female_count": 227268,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 41,
+    "settings_code": 87,
+    "settings_name": "যশোর-৩",
+    "male_count": 292947,
+    "female_count": 286984,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 41,
+    "settings_code": 88,
+    "settings_name": "যশোর-৪",
+    "male_count": 216798,
+    "female_count": 217036,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 41,
+    "settings_code": 89,
+    "settings_name": "যশোর-৫",
+    "male_count": 179448,
+    "female_count": 176523,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 41,
+    "settings_code": 90,
+    "settings_name": "যশোর-৬",
+    "male_count": 109913,
+    "female_count": 108010,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 55,
+    "settings_code": 92,
+    "settings_name": "মাগুড়া-২",
+    "male_count": 197343,
+    "female_count": 190089,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 55,
+    "settings_code": 91,
+    "settings_name": "মাগুড়া-১",
+    "male_count": 200862,
+    "female_count": 199621,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 65,
+    "settings_code": 93,
+    "settings_name": "নড়াইল-১",
+    "male_count": 139010,
+    "female_count": 136393,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 65,
+    "settings_code": 94,
+    "settings_name": "নড়াইল-২",
+    "male_count": 181990,
+    "female_count": 183736,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 47,
+    "settings_code": 99,
+    "settings_name": "খুলনা-১",
+    "male_count": 144567,
+    "female_count": 145698,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 47,
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "male_count": 159270,
+    "female_count": 160941,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 47,
+    "settings_code": 101,
+    "settings_name": "খুলনা-৩",
+    "male_count": 124457,
+    "female_count": 121249,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 47,
+    "settings_code": 102,
+    "settings_name": "খুলনা-৪",
+    "male_count": 177291,
+    "female_count": 177861,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 47,
+    "settings_code": 103,
+    "settings_name": "খুলনা-৫",
+    "male_count": 190449,
+    "female_count": 192770,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 47,
+    "settings_code": 104,
+    "settings_name": "খুলনা-৬",
+    "male_count": 204049,
+    "female_count": 201266,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 87,
+    "settings_code": 105,
+    "settings_name": "সাতক্ষীরা-১",
+    "male_count": 236087,
+    "female_count": 235954,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 87,
+    "settings_code": 106,
+    "settings_name": "সাতক্ষীরা-২",
+    "male_count": 199217,
+    "female_count": 201388,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 87,
+    "settings_code": 107,
+    "settings_name": "সাতক্ষীরা-৩",
+    "male_count": 218246,
+    "female_count": 213131,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 87,
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "male_count": 223434,
+    "female_count": 218755,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 1,
+    "settings_code": 95,
+    "settings_name": "বাগেরহাট-১",
+    "male_count": 179397,
+    "female_count": 173423,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 1,
+    "settings_code": 96,
+    "settings_name": "বাগেরহাট-২",
+    "male_count": 159507,
+    "female_count": 160632,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 1,
+    "settings_code": 97,
+    "settings_name": "বাগেরহাট-৩",
+    "male_count": 127137,
+    "female_count": 127718,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 1,
+    "settings_code": 98,
+    "settings_name": "বাগেরহাট-৪",
+    "male_count": 178045,
+    "female_count": 175267,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 39,
+    "settings_code": 138,
+    "settings_name": "জামালপুর-১",
+    "male_count": 199574,
+    "female_count": 201924,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 39,
+    "settings_code": 139,
+    "settings_name": "জামালপুর-২",
+    "male_count": 134821,
+    "female_count": 130085,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 39,
+    "settings_code": 140,
+    "settings_name": "জামালপুর-৩",
+    "male_count": 253717,
+    "female_count": 248097,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 39,
+    "settings_code": 141,
+    "settings_name": "জামালপুর-৪",
+    "male_count": 143873,
+    "female_count": 145387,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 39,
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "male_count": 262182,
+    "female_count": 275397,
+    "hijra_count": 7
+  },
+  {
+    "zilla_code": 89,
+    "settings_code": 143,
+    "settings_name": "শেরপুর-১",
+    "male_count": 208788,
+    "female_count": 211365,
+    "hijra_count": 9
+  },
+  {
+    "zilla_code": 89,
+    "settings_code": 144,
+    "settings_name": "শেরপুর-২",
+    "male_count": 201505,
+    "female_count": 210190,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 89,
+    "settings_code": 145,
+    "settings_name": "শেরপুর-৩",
+    "male_count": 189402,
+    "female_count": 192994,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 146,
+    "settings_name": "ময়মনসিংহ-১",
+    "male_count": 226019,
+    "female_count": 226875,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 147,
+    "settings_name": "ময়মনসিংহ-২",
+    "male_count": 274847,
+    "female_count": 265495,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 148,
+    "settings_name": "ময়মনসিংহ-৩",
+    "male_count": 139214,
+    "female_count": 136826,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 149,
+    "settings_name": "ময়মনসিংহ-৪",
+    "male_count": 322797,
+    "female_count": 327477,
+    "hijra_count": 10
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 150,
+    "settings_name": "ময়মনসিংহ-৫",
+    "male_count": 182181,
+    "female_count": 181977,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 151,
+    "settings_name": "ময়মনসিংহ-৬",
+    "male_count": 194443,
+    "female_count": 191540,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 152,
+    "settings_name": "ময়মনসিংহ-৭",
+    "male_count": 190556,
+    "female_count": 184438,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 153,
+    "settings_name": "ময়মনসিংহ-৮",
+    "male_count": 165068,
+    "female_count": 156856,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 154,
+    "settings_name": "ময়মনসিংহ-৯",
+    "male_count": 183539,
+    "female_count": 173971,
+    "hijra_count": 7
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 155,
+    "settings_name": "ময়মনসিংহ-১০",
+    "male_count": 194616,
+    "female_count": 188328,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 61,
+    "settings_code": 156,
+    "settings_name": "ময়মনসিংহ-১১",
+    "male_count": 167307,
+    "female_count": 168686,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 72,
+    "settings_code": 157,
+    "settings_name": "নেত্রকোণা-১",
+    "male_count": 212625,
+    "female_count": 205438,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 72,
+    "settings_code": 158,
+    "settings_name": "নেত্রকোণা-২",
+    "male_count": 233768,
+    "female_count": 231138,
+    "hijra_count": 11
+  },
+  {
+    "zilla_code": 72,
+    "settings_code": 159,
+    "settings_name": "নেত্রকোণা-৩",
+    "male_count": 200317,
+    "female_count": 194187,
+    "hijra_count": 9
+  },
+  {
+    "zilla_code": 72,
+    "settings_code": 160,
+    "settings_name": "নেত্রকোণা-৪",
+    "male_count": 176688,
+    "female_count": 172964,
+    "hijra_count": 12
+  },
+  {
+    "zilla_code": 72,
+    "settings_code": 161,
+    "settings_name": "নেত্রকোণা-৫",
+    "male_count": 137917,
+    "female_count": 132781,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 38,
+    "settings_code": 34,
+    "settings_name": "জয়পুরহাট-১",
+    "male_count": 221044,
+    "female_count": 222677,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 38,
+    "settings_code": 35,
+    "settings_name": "জয়পুরহাট-২",
+    "male_count": 166590,
+    "female_count": 169381,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 10,
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "male_count": 175541,
+    "female_count": 179564,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 10,
+    "settings_code": 37,
+    "settings_name": "বগুড়া-২",
+    "male_count": 163460,
+    "female_count": 162723,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 10,
+    "settings_code": 38,
+    "settings_name": "বগুড়া-৩",
+    "male_count": 162070,
+    "female_count": 162353,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 10,
+    "settings_code": 39,
+    "settings_name": "বগুড়া-৪",
+    "male_count": 171337,
+    "female_count": 173171,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 10,
+    "settings_code": 40,
+    "settings_name": "বগুড়া-৫",
+    "male_count": 265176,
+    "female_count": 274889,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 10,
+    "settings_code": 41,
+    "settings_name": "বগুড়া-৬",
+    "male_count": 210666,
+    "female_count": 217370,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 10,
+    "settings_code": 42,
+    "settings_name": "বগুড়া-৭",
+    "male_count": 259619,
+    "female_count": 252637,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 70,
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "male_count": 223153,
+    "female_count": 220103,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 70,
+    "settings_code": 44,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-২",
+    "male_count": 214182,
+    "female_count": 216856,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 70,
+    "settings_code": 43,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-১",
+    "male_count": 241000,
+    "female_count": 230088,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 64,
+    "settings_code": 49,
+    "settings_name": "নওগাঁ-৪",
+    "male_count": 158415,
+    "female_count": 160759,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 64,
+    "settings_code": 50,
+    "settings_name": "নওগাঁ-৫",
+    "male_count": 171066,
+    "female_count": 173077,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 64,
+    "settings_code": 51,
+    "settings_name": "নওগাঁ-৬",
+    "male_count": 165786,
+    "female_count": 162183,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 64,
+    "settings_code": 48,
+    "settings_name": "নওগাঁ-৩",
+    "male_count": 209683,
+    "female_count": 211223,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 64,
+    "settings_code": 46,
+    "settings_name": "নওগাঁ-১",
+    "male_count": 223831,
+    "female_count": 227126,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 64,
+    "settings_code": 47,
+    "settings_name": "নওগাঁ-২",
+    "male_count": 177572,
+    "female_count": 178559,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 81,
+    "settings_code": 52,
+    "settings_name": "রাজশাহী-১",
+    "male_count": 219653,
+    "female_count": 220564,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 81,
+    "settings_code": 53,
+    "settings_name": "রাজশাহী-২",
+    "male_count": 171413,
+    "female_count": 181356,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 81,
+    "settings_code": 54,
+    "settings_name": "রাজশাহী-৩",
+    "male_count": 200157,
+    "female_count": 200476,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 81,
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "male_count": 153842,
+    "female_count": 152507,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 81,
+    "settings_code": 56,
+    "settings_name": "রাজশাহী-৫",
+    "male_count": 169131,
+    "female_count": 168063,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 81,
+    "settings_code": 57,
+    "settings_name": "রাজশাহী-৬",
+    "male_count": 170527,
+    "female_count": 169999,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 69,
+    "settings_code": 58,
+    "settings_name": "নাটোর-১",
+    "male_count": 174750,
+    "female_count": 174617,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 69,
+    "settings_code": 59,
+    "settings_name": "নাটোর-২",
+    "male_count": 191384,
+    "female_count": 192660,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 69,
+    "settings_code": 60,
+    "settings_name": "নাটোর-৩",
+    "male_count": 155430,
+    "female_count": 153362,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 69,
+    "settings_code": 61,
+    "settings_name": "নাটোর-৪",
+    "male_count": 209626,
+    "female_count": 210843,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 88,
+    "settings_code": 62,
+    "settings_name": "সিরাজগঞ্জ-১",
+    "male_count": 195115,
+    "female_count": 199555,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 88,
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "male_count": 202721,
+    "female_count": 201784,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 88,
+    "settings_code": 64,
+    "settings_name": "সিরাজগঞ্জ-৩",
+    "male_count": 208463,
+    "female_count": 206375,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 88,
+    "settings_code": 65,
+    "settings_name": "সিরাজগঞ্জ-৪",
+    "male_count": 227148,
+    "female_count": 216284,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 88,
+    "settings_code": 66,
+    "settings_name": "সিরাজগঞ্জ-৫",
+    "male_count": 204382,
+    "female_count": 194279,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 88,
+    "settings_code": 67,
+    "settings_name": "সিরাজগঞ্জ-৬",
+    "male_count": 231750,
+    "female_count": 224625,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 76,
+    "settings_code": 68,
+    "settings_name": "পাবনা-১",
+    "male_count": 220191,
+    "female_count": 211424,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 76,
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "male_count": 178397,
+    "female_count": 169810,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 76,
+    "settings_code": 70,
+    "settings_name": "পাবনা-৩",
+    "male_count": 228649,
+    "female_count": 228118,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 76,
+    "settings_code": 71,
+    "settings_name": "পাবনা-৪",
+    "male_count": 206799,
+    "female_count": 203428,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 76,
+    "settings_code": 72,
+    "settings_name": "পাবনা-৫",
+    "male_count": 249203,
+    "female_count": 238257,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 77,
+    "settings_code": 1,
+    "settings_name": "পঞ্চগড়-১",
+    "male_count": 219338,
+    "female_count": 217584,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 77,
+    "settings_code": 2,
+    "settings_name": "পঞ্চগড়-২",
+    "male_count": 195710,
+    "female_count": 194228,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 94,
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "male_count": 240981,
+    "female_count": 239619,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 94,
+    "settings_code": 4,
+    "settings_name": "ঠাকুরগাঁও-২",
+    "male_count": 163691,
+    "female_count": 154274,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 94,
+    "settings_code": 5,
+    "settings_name": "ঠাকুরগাঁও-৩",
+    "male_count": 174966,
+    "female_count": 169388,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 27,
+    "settings_code": 6,
+    "settings_name": "দিনাজপুর-১",
+    "male_count": 197207,
+    "female_count": 195617,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 27,
+    "settings_code": 7,
+    "settings_name": "দিনাজপুর-২",
+    "male_count": 176231,
+    "female_count": 172831,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 27,
+    "settings_code": 8,
+    "settings_name": "দিনাজপুর-৩",
+    "male_count": 194978,
+    "female_count": 197892,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 27,
+    "settings_code": 9,
+    "settings_name": "দিনাজপুর-৪",
+    "male_count": 200606,
+    "female_count": 198214,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 27,
+    "settings_code": 10,
+    "settings_name": "দিনাজপুর-৫",
+    "male_count": 225129,
+    "female_count": 225003,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 27,
+    "settings_code": 11,
+    "settings_name": "দিনাজপুর-৬",
+    "male_count": 262551,
+    "female_count": 263112,
+    "hijra_count": 11
+  },
+  {
+    "zilla_code": 73,
+    "settings_code": 15,
+    "settings_name": "নীলফামারী-৪",
+    "male_count": 213844,
+    "female_count": 212238,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 73,
+    "settings_code": 12,
+    "settings_name": "নীলফামারী-১",
+    "male_count": 216788,
+    "female_count": 212304,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 73,
+    "settings_code": 13,
+    "settings_name": "নীলফামারী-২",
+    "male_count": 179718,
+    "female_count": 179073,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 73,
+    "settings_code": 14,
+    "settings_name": "নীলফামারী-৩",
+    "male_count": 140072,
+    "female_count": 135268,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 52,
+    "settings_code": 16,
+    "settings_name": "লালমনিরহাট-১",
+    "male_count": 187407,
+    "female_count": 186219,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 52,
+    "settings_code": 17,
+    "settings_name": "লালমনিরহাট-২",
+    "male_count": 201704,
+    "female_count": 200325,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 52,
+    "settings_code": 18,
+    "settings_name": "লালমনিরহাট-৩",
+    "male_count": 143211,
+    "female_count": 142360,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 85,
+    "settings_code": 19,
+    "settings_name": "রংপুর-১",
+    "male_count": 167182,
+    "female_count": 165035,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 85,
+    "settings_code": 20,
+    "settings_name": "রংপুর-২",
+    "male_count": 179786,
+    "female_count": 177252,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 85,
+    "settings_code": 21,
+    "settings_name": "রংপুর-৩",
+    "male_count": 247391,
+    "female_count": 247375,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 85,
+    "settings_code": 22,
+    "settings_name": "রংপুর-৪",
+    "male_count": 235049,
+    "female_count": 243330,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 85,
+    "settings_code": 23,
+    "settings_name": "রংপুর-৫",
+    "male_count": 218347,
+    "female_count": 221983,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 85,
+    "settings_code": 24,
+    "settings_name": "রংপুর-৬",
+    "male_count": 164252,
+    "female_count": 165498,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 49,
+    "settings_code": 25,
+    "settings_name": "কুড়িগ্রাম-১",
+    "male_count": 263253,
+    "female_count": 265907,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 49,
+    "settings_code": 26,
+    "settings_name": "কুড়িগ্রাম-২",
+    "male_count": 280736,
+    "female_count": 286463,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 49,
+    "settings_code": 27,
+    "settings_name": "কুড়িগ্রাম-৩",
+    "male_count": 171570,
+    "female_count": 175691,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 49,
+    "settings_code": 28,
+    "settings_name": "কুড়িগ্রাম-৪",
+    "male_count": 168708,
+    "female_count": 169689,
+    "hijra_count": 9
+  },
+  {
+    "zilla_code": 32,
+    "settings_code": 29,
+    "settings_name": "গাইবান্ধা-১",
+    "male_count": 193951,
+    "female_count": 199092,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 32,
+    "settings_code": 30,
+    "settings_name": "গাইবান্ধা-২",
+    "male_count": 187213,
+    "female_count": 194750,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 32,
+    "settings_code": 31,
+    "settings_name": "গাইবান্ধা-৩",
+    "male_count": 232839,
+    "female_count": 242030,
+    "hijra_count": 7
+  },
+  {
+    "zilla_code": 32,
+    "settings_code": 32,
+    "settings_name": "গাইবান্ধা-৪",
+    "male_count": 216965,
+    "female_count": 222954,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 32,
+    "settings_code": 33,
+    "settings_name": "গাইবান্ধা-৫",
+    "male_count": 180615,
+    "female_count": 182267,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 90,
+    "settings_code": 224,
+    "settings_name": "সুনামগঞ্জ-১",
+    "male_count": 234989,
+    "female_count": 227701,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 90,
+    "settings_code": 225,
+    "settings_name": "সুনামগঞ্জ-২",
+    "male_count": 139157,
+    "female_count": 136679,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 90,
+    "settings_code": 226,
+    "settings_name": "সুনামগঞ্জ-৩",
+    "male_count": 173725,
+    "female_count": 170924,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 90,
+    "settings_code": 227,
+    "settings_name": "সুনামগঞ্জ-৪",
+    "male_count": 173366,
+    "female_count": 168461,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 90,
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "male_count": 248703,
+    "female_count": 239395,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 91,
+    "settings_code": 229,
+    "settings_name": "সিলেট-১",
+    "male_count": 330833,
+    "female_count": 303181,
+    "hijra_count": 7
+  },
+  {
+    "zilla_code": 91,
+    "settings_code": 230,
+    "settings_name": "সিলেট-২",
+    "male_count": 176147,
+    "female_count": 168582,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 91,
+    "settings_code": 231,
+    "settings_name": "সিলেট-৩",
+    "male_count": 196142,
+    "female_count": 190269,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 91,
+    "settings_code": 232,
+    "settings_name": "সিলেট-৪",
+    "male_count": 246107,
+    "female_count": 229013,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 91,
+    "settings_code": 233,
+    "settings_name": "সিলেট-৫",
+    "male_count": 205657,
+    "female_count": 196642,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 91,
+    "settings_code": 234,
+    "settings_name": "সিলেট-৬",
+    "male_count": 237509,
+    "female_count": 235239,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 58,
+    "settings_code": 235,
+    "settings_name": "মৌলভীবাজার-১",
+    "male_count": 160159,
+    "female_count": 155475,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 58,
+    "settings_code": 236,
+    "settings_name": "মৌলভীবাজার-২",
+    "male_count": 146635,
+    "female_count": 138837,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 58,
+    "settings_code": 237,
+    "settings_name": "মৌলভীবাজার-৩",
+    "male_count": 231841,
+    "female_count": 224544,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 58,
+    "settings_code": 238,
+    "settings_name": "মৌলভীবাজার-৪",
+    "male_count": 231308,
+    "female_count": 227792,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 36,
+    "settings_code": 239,
+    "settings_name": "হবিগঞ্জ-১",
+    "male_count": 217857,
+    "female_count": 213563,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 36,
+    "settings_code": 240,
+    "settings_name": "হবিগঞ্জ-২",
+    "male_count": 186146,
+    "female_count": 182188,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 36,
+    "settings_code": 241,
+    "settings_name": "হবিগঞ্জ-৩",
+    "male_count": 197616,
+    "female_count": 192055,
+    "hijra_count": 10
+  },
+  {
+    "zilla_code": 36,
+    "settings_code": 242,
+    "settings_name": "হবিগঞ্জ-৪",
+    "male_count": 257884,
+    "female_count": 254423,
+    "hijra_count": 1
+  }
+]

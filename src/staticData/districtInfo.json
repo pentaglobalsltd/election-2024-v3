@@ -1,0 +1,514 @@
+[
+  {
+    "zilla_code": 4,
+    "zilla_name": "বরগুনা",
+    "division_code": 6,
+    "male_count": 399343,
+    "female_count": 401805,
+    "hijra_count": 10
+  },
+  {
+    "zilla_code": 6,
+    "zilla_name": "বরিশাল",
+    "division_code": 6,
+    "male_count": 1081236,
+    "female_count": 1048482,
+    "hijra_count": 9
+  },
+  {
+    "zilla_code": 9,
+    "zilla_name": "ভোলা",
+    "division_code": 6,
+    "male_count": 807618,
+    "female_count": 746120,
+    "hijra_count": 14
+  },
+  {
+    "zilla_code": 42,
+    "zilla_name": "ঝালকাঠী",
+    "division_code": 6,
+    "male_count": 281760,
+    "female_count": 272398,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 78,
+    "zilla_name": "পটুয়াখালী",
+    "division_code": 6,
+    "male_count": 712209,
+    "female_count": 697303,
+    "hijra_count": 16
+  },
+  {
+    "zilla_code": 79,
+    "zilla_name": "পিরোজপুর",
+    "division_code": 6,
+    "male_count": 492099,
+    "female_count": 482870,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 3,
+    "zilla_name": "বান্দরবান",
+    "division_code": 3,
+    "male_count": 148584,
+    "female_count": 139446,
+    "hijra_count": 0
+  },
+  {
+    "zilla_code": 15,
+    "zilla_name": "চট্টগ্রাম",
+    "division_code": 3,
+    "male_count": 3289590,
+    "female_count": 3024749,
+    "hijra_count": 56
+  },
+  {
+    "zilla_code": 22,
+    "zilla_name": "কক্সবাজার",
+    "division_code": 3,
+    "male_count": 868564,
+    "female_count": 773314,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 46,
+    "zilla_name": "খাগড়াছড়ি",
+    "division_code": 3,
+    "male_count": 262044,
+    "female_count": 253373,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 84,
+    "zilla_name": "রাঙ্গামাটি",
+    "division_code": 3,
+    "male_count": 247416,
+    "female_count": 227036,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 12,
+    "zilla_name": "ব্রাহ্মণবাড়িয়া",
+    "division_code": 3,
+    "male_count": 1241517,
+    "female_count": 1142006,
+    "hijra_count": 10
+  },
+  {
+    "zilla_code": 13,
+    "zilla_name": "চাঁদপুর",
+    "division_code": 3,
+    "male_count": 1112576,
+    "female_count": 1044027,
+    "hijra_count": 6
+  },
+  {
+    "zilla_code": 30,
+    "zilla_name": "ফেনী",
+    "division_code": 3,
+    "male_count": 643444,
+    "female_count": 602929,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 75,
+    "zilla_name": "নোয়াখালী",
+    "division_code": 3,
+    "male_count": 1365638,
+    "female_count": 1256062,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 51,
+    "zilla_name": "লক্ষ্মীপুর",
+    "division_code": 3,
+    "male_count": 774193,
+    "female_count": 722399,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 19,
+    "zilla_name": "কুমিল্লা",
+    "division_code": 3,
+    "male_count": 2349748,
+    "female_count": 2226573,
+    "hijra_count": 24
+  },
+  {
+    "zilla_code": 77,
+    "zilla_name": "পঞ্চগড়",
+    "division_code": 8,
+    "male_count": 415048,
+    "female_count": 411812,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 94,
+    "zilla_name": "ঠাকুরগাঁও",
+    "division_code": 8,
+    "male_count": 579638,
+    "female_count": 563281,
+    "hijra_count": 4
+  },
+  {
+    "zilla_code": 27,
+    "zilla_name": "দিনাজপুর",
+    "division_code": 8,
+    "male_count": 1256702,
+    "female_count": 1252669,
+    "hijra_count": 20
+  },
+  {
+    "zilla_code": 73,
+    "zilla_name": "নীলফামারী",
+    "division_code": 8,
+    "male_count": 750422,
+    "female_count": 738883,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 52,
+    "zilla_name": "লালমনিরহাট",
+    "division_code": 8,
+    "male_count": 532322,
+    "female_count": 528904,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 85,
+    "zilla_name": "রংপুর",
+    "division_code": 8,
+    "male_count": 1212007,
+    "female_count": 1220473,
+    "hijra_count": 24
+  },
+  {
+    "zilla_code": 49,
+    "zilla_name": "কুড়িগ্রাম",
+    "division_code": 8,
+    "male_count": 884267,
+    "female_count": 897750,
+    "hijra_count": 15
+  },
+  {
+    "zilla_code": 32,
+    "zilla_name": "গাইবান্ধা",
+    "division_code": 8,
+    "male_count": 1011583,
+    "female_count": 1041093,
+    "hijra_count": 21
+  },
+  {
+    "zilla_code": 38,
+    "zilla_name": "জয়পুরহাট",
+    "division_code": 4,
+    "male_count": 387634,
+    "female_count": 392058,
+    "hijra_count": 7
+  },
+  {
+    "zilla_code": 10,
+    "zilla_name": "বগুড়া",
+    "division_code": 4,
+    "male_count": 1407869,
+    "female_count": 1422707,
+    "hijra_count": 26
+  },
+  {
+    "zilla_code": 70,
+    "zilla_name": "চাঁপাইনবাবগঞ্জ",
+    "division_code": 4,
+    "male_count": 678335,
+    "female_count": 667047,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 64,
+    "zilla_name": "নওগাঁ",
+    "division_code": 4,
+    "male_count": 1106353,
+    "female_count": 1112927,
+    "hijra_count": 10
+  },
+  {
+    "zilla_code": 81,
+    "zilla_name": "রাজশাহী",
+    "division_code": 4,
+    "male_count": 1084723,
+    "female_count": 1092965,
+    "hijra_count": 18
+  },
+  {
+    "zilla_code": 69,
+    "zilla_name": "নাটোর",
+    "division_code": 4,
+    "male_count": 731190,
+    "female_count": 731482,
+    "hijra_count": 10
+  },
+  {
+    "zilla_code": 88,
+    "zilla_name": "সিরাজগঞ্জ",
+    "division_code": 4,
+    "male_count": 1269579,
+    "female_count": 1242902,
+    "hijra_count": 19
+  },
+  {
+    "zilla_code": 76,
+    "zilla_name": "পাবনা",
+    "division_code": 4,
+    "male_count": 1083239,
+    "female_count": 1051037,
+    "hijra_count": 12
+  },
+  {
+    "zilla_code": 57,
+    "zilla_name": "মেহেরপুর",
+    "division_code": 5,
+    "male_count": 277049,
+    "female_count": 278915,
+    "hijra_count": 2
+  },
+  {
+    "zilla_code": 50,
+    "zilla_name": "কুষ্টিয়া",
+    "division_code": 5,
+    "male_count": 822516,
+    "female_count": 821388,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 18,
+    "zilla_name": "চুয়াডাঙ্গা",
+    "division_code": 5,
+    "male_count": 475792,
+    "female_count": 474278,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 44,
+    "zilla_name": "ঝিনাইদহ",
+    "division_code": 5,
+    "male_count": 754670,
+    "female_count": 746798,
+    "hijra_count": 12
+  },
+  {
+    "zilla_code": 41,
+    "zilla_name": "যশোর",
+    "division_code": 5,
+    "male_count": 1176105,
+    "female_count": 1162935,
+    "hijra_count": 15
+  },
+  {
+    "zilla_code": 55,
+    "zilla_name": "মাগুরা",
+    "division_code": 5,
+    "male_count": 398205,
+    "female_count": 389710,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 65,
+    "zilla_name": "নড়াইল",
+    "division_code": 5,
+    "male_count": 321000,
+    "female_count": 320129,
+    "hijra_count": 3
+  },
+  {
+    "zilla_code": 1,
+    "zilla_name": "বাগেরহাট",
+    "division_code": 5,
+    "male_count": 644086,
+    "female_count": 637040,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 47,
+    "zilla_name": "খুলনা",
+    "division_code": 5,
+    "male_count": 1000083,
+    "female_count": 999785,
+    "hijra_count": 14
+  },
+  {
+    "zilla_code": 87,
+    "zilla_name": "সাতক্ষীরা",
+    "division_code": 5,
+    "male_count": 876984,
+    "female_count": 869228,
+    "hijra_count": 12
+  },
+  {
+    "zilla_code": 93,
+    "zilla_name": "টাঙ্গাইল",
+    "division_code": 2,
+    "male_count": 1576197,
+    "female_count": 1568200,
+    "hijra_count": 20
+  },
+  {
+    "zilla_code": 39,
+    "zilla_name": "জামালপুর",
+    "division_code": 9,
+    "male_count": 994167,
+    "female_count": 1000890,
+    "hijra_count": 15
+  },
+  {
+    "zilla_code": 89,
+    "zilla_name": "শেরপুর",
+    "division_code": 9,
+    "male_count": 599695,
+    "female_count": 614549,
+    "hijra_count": 13
+  },
+  {
+    "zilla_code": 61,
+    "zilla_name": "ময়মনসিংহ",
+    "division_code": 9,
+    "male_count": 2240587,
+    "female_count": 2202469,
+    "hijra_count": 35
+  },
+  {
+    "zilla_code": 72,
+    "zilla_name": "নেত্রকোনা",
+    "division_code": 9,
+    "male_count": 961315,
+    "female_count": 936508,
+    "hijra_count": 37
+  },
+  {
+    "zilla_code": 48,
+    "zilla_name": "কিশোরগঞ্জ",
+    "division_code": 2,
+    "male_count": 1293414,
+    "female_count": 1240256,
+    "hijra_count": 15
+  },
+  {
+    "zilla_code": 56,
+    "zilla_name": "মানিকগঞ্জ",
+    "division_code": 2,
+    "male_count": 632908,
+    "female_count": 629532,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 59,
+    "zilla_name": "মুন্সীগঞ্জ",
+    "division_code": 2,
+    "male_count": 692891,
+    "female_count": 648855,
+    "hijra_count": 1
+  },
+  {
+    "zilla_code": 33,
+    "zilla_name": "গাজীপুর",
+    "division_code": 2,
+    "male_count": 1310283,
+    "female_count": 1304017,
+    "hijra_count": 27
+  },
+  {
+    "zilla_code": 68,
+    "zilla_name": "নরসিংদী",
+    "division_code": 2,
+    "male_count": 928603,
+    "female_count": 896949,
+    "hijra_count": 27
+  },
+  {
+    "zilla_code": 67,
+    "zilla_name": "নারায়ণগঞ্জ",
+    "division_code": 2,
+    "male_count": 1150169,
+    "female_count": 1099783,
+    "hijra_count": 17
+  },
+  {
+    "zilla_code": 26,
+    "zilla_name": "ঢাকা",
+    "division_code": 2,
+    "male_count": 4213562,
+    "female_count": 3945410,
+    "hijra_count": 2450
+  },
+  {
+    "zilla_code": 35,
+    "zilla_name": "গোপালগঞ্জ",
+    "division_code": 2,
+    "male_count": 521315,
+    "female_count": 504432,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 54,
+    "zilla_name": "মাদারীপুর",
+    "division_code": 2,
+    "male_count": 553567,
+    "female_count": 513336,
+    "hijra_count": 12
+  },
+  {
+    "zilla_code": 86,
+    "zilla_name": "শরিয়তপুর",
+    "division_code": 2,
+    "male_count": 553255,
+    "female_count": 510761,
+    "hijra_count": 15
+  },
+  {
+    "zilla_code": 82,
+    "zilla_name": "রাজবাড়ী",
+    "division_code": 2,
+    "male_count": 473709,
+    "female_count": 458782,
+    "hijra_count": 9
+  },
+  {
+    "zilla_code": 29,
+    "zilla_name": "ফরিদপুর",
+    "division_code": 2,
+    "male_count": 842595,
+    "female_count": 809090,
+    "hijra_count": 8
+  },
+  {
+    "zilla_code": 90,
+    "zilla_name": "সুনামগঞ্জ",
+    "division_code": 7,
+    "male_count": 969940,
+    "female_count": 943160,
+    "hijra_count": 12
+  },
+  {
+    "zilla_code": 91,
+    "zilla_name": "সিলেট",
+    "division_code": 7,
+    "male_count": 1392395,
+    "female_count": 1322926,
+    "hijra_count": 10
+  },
+  {
+    "zilla_code": 58,
+    "zilla_name": "মৌলভীবাজার",
+    "division_code": 7,
+    "male_count": 769943,
+    "female_count": 746648,
+    "hijra_count": 5
+  },
+  {
+    "zilla_code": 36,
+    "zilla_name": "হবিগঞ্জ",
+    "division_code": 7,
+    "male_count": 859503,
+    "female_count": 842229,
+    "hijra_count": 13
+  }
+]
