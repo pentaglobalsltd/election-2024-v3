@@ -1310,8 +1310,6 @@ export const getElectionAreas = () => {
               ? _constituencys[0]
               : { ashon_name: '', ashon_id: '' };
 
-          // console.log(constituencys);
-
           return {
             name: `${area.name}-${convertToBanglaNumber[index + 1]}`,
             code: constituency.ashon_id, // You need to provide the code for the seat

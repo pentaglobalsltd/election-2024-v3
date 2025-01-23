@@ -1,0 +1,1332 @@
+[
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০১নং আরডিএন মডেল সরকারি প্রাথমিক বিদ্যালয়, দেয়াড়া",
+        "male_count": 3193,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.88504,
+        "longitude": 89.52693
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০১নং আর,বি আজগড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1386,
+        "female_count": 1392,
+        "hijra_count": 0,
+        "latitude": 22.85442,
+        "longitude": 89.6201
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০২নং আনন্দনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 966,
+        "female_count": 986,
+        "hijra_count": 0,
+        "latitude": 22.85537,
+        "longitude": 89.6594
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০৩নং সুগন্ধি সরকারি প্রাথমিক বিদ্যালয়, সুগন্ধি",
+        "male_count": 882,
+        "female_count": 918,
+        "hijra_count": 0,
+        "latitude": 22.87781,
+        "longitude": 89.53498
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০৪নং ফরমাইশখানা সরকারি প্রাথমিক বিদ্যালয়, ফরমাইশখানা",
+        "male_count": 1313,
+        "female_count": 1366,
+        "hijra_count": 0,
+        "latitude": 22.87252,
+        "longitude": 89.53495
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০৫নং পানিগাতী সরকারি প্রাথমিক বিদ্যালয়, পানিগাতী",
+        "male_count": 1906,
+        "female_count": 1873,
+        "hijra_count": 0,
+        "latitude": 22.88798,
+        "longitude": 89.55324
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০৬নং ব্রহ্মগাতী সরকারি প্রাথমিক বিদ্যালয়, ব্রহ্মগাতী",
+        "male_count": 1653,
+        "female_count": 1627,
+        "hijra_count": 0,
+        "latitude": 22.89037,
+        "longitude": 89.5434
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০৭নং দিঘলিয়া দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়, দিঘলিয়া",
+        "male_count": 0,
+        "female_count": 4159,
+        "hijra_count": 0,
+        "latitude": 22.88758,
+        "longitude": 89.53547
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "০৮নং পূর্ব বারাসাত সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1236,
+        "female_count": 1219,
+        "hijra_count": 0,
+        "latitude": 22.94906,
+        "longitude": 89.63467
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১০নং পশ্চিম কাটেংগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1257,
+        "female_count": 1203,
+        "hijra_count": 0,
+        "latitude": 22.9403,
+        "longitude": 89.6514
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১১নং চন্দনীমহল দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়, চন্দনীমহল",
+        "male_count": 0,
+        "female_count": 1833,
+        "hijra_count": 0,
+        "latitude": 22.85481,
+        "longitude": 89.55787
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১২নং চন্দনীমহল সরকারি প্রাথমিক বিদ্যালয়, চন্দনীমহল",
+        "male_count": 0,
+        "female_count": 1572,
+        "hijra_count": 0,
+        "latitude": 22.86182,
+        "longitude": 89.558
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১৩নং চন্দনীমহল শিল্প সরকারি প্রাথমিক বিদ্যালয়, চন্দনীমহল",
+        "male_count": 2573,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.87053,
+        "longitude": 89.55611
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১৪নং বাতিভিটা সরকারি প্রাথমিক বিদ্যালয়, বাতিভিটা",
+        "male_count": 855,
+        "female_count": 857,
+        "hijra_count": 0,
+        "latitude": 22.87725,
+        "longitude": 89.56454
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১৫নং হাজীগ্রাম সরকারি প্রাথমিক বিদ্যালয়, হাজীগ্রাম",
+        "male_count": 3100,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.88695,
+        "longitude": 89.56121
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১৬নং কালীনগর সীতারামপুর  সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1559,
+        "female_count": 1521,
+        "hijra_count": 0,
+        "latitude": 22.87392,
+        "longitude": 89.63997
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১৬ নং বারাকপুর সরকারি প্রাথমিক বিদ্যালয় বারাকপুর",
+        "male_count": 1489,
+        "female_count": 1519,
+        "hijra_count": 0,
+        "latitude": 22.91574,
+        "longitude": 89.52106
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১৮নং নেবুদিয়া জুনারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1921,
+        "female_count": 1966,
+        "hijra_count": 1,
+        "latitude": 22.90966,
+        "longitude": 89.66629
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "১৯ নং আড়ুয়া সরকারি প্রাথমিক বিদ্যালয় আড়ুয়া",
+        "male_count": 652,
+        "female_count": 670,
+        "hijra_count": 0,
+        "latitude": 22.88758,
+        "longitude": 89.53545
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২০নং কুমিরডাংগা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1313,
+        "female_count": 1320,
+        "hijra_count": 0,
+        "latitude": 22.89528,
+        "longitude": 89.67817
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২১নং কামারগাতী পূর্ব সরকারি প্রাথমিক বিদ্যালয় কামারগাতী",
+        "male_count": 777,
+        "female_count": 717,
+        "hijra_count": 0,
+        "latitude": 22.91805,
+        "longitude": 89.56893
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২২নং ইছামতি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1741,
+        "female_count": 1713,
+        "hijra_count": 0,
+        "latitude": 22.88785,
+        "longitude": 89.69306
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২৩ নং লাখোহাটি পূর্ব সরকারি প্রাথমিক বিদ্যালয় লাখোহাটি",
+        "male_count": 0,
+        "female_count": 3485,
+        "hijra_count": 0,
+        "latitude": 22.92486,
+        "longitude": 89.54829
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২৫নং দক্ষিণ কুশলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1743,
+        "female_count": 1770,
+        "hijra_count": 0,
+        "latitude": 22.89487,
+        "longitude": 89.71865
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২৬ নং মোল্যাডাঙ্গা সরকারি প্রাথমিক বিদ্যালয় মোল্যাডাঙ্গা",
+        "male_count": 988,
+        "female_count": 864,
+        "hijra_count": 0,
+        "latitude": 22.88759,
+        "longitude": 89.53544
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২৭নং উত্তর কুশলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1274,
+        "female_count": 1197,
+        "hijra_count": 0,
+        "latitude": 22.90906,
+        "longitude": 89.72327
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২৭ নং মাঝিরগাতী সরকারি প্রাথমিক বিদ্যালয় মাঝিরগাতী",
+        "male_count": 1401,
+        "female_count": 1287,
+        "hijra_count": 0,
+        "latitude": 22.94045,
+        "longitude": 89.57679
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২৮ নং আমবাড়িয়া সরকারি প্রাথমিক বিদ্যালয় আমবাড়িয়া",
+        "male_count": 836,
+        "female_count": 827,
+        "hijra_count": 0,
+        "latitude": 22.95523,
+        "longitude": 89.57332
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২৯ নং ডোমরা সরকারি প্রাথমিক বিদ্যালয় ডোমরা",
+        "male_count": 1053,
+        "female_count": 1021,
+        "hijra_count": 0,
+        "latitude": 22.97341,
+        "longitude": 89.56489
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "২৯নং নাচুনিয়া জুনারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1380,
+        "female_count": 1324,
+        "hijra_count": 0,
+        "latitude": 22.92075,
+        "longitude": 89.67605
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৩০নং পাতলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1497,
+        "female_count": 1400,
+        "hijra_count": 0,
+        "latitude": 22.92469,
+        "longitude": 89.7172
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৩২নং মহিষদিয়া সরকারি প্রাথমিক বিদ্যালয় মহিষদিয়া",
+        "male_count": 1080,
+        "female_count": 1038,
+        "hijra_count": 0,
+        "latitude": 22.97591,
+        "longitude": 89.58658
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৩৩নং উত্তর মোকামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1292,
+        "female_count": 1216,
+        "hijra_count": 0,
+        "latitude": 22.876,
+        "longitude": 89.57245
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৩৩ নং বামনডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়, বামনডাঙ্গা",
+        "male_count": 913,
+        "female_count": 847,
+        "hijra_count": 0,
+        "latitude": 22.9559,
+        "longitude": 89.60539
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৩৪নং প্রতিভাময়ী সরকারি প্রাথমিক বিদ্যালয়, সেনহাটি",
+        "male_count": 0,
+        "female_count": 3228,
+        "hijra_count": 0,
+        "latitude": 22.87782,
+        "longitude": 89.54691
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৩৮নং তেরখাদা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1712,
+        "female_count": 1725,
+        "hijra_count": 0,
+        "latitude": 22.93582,
+        "longitude": 89.67222
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৩৯নং জয়সেনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1219,
+        "female_count": 1247,
+        "hijra_count": 0,
+        "latitude": 22.95266,
+        "longitude": 89.66555
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৪০নং রামমাঝি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1080,
+        "female_count": 963,
+        "hijra_count": 0,
+        "latitude": 22.96542,
+        "longitude": 89.66245
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৪১নং পানতিতা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 782,
+        "female_count": 744,
+        "hijra_count": 0,
+        "latitude": 22.94294,
+        "longitude": 89.64874
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৪৪ নং জুঙ্গুশিয়া-২ সরকারি প্রাথমিক বিদ্যালয় জুঙ্গুশিয়া",
+        "male_count": 688,
+        "female_count": 638,
+        "hijra_count": 0,
+        "latitude": 22.98149,
+        "longitude": 89.57499
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৪৭নং মধুপুর শ্যামনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1263,
+        "female_count": 1194,
+        "hijra_count": 0,
+        "latitude": 22.90612,
+        "longitude": 89.57025
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৪৯নং লস্করপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1230,
+        "female_count": 1180,
+        "hijra_count": 0,
+        "latitude": 22.88029,
+        "longitude": 89.57024
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৫০নং মোকামপুর মল্লিকপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1746,
+        "female_count": 1751,
+        "hijra_count": 0,
+        "latitude": 22.86959,
+        "longitude": 89.57469
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৫৪নং পারহাজীগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1380,
+        "female_count": 1291,
+        "hijra_count": 0,
+        "latitude": 22.88546,
+        "longitude": 89.57918
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৬২নং উপজেলা সদর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1384,
+        "female_count": 1448,
+        "hijra_count": 0,
+        "latitude": 22.93498,
+        "longitude": 89.66742
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "৯নং সেনহাটি সরকারি প্রাথমিক বিদ্যালয়, সেনহাটি",
+        "male_count": 0,
+        "female_count": 2720,
+        "hijra_count": 0,
+        "latitude": 22.87143,
+        "longitude": 89.53885
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আজগড়া আদর্শ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 990,
+        "female_count": 1025,
+        "hijra_count": 0,
+        "latitude": 22.83721,
+        "longitude": 89.61495
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আজগড়া উচ্চ বিদ্যালয় তৎসংলগ্ন আজগড়া সরকারি প্রাথমিক বিদ্যালয়, হোসেনপুর।",
+        "male_count": 1039,
+        "female_count": 1060,
+        "hijra_count": 0,
+        "latitude": 22.82789,
+        "longitude": 89.60926
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আটলিয়া সিদ্দিকীয়া আলিম মাদ্রাসা",
+        "male_count": 1252,
+        "female_count": 1203,
+        "hijra_count": 0,
+        "latitude": 22.96277,
+        "longitude": 89.6703
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আদর্শ শিক্ষা নিকেতন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1271,
+        "female_count": 1283,
+        "hijra_count": 0,
+        "latitude": 22.96652,
+        "longitude": 89.74371
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আনন্দনগর আদর্শ মাধমিক বিদ্যালয় (তৃতীয় তলা ও চতুর্থ তলা), আনন্দনগর । ",
+        "male_count": 2153,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.84674,
+        "longitude": 89.65131
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আনন্দনগর আদর্শ মাধমিক বিদ্যালয় (নিচ তলা ও দ্বিতীয় তলা), আনন্দনগর ।",
+        "male_count": 0,
+        "female_count": 2108,
+        "hijra_count": 0,
+        "latitude": 22.83865,
+        "longitude": 89.65099
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আমদাবাদ সরকারি প্রাথমিক বিদ্যালয়, আমদাবাদ।",
+        "male_count": 818,
+        "female_count": 852,
+        "hijra_count": 0,
+        "latitude": 22.78452,
+        "longitude": 89.61234
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আলহাজ্ব মকবুল হোসেন নিম্ন মাধ্যমিক বিদ্যালয়, চন্দনীমহল",
+        "male_count": 0,
+        "female_count": 2628,
+        "hijra_count": 0,
+        "latitude": 22.87037,
+        "longitude": 89.556
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "আলাইপুর কলেজ, আলাইপুর।",
+        "male_count": 2072,
+        "female_count": 1977,
+        "hijra_count": 0,
+        "latitude": 22.81274,
+        "longitude": 89.63831
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "ইন্দুহাটি নেপালচন্দ্র মাধ্যমিক বিদ্যালয়",
+        "male_count": 1784,
+        "female_count": 1704,
+        "hijra_count": 0,
+        "latitude": 22.92719,
+        "longitude": 89.72808
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "ইলাইপুর সরকারি প্রাথমিক বিদ্যালয়, ইলাইপুর।",
+        "male_count": 1472,
+        "female_count": 1537,
+        "hijra_count": 0,
+        "latitude": 22.79395,
+        "longitude": 89.6092
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "উত্তর খাজাডাংগা সরকারি প্রাথমিক বিদ্যালয়, উত্তর খাজাডাংগা।",
+        "male_count": 781,
+        "female_count": 785,
+        "hijra_count": 0,
+        "latitude": 22.77673,
+        "longitude": 89.64651
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "উত্তর খুলনা এস,এম,এ মজিদ স্মারক মাধ্যমিক বিদ্যালয়",
+        "male_count": 1387,
+        "female_count": 1312,
+        "hijra_count": 0,
+        "latitude": 22.95549,
+        "longitude": 89.62027
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "এন, এন, এস, কে মহিলা দাখিল মাদ্রাসা, শ্রীরামপুর। ",
+        "male_count": 2445,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.80838,
+        "longitude": 89.60872
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "এ্যাপেক্স মাধ্যমিক বালিকা বিদ্যালয়, চন্দনীমহল",
+        "male_count": 1852,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.86085,
+        "longitude": 89.55562
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "কাজদিয়া মডেল সরকারি প্রাথমিক বিদ্যালয়, কাজদিয়া। ",
+        "male_count": 1690,
+        "female_count": 1707,
+        "hijra_count": 0,
+        "latitude": 22.79885,
+        "longitude": 89.64314
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "কোলা পাটগাতী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1925,
+        "female_count": 1801,
+        "hijra_count": 0,
+        "latitude": 22.91618,
+        "longitude": 89.57582
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "খাদিজাতুল কোবরা (রাঃ) মহিলা দাখিল মাদ্রাসা",
+        "male_count": 1709,
+        "female_count": 1661,
+        "hijra_count": 0,
+        "latitude": 22.86577,
+        "longitude": 89.65758
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "খানবাহাদুর সরকারি প্রাথমিক বিদ্যালয়, দেয়াড়া।",
+        "male_count": 0,
+        "female_count": 2229,
+        "hijra_count": 0,
+        "latitude": 22.82486,
+        "longitude": 89.57528
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "গাজী মেমোরিয়াল মাধ্যমিক বিদ্যালয় (নতুন ভবন), রহিমনগর।",
+        "male_count": 0,
+        "female_count": 2514,
+        "hijra_count": 0,
+        "latitude": 22.81218,
+        "longitude": 89.58323
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "গাজী মেমোরিয়াল মাধ্যমিক বিদ্যালয় (পুরাতন ভবন)(দোতলা), রহিমনগর।",
+        "male_count": 2304,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.81205,
+        "longitude": 89.58316
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "গিলাতলা সরকারি প্রাথমিক বিদ্যালয়, গিলাতলা। ",
+        "male_count": 670,
+        "female_count": 668,
+        "hijra_count": 0,
+        "latitude": 22.79363,
+        "longitude": 89.6618
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "চাঁদপুর দাখিল মাদ্রাসা, চাঁদপুর ।",
+        "male_count": 1382,
+        "female_count": 1400,
+        "hijra_count": 0,
+        "latitude": 22.87869,
+        "longitude": 89.67771
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "ছাগলাদাহ ইউনিয়ন আদিলউদ্দিন স্মরনিক মাধ্যমিক বিদ্যালয়",
+        "male_count": 1287,
+        "female_count": 1235,
+        "hijra_count": 0,
+        "latitude": 22.8945,
+        "longitude": 89.68773
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "জাবুসা সরকারি প্রাথমিক বিদ্যালয় , জাবুসা।",
+        "male_count": 2453,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.76458,
+        "longitude": 89.60336
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "জে এম এম সরকারি প্রাথমিক বিদ্যালয়, জোয়ার",
+        "male_count": 698,
+        "female_count": 754,
+        "hijra_count": 0,
+        "latitude": 22.8413,
+        "longitude": 89.58554
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "জে, কে ,এস মাধ্যমিক বালিকা বিদ্যালয়, শিরগাতী।",
+        "male_count": 2381,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.83684,
+        "longitude": 89.57196
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "জে, কে ,এস সরকারি প্রাথমিক বিদ্যালয়, শিরগাতী।",
+        "male_count": 0,
+        "female_count": 2217,
+        "hijra_count": 0,
+        "latitude": 22.82469,
+        "longitude": 89.5752
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "জে, বি, এম মাধ্যমিক বিদ্যালয় (নতুন ভবন), মৈশাঘূণী",
+        "male_count": 0,
+        "female_count": 2570,
+        "hijra_count": 0,
+        "latitude": 22.84255,
+        "longitude": 89.59243
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "জে, বি, এম মাধ্যমিক বিদ্যালয় (পুরাতন ভবন), মৈশাঘূণী",
+        "male_count": 2515,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.84252,
+        "longitude": 89.59257
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "ডোবা মাধ্যমিক বিদ্যালয়, ডোবা।",
+        "male_count": 1214,
+        "female_count": 1231,
+        "hijra_count": 0,
+        "latitude": 22.84114,
+        "longitude": 89.66077
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "ডোবা সরকারি প্রাথমিক বিদ্যালয়, ডোবা।",
+        "male_count": 1052,
+        "female_count": 961,
+        "hijra_count": 0,
+        "latitude": 22.84135,
+        "longitude": 89.66052
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "তিলক সরকারি প্রাথমিক বিদ্যালয়, তিলক।",
+        "male_count": 1781,
+        "female_count": 1829,
+        "hijra_count": 0,
+        "latitude": 22.77815,
+        "longitude": 89.62267
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "থানা আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1691,
+        "female_count": 1595,
+        "hijra_count": 0,
+        "latitude": 22.98,
+        "longitude": 89.69046
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "দ ক্ষিণ খাজাডাংগা সরকারি প্রাথমিক বিদ্যালয় ও তৎসংলগ্ন খাজাডাংগা গুলবাগ হাফিজিয়া মাদ্রাসা, দক্ষিণ খাজাডাংগা।",
+        "male_count": 836,
+        "female_count": 858,
+        "hijra_count": 0,
+        "latitude": 22.76243,
+        "longitude": 89.64995
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "দুর্জ্জনিমহল সরকারি প্রাথমিক বিদ্যালয়, দুর্জ্জনিমহল",
+        "male_count": 3441,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.83372,
+        "longitude": 89.56151
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "দেয়াড়া পূর্বপাড়া সরকারি প্রাথমিক বিদ্যালয়, দেয়াড়া",
+        "male_count": 0,
+        "female_count": 3423,
+        "hijra_count": 0,
+        "latitude": 22.8824,
+        "longitude": 89.53361
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "দেয়াড়া রাজাপুর সরকারি প্রাথমিক বিদ্যালয়, দেয়াড়া।",
+        "male_count": 3159,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.82239,
+        "longitude": 89.56871
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "নন্দনপুর দাখিল মাদ্রাসা, নন্দনপুর।",
+        "male_count": 1492,
+        "female_count": 1554,
+        "hijra_count": 0,
+        "latitude": 22.8218,
+        "longitude": 89.58994
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "নন্দনপ্রতাপ মাধ্যমিক বিদ্যালয় নন্দনপ্রতাপ",
+        "male_count": 747,
+        "female_count": 750,
+        "hijra_count": 0,
+        "latitude": 22.93992,
+        "longitude": 89.52846
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "নবীনগর ইসলামিক মিশন মাধ্যমিক বিদ্যালয়, জাবুসা।",
+        "male_count": 0,
+        "female_count": 2410,
+        "hijra_count": 0,
+        "latitude": 22.76452,
+        "longitude": 89.60317
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "নলিয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1674,
+        "female_count": 1586,
+        "hijra_count": 0,
+        "latitude": 22.97311,
+        "longitude": 89.73152
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "নারিকেলী চাদপুর সরকারি প্রাথমিক বিদ্যালয়, নারিকেলী চাদপুর।",
+        "male_count": 1520,
+        "female_count": 1431,
+        "hijra_count": 0,
+        "latitude": 22.80565,
+        "longitude": 89.65853
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "নৈহাটি মাধ্যমিক বিদ্যালয়, নৈহাটি।",
+        "male_count": 0,
+        "female_count": 3208,
+        "hijra_count": 0,
+        "latitude": 22.79897,
+        "longitude": 89.61399
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "নৈহাটি সরকারি প্রাথমিক বিদ্যালয়, নৈহাটি।",
+        "male_count": 3046,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.79869,
+        "longitude": 89.61393
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "পাথরঘাটা এ এইচ এস মাধমিক বিদ্যালয়, পাথরঘাটা, পাথরঘাটা।",
+        "male_count": 604,
+        "female_count": 615,
+        "hijra_count": 0,
+        "latitude": 22.78079,
+        "longitude": 89.63614
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "পানতিতা শেখপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 909,
+        "female_count": 842,
+        "hijra_count": 0,
+        "latitude": 22.96144,
+        "longitude": 89.652
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "পিঠাভোগ ডি, জি, সি মাধ্যামিক বিদ্যালয়, পিঠাভোগ।",
+        "male_count": 1710,
+        "female_count": 1797,
+        "hijra_count": 0,
+        "latitude": 22.81767,
+        "longitude": 89.64613
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "পূর্ব আমবাড়িয়া সরকারি প্রাথমিক বিদ্যালয় আমবাড়িয়া",
+        "male_count": 1264,
+        "female_count": 1152,
+        "hijra_count": 0,
+        "latitude": 22.95295,
+        "longitude": 89.57072
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "পূর্ব সেনহাটি সরকারি প্রাথমিক বিদ্যালয়, সেনহাটি",
+        "male_count": 1666,
+        "female_count": 1660,
+        "hijra_count": 0,
+        "latitude": 22.87409,
+        "longitude": 89.55175
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "বাগমারা দক্ষিণ পাড়া সরকারি প্রাথমিক বিদ্যালয়, বাগমারা।",
+        "male_count": 1547,
+        "female_count": 1619,
+        "hijra_count": 0,
+        "latitude": 22.79572,
+        "longitude": 89.58825
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "বাগমারা সরকারি প্রাথমিক বিদ্যালয়, বাগমারা।",
+        "male_count": 961,
+        "female_count": 995,
+        "hijra_count": 0,
+        "latitude": 22.8039,
+        "longitude": 89.59026
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "বামনডাংগা সরকারি প্রাথমিক বিদ্যালয়, বামনডাংগা।",
+        "male_count": 1263,
+        "female_count": 1224,
+        "hijra_count": 0,
+        "latitude": 22.87925,
+        "longitude": 89.69047
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "বারাকপুর মাধ্যমিক বিদ্যালয় বারাকপুর",
+        "male_count": 1823,
+        "female_count": 1761,
+        "hijra_count": 0,
+        "latitude": 22.91617,
+        "longitude": 89.52154
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "ভদ্রগাতি সরকারি প্রাথমিক বিদ্যালয়, ভদ্রগাতি।",
+        "male_count": 1294,
+        "female_count": 1256,
+        "hijra_count": 0,
+        "latitude": 22.81654,
+        "longitude": 89.59505
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়, ভবানীপুর।",
+        "male_count": 624,
+        "female_count": 629,
+        "hijra_count": 0,
+        "latitude": 22.81673,
+        "longitude": 89.6216
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "মিলকি দেয়াড়া সরকারি প্রাথমিক বিদ্যালয়, মিলকি দেয়াড়া। ",
+        "male_count": 0,
+        "female_count": 3365,
+        "hijra_count": 0,
+        "latitude": 22.82311,
+        "longitude": 89.56545
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "মেহেরুননেছা সরকারি প্রাথমিক বিদ্যালয় (উত্তর পার্শ্বের ভবন), নিকলাপুর।",
+        "male_count": 2091,
+        "female_count": 2168,
+        "hijra_count": 0,
+        "latitude": 22.80747,
+        "longitude": 89.59919
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "মোছাব্বারপুর আদর্শ সরকারি প্রাথমিক বিদ্যালয়, মোছাব্বারপুর।",
+        "male_count": 1311,
+        "female_count": 1374,
+        "hijra_count": 0,
+        "latitude": 22.82808,
+        "longitude": 89.58347
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "যাকারিয়া দারুল উলুম মাদ্রাসা ও এতিমখানা, সেনহাটি",
+        "male_count": 3237,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.8711,
+        "longitude": 89.54437
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "রহিমনগর সরকারি প্রথমিক বিদ্যালয়, রহিমনগর।",
+        "male_count": 1368,
+        "female_count": 1464,
+        "hijra_count": 0,
+        "latitude": 22.81205,
+        "longitude": 89.58316
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "রাজাপুর সরকারি প্রাথমিক বিদ্যালয়, রাজাপুর।",
+        "male_count": 1575,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 22.8415,
+        "longitude": 89.57787
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "রূপসা কলেজ (বঙ্গবন্ধু ভবন), বাগমারা।",
+        "male_count": 0,
+        "female_count": 4237,
+        "hijra_count": 0,
+        "latitude": 22.80041,
+        "longitude": 89.59192
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "রূপসা কলেজ (বীরশ্রেষ্ঠ রুহুল আমিন ভবন, নিচ তলা), বাগমারা।",
+        "male_count": 3756,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.79986,
+        "longitude": 89.5918
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "লাখোহাটি মাধ্যমিক বিদ্যালয় লাখোহাটি",
+        "male_count": 3643,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.92538,
+        "longitude": 89.54852
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "শিয়ালী মাধ্যমিক বিদ্যালয় (টিনশেড ভবন), শিয়ালী।",
+        "male_count": 2027,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.86689,
+        "longitude": 89.6623
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "শিয়ালী মাধ্যমিক বিদ্যালয় (দ্বিতল ভবন),শিয়ালী।",
+        "male_count": 0,
+        "female_count": 1994,
+        "hijra_count": 0,
+        "latitude": 22.86689,
+        "longitude": 89.66227
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "শোলপুর দেয়াড়া যুগিহাটি আমিনিয়া আলিম মাদ্রাসা, যুগিহাটি।",
+        "male_count": 656,
+        "female_count": 710,
+        "hijra_count": 0,
+        "latitude": 22.81929,
+        "longitude": 89.57388
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "শোলপুর যুগিহাটি সরকারি প্রাথমিক বিদ্যালয়, যগিহাটী ",
+        "male_count": 0,
+        "female_count": 3581,
+        "hijra_count": 0,
+        "latitude": 22.82921,
+        "longitude": 89.56401
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "শ্রীপুর মধুসুধন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1348,
+        "female_count": 1398,
+        "hijra_count": 0,
+        "latitude": 22.89099,
+        "longitude": 89.63182
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "শ্রীফলতলা ইউনিয়ন পরিষদ,  শ্রীফলতলা।",
+        "male_count": 1910,
+        "female_count": 1890,
+        "hijra_count": 0,
+        "latitude": 22.83161,
+        "longitude": 89.59853
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "শ্রীরামপুর সরকারি প্রাথমিক বিদ্যালয়, শ্রীরামপুর।",
+        "male_count": 0,
+        "female_count": 2531,
+        "hijra_count": 0,
+        "latitude": 22.80843,
+        "longitude": 89.60865
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সবুরুননেছা সরকারি প্রাথমিক বিদ্যালয়, রাজাপুর।",
+        "male_count": 0,
+        "female_count": 2512,
+        "hijra_count": 0,
+        "latitude": 22.83729,
+        "longitude": 89.57154
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সরকারি ইখড়ি কাটেংগা ফজলুল হক মডেল মাধ্যমিক বিদ্যালয়",
+        "male_count": 2139,
+        "female_count": 2205,
+        "hijra_count": 0,
+        "latitude": 22.9393,
+        "longitude": 89.66843
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সরকারি এম এ মজিদ ডিগ্রি কলেজ, দিঘলিয়া",
+        "male_count": 3981,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.89509,
+        "longitude": 89.52249
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সরকারি বঙ্গবন্ধু কলেজ (বঙ্গমাতা বেগম ফজিলাতুন্নেছা মুজিব ভবন), আইচগাতী।",
+        "male_count": 2038,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.83622,
+        "longitude": 89.55843
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সরকারি বঙ্গবন্ধু কলেজ (বীরশ্রেষ্ঠ রুহুল আমিন ভবন), আইচগাতী।",
+        "male_count": 1658,
+        "female_count": 1785,
+        "hijra_count": 0,
+        "latitude": 22.82587,
+        "longitude": 89.56119
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সামন্তসেনা দারুচ্ছুন্নাত ছিদ্দিকীয়া দাখিল মাদ্রাসা, সামন্তসেনা।",
+        "male_count": 1194,
+        "female_count": 1212,
+        "hijra_count": 0,
+        "latitude": 22.79377,
+        "longitude": 89.62939
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সিন্দুরডাংগা সরকারি প্রাথমিক বিদ্যালয়, সিন্দুরডাংগা।",
+        "male_count": 889,
+        "female_count": 814,
+        "hijra_count": 0,
+        "latitude": 22.81133,
+        "longitude": 89.66978
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সিংহেরচর সরকারি প্রাথমিক বিদ্যালয়, সিংহেরচর।",
+        "male_count": 0,
+        "female_count": 2128,
+        "hijra_count": 0,
+        "latitude": 22.84201,
+        "longitude": 89.55996
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সেনহাটি সরকারি মাধ্যমিক বিদ্যালয়, সেনহাটি",
+        "male_count": 2699,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.87107,
+        "longitude": 89.53932
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "সৈয়দ আরশাদ আলী এন্ড ছবুরন্নেছা গার্লস কলেজ (পুরাতন ভবনের উত্তর অংশ), আইচগাতী।",
+        "male_count": 4213,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.82706,
+        "longitude": 89.57657
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "স্টার জুট মিলস উচ্চ বিদ্যালয়, চন্দনীমহল",
+        "male_count": 1639,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.86461,
+        "longitude": 89.55655
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "স্বল্প বাহিরদিয়া সরকারি প্রাথমিক বিদ্যালয়, স্বল্প বাহিরদিয়া। ",
+        "male_count": 1502,
+        "female_count": 1551,
+        "hijra_count": 0,
+        "latitude": 22.78701,
+        "longitude": 89.6549
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "হাজীগ্রাম হাতেমিয়া বাহারুল উলুম মাদ্রাসা ও এতিমখানা, হাজীগ্রাম",
+        "male_count": 0,
+        "female_count": 2891,
+        "hijra_count": 0,
+        "latitude": 22.88694,
+        "longitude": 89.56211
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "হাজী ছায়েম উদ্দিন মাধ্যমিক বিদ্যালয় কেটলা",
+        "male_count": 1160,
+        "female_count": 1108,
+        "hijra_count": 0,
+        "latitude": 22.88761,
+        "longitude": 89.53545
+    },
+    {
+        "settings_code": 102,
+        "settings_name": "খুলনা-৪",
+        "center_name": "হাড়িখালী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1896,
+        "female_count": 1927,
+        "hijra_count": 0,
+        "latitude": 22.88876,
+        "longitude": 89.67535
+    }
+]

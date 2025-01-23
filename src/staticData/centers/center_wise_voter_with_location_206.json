@@ -1,0 +1,1252 @@
+[
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "আদমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1309,
+        "female_count": 1284,
+        "hijra_count": 0,
+        "latitude": 23.65573,
+        "longitude": 90.60179
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "আলমদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1480,
+        "female_count": 1387,
+        "hijra_count": 0,
+        "latitude": 23.70758,
+        "longitude": 90.61961
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "আলিমুন নেছা ইসলামিয়া নেছারিয়া মাদ্রাসা (আলিমুন নেছা ইসলামিয়া হাফিজিয়া মাদ্রাসা)",
+        "male_count": 0,
+        "female_count": 2460,
+        "hijra_count": 0,
+        "latitude": 23.74242,
+        "longitude": 90.59992
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "আষাঢ়িয়ার চর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 827,
+        "female_count": 762,
+        "hijra_count": 0,
+        "latitude": 23.62314,
+        "longitude": 90.60974
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ঈমানের কান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1647,
+        "female_count": 1528,
+        "hijra_count": 0,
+        "latitude": 23.67577,
+        "longitude": 90.57801
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "উটমা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1773,
+        "female_count": 1570,
+        "hijra_count": 0,
+        "latitude": 23.7422,
+        "longitude": 90.58528
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কদমতলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1775,
+        "female_count": 1631,
+        "hijra_count": 0,
+        "latitude": 23.74443,
+        "longitude": 90.62336
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কলতাপাড়া ফাজিল (ডিগ্রী) মাদ্রাসা",
+        "male_count": 2206,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.72163,
+        "longitude": 90.59093
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কলতাপাড়া ফাজিল (ডিগ্রী) মাদ্রাসা (কলতাপাড়া সিনিয়র মাদ্রাসা)",
+        "male_count": 0,
+        "female_count": 2044,
+        "hijra_count": 0,
+        "latitude": 23.72155,
+        "longitude": 90.59098
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কাইকারটেক নবাব হাবিব উল্লাহ উচ্চ বিদ্যালয়",
+        "male_count": 1946,
+        "female_count": 1748,
+        "hijra_count": 0,
+        "latitude": 23.63582,
+        "longitude": 90.57002
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কাঁচপুর ইউনিয়ন পরিষদ অফিস",
+        "male_count": 1392,
+        "female_count": 1277,
+        "hijra_count": 0,
+        "latitude": 23.69972,
+        "longitude": 90.523
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কাচপুর ওমর আলী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2651,
+        "hijra_count": 0,
+        "latitude": 23.70332,
+        "longitude": 90.52508
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কাঁচপুর ওমর আলী উচ্চ বিদ্যালয়",
+        "male_count": 3069,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.70329,
+        "longitude": 90.52509
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কাঁচপুর ওমর আলী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2948,
+        "hijra_count": 0,
+        "latitude": 23.70331,
+        "longitude": 90.52508
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কাঁচপুর ওমর আলী উচ্চ বিদ্যালয়",
+        "male_count": 2818,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.70332,
+        "longitude": 90.52508
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কাঁচপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2031,
+        "female_count": 1920,
+        "hijra_count": 0,
+        "latitude": 23.69461,
+        "longitude": 90.5255
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কাজরদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2163,
+        "female_count": 1899,
+        "hijra_count": 0,
+        "latitude": 23.6935,
+        "longitude": 90.58113
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কালিগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 805,
+        "female_count": 735,
+        "hijra_count": 0,
+        "latitude": 23.65255,
+        "longitude": 90.56804
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কুতুবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2851,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.6887,
+        "longitude": 90.52873
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কুতুবপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2611,
+        "hijra_count": 0,
+        "latitude": 23.68876,
+        "longitude": 90.52879
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কুশাব বাঘরী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1494,
+        "female_count": 1413,
+        "hijra_count": 0,
+        "latitude": 23.70279,
+        "longitude": 90.57423
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "কোনাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1427,
+        "female_count": 1392,
+        "hijra_count": 0,
+        "latitude": 23.73532,
+        "longitude": 90.5735
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "খংসারদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2201,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.67243,
+        "longitude": 90.63062
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "খংসারদী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2004,
+        "hijra_count": 0,
+        "latitude": 23.67239,
+        "longitude": 90.63058
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "খিদিরপুর দারুল উলুম হাফিজিয়া মাদ্রাসা",
+        "male_count": 979,
+        "female_count": 956,
+        "hijra_count": 0,
+        "latitude": 23.73386,
+        "longitude": 90.53226
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "গজারিয়া পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1550,
+        "female_count": 1400,
+        "hijra_count": 0,
+        "latitude": 23.74061,
+        "longitude": 90.56491
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "গোয়ালদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2207,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.65821,
+        "longitude": 90.59387
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "গোয়ালদী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2182,
+        "hijra_count": 0,
+        "latitude": 23.65822,
+        "longitude": 90.59387
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "গোয়ালপাড়া হাই স্কুল",
+        "male_count": 1807,
+        "female_count": 1620,
+        "hijra_count": 0,
+        "latitude": 23.71231,
+        "longitude": 90.65931
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চর কিশোরগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1315,
+        "female_count": 1098,
+        "hijra_count": 0,
+        "latitude": 23.55305,
+        "longitude": 90.56899
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চরগোয়ালদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1452,
+        "female_count": 1412,
+        "hijra_count": 0,
+        "latitude": 23.61096,
+        "longitude": 90.5759
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চর ভূলুয়া দক্ষিনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1390,
+        "female_count": 1277,
+        "hijra_count": 0,
+        "latitude": 23.69928,
+        "longitude": 90.61661
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চরলাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2301,
+        "hijra_count": 0,
+        "latitude": 23.67119,
+        "longitude": 90.58828
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চর হোগলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1941,
+        "female_count": 1700,
+        "hijra_count": 0,
+        "latitude": 23.56371,
+        "longitude": 90.55973
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চেংগাইন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2572,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.70876,
+        "longitude": 90.55254
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চেংগাইন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2370,
+        "hijra_count": 0,
+        "latitude": 23.70857,
+        "longitude": 90.55247
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চেংগাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2064,
+        "female_count": 1922,
+        "hijra_count": 0,
+        "latitude": 23.63013,
+        "longitude": 90.60441
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চৌড়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1758,
+        "female_count": 1588,
+        "hijra_count": 0,
+        "latitude": 23.71706,
+        "longitude": 90.62582
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চৌধুরীগাঁও উচ্চ বিদ্যালয়",
+        "male_count": 1905,
+        "female_count": 1983,
+        "hijra_count": 0,
+        "latitude": 23.62369,
+        "longitude": 90.57357
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "চৌরাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1301,
+        "female_count": 1172,
+        "hijra_count": 0,
+        "latitude": 23.72339,
+        "longitude": 90.54439
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "জামপুর মাঝেরচার মধুসূদন গৌর কিশোর উচ্চ বিদ্যালয়",
+        "male_count": 1909,
+        "female_count": 1772,
+        "hijra_count": 0,
+        "latitude": 23.75421,
+        "longitude": 90.60948
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "জামিয়া আরাবিয়া আশরাফুল উলুম মাদ্রাসা (উলুকান্দি মাদ্রাসা)",
+        "male_count": 1409,
+        "female_count": 1305,
+        "hijra_count": 0,
+        "latitude": 23.66956,
+        "longitude": 90.62849
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ঝাউচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1548,
+        "female_count": 1346,
+        "hijra_count": 0,
+        "latitude": 23.62859,
+        "longitude": 90.62111
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "দবির উদ্দিন ভূইয়া উচ্চ বিদ্যালয়",
+        "male_count": 2498,
+        "female_count": 2258,
+        "hijra_count": 0,
+        "latitude": 23.73444,
+        "longitude": 90.55562
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "দরপত ঠোটালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1400,
+        "female_count": 1301,
+        "hijra_count": 0,
+        "latitude": 23.66605,
+        "longitude": 90.60037
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "দরিকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1656,
+        "female_count": 1617,
+        "hijra_count": 0,
+        "latitude": 23.65851,
+        "longitude": 90.57719
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "দলরদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2109,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.70363,
+        "longitude": 90.64204
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "দলরদী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2009,
+        "hijra_count": 0,
+        "latitude": 23.70333,
+        "longitude": 90.64224
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "দামোদরদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1347,
+        "female_count": 1223,
+        "hijra_count": 0,
+        "latitude": 23.68048,
+        "longitude": 90.63306
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "দিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 918,
+        "female_count": 929,
+        "hijra_count": 0,
+        "latitude": 23.64914,
+        "longitude": 90.60619
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "দুধঘাটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1909,
+        "female_count": 1795,
+        "hijra_count": 0,
+        "latitude": 23.61951,
+        "longitude": 90.59245
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নবীনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1532,
+        "female_count": 1553,
+        "hijra_count": 0,
+        "latitude": 23.60281,
+        "longitude": 90.54777
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নয়াপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1732,
+        "female_count": 1669,
+        "hijra_count": 0,
+        "latitude": 23.71868,
+        "longitude": 90.57189
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নানাখী দারুস সুন্নাৎ হামিদিয়া আলিম মাদরাসা (নানাখী দাখিল মাদ্রাসা)",
+        "male_count": 0,
+        "female_count": 2832,
+        "hijra_count": 0,
+        "latitude": 23.71419,
+        "longitude": 90.57651
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নানাখী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2984,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.71005,
+        "longitude": 90.57885
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নীলকান্দা নাজিরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 873,
+        "female_count": 836,
+        "hijra_count": 0,
+        "latitude": 23.66668,
+        "longitude": 90.58401
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নুনেরটেক উচ্চ বিদ্যালয়",
+        "male_count": 2230,
+        "female_count": 1951,
+        "hijra_count": 0,
+        "latitude": 23.68205,
+        "longitude": 90.66321
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নুরে মদিনা কওমী হাফিজিয়া মাদ্রাসা ও এতিমখানা",
+        "male_count": 2259,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.71504,
+        "longitude": 90.53272
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নোয়াগাঁও ইউনিয়ন পরিষদ অফিস",
+        "male_count": 1783,
+        "female_count": 1685,
+        "hijra_count": 0,
+        "latitude": 23.73551,
+        "longitude": 90.63069
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "নোয়াগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1494,
+        "female_count": 1463,
+        "hijra_count": 0,
+        "latitude": 23.73122,
+        "longitude": 90.64222
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ন্যাশনাল কিন্ডার গার্টেন এন্ড হাই স্কুল",
+        "male_count": 0,
+        "female_count": 2250,
+        "hijra_count": 0,
+        "latitude": 23.71298,
+        "longitude": 90.52679
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "পরমেশ্বরদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1386,
+        "female_count": 1282,
+        "hijra_count": 0,
+        "latitude": 23.71163,
+        "longitude": 90.63481
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "পাইকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1629,
+        "female_count": 1524,
+        "hijra_count": 0,
+        "latitude": 23.70703,
+        "longitude": 90.6655
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "পাকুন্ডা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1584,
+        "female_count": 1485,
+        "hijra_count": 0,
+        "latitude": 23.75994,
+        "longitude": 90.58457
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "পাঁচপীর দরগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1637,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 23.64217,
+        "longitude": 90.57298
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "পিরোজপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1548,
+        "female_count": 1527,
+        "hijra_count": 0,
+        "latitude": 23.6294,
+        "longitude": 90.59428
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "পেরাব সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1288,
+        "female_count": 1219,
+        "hijra_count": 0,
+        "latitude": 23.74848,
+        "longitude": 90.56827
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ফতেপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1941,
+        "hijra_count": 0,
+        "latitude": 23.59102,
+        "longitude": 90.55013
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ফতেপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1303,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": 23.69632,
+        "longitude": 90.59483
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ফতেপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2066,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.69628,
+        "longitude": 90.59485
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বরাব সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2602,
+        "female_count": 2581,
+        "hijra_count": 0,
+        "latitude": 23.71583,
+        "longitude": 90.55236
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বাছাব তিলাব সরকারি প্রাথমিক বিদ্যালয় (বাছাব সরকারি প্রাথমিক বিদ্যালয়)",
+        "male_count": 1593,
+        "female_count": 1515,
+        "hijra_count": 0,
+        "latitude": 23.72401,
+        "longitude": 90.59338
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বাড়ী মজলিশ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1368,
+        "female_count": 1410,
+        "hijra_count": 0,
+        "latitude": 23.63678,
+        "longitude": 90.5965
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বারদী স্কুল এন্ড কলেজ",
+        "male_count": 1387,
+        "female_count": 1404,
+        "hijra_count": 0,
+        "latitude": 23.69935,
+        "longitude": 90.63388
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বারদী স্কুল এন্ড কলেজ",
+        "male_count": 1393,
+        "female_count": 1324,
+        "hijra_count": 0,
+        "latitude": 23.70342,
+        "longitude": 90.63419
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বিষ্ণাদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1144,
+        "female_count": 1130,
+        "hijra_count": 0,
+        "latitude": 23.72412,
+        "longitude": 90.65735
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বুরুমদী আব্দুল লতিফ ও মোজাফ্ফর হোসেন উচ্চ বিদ্যালয় (বুরুমদী উচ্চ বিদ্যালয়)",
+        "male_count": 1324,
+        "female_count": 1300,
+        "hijra_count": 0,
+        "latitude": 23.73498,
+        "longitude": 90.62847
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বেহাকৈর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2082,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.71846,
+        "longitude": 90.53688
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বেহাকৈর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2090,
+        "hijra_count": 0,
+        "latitude": 23.71844,
+        "longitude": 90.53695
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বৈদ্যের বাজার নেকবর আলী মুন্সি পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 2063,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.65877,
+        "longitude": 90.62507
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বৈদ্যের বাজার নেকবর আলী মুন্সী পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2005,
+        "hijra_count": 0,
+        "latitude": 23.65786,
+        "longitude": 90.62456
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বৈদ্যের বাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2469,
+        "hijra_count": 0,
+        "latitude": 23.6493,
+        "longitude": 90.6243
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "বৈদ্যেরবাজার সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2594,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.64945,
+        "longitude": 90.62424
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ভট্টপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 956,
+        "female_count": 954,
+        "hijra_count": 0,
+        "latitude": 23.64798,
+        "longitude": 90.61461
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ভট্টপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1691,
+        "female_count": 1674,
+        "hijra_count": 0,
+        "latitude": 23.64794,
+        "longitude": 90.61459
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ভবনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3007,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.64123,
+        "longitude": 90.61001
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ভবনাথপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2906,
+        "hijra_count": 0,
+        "latitude": 23.6415,
+        "longitude": 90.61025
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "ভারগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2212,
+        "female_count": 2103,
+        "hijra_count": 0,
+        "latitude": 23.72937,
+        "longitude": 90.5422
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মঙ্গলেরগাঁও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1937,
+        "female_count": 1918,
+        "hijra_count": 0,
+        "latitude": 23.61321,
+        "longitude": 90.57782
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মছলন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1510,
+        "female_count": 1428,
+        "hijra_count": 0,
+        "latitude": 23.68491,
+        "longitude": 90.65888
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মনাইরকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1733,
+        "female_count": 1644,
+        "hijra_count": 0,
+        "latitude": 23.62571,
+        "longitude": 90.56485
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মশুরাকান্দা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1903,
+        "female_count": 1589,
+        "hijra_count": 0,
+        "latitude": 23.67934,
+        "longitude": 90.6072
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মহজমপুর উচ্চ বিদ্যালয়",
+        "male_count": 1229,
+        "female_count": 1229,
+        "hijra_count": 0,
+        "latitude": 23.73308,
+        "longitude": 90.60634
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মহজমপুর উচ্চ বিদ্যালয়",
+        "male_count": 1143,
+        "female_count": 1035,
+        "hijra_count": 0,
+        "latitude": 23.73309,
+        "longitude": 90.60633
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মারবদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1718,
+        "female_count": 1562,
+        "hijra_count": 0,
+        "latitude": 23.69202,
+        "longitude": 90.59329
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মালিপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2726,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.74392,
+        "longitude": 90.5981
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মুছারচর বালক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1362,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 23.70896,
+        "longitude": 90.60106
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মেঘনা শিল্পনগরী স্কুল এন্ড কলেজ",
+        "male_count": 3010,
+        "female_count": 2111,
+        "hijra_count": 0,
+        "latitude": 23.61435,
+        "longitude": 90.61386
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মোগরাপাড়া হরিদাস গৌর গোবিন্দ শ্যামসুন্দর স্মৃতি সরকারি বিদ্যায়তন",
+        "male_count": 1134,
+        "female_count": 1101,
+        "hijra_count": 0,
+        "latitude": 23.63441,
+        "longitude": 90.58823
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "মোগরাপাড়া হরিদাস গৌর গোবিন্দ শ্যামসুন্দর স্মৃতি সরকারি বিদ্যায়তন",
+        "male_count": 1314,
+        "female_count": 1255,
+        "hijra_count": 0,
+        "latitude": 23.63459,
+        "longitude": 90.58823
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "রাবার ড্যাম অফিস",
+        "male_count": 1034,
+        "female_count": 968,
+        "hijra_count": 0,
+        "latitude": 23.69333,
+        "longitude": 90.58602
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "লক্ষীবরদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1332,
+        "female_count": 1244,
+        "hijra_count": 0,
+        "latitude": 23.71939,
+        "longitude": 90.64328
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "লাধুরচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2335,
+        "hijra_count": 0,
+        "latitude": 23.72974,
+        "longitude": 90.62205
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "লাধুরচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2421,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.72994,
+        "longitude": 90.62212
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "শম্ভুপুরা উচ্চ বিদ্যালয়",
+        "male_count": 1214,
+        "female_count": 1152,
+        "hijra_count": 0,
+        "latitude": 23.5839,
+        "longitude": 90.5522
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "শাহচিল্লাহপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1693,
+        "female_count": 1559,
+        "hijra_count": 0,
+        "latitude": 23.63441,
+        "longitude": 90.57736
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সনমান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2657,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.6881,
+        "longitude": 90.61454
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সনমান্দী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2293,
+        "hijra_count": 0,
+        "latitude": 23.68813,
+        "longitude": 90.61456
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সাদীপুর উচ্চ বিদ্যালয়",
+        "male_count": 1117,
+        "female_count": 1063,
+        "hijra_count": 0,
+        "latitude": 23.72686,
+        "longitude": 90.57856
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সিনহা উচ্চ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1820,
+        "female_count": 1707,
+        "hijra_count": 0,
+        "latitude": 23.70672,
+        "longitude": 90.51836
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সুখেরটেক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1292,
+        "female_count": 1191,
+        "hijra_count": 0,
+        "latitude": 23.70018,
+        "longitude": 90.56299
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনাখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1098,
+        "female_count": 1102,
+        "hijra_count": 0,
+        "latitude": 23.65485,
+        "longitude": 90.57856
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনারগাঁ আইডিয়াল কিন্ডার গার্টেন এন্ড হাইস্কুল",
+        "male_count": 0,
+        "female_count": 1930,
+        "hijra_count": 0,
+        "latitude": 23.70047,
+        "longitude": 90.52652
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনারগাঁও মোহাম্মদীয়া কওমী মাদ্রাসা",
+        "male_count": 766,
+        "female_count": 737,
+        "hijra_count": 0,
+        "latitude": 23.64024,
+        "longitude": 90.5932
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনারগাঁ কাজী ফজলুল হক উইমেন্স কলেজ",
+        "male_count": 1214,
+        "female_count": 1131,
+        "hijra_count": 0,
+        "latitude": 23.63825,
+        "longitude": 90.59865
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনারগাঁ গঙ্গাবাসী ও রামচন্দ্র পোদ্দার ইনস্টিটিউশন মডেল স্কুল এন্ড কলেজ",
+        "male_count": 1180,
+        "female_count": 1167,
+        "hijra_count": 0,
+        "latitude": 23.65676,
+        "longitude": 90.60783
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনারগাঁ গঙ্গাবাসী ও রামচন্দ্র পোদ্দার ইনস্টিটিউশন মডেল স্কুল এন্ড কলেজ",
+        "male_count": 1264,
+        "female_count": 1279,
+        "hijra_count": 0,
+        "latitude": 23.65677,
+        "longitude": 90.60783
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনারগাঁ পাইলট বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1485,
+        "female_count": 1453,
+        "hijra_count": 0,
+        "latitude": 23.64681,
+        "longitude": 90.60731
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনারগাঁ পাইলট বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1459,
+        "female_count": 1487,
+        "hijra_count": 0,
+        "latitude": 23.64701,
+        "longitude": 90.60722
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "সোনার বাংলা উচ্চ বিদ্যালয়",
+        "male_count": 2407,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.67138,
+        "longitude": 90.58833
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "হরিহরদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1344,
+        "female_count": 1253,
+        "hijra_count": 0,
+        "latitude": 23.71102,
+        "longitude": 90.60924
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "হাফেজ কাজী জালাল উদ্দিন কিন্ডার গার্টেন এন্ড হাই স্কুল (হাজী জালাল কিন্ডার গার্টেন)",
+        "male_count": 1944,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.70004,
+        "longitude": 90.526
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "হামছাদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2249,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.66948,
+        "longitude": 90.61565
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "হামছাদী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2039,
+        "hijra_count": 0,
+        "latitude": 23.66935,
+        "longitude": 90.6156
+    },
+    {
+        "settings_code": 206,
+        "settings_name": "নারায়ণগঞ্জ-৩",
+        "center_name": "হোসেনপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1538,
+        "female_count": 1536,
+        "hijra_count": 0,
+        "latitude": 23.61181,
+        "longitude": 90.55997
+    }
+]

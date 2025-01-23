@@ -1,0 +1,1572 @@
+[
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "১১নং পশ্চিম বানিয়াখামার সরকারি প্রাথমিক বিদ্যালয় (ঈদগাহ্‌ স্কুল)",
+    "male_count": 819,
+    "female_count": 867,
+    "hijra_count": 0,
+    "latitude": 22.83265,
+    "longitude": 89.54266
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "২৩ নং বানিয়াখামার সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন মাধ্যমিক বিদ্যালয় (নীচতলা)",
+    "male_count": 1139,
+    "female_count": 1153,
+    "hijra_count": 0,
+    "latitude": 22.8056,
+    "longitude": 89.55184
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "৪৫নং বানিয়াখামার বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 989,
+    "female_count": 947,
+    "hijra_count": 0,
+    "latitude": 22.80814,
+    "longitude": 89.55484
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "৯৪ নং বাংগালী শিশু একাডেমী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 893,
+    "female_count": 926,
+    "hijra_count": 0,
+    "latitude": 22.81713,
+    "longitude": 89.55701
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আদর্শ মডেল সরকারি প্রাথমিক বিদ্যালয় (টিনসেড)  সি এন্ড বি কলোনী",
+    "male_count": 0,
+    "female_count": 1137,
+    "hijra_count": 0,
+    "latitude": 22.83021,
+    "longitude": 89.54403
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আদর্শ মডেল সরকারি প্রাথমিক বিদ্যালয় (বিল্ডিং)  সি এন্ড বি কলোনী",
+    "male_count": 1061,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.8299,
+    "longitude": 89.54439
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আব্দুল গনি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1525,
+    "hijra_count": 1,
+    "latitude": 22.80673,
+    "longitude": 89.55807
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আল নূর আদর্শ একাডেমী",
+    "male_count": 0,
+    "female_count": 2159,
+    "hijra_count": 0,
+    "latitude": 22.77986,
+    "longitude": 89.58072
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আলহাজ্ব জোবায়ের আহমেদ খান বিদ্যানিকেতন",
+    "male_count": 776,
+    "female_count": 864,
+    "hijra_count": 0,
+    "latitude": 22.80286,
+    "longitude": 89.56936
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আহছানউল্লাহ্ কলেজ (নতুন ভবন)",
+    "male_count": 1010,
+    "female_count": 953,
+    "hijra_count": 0,
+    "latitude": 22.81377,
+    "longitude": 89.55661
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আহছানউল্লাহ্ কলেজ (পুরাতন ভবন)",
+    "male_count": 741,
+    "female_count": 706,
+    "hijra_count": 0,
+    "latitude": 22.81379,
+    "longitude": 89.55663
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আহমদিয়া এতিমখানা মাদ্রাসা ও লিল্লাহ বোর্ডিং (২য় তলা ভবনের নিচতলা ও ২য় তলা)",
+    "male_count": 1473,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.79586,
+    "longitude": 89.57624
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "আহমদিয়া এতিমখানা মাদ্রাসা ও লিল্লাহ বোর্ডিং (উত্তর ভবন দাখিল ক্লাস রুম)",
+    "male_count": 1501,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.79586,
+    "longitude": 89.57628
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ইউনাইটেড ক্লাব",
+    "male_count": 0,
+    "female_count": 1070,
+    "hijra_count": 2,
+    "latitude": 22.81684,
+    "longitude": 89.5659
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ইউসেফ-এমটিবি ফাউন্ডেশন জোহরা সামাদ টেকনিক্যাল স্কুল",
+    "male_count": 1405,
+    "female_count": 1452,
+    "hijra_count": 0,
+    "latitude": 22.79927,
+    "longitude": 89.57047
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ইব্রাহীমিয়া এতিমখানা ও বহুমূখী দাখিল মাদ্রাসা",
+    "male_count": 1079,
+    "female_count": 1039,
+    "hijra_count": 0,
+    "latitude": 22.78211,
+    "longitude": 89.57662
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ইসলামাবাদ কলেজিয়েট স্কুল",
+    "male_count": 0,
+    "female_count": 2701,
+    "hijra_count": 1,
+    "latitude": 22.81123,
+    "longitude": 89.55235
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ইসলামাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2701,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.8116,
+    "longitude": 89.55225
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "উদয়ন খুলনা জিলা পুলিশ স্কুল (উত্তর পার্শ্বের ভবন)",
+    "male_count": 686,
+    "female_count": 415,
+    "hijra_count": 0,
+    "latitude": 22.81547,
+    "longitude": 89.57141
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "উদয়ন খুলনা জিলা পুলিশ স্কুল (পূর্ব পার্শ্বের ভবন)",
+    "male_count": 1017,
+    "female_count": 540,
+    "hijra_count": 0,
+    "latitude": 22.816,
+    "longitude": 89.57142
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "এরশাদ আলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2048,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.82791,
+    "longitude": 89.55528
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ওজোপাডিকো হাই স্কুল",
+    "male_count": 1123,
+    "female_count": 1159,
+    "hijra_count": 0,
+    "latitude": 22.81463,
+    "longitude": 89.55285
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "কয়লাঘাটা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1111,
+    "female_count": 1263,
+    "hijra_count": 0,
+    "latitude": 22.80983,
+    "longitude": 89.5732
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "কেসিসি খন্দকার নাসের উদ্দীন মাধ্যমিক বিদ্যালয়",
+    "male_count": 2398,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.83196,
+    "longitude": 89.52801
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা আলিয়া মাদ্রাসা (একাডেমিক ভবন ৩য় তলা ও ৪র্থ তলা)",
+    "male_count": 1983,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.807,
+    "longitude": 89.57089
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা আলিয়া মাদ্রাসা (একাডেমিক ভবন নীচ তলা ও ২য় তলা)",
+    "male_count": 0,
+    "female_count": 2130,
+    "hijra_count": 0,
+    "latitude": 22.80679,
+    "longitude": 89.57152
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা আলিয়া মাদ্রাসা সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন আলিয়া মাদ্রাসা (নুরানী শ্রেণী ভবন)",
+    "male_count": 1002,
+    "female_count": 1131,
+    "hijra_count": 0,
+    "latitude": 22.80699,
+    "longitude": 89.57122
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা কলেজ",
+    "male_count": 1530,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81437,
+    "longitude": 89.55356
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা কলেজিয়েট গালর্স স্কুল ও কেসিসি ইউমেন্স কলেজ (২য় তলা পূর্ব ব্লক ২০৫-২০৭ ও দক্ষিণ ব্লক ২০৯-২১১ নং কক্ষ)",
+    "male_count": 0,
+    "female_count": 1793,
+    "hijra_count": 0,
+    "latitude": 22.80335,
+    "longitude": 89.57495
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা কলেজিয়েট গালর্স স্কুল ও কেসিসি ইউমেন্স কলেজ (৩য় তলা পূর্ব ব্লক ৩০২-৩০৪, দক্ষিণ ব্লক ৩০৭-৩০৯ নং কক্ষ))",
+    "male_count": 1797,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80331,
+    "longitude": 89.57496
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা কলেজিয়েট গালর্স স্কুল ও কেসিসি ইউমেন্স কলেজ (৩য় তলা পূর্ব ব্লক ৩০৫ নং কক্ষ ও ৪র্থ তলা পূর্ব ব্লক ৪০২-৪০৫ নং কক্ষ)",
+    "male_count": 1786,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80323,
+    "longitude": 89.57476
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা কলেজিয়েট গালর্স স্কুল ও কেসিসি ইউমেন্স কলেজ (নিচতলা পূর্ব ব্লক ১০১-১০৫ ও দক্ষিণ ব্লক ১০৬ নং কক্ষ)",
+    "male_count": 0,
+    "female_count": 1797,
+    "hijra_count": 0,
+    "latitude": 22.80327,
+    "longitude": 89.57497
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা কলেজিয়েট স্কুল, ছাত্র শাখা (উত্তরাংশ)",
+    "male_count": 2863,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81963,
+    "longitude": 89.54734
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা কলেজিয়েট স্কুল, ছাত্রী শাখা (পূর্বাংশ)",
+    "male_count": 1024,
+    "female_count": 1084,
+    "hijra_count": 0,
+    "latitude": 22.81983,
+    "longitude": 89.54726
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা জিলা স্কুল (একাডেমিক ভবন-১)",
+    "male_count": 0,
+    "female_count": 1723,
+    "hijra_count": 0,
+    "latitude": 22.81243,
+    "longitude": 89.57281
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা জিলা স্কুল (একাডেমিক ভবন-৩)",
+    "male_count": 2107,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81239,
+    "longitude": 89.57274
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা টেক্সটাইল মিলস্ (কেটিএম) হাইস্কুল (২য় তলা)",
+    "male_count": 0,
+    "female_count": 3106,
+    "hijra_count": 0,
+    "latitude": 22.82602,
+    "longitude": 89.5492
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা টেক্সটাইল মিলস্ (কেটিএম) হাইস্কুল (নীচ তলা)",
+    "male_count": 2718,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.82602,
+    "longitude": 89.54907
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "খুলনা সরকারি বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 527,
+    "female_count": 571,
+    "hijra_count": 0,
+    "latitude": 22.82889,
+    "longitude": 89.54243
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "জামেয়া ইসলামিয়া আরাবিয়া দারুল উলুম মাদ্রাসা (পূর্ব পার্শ্বের ভবন, ২য় তলা)",
+    "male_count": 1493,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80605,
+    "longitude": 89.55889
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "জামেয়া ইসলামিয়া আরাবিয়া দারুল উলুম মাদ্রাসা (পূর্ব পার্শ্বের ভবন, নিচ তলা)",
+    "male_count": 952,
+    "female_count": 898,
+    "hijra_count": 0,
+    "latitude": 22.80605,
+    "longitude": 89.55889
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "জাহান নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 978,
+    "female_count": 1058,
+    "hijra_count": 0,
+    "latitude": 22.80325,
+    "longitude": 89.57469
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "টুটপাড়া মডেল সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 814,
+    "female_count": 894,
+    "hijra_count": 0,
+    "latitude": 22.8068,
+    "longitude": 89.56744
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ডাঃ গাজী মিজানুর রহমান মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1650,
+    "hijra_count": 0,
+    "latitude": 22.81521,
+    "longitude": 89.54242
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ডি আলী ইসলামীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1409,
+    "female_count": 1405,
+    "hijra_count": 0,
+    "latitude": 22.79708,
+    "longitude": 89.56439
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "তা‌'লিমুল মিল্লাত রহমাতিয়া ফাজিল মাদরাসা (২য় তলা)",
+    "male_count": 1509,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81628,
+    "longitude": 89.54703
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "তা’লিমুল মিল্লাত রহমাতিয়া ফাজিল মাদরাসা (নীচতলা)",
+    "male_count": 1441,
+    "female_count": 1132,
+    "hijra_count": 0,
+    "latitude": 22.81632,
+    "longitude": 89.54677
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "দক্ষিণ টুটপাড়া আহমাদিয়া সরকারি প্রাথমিক বিদ্যালয় (২য় ও ৩য় তলার একাংশ)",
+    "male_count": 0,
+    "female_count": 1545,
+    "hijra_count": 0,
+    "latitude": 22.79693,
+    "longitude": 89.57593
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "দক্ষিণ টুটপাড়া আহমাদিয়া সরকারি প্রাথমিক বিদ্যালয় (৩য় তলা)",
+    "male_count": 0,
+    "female_count": 1522,
+    "hijra_count": 0,
+    "latitude": 22.79826,
+    "longitude": 89.57585
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "দক্ষিন টুটপাড়া সরকারি প্রাথমিক বিদ্যালয়  (৩য় তলা ও ২য় তলার আংশিক)",
+    "male_count": 1580,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "দক্ষিন টুটপাড়া সরকারি প্রাথমিক বিদ্যালয়  (নিচ তলা ও ২য় তলার আংশিক)",
+    "male_count": 0,
+    "female_count": 1618,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "দারুল কুরআন সিদ্দিকীয়া কামিল মাদ্রাসা (২য় তলা)",
+    "male_count": 1655,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81089,
+    "longitude": 89.54861
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "দারুল কুরআন সিদ্দিকীয়া কামিল মাদ্রাসা (নীচ তলা)",
+    "male_count": 0,
+    "female_count": 1823,
+    "hijra_count": 0,
+    "latitude": 22.81097,
+    "longitude": 89.54853
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নজরুল নগর মাধ্যমিক বালিকা বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1636,
+    "hijra_count": 0,
+    "latitude": 22.80694,
+    "longitude": 89.5464
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নার্সিং ও মিডওয়াইফারি কলেজ",
+    "male_count": 1916,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.82971,
+    "longitude": 89.53812
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নিরালা আদর্শ মাধ্যমিক বিদ্যালয় (নতুন ৫তলা ভবনের ৩য় তলার আংশিক ও ২য় তলা)",
+    "male_count": 0,
+    "female_count": 2737,
+    "hijra_count": 0,
+    "latitude": 22.7982,
+    "longitude": 89.55387
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নিরালা আদর্শ মাধ্যমিক বিদ্যালয় (নতুন ৫তলা ভবনের ৪র্থ তলা ও ৩য় তলা আংশিক)",
+    "male_count": 0,
+    "female_count": 2769,
+    "hijra_count": 0,
+    "latitude": 22.79785,
+    "longitude": 89.55415
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নিরালা আদর্শ মাধ্যমিক বিদ্যালয় (নতুন ৫তলা ভবনের নিচ তলা ও সংলগ্ন টিনসেড)",
+    "male_count": 2768,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.79776,
+    "longitude": 89.55415
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নিরালা আদর্শ সরকারি প্রাথমিক বিদ্যালয় (দক্ষিণ অংশ)",
+    "male_count": 2771,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.79748,
+    "longitude": 89.55407
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নুরানী বহুমুখী মাদ্রাসা (৩য় ও ৪র্থ তলা)",
+    "male_count": 2247,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80958,
+    "longitude": 89.55123
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নুরানী বহুমুখী মাদ্রাসা (নীচতলা ও ২য় তলা)",
+    "male_count": 0,
+    "female_count": 2329,
+    "hijra_count": 0,
+    "latitude": 22.80957,
+    "longitude": 89.55124
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নূতন বাজার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2595,
+    "hijra_count": 0,
+    "latitude": 22.80877,
+    "longitude": 89.5777
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নূরজাহান মাহবুব সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 959,
+    "female_count": 1109,
+    "hijra_count": 0,
+    "latitude": 22.83539,
+    "longitude": 89.53694
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নূরনগর নিম্ন মাধ্যমিক বিদ্যালয়",
+    "male_count": 1683,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.83255,
+    "longitude": 89.54413
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "নূরনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1561,
+    "hijra_count": 0,
+    "latitude": 22.83221,
+    "longitude": 89.54402
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ন্যাশনাল গার্লস্ হাইস্কুল (২য় ও ৩য় তলা)",
+    "male_count": 0,
+    "female_count": 2300,
+    "hijra_count": 1,
+    "latitude": 22.82063,
+    "longitude": 89.55206
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ন্যাশনাল গার্লস্ হাইস্কুল (৪র্থ ও ৫ম তলা)",
+    "male_count": 2317,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.82072,
+    "longitude": 89.55217
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ন্যাশনাল সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন ন্যাশনাল মাধ্যমিক বিদ্যালয়",
+    "male_count": 1018,
+    "female_count": 1010,
+    "hijra_count": 0,
+    "latitude": 22.82017,
+    "longitude": 89.55202
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পল্লীমঙ্গল উচ্চ বালিকা বিদ্যালয় (নতুন ভবন)",
+    "male_count": 3381,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81536,
+    "longitude": 89.55081
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পল্লীমঙ্গল উচ্চ বালিকা বিদ্যালয় (পুরাতন ভবন)",
+    "male_count": 0,
+    "female_count": 3427,
+    "hijra_count": 0,
+    "latitude": 22.81539,
+    "longitude": 89.55081
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পল্লীমঙ্গল দিবা মাধ্যমিক বিদ্যালয় ও গোলাম মোক্তাদির প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2864,
+    "hijra_count": 0,
+    "latitude": 22.8102,
+    "longitude": 89.54396
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পল্লীমঙ্গল মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1686,
+    "hijra_count": 0,
+    "latitude": 22.8153,
+    "longitude": 89.55078
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পল্লীমঙ্গল শেখ হাতেম আলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 937,
+    "female_count": 934,
+    "hijra_count": 0,
+    "latitude": 22.81564,
+    "longitude": 89.55154
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পশ্চিম টুটপাড়া মাধ্যমিক বিদ্যালয়",
+    "male_count": 2669,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.79417,
+    "longitude": 89.56533
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পশ্চিম টুটপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2766,
+    "hijra_count": 1,
+    "latitude": 22.79838,
+    "longitude": 89.5674
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পশ্চিম বানিয়াখামার দারুল কুরআন বহুমূখী মাদ্রাসা",
+    "male_count": 2012,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80596,
+    "longitude": 89.55213
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পাইওনিয়ার মাধ্যমিক বালিকা বিদ্যালয় (পশ্চিম পাশ)",
+    "male_count": 0,
+    "female_count": 1669,
+    "hijra_count": 0,
+    "latitude": 22.8101,
+    "longitude": 89.57197
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পাইওনিয়ার মাধ্যমিক বালিকা বিদ্যালয় (পূর্ব পাশ)",
+    "male_count": 1527,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81018,
+    "longitude": 89.572
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পিটিআই, একাডেমিক ভবন (২য় ও ৩য় তলা)",
+    "male_count": 1990,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80799,
+    "longitude": 89.56584
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পিটিআই, একাডেমিক ভবন (নীচ তলা)",
+    "male_count": 0,
+    "female_count": 2029,
+    "hijra_count": 0,
+    "latitude": 22.808,
+    "longitude": 89.56579
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পিটিআই, জসিম উদ্দীন হল (নীচ তলা)",
+    "male_count": 1650,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80811,
+    "longitude": 89.56583
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পিটিআই, পরীক্ষণ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1698,
+    "hijra_count": 0,
+    "latitude": 22.80797,
+    "longitude": 89.56604
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "পূর্ব বানিয়াখামার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2569,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80374,
+    "longitude": 89.5619
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "প্রভাতী রেলওয়ে সরকারি প্রাথমিক বিদ্যালয় (৩য় তলা ও ২য় তলার আংশিক)",
+    "male_count": 0,
+    "female_count": 2001,
+    "hijra_count": 0,
+    "latitude": 22.8243,
+    "longitude": 89.55397
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "প্রভাতী রেলওয়ে সরকারি প্রাথমিক বিদ্যালয় (নীচ তলা ও ২য় তলা আংশিক)",
+    "male_count": 0,
+    "female_count": 2048,
+    "hijra_count": 0,
+    "latitude": 22.82451,
+    "longitude": 89.55386
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ফাতিমা উচ্চ বিদ্যালয়",
+    "male_count": 1015,
+    "female_count": 957,
+    "hijra_count": 0,
+    "latitude": 22.81076,
+    "longitude": 89.57617
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বয়রা আলহাজ্ব মুনছুর রহমান সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2414,
+    "hijra_count": 0,
+    "latitude": 22.83224,
+    "longitude": 89.52846
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বয়রা ডাক বিভাগীয় মাধ্যমিক বিদ্যালয় (নতুন ভবন)",
+    "male_count": 0,
+    "female_count": 1650,
+    "hijra_count": 0,
+    "latitude": 22.83583,
+    "longitude": 89.5375
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বয়রা ডাক বিভাগীয় মাধ্যমিক বিদ্যালয় (পুরাতন ভবন)",
+    "male_count": 1756,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.83571,
+    "longitude": 89.53753
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বয়রা নব সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1937,
+    "hijra_count": 0,
+    "latitude": 22.82897,
+    "longitude": 89.53962
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বয়রা মাধ্যমিক বিদ্যালয় (পুরাতন ভবন)",
+    "male_count": 0,
+    "female_count": 2475,
+    "hijra_count": 0,
+    "latitude": 22.82881,
+    "longitude": 89.5404
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বয়রা মাধ্যমিক বিদ্যালয় (শেখ হেলাল উদ্দিন (এমপি) একাডেমিক ভবন)",
+    "male_count": 2513,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.82891,
+    "longitude": 89.5405
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বাগমারা মাধ্যমিক বালিকা বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2614,
+    "hijra_count": 0,
+    "latitude": 22.80268,
+    "longitude": 89.55905
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বাগমারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2502,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.79928,
+    "longitude": 89.55727
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বানরগাতী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1569,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80694,
+    "longitude": 89.54599
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বানিয়াখামার মাধ্যমিক বিদ্যালয় (২য় ও  ৩য় তলা)",
+    "male_count": 0,
+    "female_count": 2048,
+    "hijra_count": 0,
+    "latitude": 22.80577,
+    "longitude": 89.55197
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বাংলাদেশ ব্যাংক স্টাফ কোয়ার্টার্স সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1064,
+    "female_count": 1195,
+    "hijra_count": 0,
+    "latitude": 22.81086,
+    "longitude": 89.56035
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বি, কে ইউনিয়ন ইনষ্টিটিউশন (দক্ষিণ ভবন)",
+    "male_count": 2280,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.8133,
+    "longitude": 89.56242
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "বি, কে ইউনিয়ন ইনষ্টিটিউশন (পশ্চিম ভবন)",
+    "male_count": 0,
+    "female_count": 2310,
+    "hijra_count": 0,
+    "latitude": 22.81333,
+    "longitude": 89.56249
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "ব্যায়ামাগার ও প্রশিক্ষণ কেন্দ্র",
+    "male_count": 1578,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81445,
+    "longitude": 89.56768
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "মিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয় (২য় তলা আংশিক ও ৩য় তলা)",
+    "male_count": 1409,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80468,
+    "longitude": 89.5666
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "মিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয় (নীচ তলা ও ২য় তলা আংশিক)",
+    "male_count": 0,
+    "female_count": 1559,
+    "hijra_count": 0,
+    "latitude": 22.8047,
+    "longitude": 89.56671
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "মুহাম্মাদ নগর মহিলা (কামিল) মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 2930,
+    "hijra_count": 1,
+    "latitude": 22.8199,
+    "longitude": 89.54787
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "মেহমানে আলীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1163,
+    "female_count": 1234,
+    "hijra_count": 0,
+    "latitude": 22.82021,
+    "longitude": 89.54932
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "মোল্লাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3061,
+    "hijra_count": 0,
+    "latitude": 22.79192,
+    "longitude": 89.57136
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "রূপসা বহুমুখী উচ্চ বিদ্যালয় (নতুন ভবন)",
+    "male_count": 0,
+    "female_count": 1906,
+    "hijra_count": 0,
+    "latitude": 22.80137,
+    "longitude": 89.57905
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "রূপসা বহুমুখী উচ্চ বিদ্যালয় (পুরাতন ভবন, ২য় তলা)",
+    "male_count": 1745,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80114,
+    "longitude": 89.57881
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "রূপসা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1591,
+    "female_count": 1558,
+    "hijra_count": 0,
+    "latitude": 22.80132,
+    "longitude": 89.57864
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "রেভারেন্ড পলস্ হাই স্কুল",
+    "male_count": 2892,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80572,
+    "longitude": 89.54105
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "রেলওয়ে কিন্ডারগার্টেন",
+    "male_count": 2050,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.82097,
+    "longitude": 89.55886
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "লায়ন্স স্কুল এন্ড কলেজ (নতুন ভবন)",
+    "male_count": 0,
+    "female_count": 1990,
+    "hijra_count": 0,
+    "latitude": 22.80167,
+    "longitude": 89.5444
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "লায়ন্স স্কুল এন্ড কলেজ (পুরাতন ভবন)",
+    "male_count": 1956,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80124,
+    "longitude": 89.54389
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "শহীদ শেখ আবু নাসের মাধ্যমিক বিদ্যালয় (৩য় তলা)",
+    "male_count": 2222,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81534,
+    "longitude": 89.55632
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "শহীদ শেখ আবু নাসের মাধ্যমিক বিদ্যালয় (নীচতলা ও ২য় তলা)",
+    "male_count": 0,
+    "female_count": 2258,
+    "hijra_count": 0,
+    "latitude": 22.81543,
+    "longitude": 89.55649
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "শহীদ সোহরাওয়ার্দী উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1370,
+    "hijra_count": 0,
+    "latitude": 22.81673,
+    "longitude": 89.56122
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "শহীদ সোহরাওয়ার্দী কলেজ",
+    "male_count": 1495,
+    "female_count": 1587,
+    "hijra_count": 0,
+    "latitude": 22.80845,
+    "longitude": 89.54697
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "শহীদ সোহরাওয়ার্দী (বহুমুখী) উচ্চ বিদ্যালয়",
+    "male_count": 1422,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81687,
+    "longitude": 89.56106
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "শিপইয়ার্ড সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2241,
+    "hijra_count": 0,
+    "latitude": 22.79114,
+    "longitude": 89.57737
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "শেখ পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2125,
+    "hijra_count": 1,
+    "latitude": 22.81826,
+    "longitude": 89.55463
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সবুরণনেছা মহিলা ডিগ্রি কলেজ",
+    "male_count": 1451,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80712,
+    "longitude": 89.57563
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সবুরণনেছা মাধ্যমিক বালিকা বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1642,
+    "hijra_count": 0,
+    "latitude": 22.80719,
+    "longitude": 89.57577
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি ইকবাল নগর মাধ্যমিক বালিকা বিদ্যালয় (একাডেমিক ভবন-১)",
+    "male_count": 1771,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81001,
+    "longitude": 89.55894
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি ইকবাল নগর মাধ্যমিক বালিকা বিদ্যালয় (একাডেমিক ভবন-২)",
+    "male_count": 0,
+    "female_count": 1943,
+    "hijra_count": 0,
+    "latitude": 22.81,
+    "longitude": 89.55885
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি এম এম সিটি কলেজ (একাডেমিক ভবন-১, ২য় তলা)",
+    "male_count": 1684,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80932,
+    "longitude": 89.56265
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি এম এম সিটি কলেজ (একাডেমিক ভবন-১, নীচ তলা)",
+    "male_count": 0,
+    "female_count": 1625,
+    "hijra_count": 0,
+    "latitude": 22.80957,
+    "longitude": 89.56275
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি এম এম সিটি কলেজ (একাডেমিক ভবন-২, ২য় তলা)",
+    "male_count": 0,
+    "female_count": 1535,
+    "hijra_count": 0,
+    "latitude": 22.80947,
+    "longitude": 89.56274
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি এম এম সিটি কলেজ (একাডেমিক ভবন-২, ৩য় তলা)",
+    "male_count": 1419,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80951,
+    "longitude": 89.56272
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি করোনেশন মাধ্যমিক বালিকা বিদ্যালয়",
+    "male_count": 1243,
+    "female_count": 1185,
+    "hijra_count": 0,
+    "latitude": 22.81111,
+    "longitude": 89.56639
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি জয় বাংলা কলেজ",
+    "male_count": 1184,
+    "female_count": 1150,
+    "hijra_count": 0,
+    "latitude": 22.82466,
+    "longitude": 89.53891
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারি পাইওনিয়ার মহিলা কলেজ",
+    "male_count": 685,
+    "female_count": 766,
+    "hijra_count": 0,
+    "latitude": 22.81097,
+    "longitude": 89.56773
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারী সুন্দরবন আদর্শ মহাবিদ্যালয় (একাডেমিক ভবন-১, ২য় তলা)",
+    "male_count": 1978,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80462,
+    "longitude": 89.57267
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সরকারী সুন্দরবন আদর্শ মহাবিদ্যালয় (একাডেমিক ভবন-১, নিচতলা)",
+    "male_count": 0,
+    "female_count": 1980,
+    "hijra_count": 0,
+    "latitude": 22.80459,
+    "longitude": 89.57265
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সালাহউদ্দিন ইউসুফ সরকারি মাধ্যমিক বিদ্যালয় (২য় তলা)",
+    "male_count": 0,
+    "female_count": 2159,
+    "hijra_count": 0,
+    "latitude": 22.77985,
+    "longitude": 89.58013
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সালাহউদ্দিন ইউসুফ সরকারি মাধ্যমিক বিদ্যালয় (৩য় তলা)",
+    "male_count": 2158,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.77985,
+    "longitude": 89.58013
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সিটি গার্লস স্কুল ও ২০নং ওয়ার্ড কাউন্সিলরের কার্যালয়",
+    "male_count": 2109,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81613,
+    "longitude": 89.55503
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সেন্ট জেভিয়ার্স হাইস্কুল ডাবল শিফট (নতুন ভবন) (২য় ও ৩য় তলা)",
+    "male_count": 1800,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80727,
+    "longitude": 89.55337
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সেন্ট জেভিয়ার্স হাই স্কুল ডাবল শিফট (নতুন ভবন) (নীচ তলা ও সংলগ্ন ভবন)",
+    "male_count": 0,
+    "female_count": 1852,
+    "hijra_count": 0,
+    "latitude": 22.80733,
+    "longitude": 89.55323
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সেন্ট জেভিয়ার্স হাইস্কুল ডাবল শিফট (মূল ভবন)",
+    "male_count": 606,
+    "female_count": 715,
+    "hijra_count": 0,
+    "latitude": 22.80746,
+    "longitude": 89.5532
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সেন্ট যোসেফস উচ্চ বিদ্যালয় (২য় তলা)",
+    "male_count": 0,
+    "female_count": 1687,
+    "hijra_count": 0,
+    "latitude": 22.80876,
+    "longitude": 89.56638
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সেন্ট যোসেফস উচ্চ বিদ্যালয় (নীচ তলা)",
+    "male_count": 1543,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80859,
+    "longitude": 89.56641
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সোনাপোতা মাধ্যমিক বিদ্যালয়",
+    "male_count": 1270,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81196,
+    "longitude": 89.55692
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সোনাপোতা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1257,
+    "hijra_count": 0,
+    "latitude": 22.81196,
+    "longitude": 89.55695
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "সোনামনি বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2534,
+    "hijra_count": 0,
+    "latitude": 22.80197,
+    "longitude": 89.557
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী আবু হানিফ কেরাতুল কুরআন নুরানি মাদ্রাসা ও এতিমখানা",
+    "male_count": 2563,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.80573,
+    "longitude": 89.58037
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী আব্দুল মালেক আছিয়া দারুছছালাম হাফিজিয়া এতিমখানা",
+    "male_count": 2158,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.77691,
+    "longitude": 89.57877
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী আব্দুল মালেক ইসলামীয়া কলেজ (একাডেমিক ভবন-২)",
+    "male_count": 2215,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.78953,
+    "longitude": 89.57643
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী আব্দুল মালেক ইসলামীয়া কলেজ (শেখ হাসিনা ভবন)",
+    "male_count": 0,
+    "female_count": 2325,
+    "hijra_count": 0,
+    "latitude": 22.78981,
+    "longitude": 89.57652
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী আব্দুল মালেক গার্লস হাই স্কুল",
+    "male_count": 2400,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.79452,
+    "longitude": 89.57691
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী আব্দুল মালেক মাধ্যমিক বিদ্যালয়",
+    "male_count": 3033,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.79059,
+    "longitude": 89.57269
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী ফয়েজ উদ্দিন উচ্চ বালিকা বিদ্যালয় (নতুন ভবন মোহনা বিল্ডিং)",
+    "male_count": 0,
+    "female_count": 2198,
+    "hijra_count": 0,
+    "latitude": 22.835,
+    "longitude": 89.53356
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী ফয়েজ উদ্দিন উচ্চ বালিকা বিদ্যালয় (পুরাতন ভবন)",
+    "male_count": 2042,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.83481,
+    "longitude": 89.53387
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী ফয়েজ উদ্দিন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1331,
+    "female_count": 1340,
+    "hijra_count": 0,
+    "latitude": 22.83496,
+    "longitude": 89.53379
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী মালেক ছালেহীয়া দারুসুন্নাত দাখিল মাদ্রাসা (উত্তর ভবন)",
+    "male_count": 2157,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.78751,
+    "longitude": 89.57498
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজী মালেক ছালেহীয়া দারুসুন্নাত দাখিল মাদ্রাসা (পশ্চিম ভবন, টিনশেড)",
+    "male_count": 0,
+    "female_count": 2156,
+    "hijra_count": 0,
+    "latitude": 22.78751,
+    "longitude": 89.57499
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হাজেরা মেমোরিয়াল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 845,
+    "female_count": 877,
+    "hijra_count": 0,
+    "latitude": 22.80452,
+    "longitude": 89.54807
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হ্যানে রেলওয়ে মাধ্যমিক বিদ্যালয়",
+    "male_count": 1851,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.81798,
+    "longitude": 89.56188
+  },
+  {
+    "settings_code": 100,
+    "settings_name": "খুলনা-২",
+    "center_name": "হ্যানে রেলওয়ে সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1672,
+    "hijra_count": 0,
+    "latitude": 22.81828,
+    "longitude": 89.56168
+  }
+]

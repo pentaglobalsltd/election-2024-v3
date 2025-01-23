@@ -1,0 +1,1382 @@
+[
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১০২ নং বর্নি সঃ প্রাঃ বিঃ, বর্নি ",
+        "male_count": 1589,
+        "female_count": 1444,
+        "hijra_count": 0,
+        "latitude": 23.32056,
+        "longitude": 89.98593
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১০৩ নং ফতেপট্টি সঃ প্রাঃ বিঃ, ফতেপট্রি ",
+        "male_count": 1347,
+        "female_count": 1237,
+        "hijra_count": 0,
+        "latitude": 23.32141,
+        "longitude": 90.00806
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১০৩ নং শিল্টা সঃ প্র্রাঃ বিঃ",
+        "male_count": 1496,
+        "female_count": 1416,
+        "hijra_count": 0,
+        "latitude": 23.18325,
+        "longitude": 89.87328
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১০৬ নং কানুরিয়া সঃ প্রাঃ বিঃ, কানুড়িয়া",
+        "male_count": 1645,
+        "female_count": 1447,
+        "hijra_count": 0,
+        "latitude": 23.29622,
+        "longitude": 89.98638
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১০৭ নং কুমারিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1053,
+        "female_count": 1097,
+        "hijra_count": 0,
+        "latitude": 23.22267,
+        "longitude": 89.81574
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১০৭নং ভাজন্দী সঃ প্রাঃ বিঃ, ভাজন্দী ",
+        "male_count": 1425,
+        "female_count": 1270,
+        "hijra_count": 0,
+        "latitude": 23.29629,
+        "longitude": 90.01466
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১০৮ নং ব্যাসপুর সঃ প্রাঃ বিঃ",
+        "male_count": 1759,
+        "female_count": 1764,
+        "hijra_count": 0,
+        "latitude": 23.2798,
+        "longitude": 89.75745
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১০৯ নং বরইহাট সঃ প্রাঃ বিঃ, বরইহাট ",
+        "male_count": 1164,
+        "female_count": 1057,
+        "hijra_count": 0,
+        "latitude": 23.27798,
+        "longitude": 89.98502
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১০ নং বাঘাদিয়া সঃ প্রাঃ বিঃ, বাঘাদিয়া ",
+        "male_count": 1220,
+        "female_count": 1077,
+        "hijra_count": 0,
+        "latitude": 23.2739,
+        "longitude": 89.96518
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১১নং বামনডাংগা হাট  সঃ প্রাঃ বিঃ, বামনডাংগা",
+        "male_count": 1945,
+        "female_count": 1691,
+        "hijra_count": 0,
+        "latitude": 23.26154,
+        "longitude": 89.98501
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১২ নং ধানজাইল সঃ প্রাঃ বিঃ",
+        "male_count": 1516,
+        "female_count": 1466,
+        "hijra_count": 0,
+        "latitude": 23.29409,
+        "longitude": 89.73652
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১২নং পূর্ব লওখন্ডা  সঃ প্রাঃ বিঃ, পূর্ব লওখন্ডা",
+        "male_count": 1118,
+        "female_count": 1018,
+        "hijra_count": 0,
+        "latitude": 23.25511,
+        "longitude": 89.96358
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১৪নং মুনিরকান্দি  সঃ প্রাঃ বিঃ, মুনিরকান্দি",
+        "male_count": 1847,
+        "female_count": 1606,
+        "hijra_count": 0,
+        "latitude": 23.24774,
+        "longitude": 89.98861
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১৫ নং মাজড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1086,
+        "female_count": 1061,
+        "hijra_count": 0,
+        "latitude": 23.24145,
+        "longitude": 89.75341
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১৫নং হরিশ্চর সঃ প্রাঃ বিঃ, হরিশ্চর",
+        "male_count": 1223,
+        "female_count": 1098,
+        "hijra_count": 0,
+        "latitude": 23.24349,
+        "longitude": 90.00201
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১৬নং ফতেপুর  সঃ প্রাঃ বিঃ, ফতেপুর",
+        "male_count": 857,
+        "female_count": 787,
+        "hijra_count": 0,
+        "latitude": 23.23853,
+        "longitude": 90.00948
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১৭নং দক্ষিণ গংগারামপুর সঃ প্রাঃ বিঃ, দক্ষিণ গংগারামপুর",
+        "male_count": 1581,
+        "female_count": 1419,
+        "hijra_count": 0,
+        "latitude": 23.23317,
+        "longitude": 90.00975
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১৯ নং তপারকান্দি সঃ প্রাঃ বিঃ, তপারকান্দি",
+        "male_count": 837,
+        "female_count": 800,
+        "hijra_count": 0,
+        "latitude": 23.28257,
+        "longitude": 90.02
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১১ নং পাথরাইল সঃ প্রাঃ বিঃ, পাথরাইল",
+        "male_count": 2007,
+        "female_count": 1946,
+        "hijra_count": 0,
+        "latitude": 23.29699,
+        "longitude": 89.8621
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১২১ নং ছাগলছিড়া সঃ প্রাঃ বিঃ, ছাগলছিড়া",
+        "male_count": 1777,
+        "female_count": 1643,
+        "hijra_count": 0,
+        "latitude": 23.2717,
+        "longitude": 90.01498
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১২৩ নং সুন্দরদী সঃ প্রাঃ বিঃ, সুন্দরদী ",
+        "male_count": 1112,
+        "female_count": 1016,
+        "hijra_count": 0,
+        "latitude": 23.26105,
+        "longitude": 90.00455
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১২৫ নং চর প্রসন্নদী সঃ প্রাঃ বিঃ, চর প্রসন্নদী",
+        "male_count": 1916,
+        "female_count": 1801,
+        "hijra_count": 0,
+        "latitude": 23.23579,
+        "longitude": 90.01516
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১২৭ নং কেজিএ সঃ প্রাঃ বিঃ, গোপালপুর",
+        "male_count": 1066,
+        "female_count": 1069,
+        "hijra_count": 0,
+        "latitude": 23.29237,
+        "longitude": 89.87219
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১২ নং নাওরা ভাদুলিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1546,
+        "female_count": 1577,
+        "hijra_count": 0,
+        "latitude": 23.21283,
+        "longitude": 89.77042
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৩৬ নং বিশ্বম্ভরদী সঃ প্রাঃ বিঃ, বিশ্বম্ভরদী",
+        "male_count": 1616,
+        "female_count": 1451,
+        "hijra_count": 0,
+        "latitude": 23.31233,
+        "longitude": 89.99704
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৩ নং মুকসুদপুর সঃ প্রাঃ বিঃ, মুকসুদপুর",
+        "male_count": 2284,
+        "female_count": 2120,
+        "hijra_count": 0,
+        "latitude": 23.30165,
+        "longitude": 89.83611
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৩নং মোচনা ইউনিয়ন পরিষদ ভবন, আইকদিয়া",
+        "male_count": 1941,
+        "female_count": 1818,
+        "hijra_count": 0,
+        "latitude": 23.29227,
+        "longitude": 89.93224
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৪১ নং পি. কে. ইউ. এন. সঃ প্রাঃ বিঃ, কমলাপুর",
+        "male_count": 965,
+        "female_count": 969,
+        "hijra_count": 0,
+        "latitude": 23.33136,
+        "longitude": 89.8871
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৪৪ নং শান্তিপুর সঃ প্রাঃ বিঃ, শান্তিপুর",
+        "male_count": 1298,
+        "female_count": 1285,
+        "hijra_count": 0,
+        "latitude": 23.2232,
+        "longitude": 89.9884
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৪৬ নং মোল্যাদি সঃ প্রাঃ বিঃ, মোল্যাদি ",
+        "male_count": 1689,
+        "female_count": 1441,
+        "hijra_count": 0,
+        "latitude": 23.25717,
+        "longitude": 89.9956
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৪ নং ভাট্টাইধোবা সঃ প্রাঃ বিঃ",
+        "male_count": 2266,
+        "female_count": 2189,
+        "hijra_count": 0,
+        "latitude": 23.2459,
+        "longitude": 89.76779
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৫১ নং রাঘদী মাহাতাবউদ্দিন সঃ প্রাঃ বিঃ, রাঘদী ",
+        "male_count": 1605,
+        "female_count": 1342,
+        "hijra_count": 0,
+        "latitude": 23.24633,
+        "longitude": 90.01556
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৫৬ নং হোগলাকান্দি সঃ প্রাঃ বিঃ",
+        "male_count": 1368,
+        "female_count": 1429,
+        "hijra_count": 0,
+        "latitude": 23.28717,
+        "longitude": 89.78839
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৫ নং পারুলিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1674,
+        "female_count": 1729,
+        "hijra_count": 0,
+        "latitude": 23.21654,
+        "longitude": 89.78937
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৬০ নং গদার ভাজন্দী সঃ প্রাঃ বিঃ, গদার ভাজন্দী",
+        "male_count": 1203,
+        "female_count": 1085,
+        "hijra_count": 0,
+        "latitude": 23.30686,
+        "longitude": 90.00438
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৬৯ নং মোসলেম উদ্দিন সঃ প্রাঃ বিঃ",
+        "male_count": 1616,
+        "female_count": 1613,
+        "hijra_count": 0,
+        "latitude": 23.25904,
+        "longitude": 89.80199
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৮ নং অর্জুন্দাহ শ্রীনিবাসকাঠী সঃ প্রাঃ বিঃ, অর্জুন্দাহ ",
+        "male_count": 1906,
+        "female_count": 1904,
+        "hijra_count": 0,
+        "latitude": 23.2803,
+        "longitude": 89.84457
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৯ নং খান্দারপাড়া সঃ প্রাঃ বিঃ, খান্দারপাড়া",
+        "male_count": 1812,
+        "female_count": 1854,
+        "hijra_count": 0,
+        "latitude": 23.26488,
+        "longitude": 89.84661
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১৯ নং শংকরপাশা সঃ প্রাঃ বিঃ",
+        "male_count": 1543,
+        "female_count": 1512,
+        "hijra_count": 0,
+        "latitude": 23.19161,
+        "longitude": 89.69831
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "১ নং পোনা সঃ প্রাঃ বিঃ",
+        "male_count": 1904,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.22696,
+        "longitude": 89.7275
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "২১ নং ধানকোড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1191,
+        "female_count": 1134,
+        "hijra_count": 0,
+        "latitude": 23.18277,
+        "longitude": 89.71677
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "২১ নং ধারেন্দা সঃ প্রাঃ বিঃ, ধারেন্দা",
+        "male_count": 1612,
+        "female_count": 1623,
+        "hijra_count": 0,
+        "latitude": 23.26104,
+        "longitude": 89.87237
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "২২ নং চাপ্তা সঃ প্রাঃ বিঃ",
+        "male_count": 1885,
+        "female_count": 1953,
+        "hijra_count": 0,
+        "latitude": 23.19241,
+        "longitude": 89.74994
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "২৪ নং হরিদাশপুর সঃ প্রাঃ বিঃ",
+        "male_count": 743,
+        "female_count": 781,
+        "hijra_count": 0,
+        "latitude": 23.22035,
+        "longitude": 89.76483
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "২৫ নং নোয়াপাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1568,
+        "female_count": 1479,
+        "hijra_count": 0,
+        "latitude": 23.26764,
+        "longitude": 89.79773
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "২৮ নং খারহাট সঃ প্রাঃ বিঃ",
+        "male_count": 1549,
+        "female_count": 1594,
+        "hijra_count": 0,
+        "latitude": 23.24767,
+        "longitude": 89.73169
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "২ নং কমলাপুর সঃ প্রাঃ বিঃ, কমলাপুর",
+        "male_count": 1487,
+        "female_count": 1537,
+        "hijra_count": 0,
+        "latitude": 23.32125,
+        "longitude": 89.87886
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "২ নং খারহাট সঃ প্রাঃ বিঃ",
+        "male_count": 1088,
+        "female_count": 1062,
+        "hijra_count": 0,
+        "latitude": 23.26201,
+        "longitude": 89.74134
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩০নং তারাইল সঃ প্রাঃ বিঃ, তারাইল",
+        "male_count": 878,
+        "female_count": 879,
+        "hijra_count": 0,
+        "latitude": 23.223,
+        "longitude": 89.85158
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩০ নং বলুগ্রাম সঃ প্রাঃ বিঃ",
+        "male_count": 714,
+        "female_count": 672,
+        "hijra_count": 0,
+        "latitude": 23.31047,
+        "longitude": 89.79105
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩৪ নং বাঁশবাড়ীয়া সঃ প্রাঃ বিঃ, বাঁশবাড়ীয়া ",
+        "male_count": 1154,
+        "female_count": 1102,
+        "hijra_count": 0,
+        "latitude": 23.25122,
+        "longitude": 89.88725
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩৪ নং মহানাগ সঃ প্রাঃ বিঃ",
+        "male_count": 811,
+        "female_count": 801,
+        "hijra_count": 0,
+        "latitude": 23.22859,
+        "longitude": 89.75024
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩৫ নং ঝুটিগ্রাম সঃ প্রাঃ বিঃ, ঝুটিগ্রাম ",
+        "male_count": 1212,
+        "female_count": 1247,
+        "hijra_count": 0,
+        "latitude": 23.2556,
+        "longitude": 89.891
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩৭ নং খাঞ্জাপুর সঃ প্রাঃ বিঃ, খাঞ্জাপুর ",
+        "male_count": 1364,
+        "female_count": 1293,
+        "hijra_count": 0,
+        "latitude": 23.24288,
+        "longitude": 89.89241
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩৭ নং বাগঝাপা সঃ প্রাঃ বিঃ",
+        "male_count": 1185,
+        "female_count": 1116,
+        "hijra_count": 0,
+        "latitude": 23.24765,
+        "longitude": 89.74478
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩৮ নং পশ্চিম রাতইল সঃ প্রাঃ বিঃ",
+        "male_count": 1978,
+        "female_count": 2011,
+        "hijra_count": 0,
+        "latitude": 23.18568,
+        "longitude": 89.7292
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩৯ নং উত্তর চরভাটপাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1558,
+        "female_count": 1488,
+        "hijra_count": 0,
+        "latitude": 23.18659,
+        "longitude": 89.69081
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৩ নং বরাশুর সঃ প্রাঃ বিঃ",
+        "male_count": 813,
+        "female_count": 834,
+        "hijra_count": 0,
+        "latitude": 23.21761,
+        "longitude": 89.70077
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৪০ নং তিতাগ্রাম শিবপুর সঃ প্রাঃ বিঃ",
+        "male_count": 1648,
+        "female_count": 1634,
+        "hijra_count": 0,
+        "latitude": 23.23211,
+        "longitude": 89.79099
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৪০ নং শিমুলশুর সঃ প্রাঃ বিঃ, শিমুলশুর ",
+        "male_count": 1405,
+        "female_count": 1335,
+        "hijra_count": 0,
+        "latitude": 23.26381,
+        "longitude": 89.93394
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৪১ নং ভাবড়াশুর সঃ প্রাঃ বিঃ, ভাবড়াশুর ",
+        "male_count": 0,
+        "female_count": 1989,
+        "hijra_count": 0,
+        "latitude": 23.27317,
+        "longitude": 89.89127
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৪২ নং ঘোনাপাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1405,
+        "female_count": 1459,
+        "hijra_count": 0,
+        "latitude": 23.18814,
+        "longitude": 89.76296
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৪২ নং বোয়ালিয়া সঃ প্রাঃ বিঃ, বোয়ালিয়া",
+        "male_count": 0,
+        "female_count": 2302,
+        "hijra_count": 0,
+        "latitude": 23.28573,
+        "longitude": 89.87112
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৪৮ নং মহারাজপুর সঃ প্রাঃ বিঃ, মহারাজপুর ",
+        "male_count": 1232,
+        "female_count": 1191,
+        "hijra_count": 0,
+        "latitude": 23.31009,
+        "longitude": 89.90721
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৪৯ নং খালিশাকান্দি সঃ প্রাঃ বিঃ, খালিশাকান্দি ",
+        "male_count": 1590,
+        "female_count": 1501,
+        "hijra_count": 0,
+        "latitude": 23.33465,
+        "longitude": 89.9018
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৪ নং প্রভাকরদী সঃ প্রাঃ বিঃ, প্রভাকরদী",
+        "male_count": 675,
+        "female_count": 670,
+        "hijra_count": 0,
+        "latitude": 23.32368,
+        "longitude": 89.84571
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৫০ নং বাজার বনগ্রাম সঃ প্রাঃ বিঃ, পূর্ব মহারাজপুর",
+        "male_count": 1725,
+        "female_count": 1670,
+        "hijra_count": 0,
+        "latitude": 23.30268,
+        "longitude": 89.92033
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৫৫ নং বাহাড়া সঃ প্রাঃ বিঃ,বাহাড়া",
+        "male_count": 1733,
+        "female_count": 1654,
+        "hijra_count": 0,
+        "latitude": 23.34143,
+        "longitude": 89.96244
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৫৬ নং কহলদিয়া সঃ প্রাঃ বিঃ, কহলদিয়া ",
+        "male_count": 1387,
+        "female_count": 1332,
+        "hijra_count": 0,
+        "latitude": 23.33135,
+        "longitude": 89.96827
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৫৭ নং আলীপুর সঃ প্রাঃ বিঃ, আলীপুর ",
+        "male_count": 1282,
+        "female_count": 1197,
+        "hijra_count": 0,
+        "latitude": 23.33193,
+        "longitude": 89.97792
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৫৯ নং চাওচা খাঞ্জাপুর সঃ প্রাঃ বিঃ, চাওচা",
+        "male_count": 2054,
+        "female_count": 1911,
+        "hijra_count": 0,
+        "latitude": 23.30918,
+        "longitude": 89.96755
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৫ নং পশারগাতী সঃ প্রাঃ বিঃ, পশারগাতী",
+        "male_count": 893,
+        "female_count": 897,
+        "hijra_count": 0,
+        "latitude": 23.30852,
+        "longitude": 89.82755
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৬০ নং মোচনা সঃ প্রাঃ বিঃ, মোচনা",
+        "male_count": 1381,
+        "female_count": 1268,
+        "hijra_count": 0,
+        "latitude": 23.2562,
+        "longitude": 89.93668
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৬৩নং ঘুনসী সঃ প্রাঃ বিঃ, ঘুনসী",
+        "male_count": 1104,
+        "female_count": 1027,
+        "hijra_count": 0,
+        "latitude": 23.28436,
+        "longitude": 89.92658
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৬৪নং নওহাটা সঃ প্রাঃ বিঃ, নওহাটা",
+        "male_count": 2868,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.27052,
+        "longitude": 89.9428
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৬৫ নং সাতাশিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1498,
+        "female_count": 1532,
+        "hijra_count": 0,
+        "latitude": 23.19814,
+        "longitude": 89.83447
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৬ নং কৃষ্ণাদিয়া সঃ প্রাঃ বিঃ,কৃষ্ণাদিয়া",
+        "male_count": 1533,
+        "female_count": 1521,
+        "hijra_count": 0,
+        "latitude": 23.33797,
+        "longitude": 89.82121
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৬ নং হিরন্যকান্দি সঃ প্রাঃ বিঃ",
+        "male_count": 2188,
+        "female_count": 2142,
+        "hijra_count": 0,
+        "latitude": 23.26022,
+        "longitude": 89.76162
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৭২ নং মহাটালী সঃ প্রাঃ বিঃ, মহাটালী ",
+        "male_count": 0,
+        "female_count": 1351,
+        "hijra_count": 0,
+        "latitude": 23.19679,
+        "longitude": 89.89889
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৭৩ নং দক্ষিণ মহাটালী সঃ প্রাঃ বিঃ, মহাটালী",
+        "male_count": 1340,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.19679,
+        "longitude": 89.89889
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৭৬ নং পাটিকেলবাড়ী সঃ প্রাঃ বিঃ, পাটিকেলবাড়ী",
+        "male_count": 1887,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.20065,
+        "longitude": 89.91323
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৮১ নং বামনগাতী সঃ প্রাঃ বিঃ",
+        "male_count": 1494,
+        "female_count": 1365,
+        "hijra_count": 0,
+        "latitude": 23.24296,
+        "longitude": 89.91466
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৮২নং মালদিয়া কাশালীয়া সঃ  প্রাঃ বিঃ, কাশালীয়া",
+        "male_count": 1905,
+        "female_count": 1748,
+        "hijra_count": 0,
+        "latitude": 23.24683,
+        "longitude": 89.92743
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৮৯নং ননীক্ষির সঃ প্রাঃ বিঃ, ননীক্ষির",
+        "male_count": 0,
+        "female_count": 2445,
+        "hijra_count": 0,
+        "latitude": 23.23835,
+        "longitude": 89.95135
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৮ নং আড়পাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 860,
+        "female_count": 824,
+        "hijra_count": 0,
+        "latitude": 23.28934,
+        "longitude": 89.79569
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৮ নং পাচুড়িয়া সঃ প্রাঃ বিঃ, পাচুড়িয়া",
+        "male_count": 1107,
+        "female_count": 1146,
+        "hijra_count": 0,
+        "latitude": 23.30347,
+        "longitude": 89.8
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৯১নং বড় ভাটরা সঃ প্রাঃ বিঃ, বড় ভাটরা",
+        "male_count": 1446,
+        "female_count": 1356,
+        "hijra_count": 0,
+        "latitude": 23.23785,
+        "longitude": 89.96545
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৯২নং বনগ্রাম সঃ প্রাঃ বিঃ, বনগ্রাম",
+        "male_count": 770,
+        "female_count": 716,
+        "hijra_count": 0,
+        "latitude": 23.22227,
+        "longitude": 89.94754
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৯৩নং গোয়ালগ্রাম সঃ প্রাঃ বিঃ, গোয়ালগ্রাম",
+        "male_count": 1903,
+        "female_count": 1764,
+        "hijra_count": 0,
+        "latitude": 23.22413,
+        "longitude": 89.95776
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৯৬নং কলিগ্রাম সেন্ট পিটার্স সঃ প্রাঃ বিঃ, কলিগ্রাম",
+        "male_count": 1874,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.21002,
+        "longitude": 89.96429
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৯৮নং দঃ জলিরপাড় সঃ প্রাঃ বিঃ, জলিরপাড়",
+        "male_count": 1007,
+        "female_count": 1050,
+        "hijra_count": 0,
+        "latitude": 23.21047,
+        "longitude": 89.97486
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৯৯নং বানিয়ারচর সঃ প্রাঃ বিঃ, বানিয়ারচর",
+        "male_count": 1571,
+        "female_count": 1561,
+        "hijra_count": 0,
+        "latitude": 23.2076,
+        "longitude": 89.96982
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "৯ নং গোবিন্দপুর সঃ প্রাঃ বিঃ, গোবিন্দপুর",
+        "male_count": 1517,
+        "female_count": 1546,
+        "hijra_count": 0,
+        "latitude": 23.26604,
+        "longitude": 89.83129
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "আইকদিয়া আছিয়া উচ্চ বিদ্যালয়, আইকদিয়া",
+        "male_count": 683,
+        "female_count": 665,
+        "hijra_count": 0,
+        "latitude": 23.29568,
+        "longitude": 89.92795
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "উজানী ইউনিয়ন পরিষদ, উজানী",
+        "male_count": 896,
+        "female_count": 822,
+        "hijra_count": 0,
+        "latitude": 23.21014,
+        "longitude": 89.89773
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "উজানী বি ইউ কে উচ্চ বিদ্যালয়, উজানী ",
+        "male_count": 1321,
+        "female_count": 1283,
+        "hijra_count": 0,
+        "latitude": 23.23728,
+        "longitude": 89.89869
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "এম এ খালেক সঃ প্রাঃ বিঃ, লখাইরচর",
+        "male_count": 922,
+        "female_count": 971,
+        "hijra_count": 0,
+        "latitude": 23.33673,
+        "longitude": 89.8487
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "কারিতাস টেকনিক্যাল স্কুল, বানিয়ারচর",
+        "male_count": 1118,
+        "female_count": 1129,
+        "hijra_count": 0,
+        "latitude": 23.20746,
+        "longitude": 89.96584
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "কালিনগর উচ্চ বিদ্যালয়, কালিনগর ",
+        "male_count": 1503,
+        "female_count": 1440,
+        "hijra_count": 0,
+        "latitude": 23.28055,
+        "longitude": 89.92693
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "কাশিয়ানী গিরিশ চন্দ্র পাইলট উচ্চ বিঃ",
+        "male_count": 2017,
+        "female_count": 2214,
+        "hijra_count": 0,
+        "latitude": 23.23629,
+        "longitude": 89.71816
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "গাড়লগাতী কে এম উচ্চ বিদ্যালয়, গাড়লগাতী",
+        "male_count": 1401,
+        "female_count": 1413,
+        "hijra_count": 0,
+        "latitude": 23.2251,
+        "longitude": 89.84568
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "গোয়ালগ্রাম কামিল মাদ্রাসা",
+        "male_count": 1872,
+        "female_count": 1875,
+        "hijra_count": 0,
+        "latitude": 23.24376,
+        "longitude": 89.82046
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "গোলাবাড়ীয়া উচ্চ বিদ্যালয়, গোলাবাড়ীয়া",
+        "male_count": 743,
+        "female_count": 697,
+        "hijra_count": 0,
+        "latitude": 23.31333,
+        "longitude": 89.89689
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "গোহালা টিসিএল উচ্চ বিদ্যালয়,  গোহালা",
+        "male_count": 1160,
+        "female_count": 1076,
+        "hijra_count": 0,
+        "latitude": 23.25281,
+        "longitude": 89.98717
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "জয়নগর উচ্চ বিদ্যালয়",
+        "male_count": 1869,
+        "female_count": 1924,
+        "hijra_count": 0,
+        "latitude": 23.28192,
+        "longitude": 89.77441
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "জলিরপাড় জে  কে  এম  বি মল্লিক উচ্চ বিদ্যালয়, জলিরপাড়",
+        "male_count": 913,
+        "female_count": 936,
+        "hijra_count": 0,
+        "latitude": 23.22072,
+        "longitude": 89.97281
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "দিগনগর উচ্চ বিদ্যালয়, দিগনগর",
+        "male_count": 1413,
+        "female_count": 1326,
+        "hijra_count": 0,
+        "latitude": 23.30229,
+        "longitude": 90.0041
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "দীঘড়গাতী আর. এস. বি. উচ্চ বিদ্যালয়",
+        "male_count": 1519,
+        "female_count": 1550,
+        "hijra_count": 0,
+        "latitude": 23.22494,
+        "longitude": 89.82803
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "নওহাটা এ  আর  এম উচ্চ বিদ্যালয়, নওহাটা",
+        "male_count": 0,
+        "female_count": 2600,
+        "hijra_count": 0,
+        "latitude": 23.27012,
+        "longitude": 89.94326
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "ননীক্ষির উচ্চ বিদ্যালয়, ননীক্ষির",
+        "male_count": 2482,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.23835,
+        "longitude": 89.95135
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "পশারগাতী ইউনিয়ন পরিষদ, পশারগাতী",
+        "male_count": 1915,
+        "female_count": 1847,
+        "hijra_count": 0,
+        "latitude": 23.31211,
+        "longitude": 89.8088
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "পিংগলিয়া সিদ্দিকিয়া সিঃ ফাঃ মাদ্রাসা",
+        "male_count": 1089,
+        "female_count": 1087,
+        "hijra_count": 0,
+        "latitude": 23.24809,
+        "longitude": 89.73519
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "পিটার্স চার্জ অব বাংলাদেশ মিশন সংলগ্ন কলিগ্রাম চাইল্ড স্পঞ্চারশিপ কিন্ডার গার্ডেন, কলিগ্রাম",
+        "male_count": 0,
+        "female_count": 1870,
+        "hijra_count": 0,
+        "latitude": 23.2108,
+        "longitude": 89.96348
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "পোনা এম, এ খালেক উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2070,
+        "hijra_count": 0,
+        "latitude": 23.22664,
+        "longitude": 89.72765
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বঙ্গরত্ন ডিগ্রী মহাবিদ্যালয়, কলিগ্রাম",
+        "male_count": 826,
+        "female_count": 807,
+        "hijra_count": 0,
+        "latitude": 23.21916,
+        "longitude": 89.96545
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বনগ্রাম ইসলামিয়া দাখিল মাদ্রাসা, বনগ্রাম",
+        "male_count": 2113,
+        "female_count": 2004,
+        "hijra_count": 0,
+        "latitude": 23.31317,
+        "longitude": 89.93637
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বরইহাট সিদ্দিকীয়া সিনিয়র মাদরাসা",
+        "male_count": 2066,
+        "female_count": 1972,
+        "hijra_count": 0,
+        "latitude": 23.17631,
+        "longitude": 89.84667
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বহুগ্রাম ইউনিয়ন পরিষদ,বলনারায়ন",
+        "male_count": 981,
+        "female_count": 1005,
+        "hijra_count": 0,
+        "latitude": 23.23526,
+        "longitude": 89.85006
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বহুগ্রাম পি সি উচ্চ বিদ্যালয়, বহুগ্রাম",
+        "male_count": 2099,
+        "female_count": 2020,
+        "hijra_count": 0,
+        "latitude": 23.2429,
+        "longitude": 89.87244
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বাটিকামারী উচ্চ বিদ্যালয়, বাটিকামারী",
+        "male_count": 1385,
+        "female_count": 1352,
+        "hijra_count": 0,
+        "latitude": 23.31843,
+        "longitude": 89.95131
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বাথানডাংগা উচ্চ বিদ্যালয়",
+        "male_count": 1349,
+        "female_count": 1331,
+        "hijra_count": 0,
+        "latitude": 23.2558,
+        "longitude": 89.81317
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বাসুড়িয়া উচ্চ বিদ্যালয়, বাসুড়িয়া ",
+        "male_count": 520,
+        "female_count": 528,
+        "hijra_count": 0,
+        "latitude": 23.1968,
+        "longitude": 89.86371
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বাহাড়া মৌলভী বাজার আলিম মাদ্রাসা, বাহাড়া",
+        "male_count": 1042,
+        "female_count": 967,
+        "hijra_count": 0,
+        "latitude": 23.3446,
+        "longitude": 89.95749
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বি পি পি উচ্চ বিদ্যালয়, পাটিকেলবাড়ী",
+        "male_count": 0,
+        "female_count": 1681,
+        "hijra_count": 0,
+        "latitude": 23.20065,
+        "longitude": 89.91323
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বেজড়া জসিমুন্নেছা উচ্চ বিদ্যালয়, বেজড়া",
+        "male_count": 1416,
+        "female_count": 1423,
+        "hijra_count": 0,
+        "latitude": 23.24668,
+        "longitude": 89.84305
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বেদগ্রাম উচ্চ বিদ্যালয়, বেদগ্রাম",
+        "male_count": 1776,
+        "female_count": 1615,
+        "hijra_count": 0,
+        "latitude": 23.21988,
+        "longitude": 89.90415
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "বোয়ালিয়া নেজামুদ্দিন উচ্চ বিদ্যালয়, বোয়ালিয়া ",
+        "male_count": 2320,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.29324,
+        "longitude": 89.88453
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "ভাটিয়াপাড়া উচ্চ বিদ্যালয়",
+        "male_count": 1091,
+        "female_count": 1106,
+        "hijra_count": 0,
+        "latitude": 23.20998,
+        "longitude": 89.6999
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "ভাটিয়াপাড়া একতা কিন্ডার গার্টেন স্কুল",
+        "male_count": 1450,
+        "female_count": 1429,
+        "hijra_count": 0,
+        "latitude": 23.21292,
+        "longitude": 89.69969
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "ভাবড়াশুর ইউনিয়ন পরিষদ, ভাবড়াশুর ",
+        "male_count": 2104,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.29322,
+        "longitude": 89.88455
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "মুকসুদপুর পাইলট বালক উচ্চ বিদ্যালয়, দক্ষিন চন্ডিবর্দী",
+        "male_count": 2080,
+        "female_count": 2192,
+        "hijra_count": 0,
+        "latitude": 23.32038,
+        "longitude": 89.86876
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "রাজপাট উচ্চ বিদ্যালয়",
+        "male_count": 1410,
+        "female_count": 1367,
+        "hijra_count": 0,
+        "latitude": 23.18668,
+        "longitude": 89.85207
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "রাজপাট ডিগ্রী কলেজ",
+        "male_count": 831,
+        "female_count": 861,
+        "hijra_count": 0,
+        "latitude": 23.18408,
+        "longitude": 89.85199
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "লোহাইড় দারুল উলুম ফাজিল মাদ্রাসা, লোহাইড় ",
+        "male_count": 2338,
+        "female_count": 2181,
+        "hijra_count": 0,
+        "latitude": 23.30739,
+        "longitude": 89.94289
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "লোহাচূড়া ইসলামিয়া দারুল উলুম দাখিল মাদ্রাসা, লোহাচূড়া ",
+        "male_count": 1261,
+        "female_count": 1270,
+        "hijra_count": 0,
+        "latitude": 23.31383,
+        "longitude": 89.90385
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "সরকারি মুকসুদপুর কলেজ, গোপীনাথপুর",
+        "male_count": 2312,
+        "female_count": 2439,
+        "hijra_count": 0,
+        "latitude": 23.31243,
+        "longitude": 89.86437
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "সাজাইল গোপী মোহন উচ্চ বিদ্যালয়",
+        "male_count": 1016,
+        "female_count": 1058,
+        "hijra_count": 0,
+        "latitude": 23.2226,
+        "longitude": 89.77581
+    },
+    {
+        "settings_code": 215,
+        "settings_name": "গোপালগঞ্জ-১",
+        "center_name": "সুরুপী সালিনাবক্স উচ্চ বিদ্যালয়, সালিনাবক্স",
+        "male_count": 1837,
+        "female_count": 1808,
+        "hijra_count": 0,
+        "latitude": 23.29055,
+        "longitude": 89.81214
+    }
+]

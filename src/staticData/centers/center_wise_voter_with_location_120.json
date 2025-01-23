@@ -1,0 +1,1362 @@
+[
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "আউয়ার মাঃ বালিকা বিঃ, আউয়ার",
+        "male_count": 1467,
+        "female_count": 1443,
+        "hijra_count": 0,
+        "latitude": 22.81902,
+        "longitude": 90.13383
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "আটিপাড়া মাধ্যমিক বিদ্যালয়, আটিপাড়া",
+        "male_count": 1270,
+        "female_count": 1329,
+        "hijra_count": 0,
+        "latitude": 22.85872,
+        "longitude": 90.2476
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "আলতা সরকারী প্রাথমিক বিদ্যালয়, আলতা",
+        "male_count": 776,
+        "female_count": 785,
+        "hijra_count": 0,
+        "latitude": 22.76292,
+        "longitude": 90.16088
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ইচলাদি সরকারী প্রাথমিক বিদ্যালয়, ইচলাদি",
+        "male_count": 1230,
+        "female_count": 1169,
+        "hijra_count": 0,
+        "latitude": 22.82982,
+        "longitude": 90.25365
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ইন্দেরহাওলা সরকারী প্রাথমিক বিদ্যালয়, ইন্দেরহাওলা",
+        "male_count": 1480,
+        "female_count": 1433,
+        "hijra_count": 0,
+        "latitude": 22.83072,
+        "longitude": 90.13014
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ইলুহার বিহারী লাল একাডেমী, ইলুহার",
+        "male_count": 986,
+        "female_count": 939,
+        "hijra_count": 0,
+        "latitude": 22.77834,
+        "longitude": 90.11264
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "উজিরপুর মহিলা কলেজ, উজিরপুর",
+        "male_count": 1604,
+        "female_count": 1706,
+        "hijra_count": 0,
+        "latitude": 22.81816,
+        "longitude": 90.24577
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "উত্তর কুড়লিয়া সরকারী প্রাথমিক বিদ্যালয়, কুড়লিয়া",
+        "male_count": 820,
+        "female_count": 755,
+        "hijra_count": 0,
+        "latitude": 22.91682,
+        "longitude": 90.1166
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "উত্তরকুল হাই স্কুল, উত্তরকুল",
+        "male_count": 1262,
+        "female_count": 1299,
+        "hijra_count": 0,
+        "latitude": 22.79989,
+        "longitude": 90.14845
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "উত্তর ধামুড়া সরকারী প্রাথমিক বিদ্যালয়, উত্তর ধামুড়া",
+        "male_count": 1751,
+        "female_count": 1756,
+        "hijra_count": 0,
+        "latitude": 22.90463,
+        "longitude": 90.19555
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "উত্তর নাজিরপুর সরকারী প্রাথমিক বিদ্যালয়, দান্ডয়াট",
+        "male_count": 1689,
+        "female_count": 1641,
+        "hijra_count": 0,
+        "latitude": 22.78631,
+        "longitude": 90.14521
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "উত্তর মুন্সীর তাল্লুক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 762,
+        "female_count": 711,
+        "hijra_count": 0,
+        "latitude": 22.91481,
+        "longitude": 90.13582
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "উত্তর সাতলা সাইয়েদিয়া দারুল উলুম মাদ্রাসা, উত্তর সাতলা",
+        "male_count": 1042,
+        "female_count": 976,
+        "hijra_count": 0,
+        "latitude": 22.91554,
+        "longitude": 90.06903
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "উদয়কাঠী ইউনিয়ন প্রগতি সরকারী প্রাথমিক বিদ্যালয়, উদয়কাঠী",
+        "male_count": 784,
+        "female_count": 751,
+        "hijra_count": 0,
+        "latitude": 22.80817,
+        "longitude": 90.09557
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "একসাড়া পাড়া স: প্রা: বিদ্যালয়, একসাড়াপাড়া",
+        "male_count": 1039,
+        "female_count": 1087,
+        "hijra_count": 0,
+        "latitude": 22.78066,
+        "longitude": 90.18279
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "এম, এ, লতিফ বহুমূখী আলীম মাদ্রাসা, বানারীপাড়া",
+        "male_count": 2063,
+        "female_count": 2005,
+        "hijra_count": 0,
+        "latitude": 22.78849,
+        "longitude": 90.16083
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ওটরা মাধ্যমিক বিদ্যালয়,ওটরা",
+        "male_count": 1102,
+        "female_count": 1056,
+        "hijra_count": 0,
+        "latitude": 22.86125,
+        "longitude": 90.16984
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কচুয়া রাড়ীপাড়া সরকারী প্রাথমিক বিদ্যালয়, কচুয়া",
+        "male_count": 1544,
+        "female_count": 1447,
+        "hijra_count": 0,
+        "latitude": 22.79972,
+        "longitude": 90.14069
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কচুয়া সরকারী প্রাথমিক বিদ্যালয়, কচুয়া",
+        "male_count": 1134,
+        "female_count": 1184,
+        "hijra_count": 0,
+        "latitude": 22.89297,
+        "longitude": 90.22618
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কমলাপুর সরকারী প্রাথমিক বিদ্যালয়, কমলাপুর",
+        "male_count": 1347,
+        "female_count": 1245,
+        "hijra_count": 0,
+        "latitude": 22.81516,
+        "longitude": 90.24532
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কলাভিটা সরকারী প্রাঃ বিদ্যালয়, কলাভিটা",
+        "male_count": 1794,
+        "female_count": 1575,
+        "hijra_count": 0,
+        "latitude": 22.85191,
+        "longitude": 90.06776
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কাজিরা হস্তিশুন্ড সরকারি প্রাথমিক বিদ্যালয়, কাজিরা",
+        "male_count": 1704,
+        "female_count": 1701,
+        "hijra_count": 0,
+        "latitude": 22.87029,
+        "longitude": 90.23171
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কারফা পাবলিক একাডেমী, কারফা",
+        "male_count": 1557,
+        "female_count": 1510,
+        "hijra_count": 0,
+        "latitude": 22.9039,
+        "longitude": 90.15164
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কালবিলা মাধ্যমিক বালিকা বিদ্যালয়, কালবিলা",
+        "male_count": 860,
+        "female_count": 754,
+        "hijra_count": 0,
+        "latitude": 22.81516,
+        "longitude": 90.24532
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কাংশী সরকারী প্রাথমিক বিদ্যালয়, কাংশী",
+        "male_count": 1007,
+        "female_count": 980,
+        "hijra_count": 0,
+        "latitude": 22.88478,
+        "longitude": 90.20619
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "কুড়ালিয়া মাধ্যমিক বিদ্যালয়, কুড়লিয়া",
+        "male_count": 1352,
+        "female_count": 1236,
+        "hijra_count": 0,
+        "latitude": 22.9053,
+        "longitude": 90.1184
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "খোলনা শহীদ স্মৃতি সরকারী প্রাথমিক বিদ্যালয়, খোলনা",
+        "male_count": 1327,
+        "female_count": 1297,
+        "hijra_count": 0,
+        "latitude": 22.87841,
+        "longitude": 90.25257
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "গজালিয়া সরকারী প্রাথমিক বিদ্যালয়, গজালিয়া",
+        "male_count": 779,
+        "female_count": 764,
+        "hijra_count": 0,
+        "latitude": 22.86576,
+        "longitude": 90.15764
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "গড়িয়াগাভা সরকারী প্রাথমিক বিদ্যালয়, গড়িয়াগাভা",
+        "male_count": 1620,
+        "female_count": 1672,
+        "hijra_count": 0,
+        "latitude": 22.85342,
+        "longitude": 90.21832
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "গাজীরপাড় হাই স্কুল সংলগ্ন সরকারী প্রথমিক বিদ্যলয়, গাজীরপাড়",
+        "male_count": 1739,
+        "female_count": 1666,
+        "hijra_count": 0,
+        "latitude": 22.857,
+        "longitude": 90.18721
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "গাভা হাই স্কুল, গাভা",
+        "male_count": 1778,
+        "female_count": 1768,
+        "hijra_count": 0,
+        "latitude": 22.7648,
+        "longitude": 90.17844
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "গুঠিয়া মহেশচন্দ্র মাধ্যমিক বিদ্যালয়, গুঠিয়া",
+        "male_count": 1310,
+        "female_count": 1378,
+        "hijra_count": 1,
+        "latitude": 22.78759,
+        "longitude": 90.25297
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "চকমান মাধ্যমিক বালিকা বিদ্যালয়, চকমান",
+        "male_count": 854,
+        "female_count": 802,
+        "hijra_count": 0,
+        "latitude": 22.87551,
+        "longitude": 90.15025
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "চাউলাকাঠী (জাংগালিয়া) এ, রব মাঃ বিদ্যালয়, জাংগালিয়া",
+        "male_count": 1048,
+        "female_count": 1048,
+        "hijra_count": 0,
+        "latitude": 22.81887,
+        "longitude": 90.17442
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "চাখার ফজলুল হক ইনষ্টিটিউশন, চাখার",
+        "male_count": 1859,
+        "female_count": 1860,
+        "hijra_count": 0,
+        "latitude": 22.80677,
+        "longitude": 90.19402
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "চাংগুরিয়া সরকারী প্রাথমিক বিদ্যালয়, চাংগুরিয়া",
+        "male_count": 1411,
+        "female_count": 1442,
+        "hijra_count": 0,
+        "latitude": 22.78574,
+        "longitude": 90.23859
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "চার্চ অব বাংলাদেশ প্রাথমিক বিদ্যালয়,আলামদী",
+        "male_count": 1171,
+        "female_count": 997,
+        "hijra_count": 0,
+        "latitude": 22.91989,
+        "longitude": 90.05158
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "চালিতাবাড়ী সরকারী প্রাথমিক বিদ্যালয়, চালিতাবাড়ী",
+        "male_count": 1295,
+        "female_count": 1204,
+        "hijra_count": 0,
+        "latitude": 22.83262,
+        "longitude": 90.17386
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "জম্বদ্বীপ বাড়ৈ পাড়া সঃ প্রাঃ বিঃ, জম্বদ্বীপ",
+        "male_count": 700,
+        "female_count": 679,
+        "hijra_count": 0,
+        "latitude": 22.76617,
+        "longitude": 90.14645
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "জয়শ্রী সরকারী প্রাথমিক বিদ্যালয়, জয়শ্রী",
+        "male_count": 1484,
+        "female_count": 1436,
+        "hijra_count": 0,
+        "latitude": 22.85092,
+        "longitude": 90.27361
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "জল্লা সরকারী প্রাথমিক বিদ্যালয়, জল্লা",
+        "male_count": 1568,
+        "female_count": 1503,
+        "hijra_count": 0,
+        "latitude": 22.89785,
+        "longitude": 90.16939
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "জামবাড়ী সরকারী প্রাথমিক বিদ্যালয়, জামবাড়ী",
+        "male_count": 1850,
+        "female_count": 1651,
+        "hijra_count": 0,
+        "latitude": 22.87223,
+        "longitude": 90.1183
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ডব্লিউ বি. ইউনিয়ন ইনস্টিটিউশন, উজিরপুর",
+        "male_count": 873,
+        "female_count": 998,
+        "hijra_count": 0,
+        "latitude": 22.82131,
+        "longitude": 90.242
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "তালাপ্রসাদ সরকারী প্রাথমিক বিদ্যালয়, তালাপ্রসাদ",
+        "male_count": 1366,
+        "female_count": 1277,
+        "hijra_count": 0,
+        "latitude": 22.8187,
+        "longitude": 90.15511
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "তেতলা পিজিএস মাঃ বিঃ, উদয়কাঠী",
+        "male_count": 1846,
+        "female_count": 1772,
+        "hijra_count": 0,
+        "latitude": 22.81601,
+        "longitude": 90.10639
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "তেতলা মধুরভিটা সঃ প্রাঃ বিঃ, তেতলা",
+        "male_count": 1180,
+        "female_count": 1084,
+        "hijra_count": 0,
+        "latitude": 22.81389,
+        "longitude": 90.08305
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "দক্ষিণ ইলুহার সরকারী প্রাথমিক বিদ্যালয়, ইলুহার",
+        "male_count": 1169,
+        "female_count": 1104,
+        "hijra_count": 0,
+        "latitude": 22.78758,
+        "longitude": 90.09353
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "দক্ষিণ হারতা মমিন উদ্দিন দাখিল মাদ্রাসা, দক্ষিন হারতা",
+        "male_count": 1006,
+        "female_count": 916,
+        "hijra_count": 0,
+        "latitude": 22.83916,
+        "longitude": 90.09443
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "দক্ষিন ধামুড়া সরকারী প্রাথমিক বিদ্যালয়, ধামুড়া",
+        "male_count": 1156,
+        "female_count": 1135,
+        "hijra_count": 0,
+        "latitude": 22.88442,
+        "longitude": 90.18975
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "দক্ষিন বড়াকোঠা সরকারী প্রাথমিক বিদ্যালয়, দক্ষিন বড়াকোঠা",
+        "male_count": 1570,
+        "female_count": 1390,
+        "hijra_count": 0,
+        "latitude": 22.8615,
+        "longitude": 90.20381
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "দক্ষিন সাতলা ব্যাপিস্ট চার্চ সংলগ্ন এনজিও ভিত্তিক গনশিক্ষা প্রতিষ্ঠান (মধ্য ও দক্ষিন বাংলাদেশ শিশু উন্নয়ন প্রকল্প-দক্ষিন সাতলা বিডি-০৩৫)",
+        "male_count": 1666,
+        "female_count": 1544,
+        "hijra_count": 0,
+        "latitude": 22.87826,
+        "longitude": 90.05541
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "দরিকর ঈদগাহ মহিলা আলিম মাদ্রাসা",
+        "male_count": 1233,
+        "female_count": 1313,
+        "hijra_count": 0,
+        "latitude": 22.82117,
+        "longitude": 90.1946
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "দামোদারকাঠী আনোয়ারিয়া দাখিল মাদ্রাসা, দামোদারকাঠী",
+        "male_count": 1324,
+        "female_count": 1256,
+        "hijra_count": 0,
+        "latitude": 22.88537,
+        "longitude": 90.24382
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ধামসর অক্সফোর্ড মিশন সরকারী প্রাথমিক বিদ্যালয়, ধামসর",
+        "male_count": 1464,
+        "female_count": 1418,
+        "hijra_count": 0,
+        "latitude": 22.84842,
+        "longitude": 90.2418
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ধামুরা মাধ্যমিক বিদ্যালয়, ধামুরা",
+        "male_count": 1361,
+        "female_count": 1357,
+        "hijra_count": 0,
+        "latitude": 22.89288,
+        "longitude": 90.19669
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "নয়না নয়াবাড়ি সরকারী প্রাথমিক বিদ্যালয়, নয়না নয়াবাড়ি",
+        "male_count": 1204,
+        "female_count": 1213,
+        "hijra_count": 0,
+        "latitude": 22.76752,
+        "longitude": 90.24831
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "নরসিংহা সরকারী প্রাথমিক বিদ্যালয়, নরসিংহা",
+        "male_count": 1540,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 22.85373,
+        "longitude": 90.17586
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "নলশ্রী সরকারী প্রাথমিক বিদ্যালয়, নলশ্রী",
+        "male_count": 624,
+        "female_count": 617,
+        "hijra_count": 0,
+        "latitude": 22.80495,
+        "longitude": 90.15248
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "নাথারকান্দি সরকারী প্রাথমিক বিদ্যালয়, নাথারকান্দি",
+        "male_count": 1926,
+        "female_count": 1780,
+        "hijra_count": 0,
+        "latitude": 22.85624,
+        "longitude": 90.08473
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "নারায়নপুর পল্লী ইউনিয়ন ইনষ্টিটিউশন, নারায়নপুর",
+        "male_count": 1791,
+        "female_count": 1823,
+        "hijra_count": 0,
+        "latitude": 22.78712,
+        "longitude": 90.21821
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পটিবাড়ী কার্ত্তিক মন্ডল সরকারী প্রাথমিক বিদ্যালয়, পটিবাড়ী",
+        "male_count": 1266,
+        "female_count": 1156,
+        "hijra_count": 0,
+        "latitude": 22.91141,
+        "longitude": 90.091
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পশ্চিম ইলুহার মাধ্যমিক বিদ্যালয়, ইলুহার",
+        "male_count": 1433,
+        "female_count": 1276,
+        "hijra_count": 0,
+        "latitude": 22.7903,
+        "longitude": 90.08267
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পশ্চিম উমারের পাড় সরকারী প্রাথমিক বিদ্যালয় ও মাঃ বিঃ, উমারের পাড়",
+        "male_count": 1888,
+        "female_count": 1569,
+        "hijra_count": 0,
+        "latitude": 22.83036,
+        "longitude": 90.06249
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পশ্চিম জয়শ্রী সরকারী প্রাথমিক বিদ্যালয়, পশ্চিম জয়শ্রী",
+        "male_count": 1470,
+        "female_count": 1465,
+        "hijra_count": 0,
+        "latitude": 22.86223,
+        "longitude": 90.26216
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পশ্চিম বাইশারী সরকারী প্রাথমিক বিদ্যালয়, পশ্চিম বাইশারী",
+        "male_count": 959,
+        "female_count": 916,
+        "hijra_count": 0,
+        "latitude": 22.79185,
+        "longitude": 90.12195
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পশ্চিম বিশারকান্দি সরকারী প্রাথমিক বিদ্যালয়, বিশারকান্দি",
+        "male_count": 1423,
+        "female_count": 1167,
+        "hijra_count": 0,
+        "latitude": 22.8259,
+        "longitude": 90.03665
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পশ্চিম মশাং (মশাং এর পাড়) সরকারী প্রাথমিক বিদ্যালয়, মশাং",
+        "male_count": 1200,
+        "female_count": 1108,
+        "hijra_count": 0,
+        "latitude": 22.88109,
+        "longitude": 90.12437
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পশ্চিম সাতলা সরকারী প্রাথমিক বিদ্যালয়,পশ্চিম সাতলা",
+        "male_count": 1735,
+        "female_count": 1460,
+        "hijra_count": 0,
+        "latitude": 22.91476,
+        "longitude": 90.04741
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পশ্চিম সৈয়দকাঠী সরকারী প্রাথমিক বিদ্যালয়, পশ্চিম সৈয়দকাঠী",
+        "male_count": 1399,
+        "female_count": 1243,
+        "hijra_count": 0,
+        "latitude": 22.84421,
+        "longitude": 90.12808
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পূর্ব উমারের পাড় সরকারী প্রাথমিক বিদ্যালয়, উমারের পাড়",
+        "male_count": 1323,
+        "female_count": 1119,
+        "hijra_count": 0,
+        "latitude": 22.81533,
+        "longitude": 90.06341
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পূর্ব ওটরা সরকারী প্রাথমিক বিদ্যালয়, পূর্ব ওটরা",
+        "male_count": 1384,
+        "female_count": 1377,
+        "hijra_count": 0,
+        "latitude": 22.86551,
+        "longitude": 90.18092
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পূর্ব সাতলা (১) সরকারী প্রাথমিক বিদ্যালয়, পূর্ব সাতলা",
+        "male_count": 1126,
+        "female_count": 1041,
+        "hijra_count": 0,
+        "latitude": 22.91794,
+        "longitude": 90.07649
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "পূর্ব সৈয়দকাঠী সরকারী প্রাথমিক বিদ্যালয়, পূর্ব সৈয়দকাঠী",
+        "male_count": 1169,
+        "female_count": 1157,
+        "hijra_count": 0,
+        "latitude": 22.84604,
+        "longitude": 90.15872
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ফজলুল হক মাধ্যমিক বিদ্যালয়, সলিয়াবাকপুর",
+        "male_count": 1692,
+        "female_count": 1701,
+        "hijra_count": 0,
+        "latitude": 22.78914,
+        "longitude": 90.18047
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বড় করফাকর সঃ প্রাঃ বিঃ, করফাকর",
+        "male_count": 1274,
+        "female_count": 1231,
+        "hijra_count": 0,
+        "latitude": 22.81498,
+        "longitude": 90.14397
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বড় ভৈৎসর সরকারী প্রাথমিক বিদ্যালয়, বড় ভৈৎসর",
+        "male_count": 1123,
+        "female_count": 1162,
+        "hijra_count": 0,
+        "latitude": 22.82368,
+        "longitude": 90.184
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বড়াকোঠা ইউনিয়ন ডিগ্রী কলেজ, ডাবেরকুল",
+        "male_count": 1822,
+        "female_count": 1791,
+        "hijra_count": 0,
+        "latitude": 22.84293,
+        "longitude": 90.19829
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বড়াকোঠা দরগাবাড়ী সরকারী প্রাথমিক বিদ্যালয়,দরগাবাড়ী",
+        "male_count": 1531,
+        "female_count": 1466,
+        "hijra_count": 0,
+        "latitude": 22.87883,
+        "longitude": 90.20684
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বড়াকোঠা মিয়াবাড়ী সরকারী প্রাথমিক বিদ্যালয়, বড়াকোঠা",
+        "male_count": 993,
+        "female_count": 1029,
+        "hijra_count": 0,
+        "latitude": 22.87855,
+        "longitude": 90.19697
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বলদিয়া মলুহার মাধ্যমিক বিদ্যালয়, মলুহার",
+        "male_count": 1876,
+        "female_count": 1698,
+        "hijra_count": 0,
+        "latitude": 22.80681,
+        "longitude": 90.05878
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বাইশারী মাধ্যমিক বিদ্যালয়, বাইশারী",
+        "male_count": 1548,
+        "female_count": 1550,
+        "hijra_count": 0,
+        "latitude": 22.79004,
+        "longitude": 90.13028
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বাগড়া সরকারী প্রাথমিক বিদ্যালয়, বাগড়া",
+        "male_count": 1749,
+        "female_count": 1743,
+        "hijra_count": 0,
+        "latitude": 22.85393,
+        "longitude": 90.15423
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বানারীপাড়া ইউনিয়ন ইনষ্টিটিউশন, বানারীপাড়া পৌরসভা",
+        "male_count": 1454,
+        "female_count": 1628,
+        "hijra_count": 0,
+        "latitude": 22.78317,
+        "longitude": 90.16014
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বানারীপাড়া ডিগ্রী কলেজ, কুন্দিহার, বানারীপাড়া পৌরসভা",
+        "male_count": 1335,
+        "female_count": 1487,
+        "hijra_count": 0,
+        "latitude": 22.77978,
+        "longitude": 90.15996
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বাবরখানা মাধ্যমিক বিদ্যালয়, বাবরখানা",
+        "male_count": 1160,
+        "female_count": 1177,
+        "hijra_count": 0,
+        "latitude": 22.89173,
+        "longitude": 90.21433
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বামরাইল অনাথ বন্ধু মাধ্যমিক বিদ্যালয়, বামরাইল",
+        "male_count": 1564,
+        "female_count": 1528,
+        "hijra_count": 0,
+        "latitude": 22.88804,
+        "longitude": 90.25831
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বাসার খেজুরবাড়ী সরকারী প্রাথমিক বিদ্যালয়, গোয়াইলবাড়ী",
+        "male_count": 1611,
+        "female_count": 1509,
+        "hijra_count": 0,
+        "latitude": 22.80021,
+        "longitude": 90.16453
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বাহেরঘাট মাধ্যমিক বিদ্যালয়, বাহেরঘাট",
+        "male_count": 861,
+        "female_count": 851,
+        "hijra_count": 0,
+        "latitude": 22.89925,
+        "longitude": 90.18022
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বিল গাববাড়ী সরকারী প্রাথমিক বিদ্যালয়, বিল গাববাড়ী",
+        "male_count": 1363,
+        "female_count": 1317,
+        "hijra_count": 0,
+        "latitude": 22.91563,
+        "longitude": 90.15584
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বিশারকান্দি ইউনিয়ন পরিষদ কার্যালয়, মরিচবুনিয়া",
+        "male_count": 1220,
+        "female_count": 1168,
+        "hijra_count": 0,
+        "latitude": 22.82903,
+        "longitude": 90.05113
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বেতাল আহমদাবাদ মাদ্রাসা, বেতাল",
+        "male_count": 1657,
+        "female_count": 1698,
+        "hijra_count": 0,
+        "latitude": 22.79093,
+        "longitude": 90.17104
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "বৈরকাঠী সরকারী প্রাথমিক বিদ্যালয়, বৈরকাঠী",
+        "male_count": 1224,
+        "female_count": 1205,
+        "hijra_count": 0,
+        "latitude": 22.7657,
+        "longitude": 90.23019
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ব্রাহ্মণকাঠী সরকারী প্রাথমিক বিদ্যালয়, ব্রাহ্মণকাঠী",
+        "male_count": 1062,
+        "female_count": 1029,
+        "hijra_count": 0,
+        "latitude": 22.77212,
+        "longitude": 90.13518
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ব্রাহ্মণবাড়ী সরকারী প্রাথমিক বিদ্যালয়, ব্রাহ্মণবাড়ী",
+        "male_count": 1082,
+        "female_count": 961,
+        "hijra_count": 0,
+        "latitude": 22.83673,
+        "longitude": 90.10569
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ভবানীপুর হাজী ইব্রাহিম মাধ্যমিক বিদ্যালয়, ভবানীপুর",
+        "male_count": 1055,
+        "female_count": 1097,
+        "hijra_count": 0,
+        "latitude": 22.8537,
+        "longitude": 90.17528
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "ভরসাকাঠী সরকারী প্রাথমিক বিদ্যালয়, ভরসাকাঠী",
+        "male_count": 1551,
+        "female_count": 1556,
+        "hijra_count": 0,
+        "latitude": 22.87131,
+        "longitude": 90.28006
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মজম সরকারী প্রাথমিক বিদ্যালয়, মজম",
+        "male_count": 1444,
+        "female_count": 1374,
+        "hijra_count": 0,
+        "latitude": 22.90376,
+        "longitude": 90.17734
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মধ্য ইলুহার সরকারী প্রাথমিক বিদ্যালয়, ইলুহার",
+        "male_count": 1189,
+        "female_count": 1132,
+        "hijra_count": 0,
+        "latitude": 22.78594,
+        "longitude": 90.10391
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মধ্য কালবিলা সরকারী প্রাথমিক বিদ্যালয়,কালবিলা",
+        "male_count": 1368,
+        "female_count": 1242,
+        "hijra_count": 0,
+        "latitude": 22.88513,
+        "longitude": 90.09373
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মধ্য কালিহাতা সরকারী প্রাথমিক বিদ্যালয়, মধ্য কালিহাতা",
+        "male_count": 1420,
+        "female_count": 1358,
+        "hijra_count": 0,
+        "latitude": 22.88748,
+        "longitude": 90.27545
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মধ্যপূর্ব বিশারকান্দি সরকারী প্রাথমিক বিদ্যালয়, বিশারকান্দি",
+        "male_count": 819,
+        "female_count": 744,
+        "hijra_count": 0,
+        "latitude": 22.84345,
+        "longitude": 90.05196
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মধ্য বিশারকান্দি সরকারী প্রাথমিক বিদ্যালয়, বিশারকান্দি",
+        "male_count": 1247,
+        "female_count": 1153,
+        "hijra_count": 0,
+        "latitude": 22.84935,
+        "longitude": 90.03598
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মধ্য সাতলা সরকারী প্রাথমিক বিদ্যালয়, সাতলা",
+        "male_count": 1296,
+        "female_count": 1142,
+        "hijra_count": 0,
+        "latitude": 22.91129,
+        "longitude": 90.06275
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মধ্য হারতা সরকারী প্রাথমিক বিদ্যালয়, পশ্চিম হারতা",
+        "male_count": 1291,
+        "female_count": 1180,
+        "hijra_count": 0,
+        "latitude": 22.85328,
+        "longitude": 90.10826
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মলুহার ওয়াজেদিয়া হাই স্কুল, মলুহার",
+        "male_count": 1681,
+        "female_count": 1542,
+        "hijra_count": 0,
+        "latitude": 22.79422,
+        "longitude": 90.09478
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মলুহার বালিবাড়ী আদর্শ সরকারী প্রাঃ বিদ্যালয়, মলুহার",
+        "male_count": 974,
+        "female_count": 920,
+        "hijra_count": 0,
+        "latitude": 22.79855,
+        "longitude": 90.08296
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মশাং বাজার সংলগ্ন আনোয়ারিয়া সরকারী প্রাথমিক বিদ্যালয়, মশাং",
+        "male_count": 1516,
+        "female_count": 1444,
+        "hijra_count": 0,
+        "latitude": 22.87353,
+        "longitude": 90.14023
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মসজিদ বাড়ী মাঃ বিদ্যালয়, মসজিদবাড়ী",
+        "male_count": 1419,
+        "female_count": 1323,
+        "hijra_count": 0,
+        "latitude": 22.83188,
+        "longitude": 90.1508
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মাদারকাঠী সরকারী প্রাথমিক বিদ্যালয়, মাদারকাঠী",
+        "male_count": 1418,
+        "female_count": 1348,
+        "hijra_count": 0,
+        "latitude": 22.79539,
+        "longitude": 90.20759
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মাদার্শী সরকারী প্রাথমিক বিদ্যালয়, মধ্য মাদার্শী",
+        "male_count": 1417,
+        "female_count": 1455,
+        "hijra_count": 0,
+        "latitude": 22.83179,
+        "longitude": 90.24674
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মালিকান্দা মাহমুদিয়া সিনিয়র মাদ্রাসা, মালিকান্দা",
+        "male_count": 1347,
+        "female_count": 1381,
+        "hijra_count": 0,
+        "latitude": 22.84088,
+        "longitude": 90.18996
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মুগাকাঠী সরকারী প্রাথমিক বিদ্যালয়, মুগাকাঠী",
+        "male_count": 885,
+        "female_count": 877,
+        "hijra_count": 0,
+        "latitude": 22.85513,
+        "longitude": 90.2363
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "মুন্ডপাশা সরকারী প্রাথমিক বিদ্যালয়, মুন্ডপাশা",
+        "male_count": 1339,
+        "female_count": 1382,
+        "hijra_count": 0,
+        "latitude": 22.84589,
+        "longitude": 90.25672
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "যোগীরকান্দা মাধ্যমিক বালিকা বিদ্যালয়, যোগীরকান্দা",
+        "male_count": 1354,
+        "female_count": 1423,
+        "hijra_count": 0,
+        "latitude": 22.8542,
+        "longitude": 90.18594
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "রসুলাবাদ সরকারী প্রাথমিক বিদ্যালয়, পরমানন্দসাহা",
+        "male_count": 1438,
+        "female_count": 1379,
+        "hijra_count": 0,
+        "latitude": 22.83118,
+        "longitude": 90.22768
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "রাজাপুর মাধ্যমিক বিদ্যালয় ও সংলগ্ন রাজাপুর সরকারী প্রাথমিক বিদ্যালয়, রাজাপুর",
+        "male_count": 1851,
+        "female_count": 1595,
+        "hijra_count": 0,
+        "latitude": 22.87211,
+        "longitude": 90.07177
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "রাজ্জাকপুর সরকারী প্রাথমিক বিদ্যালয়, রাজ্জাকপুর",
+        "male_count": 1499,
+        "female_count": 1588,
+        "hijra_count": 0,
+        "latitude": 22.7757,
+        "longitude": 90.16318
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "রামেরকাঠী মাধ্যমিক বিদ্যালয়, রামেরকাঠী",
+        "male_count": 1292,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": 22.87808,
+        "longitude": 90.17585
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "রৈভদ্রদী সরকারী প্রাথমিক বিদ্যালয়, রৈভদ্রদী",
+        "male_count": 848,
+        "female_count": 799,
+        "hijra_count": 0,
+        "latitude": 22.79926,
+        "longitude": 90.24563
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "লবনসাড়া সরকারী প্রাথমিক বিদ্যালয়, লবনসাড়া",
+        "male_count": 1642,
+        "female_count": 1566,
+        "hijra_count": 0,
+        "latitude": 22.80267,
+        "longitude": 90.12401
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "শহীদ স্মরণিকা মাধ্যমিক বিদ্যালয়, মুন্সীরতাল্লুক",
+        "male_count": 1393,
+        "female_count": 1241,
+        "hijra_count": 0,
+        "latitude": 22.8829,
+        "longitude": 90.14481
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "শিকারপুর জি.জি. মাধ্যমিক বিদ্যালয়, শিকারপুর",
+        "male_count": 1718,
+        "female_count": 1713,
+        "hijra_count": 0,
+        "latitude": 22.83348,
+        "longitude": 90.26425
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "শিবপুর নবীন মাধ্যমিক বিদ্যালয়, শিবপুর",
+        "male_count": 1221,
+        "female_count": 1047,
+        "hijra_count": 0,
+        "latitude": 22.86849,
+        "longitude": 90.03366
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "শোলক ভিক্টোরিয়া মাধ্যমিক বিদ্যালয় (২য় তলা), শোলক (পুরুষ ভোট কেন্দ্র)",
+        "male_count": 2267,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.90221,
+        "longitude": 90.22108
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "শোলক ভিক্টোরিয়া মাধ্যমিক বিদ্যালয় (নিচ তলা), শোলক (মহিলা ভোট কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2096,
+        "hijra_count": 0,
+        "latitude": 22.90226,
+        "longitude": 90.22073
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "সলিয়াবাকপুর সরকারি প্রাথমিক বিদ্যালয়, সলিয়াবাকপুর",
+        "male_count": 858,
+        "female_count": 873,
+        "hijra_count": 0,
+        "latitude": 22.78897,
+        "longitude": 90.18082
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "সাকরাল আব্দুল মজিদ মাধ্যমিক বিদ্যালয়, সাকরাল",
+        "male_count": 1425,
+        "female_count": 1331,
+        "hijra_count": 0,
+        "latitude": 22.83745,
+        "longitude": 90.21842
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "সানুহার মাধ্যমিক বিদ্যালয়, সানুহার",
+        "male_count": 1048,
+        "female_count": 1139,
+        "hijra_count": 0,
+        "latitude": 22.87265,
+        "longitude": 90.25872
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "সামাদিয়া দারুল উলুম (ডহরপাড়া) মাধ্যমিক বিদ্যালয়, ডহরপাড়া",
+        "male_count": 1401,
+        "female_count": 1418,
+        "hijra_count": 0,
+        "latitude": 22.77294,
+        "longitude": 90.23725
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "সৈয়দ বজলুল হক মাধ্যমিক বিদ্যালয়",
+        "male_count": 1633,
+        "female_count": 1668,
+        "hijra_count": 0,
+        "latitude": 22.79728,
+        "longitude": 90.17006
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "সোনাহার সরকারী প্রাথমিক বিদ্যালয়, সোনাহার",
+        "male_count": 1444,
+        "female_count": 1404,
+        "hijra_count": 0,
+        "latitude": 22.81356,
+        "longitude": 90.21792
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "হরিদ্রাপুর রহম আলী সরকারী প্রাথমিক বিদ্যালয়, হরিদ্রাপুর",
+        "male_count": 994,
+        "female_count": 980,
+        "hijra_count": 0,
+        "latitude": 22.79839,
+        "longitude": 90.23115
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "হস্তিশুন্ড মোড়াকাঠী ইনষ্টিটিউশন, হস্তিশুন্ড",
+        "male_count": 1036,
+        "female_count": 1049,
+        "hijra_count": 0,
+        "latitude": 22.87592,
+        "longitude": 90.2442
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "হানুয়া সরকারী প্রাথমিক বিদ্যালয়, দাসেরহাট",
+        "male_count": 1302,
+        "female_count": 1245,
+        "hijra_count": 0,
+        "latitude": 22.80659,
+        "longitude": 90.23188
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "হাবিবপুর মাধ্যমিক বিদ্যালয়, হাবিবপুর",
+        "male_count": 1585,
+        "female_count": 1487,
+        "hijra_count": 0,
+        "latitude": 22.86002,
+        "longitude": 90.14432
+    },
+    {
+        "settings_code": 120,
+        "settings_name": "বরিশাল-২",
+        "center_name": "হারতা মাধ্যমিক বিদ্যালয়, মধ্য হারতা",
+        "male_count": 1949,
+        "female_count": 1876,
+        "hijra_count": 0,
+        "latitude": 22.8511,
+        "longitude": 90.0973
+    }
+]

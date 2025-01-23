@@ -1,0 +1,1132 @@
+[
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "আওলাতৈল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 874,
+        "female_count": 956,
+        "hijra_count": 0,
+        "latitude": 24.36494,
+        "longitude": 90.06788
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "আকুয়া চামুরিয়া দাখিল মাদ্রাসা",
+        "male_count": 1489,
+        "female_count": 1421,
+        "hijra_count": 0,
+        "latitude": 24.30287,
+        "longitude": 89.94051
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "আগচারান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1166,
+        "female_count": 1124,
+        "hijra_count": 0,
+        "latitude": 24.34773,
+        "longitude": 90.02985
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "আটাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1722,
+        "female_count": 1708,
+        "hijra_count": 0,
+        "latitude": 24.37592,
+        "longitude": 90.02337
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "আনালিয়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1031,
+        "female_count": 990,
+        "hijra_count": 0,
+        "latitude": 24.36472,
+        "longitude": 89.88732
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "আফজালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 529,
+        "female_count": 506,
+        "hijra_count": 0,
+        "latitude": 24.35657,
+        "longitude": 89.771
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "আমজানী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 919,
+        "female_count": 934,
+        "hijra_count": 0,
+        "latitude": 24.41166,
+        "longitude": 90.09225
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "আলাউদ্দিন সিদ্দিকী কলেজ",
+        "male_count": 2027,
+        "female_count": 2091,
+        "hijra_count": 0,
+        "latitude": 24.35991,
+        "longitude": 90.04514
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ইছাপুর শেরে বাংলা উচ্চ বিদ্যালয়",
+        "male_count": 1669,
+        "female_count": 1725,
+        "hijra_count": 0,
+        "latitude": 24.36108,
+        "longitude": 89.98649
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "এলেঙ্গা উচ্চ বিদ্যালয়",
+        "male_count": 2251,
+        "female_count": 2230,
+        "hijra_count": 0,
+        "latitude": 24.33889,
+        "longitude": 89.92015
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কদিম হামজানী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 999,
+        "female_count": 1017,
+        "hijra_count": 0,
+        "latitude": 24.37204,
+        "longitude": 89.85438
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কস্তুরীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2153,
+        "female_count": 2166,
+        "hijra_count": 0,
+        "latitude": 24.39391,
+        "longitude": 90.0437
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কাজীবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1376,
+        "female_count": 1329,
+        "hijra_count": 0,
+        "latitude": 24.30825,
+        "longitude": 90.01012
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কামান্না সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1336,
+        "female_count": 1304,
+        "hijra_count": 0,
+        "latitude": 24.31482,
+        "longitude": 90.01425
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কামার্থী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1948,
+        "female_count": 1945,
+        "hijra_count": 0,
+        "latitude": 24.36889,
+        "longitude": 90.00665
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কালিহাতী আর.এস সরকারী পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 1199,
+        "female_count": 1182,
+        "hijra_count": 0,
+        "latitude": 24.39009,
+        "longitude": 89.99547
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কালিহাতী পাইলট বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1778,
+        "female_count": 1980,
+        "hijra_count": 0,
+        "latitude": 24.39022,
+        "longitude": 89.99011
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কালিহাতী শাজাহান সিরাজ কলেজ",
+        "male_count": 2139,
+        "female_count": 2200,
+        "hijra_count": 0,
+        "latitude": 24.38976,
+        "longitude": 89.99686
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কালোহা সরাকরি প্রাথমিক প্রাথমিক বিদ্যালয়",
+        "male_count": 1439,
+        "female_count": 1492,
+        "hijra_count": 0,
+        "latitude": 24.31227,
+        "longitude": 89.9858
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কুড়িঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1712,
+        "female_count": 1763,
+        "hijra_count": 1,
+        "latitude": 24.34383,
+        "longitude": 89.90331
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কুরুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1707,
+        "female_count": 1687,
+        "hijra_count": 0,
+        "latitude": 24.39145,
+        "longitude": 89.94091
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "কোকডহরা উচ্চ বিদ্যালয়",
+        "male_count": 1405,
+        "female_count": 1377,
+        "hijra_count": 0,
+        "latitude": 24.34437,
+        "longitude": 90.00167
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "খরশিলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1191,
+        "female_count": 1155,
+        "hijra_count": 0,
+        "latitude": 24.30277,
+        "longitude": 89.96352
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "খিলদা উচ্চ বিদ্যালয়",
+        "male_count": 2637,
+        "female_count": 2682,
+        "hijra_count": 1,
+        "latitude": 24.37314,
+        "longitude": 89.97149
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "গান্ধিনা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1488,
+        "female_count": 1455,
+        "hijra_count": 0,
+        "latitude": 24.31349,
+        "longitude": 90.05538
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "গোপালদিঘী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 707,
+        "female_count": 752,
+        "hijra_count": 0,
+        "latitude": 24.31848,
+        "longitude": 89.97854
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "গোলড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1008,
+        "female_count": 1002,
+        "hijra_count": 0,
+        "latitude": 24.28915,
+        "longitude": 89.99012
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "গোহালিয়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2435,
+        "female_count": 2422,
+        "hijra_count": 0,
+        "latitude": 24.38896,
+        "longitude": 89.84633
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ঘুনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1572,
+        "female_count": 1635,
+        "hijra_count": 0,
+        "latitude": 24.38497,
+        "longitude": 89.9827
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "চরসিংগুলী মুসলিম উচ্চ বিদ্যালয়",
+        "male_count": 1825,
+        "female_count": 1709,
+        "hijra_count": 0,
+        "latitude": 24.34768,
+        "longitude": 89.91408
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "চর হামজানী  সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1110,
+        "female_count": 972,
+        "hijra_count": 0,
+        "latitude": 24.36511,
+        "longitude": 89.84906
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "চাটিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1635,
+        "female_count": 1672,
+        "hijra_count": 0,
+        "latitude": 24.37389,
+        "longitude": 89.97915
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "চারান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1136,
+        "female_count": 1176,
+        "hijra_count": 0,
+        "latitude": 24.3592,
+        "longitude": 90.01657
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "চিনামুড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2114,
+        "female_count": 2179,
+        "hijra_count": 0,
+        "latitude": 24.32647,
+        "longitude": 89.93651
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ছাতিহাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1669,
+        "female_count": 1682,
+        "hijra_count": 0,
+        "latitude": 24.35229,
+        "longitude": 90.03335
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ছাতিহাটি সরাকরি প্রাথমিক প্রাথমিক বিদ্যালয়",
+        "male_count": 2309,
+        "female_count": 2303,
+        "hijra_count": 0,
+        "latitude": 24.29225,
+        "longitude": 89.9774
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "জাবরাজান বি.এইচ দাখিল মাদ্রাসা",
+        "male_count": 1257,
+        "female_count": 1285,
+        "hijra_count": 0,
+        "latitude": 24.3913,
+        "longitude": 89.86315
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "জোয়াইর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1619,
+        "female_count": 1609,
+        "hijra_count": 0,
+        "latitude": 24.36637,
+        "longitude": 90.02921
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "টেরকী পোস্ট অফিস",
+        "male_count": 1157,
+        "female_count": 1145,
+        "hijra_count": 0,
+        "latitude": 24.34478,
+        "longitude": 89.96288
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "তাতীহারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1556,
+        "female_count": 1531,
+        "hijra_count": 0,
+        "latitude": 24.38555,
+        "longitude": 89.92399
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "তেজপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1634,
+        "female_count": 1612,
+        "hijra_count": 0,
+        "latitude": 24.31725,
+        "longitude": 90.06422
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "দক্ষিণ চামুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1331,
+        "female_count": 1266,
+        "hijra_count": 0,
+        "latitude": 24.31152,
+        "longitude": 89.94808
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "দড়িখশিলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2041,
+        "female_count": 1947,
+        "hijra_count": 0,
+        "latitude": 24.31187,
+        "longitude": 90.03848
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "দয়থা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1373,
+        "female_count": 1299,
+        "hijra_count": 0,
+        "latitude": 24.35362,
+        "longitude": 89.93767
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "দশশিকা  উচ্চ বিদ্যালয়",
+        "male_count": 1634,
+        "female_count": 1600,
+        "hijra_count": 0,
+        "latitude": 24.36148,
+        "longitude": 89.86347
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "দূর্গাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1922,
+        "female_count": 1824,
+        "hijra_count": 0,
+        "latitude": 24.34677,
+        "longitude": 89.85785
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "দেউপুর উচ্চ বিদ্যালয়",
+        "male_count": 1944,
+        "female_count": 1853,
+        "hijra_count": 0,
+        "latitude": 24.39278,
+        "longitude": 89.87598
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "দেউপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 923,
+        "female_count": 811,
+        "hijra_count": 0,
+        "latitude": 24.39279,
+        "longitude": 89.87604
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ধলাটেংগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 747,
+        "female_count": 687,
+        "hijra_count": 0,
+        "latitude": 24.35528,
+        "longitude": 89.89264
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ধানগড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 937,
+        "female_count": 957,
+        "hijra_count": 0,
+        "latitude": 24.35096,
+        "longitude": 90.06737
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "নরদহি উচ্চ বিদ্যালয়",
+        "male_count": 1993,
+        "female_count": 1913,
+        "hijra_count": 0,
+        "latitude": 24.37512,
+        "longitude": 89.89722
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "নাগবাড়ী হাসিনা চৌধুরী উচ্চ বিদ্যালয়",
+        "male_count": 1810,
+        "female_count": 1733,
+        "hijra_count": 0,
+        "latitude": 24.34481,
+        "longitude": 90.04867
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "নারান্দিয়া টি আর কে এন উচ্চ মাধ্যমিক বিদ্যালয় (স্কুল এন্ড কলেজ)",
+        "male_count": 1717,
+        "female_count": 1657,
+        "hijra_count": 0,
+        "latitude": 24.40619,
+        "longitude": 89.90592
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "নিশ্চিন্তপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1219,
+        "female_count": 1206,
+        "hijra_count": 0,
+        "latitude": 24.37851,
+        "longitude": 89.99847
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "নোয়াবাড়ী মুক্তিযোদ্ধা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1250,
+        "female_count": 1247,
+        "hijra_count": 0,
+        "latitude": 24.38424,
+        "longitude": 90.04377
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "পাইকড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1610,
+        "female_count": 1662,
+        "hijra_count": 0,
+        "latitude": 24.304,
+        "longitude": 90.00132
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "পাথালিয়া কলিম উদ্দিন আববাছ আলী উচ্চ বিদ্যালয় এবং সংলগ্ন পাথালিয়া সরকারি প্রাথমিক বিদ্যালয় পাথালিয়া",
+        "male_count": 1974,
+        "female_count": 1938,
+        "hijra_count": 0,
+        "latitude": 24.39764,
+        "longitude": 89.9457
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "পারখী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1124,
+        "female_count": 1065,
+        "hijra_count": 0,
+        "latitude": 24.38816,
+        "longitude": 90.0802
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "পূর্বাশুন্ডা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1186,
+        "female_count": 1156,
+        "hijra_count": 0,
+        "latitude": 24.40157,
+        "longitude": 90.05104
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "পোষণা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2123,
+        "female_count": 2140,
+        "hijra_count": 0,
+        "latitude": 24.37876,
+        "longitude": 89.9336
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "পোষণা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1284,
+        "female_count": 1266,
+        "hijra_count": 0,
+        "latitude": 24.37878,
+        "longitude": 89.93341
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "পৌজান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1484,
+        "female_count": 1439,
+        "hijra_count": 0,
+        "latitude": 24.32641,
+        "longitude": 89.96431
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ফটিকজানী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1891,
+        "female_count": 1822,
+        "hijra_count": 0,
+        "latitude": 24.31577,
+        "longitude": 89.92726
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ফুলতলা উচ্চ বিদ্যালয়",
+        "male_count": 2039,
+        "female_count": 2009,
+        "hijra_count": 0,
+        "latitude": 24.36527,
+        "longitude": 89.92453
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1586,
+        "female_count": 1512,
+        "hijra_count": 0,
+        "latitude": 24.35513,
+        "longitude": 89.99704
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বর্গা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1942,
+        "female_count": 1769,
+        "hijra_count": 0,
+        "latitude": 24.4105,
+        "longitude": 90.09608
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বর্তা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1416,
+        "female_count": 1394,
+        "hijra_count": 0,
+        "latitude": 24.39328,
+        "longitude": 89.96191
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বলধী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1705,
+        "female_count": 1652,
+        "hijra_count": 0,
+        "latitude": 24.34308,
+        "longitude": 89.99437
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বলিখন্ড সরাকরি প্রাথমিক প্রাথমিক বিদ্যালয়",
+        "male_count": 1135,
+        "female_count": 1094,
+        "hijra_count": 0,
+        "latitude": 24.33265,
+        "longitude": 89.97434
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বল্লভবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1811,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 24.37853,
+        "longitude": 89.81966
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বল্লা করোনেশন হাই স্কুল এন্ড কলেজ",
+        "male_count": 2107,
+        "female_count": 1985,
+        "hijra_count": 0,
+        "latitude": 24.33212,
+        "longitude": 90.02934
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বাড্ডা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1338,
+        "female_count": 1297,
+        "hijra_count": 0,
+        "latitude": 24.34537,
+        "longitude": 90.00773
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বানকিনা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 966,
+        "female_count": 969,
+        "hijra_count": 0,
+        "latitude": 24.30478,
+        "longitude": 89.98832
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বানিয়াফৈর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1348,
+        "female_count": 1259,
+        "hijra_count": 0,
+        "latitude": 24.3184,
+        "longitude": 89.95467
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বানিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1403,
+        "female_count": 1382,
+        "hijra_count": 0,
+        "latitude": 24.33396,
+        "longitude": 90.0076
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বিয়ারা মারুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2319,
+        "female_count": 2032,
+        "hijra_count": 0,
+        "latitude": 24.38735,
+        "longitude": 89.82879
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বীরপাকুটিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 953,
+        "female_count": 939,
+        "hijra_count": 0,
+        "latitude": 24.33237,
+        "longitude": 90.02921
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বেড়ীপটল আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 2570,
+        "female_count": 2349,
+        "hijra_count": 0,
+        "latitude": 24.35499,
+        "longitude": 89.83082
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বেলটিয়া সরকারি প্রাথমিক বিদ্যালয় এবং সংলগ্ন আলীপুর দাখিল মাদ্রাসা",
+        "male_count": 1496,
+        "female_count": 1359,
+        "hijra_count": 0,
+        "latitude": 24.36904,
+        "longitude": 89.814
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "বেহেলাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2079,
+        "female_count": 2058,
+        "hijra_count": 0,
+        "latitude": 24.32657,
+        "longitude": 90.04032
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1294,
+        "female_count": 1288,
+        "hijra_count": 0,
+        "latitude": 24.32651,
+        "longitude": 89.95012
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ভরসরাই উচ্চ বিদ্যালয়",
+        "male_count": 2075,
+        "female_count": 2153,
+        "hijra_count": 0,
+        "latitude": 24.37237,
+        "longitude": 90.07839
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ভাবলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2409,
+        "female_count": 2373,
+        "hijra_count": 0,
+        "latitude": 24.3622,
+        "longitude": 89.90984
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ভিয়াইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1298,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 24.39221,
+        "longitude": 90.05956
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "ভুক্তা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1463,
+        "female_count": 1541,
+        "hijra_count": 0,
+        "latitude": 24.2952,
+        "longitude": 89.9517
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "মগড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1412,
+        "female_count": 1428,
+        "hijra_count": 0,
+        "latitude": 24.34163,
+        "longitude": 89.88409
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "মহেলা রাবেয়া সিরাজ  উচ্চ বিদ্যালয়",
+        "male_count": 1492,
+        "female_count": 1491,
+        "hijra_count": 0,
+        "latitude": 24.31361,
+        "longitude": 89.93291
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "মাইস্তা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1690,
+        "female_count": 1705,
+        "hijra_count": 0,
+        "latitude": 24.40583,
+        "longitude": 89.9167
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "মাদরাসা দারুল ইসলাম মুহাম্মাদীয়া",
+        "male_count": 1834,
+        "female_count": 1822,
+        "hijra_count": 0,
+        "latitude": 24.33164,
+        "longitude": 90.02929
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "মালতী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1920,
+        "female_count": 1863,
+        "hijra_count": 0,
+        "latitude": 24.39378,
+        "longitude": 89.90249
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "যোগীপাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1534,
+        "female_count": 1547,
+        "hijra_count": 0,
+        "latitude": 24.3461,
+        "longitude": 89.86967
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "রতনগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1098,
+        "female_count": 1094,
+        "hijra_count": 0,
+        "latitude": 24.33096,
+        "longitude": 90.05596
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "রাজাফৈর উচ্চ বিদ্যালয়",
+        "male_count": 1761,
+        "female_count": 1673,
+        "hijra_count": 0,
+        "latitude": 24.39339,
+        "longitude": 90.02843
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "রাজাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1822,
+        "female_count": 1843,
+        "hijra_count": 0,
+        "latitude": 24.341,
+        "longitude": 89.92622
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "রামপুর উচ্চ বিদ্যালয়",
+        "male_count": 1993,
+        "female_count": 1840,
+        "hijra_count": 0,
+        "latitude": 24.30679,
+        "longitude": 90.02387
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "রামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1760,
+        "female_count": 1679,
+        "hijra_count": 0,
+        "latitude": 24.29854,
+        "longitude": 90.03113
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "লাঙ্গলজোড়া উচ্চ বিদ্যালয়",
+        "male_count": 1677,
+        "female_count": 1610,
+        "hijra_count": 0,
+        "latitude": 24.34694,
+        "longitude": 89.97333
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সয়া ইসলামিয়া আলিম  মাদ্রাসা",
+        "male_count": 1431,
+        "female_count": 1500,
+        "hijra_count": 0,
+        "latitude": 24.3812,
+        "longitude": 89.92814
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সরকারি শামসুল হক কলেজ",
+        "male_count": 2950,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.33593,
+        "longitude": 89.91991
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সরকারি শামসুল হক কলেজ",
+        "male_count": 0,
+        "female_count": 2949,
+        "hijra_count": 0,
+        "latitude": 24.33614,
+        "longitude": 89.92009
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সরাতৈল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1906,
+        "female_count": 1793,
+        "hijra_count": 0,
+        "latitude": 24.40337,
+        "longitude": 89.8321
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সল্লা সমবায় উচ্চ বিদ্যালয়",
+        "male_count": 1908,
+        "female_count": 1832,
+        "hijra_count": 0,
+        "latitude": 24.37479,
+        "longitude": 89.86081
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সহদেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1640,
+        "female_count": 1484,
+        "hijra_count": 0,
+        "latitude": 24.35423,
+        "longitude": 89.95294
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সাকরাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1808,
+        "female_count": 1760,
+        "hijra_count": 0,
+        "latitude": 24.36035,
+        "longitude": 89.94626
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সাতুটিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1473,
+        "female_count": 1599,
+        "hijra_count": 0,
+        "latitude": 24.38698,
+        "longitude": 89.99149
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সিংগাইর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2254,
+        "female_count": 2190,
+        "hijra_count": 0,
+        "latitude": 24.32754,
+        "longitude": 90.02153
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সিংহটিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 990,
+        "female_count": 1053,
+        "hijra_count": 0,
+        "latitude": 24.31293,
+        "longitude": 89.97287
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সোনাকান্দর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1919,
+        "female_count": 1847,
+        "hijra_count": 0,
+        "latitude": 24.41822,
+        "longitude": 89.89181
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "সোমজানী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 982,
+        "female_count": 917,
+        "hijra_count": 0,
+        "latitude": 24.32645,
+        "longitude": 90.04909
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "হরিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1791,
+        "female_count": 1821,
+        "hijra_count": 0,
+        "latitude": 24.38807,
+        "longitude": 90.01349
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "হাজী আরফান আলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1112,
+        "female_count": 1116,
+        "hijra_count": 0,
+        "latitude": 24.34027,
+        "longitude": 89.95035
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "হাতিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1733,
+        "female_count": 1605,
+        "hijra_count": 0,
+        "latitude": 24.36001,
+        "longitude": 89.87852
+    },
+    {
+        "settings_code": 133,
+        "settings_name": "টাংগাইল-৪",
+        "center_name": "হাসড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1806,
+        "female_count": 1798,
+        "hijra_count": 0,
+        "latitude": 24.32297,
+        "longitude": 90.00314
+    }
+]

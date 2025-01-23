@@ -9,6 +9,7 @@ import districtCounts from '../../../../staticData/districtInfo.json';
 import './styles.scss';
 import { selectConstituency } from '../../../../actions/constituency.js';
 import ConstituencyInfo from '../ConstituencyInfo/index.jsx';
+import { BarChart } from '../BarChart/index.jsx';
 
 const { Text } = Typography;
 
@@ -85,10 +86,12 @@ const DistrictInfo = () => {
     <Drawer
       title={selectedDistrict ? selectedDistrict.name : ''}
       placement="right"
-      closable={false}
+      closable={true}
+      maskClosable={false}
       onClose={onClose}
       open={selectedDistrict}
       key="DIstrict"
+      mask={false}
     >
       <>
         <svg
@@ -104,7 +107,7 @@ const DistrictInfo = () => {
                 <g
                   id={`${seat.name}`}
                   key={`${seat.name}`}
-                  className={`svg__seat `}
+                  className={`svg__seat`}
                   onClick={() => handleSelectedConstituency(seat)}
                 >
                   {seat.component}
@@ -115,9 +118,12 @@ const DistrictInfo = () => {
             <></>
           )}
         </svg>
+        {selectedDistrictCount?.[0] ? (
+          <BarChart data={selectedDistrictCount?.[0] || []} />
+        ) : null}
         <Result data={selectedDistrictCount || []} />
       </>
-      <ConstituencyInfo />
+      <ConstituencyInfo selectedDistrict={selectedDistrict} />
     </Drawer>
   );
 };

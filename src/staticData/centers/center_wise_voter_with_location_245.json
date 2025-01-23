@@ -1,0 +1,1912 @@
+[
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "অন্নদা সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 4507,
+        "female_count": 4578,
+        "hijra_count": 0,
+        "latitude": 23.97671,
+        "longitude": 91.1075
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "অষ্টগ্রাম মুর্শিদ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1544,
+        "female_count": 1315,
+        "hijra_count": 0,
+        "latitude": 24.01761,
+        "longitude": 91.08558
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "অষ্টগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2055,
+        "female_count": 1804,
+        "hijra_count": 0,
+        "latitude": 24.01109,
+        "longitude": 91.08429
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আওলিয়ানগর মোহাম্মদিয়া আলিম মাদ্রাসা",
+        "male_count": 866,
+        "female_count": 863,
+        "hijra_count": 0,
+        "latitude": 23.97236,
+        "longitude": 91.26156
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আটলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2769,
+        "female_count": 2464,
+        "hijra_count": 0,
+        "latitude": 23.92663,
+        "longitude": 91.14679
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আড়িয়ল উচ্চ বিদ্যালয়",
+        "male_count": 2590,
+        "female_count": 2357,
+        "hijra_count": 0,
+        "latitude": 24.00089,
+        "longitude": 91.22762
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আদমপুর ফাজিল (ডিগ্রী) মাদ্রাসা",
+        "male_count": 2257,
+        "female_count": 1986,
+        "hijra_count": 0,
+        "latitude": 23.95224,
+        "longitude": 91.21283
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আনন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1267,
+        "female_count": 1054,
+        "hijra_count": 0,
+        "latitude": 24.02506,
+        "longitude": 91.13545
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আনন্দময়ী বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3710,
+        "hijra_count": 0,
+        "latitude": 23.97966,
+        "longitude": 91.10893
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আব্দুল হক একাডেমী",
+        "male_count": 1493,
+        "female_count": 1208,
+        "hijra_count": 0,
+        "latitude": 23.96601,
+        "longitude": 91.07443
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আব্দুল্লাহপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2238,
+        "female_count": 2027,
+        "hijra_count": 0,
+        "latitude": 24.03177,
+        "longitude": 91.22442
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আমিনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 831,
+        "female_count": 725,
+        "hijra_count": 0,
+        "latitude": 23.95396,
+        "longitude": 91.08514
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আমিরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1068,
+        "female_count": 958,
+        "hijra_count": 0,
+        "latitude": 24.02991,
+        "longitude": 91.14667
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আল-জামিয়াতুল ইসলামিয়া তাজুল উলুম তাহাফুজে খতমে নবুওয়ত বি.বাড়িয়া",
+        "male_count": 0,
+        "female_count": 2348,
+        "hijra_count": 0,
+        "latitude": 23.97077,
+        "longitude": 91.11663
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আলাকপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1186,
+        "female_count": 937,
+        "hijra_count": 0,
+        "latitude": 24.00884,
+        "longitude": 91.1626
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "আলীনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1441,
+        "female_count": 1413,
+        "hijra_count": 0,
+        "latitude": 24.06533,
+        "longitude": 91.11273
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ইসলামপুর উচ্চ বিদ্যালয়",
+        "male_count": 1857,
+        "female_count": 1546,
+        "hijra_count": 0,
+        "latitude": 23.9969,
+        "longitude": 91.17699
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ইসলামপুর কাজী রফিকুল ইসলাম উচ্চ বিদ্যালয়",
+        "male_count": 2596,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.07386,
+        "longitude": 91.26331
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2483,
+        "hijra_count": 0,
+        "latitude": 24.07344,
+        "longitude": 91.26349
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "উজানিসার জয়নাল আবেদীন উচ্চ বিদ্যালয়",
+        "male_count": 2314,
+        "female_count": 2110,
+        "hijra_count": 0,
+        "latitude": 23.86464,
+        "longitude": 91.15664
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "উত্তর জগৎসার মীর রোকেয়া বেগম সরঃ প্রাথঃ বিদ্যাঃ",
+        "male_count": 1100,
+        "female_count": 1030,
+        "hijra_count": 0,
+        "latitude": 23.91131,
+        "longitude": 91.13759
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "উরশীউড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1335,
+        "female_count": 1172,
+        "hijra_count": 0,
+        "latitude": 23.91864,
+        "longitude": 91.11941
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "উলচাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2952,
+        "female_count": 2655,
+        "hijra_count": 0,
+        "latitude": 23.95026,
+        "longitude": 91.09727
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "এক্তারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1258,
+        "female_count": 1157,
+        "hijra_count": 0,
+        "latitude": 24.05281,
+        "longitude": 91.29933
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কচুয়ামুড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1939,
+        "female_count": 1874,
+        "hijra_count": 0,
+        "latitude": 23.98083,
+        "longitude": 91.2516
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কাছাইট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2757,
+        "female_count": 2415,
+        "hijra_count": 0,
+        "latitude": 23.93365,
+        "longitude": 91.13776
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কাঞ্চনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1747,
+        "female_count": 1675,
+        "hijra_count": 0,
+        "latitude": 23.92457,
+        "longitude": 91.21412
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কালাছড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1551,
+        "female_count": 1544,
+        "hijra_count": 0,
+        "latitude": 23.93349,
+        "longitude": 91.26771
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কালিসীমা (উঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1340,
+        "female_count": 1092,
+        "hijra_count": 0,
+        "latitude": 23.97129,
+        "longitude": 91.07576
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কালিসীমা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1947,
+        "female_count": 1872,
+        "hijra_count": 0,
+        "latitude": 24.04167,
+        "longitude": 91.23013
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কাশিনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2804,
+        "female_count": 2657,
+        "hijra_count": 0,
+        "latitude": 23.90669,
+        "longitude": 91.23062
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কেনা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1233,
+        "female_count": 1173,
+        "hijra_count": 0,
+        "latitude": 24.05701,
+        "longitude": 91.25436
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "কোড্ডা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1775,
+        "female_count": 1634,
+        "hijra_count": 0,
+        "latitude": 23.87727,
+        "longitude": 91.18496
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ক্ষুদ্র বি, বাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1666,
+        "female_count": 1325,
+        "hijra_count": 0,
+        "latitude": 24.00561,
+        "longitude": 91.05379
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "খাকচাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1325,
+        "female_count": 1085,
+        "hijra_count": 0,
+        "latitude": 23.99072,
+        "longitude": 91.04286
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "খাটিংগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2072,
+        "female_count": 2003,
+        "hijra_count": 0,
+        "latitude": 23.9868,
+        "longitude": 91.27265
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "খাটিহাতা জামিয়া ইসলামিয়া মাখজানুল উলুম মাদ্রাসা",
+        "male_count": 749,
+        "female_count": 674,
+        "hijra_count": 0,
+        "latitude": 24.0514,
+        "longitude": 91.11661
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "খাদুরাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1538,
+        "female_count": 1429,
+        "hijra_count": 0,
+        "latitude": 24.01732,
+        "longitude": 91.2259
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "খেওয়াই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 981,
+        "female_count": 943,
+        "hijra_count": 0,
+        "latitude": 23.91213,
+        "longitude": 91.16522
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "খ্রীষ্টিয়ান মিশন প্রাথমিক বিদ্যালয়",
+        "male_count": 1118,
+        "female_count": 1273,
+        "hijra_count": 0,
+        "latitude": 23.96338,
+        "longitude": 91.11304
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "গভঃ মডেল গালর্স হাই স্কুল",
+        "male_count": 0,
+        "female_count": 4013,
+        "hijra_count": 0,
+        "latitude": 23.97485,
+        "longitude": 91.10997
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "গোকর্ণ ঘাট উচ্চ বিদ্যালয়",
+        "male_count": 3429,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.95369,
+        "longitude": 91.0837
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "গোকর্ণ ঘাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2927,
+        "hijra_count": 0,
+        "latitude": 23.9585,
+        "longitude": 91.0837
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "গোয়ালখলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1279,
+        "female_count": 1097,
+        "hijra_count": 0,
+        "latitude": 23.94549,
+        "longitude": 91.18167
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "গৌতমপাড়া ঘাটুরা বঙ্গবন্ধু উচ্চ বিদ্যালয়",
+        "male_count": 1691,
+        "female_count": 1543,
+        "hijra_count": 0,
+        "latitude": 24.00486,
+        "longitude": 91.1082
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ঘাটিয়ারা উচ্চ বিদ্যালয়",
+        "male_count": 1424,
+        "female_count": 1289,
+        "hijra_count": 0,
+        "latitude": 23.87102,
+        "longitude": 91.17091
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ঘাটিয়ারা (পঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1800,
+        "female_count": 1696,
+        "hijra_count": 0,
+        "latitude": 23.87758,
+        "longitude": 91.16477
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ঘাটুরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1975,
+        "female_count": 1752,
+        "hijra_count": 0,
+        "latitude": 24.00581,
+        "longitude": 91.10383
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ঘাটুরা হাফিজিয়া ও ফোরকানিয়া মাদ্রাসা",
+        "male_count": 1778,
+        "female_count": 1553,
+        "hijra_count": 0,
+        "latitude": 23.99968,
+        "longitude": 91.10617
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চন্ডালখিল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2063,
+        "female_count": 1825,
+        "hijra_count": 0,
+        "latitude": 23.95498,
+        "longitude": 91.0936
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চম্পকনগর মডেল উচ্চ বিদ্যালয়",
+        "male_count": 1919,
+        "female_count": 1829,
+        "hijra_count": 0,
+        "latitude": 23.96569,
+        "longitude": 91.21306
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চানপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1156,
+        "female_count": 1103,
+        "hijra_count": 0,
+        "latitude": 23.97939,
+        "longitude": 91.27902
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চান্দপুর তমিজ উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 1634,
+        "female_count": 1570,
+        "hijra_count": 0,
+        "latitude": 23.91653,
+        "longitude": 91.14205
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চান্দিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1076,
+        "female_count": 915,
+        "hijra_count": 0,
+        "latitude": 24.04426,
+        "longitude": 91.11865
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2044,
+        "female_count": 1731,
+        "hijra_count": 0,
+        "latitude": 23.89142,
+        "longitude": 91.18919
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চান্দুরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2340,
+        "female_count": 2152,
+        "hijra_count": 0,
+        "latitude": 24.04787,
+        "longitude": 91.23292
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চাপুইর সিনিয়র আলিম মাদরাসা",
+        "male_count": 1442,
+        "female_count": 1316,
+        "hijra_count": 0,
+        "latitude": 23.90609,
+        "longitude": 91.17197
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চিনাইর আঞ্জুমান আরা উচ্চ বিদ্যালয়",
+        "male_count": 2689,
+        "female_count": 2461,
+        "hijra_count": 0,
+        "latitude": 23.89775,
+        "longitude": 91.16311
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "চিলোকুট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2280,
+        "female_count": 1989,
+        "hijra_count": 0,
+        "latitude": 23.96425,
+        "longitude": 91.02968
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ছতরপুর উচ্চ বিদ্যালয়",
+        "male_count": 2218,
+        "female_count": 2123,
+        "hijra_count": 0,
+        "latitude": 23.95727,
+        "longitude": 91.23012
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ছোট হরণ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1098,
+        "female_count": 862,
+        "hijra_count": 0,
+        "latitude": 23.98228,
+        "longitude": 91.06976
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "জগতসার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2304,
+        "female_count": 1970,
+        "hijra_count": 0,
+        "latitude": 23.90298,
+        "longitude": 91.13389
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "জাংগাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1312,
+        "female_count": 1124,
+        "hijra_count": 0,
+        "latitude": 23.90408,
+        "longitude": 91.12401
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "জালালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1817,
+        "female_count": 1611,
+        "hijra_count": 0,
+        "latitude": 24.03521,
+        "longitude": 91.24279
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "জিল্লুর রহমান উচ্চ বিদ্যালয়",
+        "male_count": 4093,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.02294,
+        "longitude": 91.11049
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ডালপা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1043,
+        "female_count": 934,
+        "hijra_count": 0,
+        "latitude": 24.00853,
+        "longitude": 91.218
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "তেলীনগর উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1071,
+        "female_count": 841,
+        "hijra_count": 0,
+        "latitude": 24.03457,
+        "longitude": 91.0948
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "তেলীনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2383,
+        "female_count": 1943,
+        "hijra_count": 0,
+        "latitude": 24.0298,
+        "longitude": 91.09137
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "তোফায়েল আজম কিন্ডার গার্টেন",
+        "male_count": 0,
+        "female_count": 2719,
+        "hijra_count": 0,
+        "latitude": 23.9696,
+        "longitude": 91.11347
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "থলিয়ারা শাহজাহান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1229,
+        "female_count": 1083,
+        "hijra_count": 0,
+        "latitude": 24.0038,
+        "longitude": 91.08442
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "দতাইসার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1425,
+        "female_count": 1352,
+        "hijra_count": 0,
+        "latitude": 23.89887,
+        "longitude": 91.17261
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "দাড়িয়াপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1558,
+        "female_count": 1528,
+        "hijra_count": 0,
+        "latitude": 24.00027,
+        "longitude": 91.28837
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "দামচাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2130,
+        "female_count": 1767,
+        "hijra_count": 0,
+        "latitude": 23.97258,
+        "longitude": 91.04171
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "দারমা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1813,
+        "female_count": 1423,
+        "hijra_count": 0,
+        "latitude": 24.0313,
+        "longitude": 91.13565
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "দৌলতবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 898,
+        "female_count": 928,
+        "hijra_count": 0,
+        "latitude": 23.91565,
+        "longitude": 91.21712
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ধোরানাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1596,
+        "female_count": 1589,
+        "hijra_count": 0,
+        "latitude": 23.986,
+        "longitude": 91.2961
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "নন্দনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2000,
+        "female_count": 1853,
+        "hijra_count": 0,
+        "latitude": 24.03349,
+        "longitude": 91.11329
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "নরসিংসার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1839,
+        "hijra_count": 0,
+        "latitude": 23.97751,
+        "longitude": 91.06266
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "নাটাই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2900,
+        "female_count": 2501,
+        "hijra_count": 0,
+        "latitude": 23.98566,
+        "longitude": 91.09389
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "নিদারাবাদ ইউনিয়ন উচ্চ বিদ্যালয়",
+        "male_count": 2084,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.01483,
+        "longitude": 91.29453
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "নিদারাবাদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2034,
+        "hijra_count": 0,
+        "latitude": 24.01384,
+        "longitude": 91.29516
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "নিয়াজ মুহম্মদ উচ্চ বিদ্যালয়",
+        "male_count": 1813,
+        "female_count": 2006,
+        "hijra_count": 0,
+        "latitude": 23.96724,
+        "longitude": 91.11216
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পত্তন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2395,
+        "female_count": 2149,
+        "hijra_count": 0,
+        "latitude": 23.95189,
+        "longitude": 91.20424
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পয়াগ-নরসিংসার আব্দুল বারী উচ্চ বিদ্যালয়",
+        "male_count": 2263,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.97117,
+        "longitude": 91.06282
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পয়াগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1658,
+        "female_count": 1322,
+        "hijra_count": 0,
+        "latitude": 23.96782,
+        "longitude": 91.0615
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পাইকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1297,
+        "female_count": 1198,
+        "hijra_count": 0,
+        "latitude": 23.89814,
+        "longitude": 91.17383
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পাইকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2018,
+        "female_count": 1847,
+        "hijra_count": 0,
+        "latitude": 24.02115,
+        "longitude": 91.25014
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পাঁচগাও আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1844,
+        "female_count": 1621,
+        "hijra_count": 0,
+        "latitude": 24.01383,
+        "longitude": 91.27834
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পাহাড়পুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1563,
+        "female_count": 1420,
+        "hijra_count": 0,
+        "latitude": 23.99246,
+        "longitude": 91.25756
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পুথাই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1482,
+        "female_count": 1166,
+        "hijra_count": 0,
+        "latitude": 24.01238,
+        "longitude": 91.05799
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পুনিয়াউট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1670,
+        "female_count": 1813,
+        "hijra_count": 0,
+        "latitude": 23.96243,
+        "longitude": 91.10468
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পেটুয়াজুরী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1136,
+        "female_count": 1102,
+        "hijra_count": 0,
+        "latitude": 23.98813,
+        "longitude": 91.21225
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পৈরতলা উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1543,
+        "female_count": 1440,
+        "hijra_count": 0,
+        "latitude": 23.97259,
+        "longitude": 91.09795
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পৈরতলা (দঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2916,
+        "female_count": 3088,
+        "hijra_count": 0,
+        "latitude": 23.96946,
+        "longitude": 91.09613
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "পৌর আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 5290,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.9701,
+        "longitude": 91.1073
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ফুলবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2023,
+        "female_count": 1767,
+        "hijra_count": 0,
+        "latitude": 23.91885,
+        "longitude": 91.13525
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ফুলবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1445,
+        "female_count": 1317,
+        "hijra_count": 0,
+        "latitude": 23.95055,
+        "longitude": 91.2089
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বড়পুকুরপাড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2227,
+        "female_count": 1698,
+        "hijra_count": 0,
+        "latitude": 23.9806,
+        "longitude": 91.18506
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বড় হরণ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1723,
+        "female_count": 1400,
+        "hijra_count": 0,
+        "latitude": 23.98702,
+        "longitude": 91.06488
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বরিশল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2145,
+        "female_count": 1766,
+        "hijra_count": 0,
+        "latitude": 23.86525,
+        "longitude": 91.18904
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বাকাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1953,
+        "female_count": 1689,
+        "hijra_count": 0,
+        "latitude": 24.0207,
+        "longitude": 91.1271
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বাদেহাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1844,
+        "female_count": 1717,
+        "hijra_count": 0,
+        "latitude": 23.97444,
+        "longitude": 91.22258
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বারঘরিয়া আলহাজ্ব ফরিদ মিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1766,
+        "female_count": 1524,
+        "hijra_count": 0,
+        "latitude": 24.08202,
+        "longitude": 91.27493
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বাসুদেব বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1678,
+        "female_count": 1562,
+        "hijra_count": 0,
+        "latitude": 23.88797,
+        "longitude": 91.17276
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বিজেশ্বর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2476,
+        "female_count": 2393,
+        "hijra_count": 0,
+        "latitude": 23.93939,
+        "longitude": 91.09922
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বিয়াম ল্যাবরেটরী স্কুল",
+        "male_count": 961,
+        "female_count": 965,
+        "hijra_count": 0,
+        "latitude": 23.96211,
+        "longitude": 91.11152
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বিরামপুর (দঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2271,
+        "female_count": 1881,
+        "hijra_count": 0,
+        "latitude": 23.88991,
+        "longitude": 91.11276
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বিরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1453,
+        "female_count": 1200,
+        "hijra_count": 0,
+        "latitude": 23.9588,
+        "longitude": 91.04733
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বিরাসার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1899,
+        "female_count": 1633,
+        "hijra_count": 0,
+        "latitude": 23.9815,
+        "longitude": 91.0953
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বিলকেন্দুয়াই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1253,
+        "female_count": 1028,
+        "hijra_count": 0,
+        "latitude": 23.98813,
+        "longitude": 91.05336
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বিষ্ণুপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1978,
+        "female_count": 1975,
+        "hijra_count": 0,
+        "latitude": 23.92913,
+        "longitude": 91.22341
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বীরপাশা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1480,
+        "female_count": 1322,
+        "hijra_count": 0,
+        "latitude": 24.0787,
+        "longitude": 91.27227
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বুধন্তী আহ্‌লাদি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1934,
+        "female_count": 1631,
+        "hijra_count": 0,
+        "latitude": 24.05764,
+        "longitude": 91.24332
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বুধল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1807,
+        "female_count": 1600,
+        "hijra_count": 0,
+        "latitude": 24.03751,
+        "longitude": 91.09919
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বুল্লা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2053,
+        "female_count": 1946,
+        "hijra_count": 0,
+        "latitude": 24.03018,
+        "longitude": 91.27189
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "বেহাইর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1490,
+        "female_count": 1233,
+        "hijra_count": 0,
+        "latitude": 23.99518,
+        "longitude": 91.09421
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ব্রাহ্মণবাড়িয়া উচ্চ বিদ্যালয়",
+        "male_count": 2084,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.97804,
+        "longitude": 91.10845
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ব্রাহ্মণবাড়িয়া পৌর ডিগ্রী কলেজ",
+        "male_count": 3205,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.9843,
+        "longitude": 91.11177
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ব্রাহ্মণবাড়িয়া পৌর ডিগ্রী কলেজ",
+        "male_count": 0,
+        "female_count": 3207,
+        "hijra_count": 0,
+        "latitude": 23.98436,
+        "longitude": 91.11176
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ব্রাহ্মণবাড়িয়া সরকারি কলেজ",
+        "male_count": 1169,
+        "female_count": 1345,
+        "hijra_count": 0,
+        "latitude": 23.96678,
+        "longitude": 91.11226
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ব্রাহ্মণবাড়িয়া সরকারি মহিলা কলেজ",
+        "male_count": 0,
+        "female_count": 2107,
+        "hijra_count": 0,
+        "latitude": 23.97824,
+        "longitude": 91.10824
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভাটপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2775,
+        "female_count": 2292,
+        "hijra_count": 0,
+        "latitude": 23.99273,
+        "longitude": 91.08403
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভাদুঘর ঋষিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1259,
+        "female_count": 1149,
+        "hijra_count": 0,
+        "latitude": 23.94728,
+        "longitude": 91.13035
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভাদুঘর (দঃ) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2649,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.94515,
+        "longitude": 91.12171
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভাদুঘর (দঃ) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2994,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.94529,
+        "longitude": 91.12155
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভাদুঘর দারুচ্ছুন্নাহ কামিল (এম.এ) মাদরাসা",
+        "male_count": 3366,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.95052,
+        "longitude": 91.12444
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভাদুঘর দারুচ্ছুন্নাহ কামিল (এম.এ) মাদরাসা",
+        "male_count": 0,
+        "female_count": 2916,
+        "hijra_count": 0,
+        "latitude": 23.95061,
+        "longitude": 91.12443
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভাদুঘর (পূর্ব) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2669,
+        "hijra_count": 0,
+        "latitude": 23.94968,
+        "longitude": 91.1249
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভাদুঘর (পূর্ব) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2430,
+        "hijra_count": 0,
+        "latitude": 23.94974,
+        "longitude": 91.12535
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "ভিটি দাউদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1724,
+        "female_count": 1636,
+        "hijra_count": 0,
+        "latitude": 23.96962,
+        "longitude": 91.24664
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মজলিশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3005,
+        "female_count": 2575,
+        "hijra_count": 0,
+        "latitude": 23.77802,
+        "longitude": 91.15735
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মনিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2317,
+        "female_count": 1930,
+        "hijra_count": 0,
+        "latitude": 23.97081,
+        "longitude": 91.16589
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মহিউদ্দিননগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1432,
+        "female_count": 1307,
+        "hijra_count": 0,
+        "latitude": 23.86839,
+        "longitude": 91.1379
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মহেশপুর উচ্চ বিদ্যালয়",
+        "male_count": 1187,
+        "female_count": 1062,
+        "hijra_count": 0,
+        "latitude": 23.94543,
+        "longitude": 91.24878
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মাদ্রাসা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2238,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.97175,
+        "longitude": 91.11297
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মালিহাতা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1870,
+        "female_count": 1574,
+        "hijra_count": 0,
+        "latitude": 24.04187,
+        "longitude": 91.10255
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মিরাসানী পলিটেকনিক একাডেমী",
+        "male_count": 2820,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.9194,
+        "longitude": 91.22804
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মিরাসানী পলিটেকনিক একাডেমী",
+        "male_count": 0,
+        "female_count": 2704,
+        "hijra_count": 0,
+        "latitude": 23.91975,
+        "longitude": 91.22759
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মির্জাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1052,
+        "female_count": 984,
+        "hijra_count": 0,
+        "latitude": 24.01411,
+        "longitude": 91.23742
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মীরহাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2573,
+        "hijra_count": 0,
+        "latitude": 24.00943,
+        "longitude": 91.10599
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মীরহাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2903,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.00954,
+        "longitude": 91.10593
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মুকুন্দপুর উচ্চ বিদ্যালয়",
+        "male_count": 1677,
+        "female_count": 1722,
+        "hijra_count": 0,
+        "latitude": 23.96118,
+        "longitude": 91.26243
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মেঘশিমুইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1349,
+        "female_count": 1222,
+        "hijra_count": 0,
+        "latitude": 24.04345,
+        "longitude": 91.30183
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মেড্ডা (পঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 4496,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.98632,
+        "longitude": 91.10627
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মেড্ডা (পূর্ব) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1825,
+        "female_count": 1910,
+        "hijra_count": 0,
+        "latitude": 23.9849,
+        "longitude": 91.10932
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মৈন্দ উচ্চ বিদ্যালয়",
+        "male_count": 1537,
+        "female_count": 1299,
+        "hijra_count": 0,
+        "latitude": 24.04644,
+        "longitude": 91.14785
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মৈন্দ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2180,
+        "female_count": 1870,
+        "hijra_count": 0,
+        "latitude": 24.04417,
+        "longitude": 91.15167
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মোহনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1178,
+        "female_count": 1006,
+        "hijra_count": 0,
+        "latitude": 24.02262,
+        "longitude": 91.0816
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মোহাম্মদপুর ক্যাডেট সরঃ প্রাথমিক বিদ্যালয়",
+        "male_count": 3314,
+        "female_count": 2844,
+        "hijra_count": 0,
+        "latitude": 23.92444,
+        "longitude": 91.07493
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "মোহাম্মদপুর সুন্নিয়া আলিম মাদরাসা",
+        "male_count": 2594,
+        "female_count": 2210,
+        "hijra_count": 0,
+        "latitude": 24.00472,
+        "longitude": 91.18103
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "রঙ্গিনবাড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1073,
+        "female_count": 854,
+        "hijra_count": 0,
+        "latitude": 23.98812,
+        "longitude": 91.14611
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "রসুলপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1599,
+        "female_count": 1379,
+        "hijra_count": 0,
+        "latitude": 24.02992,
+        "longitude": 91.19498
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "রাজঘর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2090,
+        "female_count": 1810,
+        "hijra_count": 0,
+        "latitude": 23.99892,
+        "longitude": 91.07944
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "রামকানাই হাই একাডেমি",
+        "male_count": 3727,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.97832,
+        "longitude": 91.11055
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "রামরাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1457,
+        "female_count": 1286,
+        "hijra_count": 0,
+        "latitude": 23.92762,
+        "longitude": 91.1133
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "শশই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1257,
+        "female_count": 1117,
+        "hijra_count": 0,
+        "latitude": 24.06908,
+        "longitude": 91.25281
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "শহীদ লুৎফুর রহমান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2153,
+        "female_count": 2124,
+        "hijra_count": 0,
+        "latitude": 23.95878,
+        "longitude": 91.11525
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "শালগাঁও কালিসীমা স্কুল এন্ড কলেজ",
+        "male_count": 1163,
+        "female_count": 946,
+        "hijra_count": 0,
+        "latitude": 23.95763,
+        "longitude": 91.07492
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "শাহপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1013,
+        "female_count": 938,
+        "hijra_count": 0,
+        "latitude": 23.87602,
+        "longitude": 91.1232
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "শিমরাইলকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2632,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.96993,
+        "longitude": 91.11549
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "শিলাউড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1771,
+        "female_count": 1462,
+        "hijra_count": 0,
+        "latitude": 23.90469,
+        "longitude": 91.106
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "শ্রীপুর ইসলামিয়া ফাজিল মাদ্রাসা",
+        "male_count": 1794,
+        "female_count": 1711,
+        "hijra_count": 0,
+        "latitude": 23.93668,
+        "longitude": 91.21226
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "‌সাটিরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1667,
+        "female_count": 1513,
+        "hijra_count": 0,
+        "latitude": 23.99307,
+        "longitude": 91.2165
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সাতগাঁও মডেল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2463,
+        "female_count": 2387,
+        "hijra_count": 0,
+        "latitude": 24.02753,
+        "longitude": 91.22861
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সাতবর্গ বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1902,
+        "female_count": 1917,
+        "hijra_count": 0,
+        "latitude": 24.09249,
+        "longitude": 91.28283
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সাদেকপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2071,
+        "female_count": 1715,
+        "hijra_count": 0,
+        "latitude": 23.96803,
+        "longitude": 91.03638
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সাবেরা সোবহান সরকারি বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2145,
+        "hijra_count": 0,
+        "latitude": 23.969,
+        "longitude": 91.11021
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সাবেরা সোবহান সরকারি বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3481,
+        "hijra_count": 0,
+        "latitude": 23.96925,
+        "longitude": 91.11029
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সাহেরা গফুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1361,
+        "female_count": 1481,
+        "hijra_count": 0,
+        "latitude": 23.96504,
+        "longitude": 91.11212
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সিংগারবিল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1465,
+        "female_count": 1397,
+        "hijra_count": 0,
+        "latitude": 23.90925,
+        "longitude": 91.21762
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সিন্দুরউড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1607,
+        "female_count": 1304,
+        "hijra_count": 0,
+        "latitude": 23.95877,
+        "longitude": 91.06903
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সীতানগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2199,
+        "female_count": 1865,
+        "hijra_count": 0,
+        "latitude": 23.98204,
+        "longitude": 91.11507
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সুতিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1398,
+        "female_count": 1157,
+        "hijra_count": 0,
+        "latitude": 24.03853,
+        "longitude": 91.11785
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সুলতানপুর বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 2007,
+        "female_count": 1904,
+        "hijra_count": 0,
+        "latitude": 23.88395,
+        "longitude": 91.1306
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সুলতানপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1430,
+        "female_count": 1396,
+        "hijra_count": 0,
+        "latitude": 23.88387,
+        "longitude": 91.12996
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সুহাতা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1216,
+        "female_count": 1204,
+        "hijra_count": 0,
+        "latitude": 23.92895,
+        "longitude": 91.13267
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সুহিলপুর (উঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1971,
+        "female_count": 1729,
+        "hijra_count": 0,
+        "latitude": 24.03065,
+        "longitude": 91.10236
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সুহিলপুর (দঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1389,
+        "female_count": 1256,
+        "hijra_count": 0,
+        "latitude": 24.0169,
+        "longitude": 91.10258
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সুহিলপুর (মধ্য) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3637,
+        "hijra_count": 0,
+        "latitude": 24.0229,
+        "longitude": 91.11051
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সূর্যমুখী কিন্ডার গার্টেন",
+        "male_count": 3736,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.9756,
+        "longitude": 91.10813
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সেজামুড়া হুমায়ুন কবির সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1556,
+        "female_count": 1413,
+        "hijra_count": 0,
+        "latitude": 23.95305,
+        "longitude": 91.26291
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সেন্দ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2477,
+        "female_count": 2093,
+        "hijra_count": 0,
+        "latitude": 23.91262,
+        "longitude": 91.10465
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সেমড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1829,
+        "female_count": 1702,
+        "hijra_count": 0,
+        "latitude": 24.05042,
+        "longitude": 91.26246
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "সোনাসার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1296,
+        "female_count": 1031,
+        "hijra_count": 0,
+        "latitude": 24.03315,
+        "longitude": 91.07578
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "হরষপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2046,
+        "female_count": 1863,
+        "hijra_count": 0,
+        "latitude": 24.01765,
+        "longitude": 91.30195
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "হাজীপুর ইসলামিয়া সুন্নিয়া দাখিল মাদ্রাসা",
+        "male_count": 1913,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.0304,
+        "longitude": 91.25537
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "হাজীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1741,
+        "hijra_count": 0,
+        "latitude": 24.02979,
+        "longitude": 91.2599
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "হাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1423,
+        "female_count": 1188,
+        "hijra_count": 0,
+        "latitude": 24.03614,
+        "longitude": 91.10949
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "হাবলাউচ্চ আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1319,
+        "female_count": 1036,
+        "hijra_count": 0,
+        "latitude": 23.89849,
+        "longitude": 91.11112
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "হুমায়ুন কবীর পৌর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1730,
+        "female_count": 1710,
+        "hijra_count": 0,
+        "latitude": 23.97421,
+        "longitude": 91.10563
+    },
+    {
+        "settings_code": 245,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৩",
+        "center_name": "হুমায়ূন কবীর বিদ্যা নিকেতন",
+        "male_count": 0,
+        "female_count": 4174,
+        "hijra_count": 0,
+        "latitude": 23.98368,
+        "longitude": 91.1055
+    }
+]

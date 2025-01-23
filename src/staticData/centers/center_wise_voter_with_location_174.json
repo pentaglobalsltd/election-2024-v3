@@ -1,0 +1,1752 @@
+[
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "01নং রাজাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1736,
+    "female_count": 1685,
+    "hijra_count": 0,
+    "latitude": 23.66444,
+    "longitude": 90.03668
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "02নং ঘোষাইল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1217,
+    "female_count": 1202,
+    "hijra_count": 0,
+    "latitude": 23.67492,
+    "longitude": 90.04454
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "05নং সোনাবাজু সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1440,
+    "female_count": 1374,
+    "hijra_count": 0,
+    "latitude": 23.71156,
+    "longitude": 90.05165
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "০৬নং কাউনিয়াকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 940,
+    "female_count": 918,
+    "hijra_count": 0,
+    "latitude": 23.689,
+    "longitude": 90.09907
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "০৭নং বারুয়াখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1251,
+    "female_count": 1255,
+    "hijra_count": 0,
+    "latitude": 23.67904,
+    "longitude": 90.06623
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "০৮নং কুমার বাড়িল্যা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1588,
+    "female_count": 1570,
+    "hijra_count": 0,
+    "latitude": 23.67348,
+    "longitude": 90.07634
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "০৯নং আলালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1480,
+    "female_count": 1538,
+    "hijra_count": 1,
+    "latitude": 23.67318,
+    "longitude": 90.08885
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "101নং হাগরাদী গরীবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2113,
+    "female_count": 2123,
+    "hijra_count": 0,
+    "latitude": 23.69218,
+    "longitude": 90.08006
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "১০২নং করপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1212,
+    "female_count": 1167,
+    "hijra_count": 0,
+    "latitude": 23.66852,
+    "longitude": 90.07511
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "103নং মনিকান্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1383,
+    "female_count": 1329,
+    "hijra_count": 0,
+    "latitude": 23.70872,
+    "longitude": 90.06133
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "106নং চরচরিয়া চান্দের টেক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1079,
+    "female_count": 1003,
+    "hijra_count": 0,
+    "latitude": 23.62073,
+    "longitude": 90.234
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "113নং নতুন বান্দুরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1537,
+    "female_count": 1482,
+    "hijra_count": 0,
+    "latitude": 23.66406,
+    "longitude": 90.10198
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "119নং দক্ষিন শোল্লা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2093,
+    "female_count": 1938,
+    "hijra_count": 0,
+    "latitude": 23.69676,
+    "longitude": 90.18363
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "11নং সুজাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1093,
+    "female_count": 1180,
+    "hijra_count": 0,
+    "latitude": 23.68453,
+    "longitude": 90.09201
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "124 নং পাঞ্জিপহরী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1295,
+    "female_count": 1199,
+    "hijra_count": 0,
+    "latitude": 23.68022,
+    "longitude": 90.07806
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "১২৫ তিৎপালদিয়া সরকারি প্রাথমিক বিদ্যালয়, জয়কৃষ্ণপুর, নবাবগঞ্জ, ঢাকা।",
+    "male_count": 1170,
+    "female_count": 1115,
+    "hijra_count": 0,
+    "latitude": 23.69409,
+    "longitude": 90.04973
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "127নং যন্ত্রাইল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1108,
+    "female_count": 1186,
+    "hijra_count": 0,
+    "latitude": 23.66716,
+    "longitude": 90.16309
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "১২৯ নং জালালচর ময়মন্দি সরকারি প্রাথমিক বিদ্যালয়, যন্ত্রাইল, নবাবগঞ্জ, ঢাকা।",
+    "male_count": 1177,
+    "female_count": 1212,
+    "hijra_count": 0,
+    "latitude": 23.66382,
+    "longitude": 90.14297
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "১৩ নং শিবপুর সরকারী প্রাথমিক বিদ্যালয়, শিকারীপাড়া, নবাবগঞ্জ, ঢাকা।",
+    "male_count": 1272,
+    "female_count": 1260,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "14নং চর তাশুল্যা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1887,
+    "female_count": 1851,
+    "hijra_count": 0,
+    "latitude": 23.70504,
+    "longitude": 90.1164
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "15নং দেওতলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1289,
+    "female_count": 1361,
+    "hijra_count": 0,
+    "latitude": 23.66541,
+    "longitude": 90.1142
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "16নং ঘোষপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1172,
+    "female_count": 1119,
+    "hijra_count": 0,
+    "latitude": 23.71523,
+    "longitude": 90.10372
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "18নং রাধাকান্তপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1843,
+    "female_count": 1994,
+    "hijra_count": 0,
+    "latitude": 23.66599,
+    "longitude": 90.1024
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "21নং তুইতাল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1614,
+    "female_count": 1706,
+    "hijra_count": 0,
+    "latitude": 23.69328,
+    "longitude": 90.1037
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "22নং গোল্লা বালক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1228,
+    "female_count": 1330,
+    "hijra_count": 0,
+    "latitude": 23.66648,
+    "longitude": 90.12572
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "২৫নং সুলতানপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1418,
+    "female_count": 1392,
+    "hijra_count": 0,
+    "latitude": 23.70965,
+    "longitude": 90.2043
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "২৭নং মহিষদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 817,
+    "female_count": 756,
+    "hijra_count": 0,
+    "latitude": 23.74349,
+    "longitude": 90.14003
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "২৮ নং সিংহরা সরকারী প্রাথমিক বিদ্যালয়, শোল্লা, নবাবগঞ্জ, ঢাকা।",
+    "male_count": 2043,
+    "female_count": 2004,
+    "hijra_count": 0,
+    "latitude": 23.69973,
+    "longitude": 90.16607
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "30নং দক্ষিন বালুখন্ড সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1626,
+    "female_count": 1508,
+    "hijra_count": 0,
+    "latitude": 23.71823,
+    "longitude": 90.1284
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "34নং চকোরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1128,
+    "female_count": 1085,
+    "hijra_count": 0,
+    "latitude": 23.71542,
+    "longitude": 90.17027
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "36নং পূর্ব পাতিলঝাপ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1594,
+    "female_count": 1622,
+    "hijra_count": 0,
+    "latitude": 23.70716,
+    "longitude": 90.15566
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "37নং দৌলতপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1341,
+    "female_count": 1313,
+    "hijra_count": 0,
+    "latitude": 23.67536,
+    "longitude": 90.27938
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "38নং কৈলাইল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1363,
+    "female_count": 1267,
+    "hijra_count": 0,
+    "latitude": 23.67745,
+    "longitude": 90.233
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "39নং মেলেং সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1249,
+    "female_count": 1195,
+    "hijra_count": 0,
+    "latitude": 23.69892,
+    "longitude": 90.22326
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "41নং দড়িকান্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1752,
+    "female_count": 1610,
+    "hijra_count": 0,
+    "latitude": 23.7027,
+    "longitude": 90.25404
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "42নং ভাংগাভিটা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1365,
+    "female_count": 1183,
+    "hijra_count": 0,
+    "latitude": 23.6607,
+    "longitude": 90.25858
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৪৩ নং পাড়াগ্রাম সরকারী প্রাথমিক বিদ্যালয়, কৈলাইল, নবাবগঞ্জ, ঢাকা।",
+    "male_count": 1346,
+    "female_count": 1230,
+    "hijra_count": 0,
+    "latitude": 23.70944,
+    "longitude": 90.24107
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "45নং মাতাবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 662,
+    "female_count": 680,
+    "hijra_count": 0,
+    "latitude": 23.70533,
+    "longitude": 90.22829
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৪৭ নং পুয়াকৈর সরকারী প্রাথমিক বিদ্যালয়।",
+    "male_count": 2375,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.65552,
+    "longitude": 90.10104
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৪৭নং পুয়াকৈর সরকারী প্রাথমিক বিদ্যালয়।",
+    "male_count": 0,
+    "female_count": 2477,
+    "hijra_count": 0,
+    "latitude": 23.65552,
+    "longitude": 90.10104
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "48নং মৌলভীডাঙ্গী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1475,
+    "female_count": 1525,
+    "hijra_count": 0,
+    "latitude": 23.64737,
+    "longitude": 90.10372
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৫০ নং মহব্বতপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1710,
+    "female_count": 1769,
+    "hijra_count": 0,
+    "latitude": 23.65825,
+    "longitude": 90.13243
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "51নং পুরাতন বান্দুরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1816,
+    "female_count": 2004,
+    "hijra_count": 0,
+    "latitude": 23.665,
+    "longitude": 90.11736
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "52নং বান্দুরা বালক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1136,
+    "female_count": 1256,
+    "hijra_count": 0,
+    "latitude": 23.65562,
+    "longitude": 90.10281
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "55নং রাজপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1230,
+    "female_count": 1280,
+    "hijra_count": 0,
+    "latitude": 23.65061,
+    "longitude": 90.15054
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "56নং জালালপুর উদয়ন মডেল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1890,
+    "female_count": 1963,
+    "hijra_count": 0,
+    "latitude": 23.65044,
+    "longitude": 90.16332
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৫৭নং গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1547,
+    "female_count": 1579,
+    "hijra_count": 0,
+    "latitude": 23.62158,
+    "longitude": 90.19184
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "58নং কিরঞ্চি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1229,
+    "female_count": 1127,
+    "hijra_count": 0,
+    "latitude": 23.69321,
+    "longitude": 90.14355
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "59নং চন্দ্রখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1495,
+    "female_count": 1385,
+    "hijra_count": 0,
+    "latitude": 23.68606,
+    "longitude": 90.16389
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "61নং আজিজপুর সরকারি প্রাথমিক বিদ্যালয়,",
+    "male_count": 1048,
+    "female_count": 1082,
+    "hijra_count": 0,
+    "latitude": 23.66462,
+    "longitude": 90.15791
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৬২নং দক্ষিণ হরিষকুল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1395,
+    "female_count": 1390,
+    "hijra_count": 0,
+    "latitude": 23.66764,
+    "longitude": 90.1528
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "64নং বালুরচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1483,
+    "female_count": 1461,
+    "hijra_count": 0,
+    "latitude": 23.64686,
+    "longitude": 90.16325
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "65নং বর্দ্ধনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1453,
+    "female_count": 1526,
+    "hijra_count": 0,
+    "latitude": 23.65249,
+    "longitude": 90.18276
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৬৬নং দিঘীরপাড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2207,
+    "female_count": 2288,
+    "hijra_count": 0,
+    "latitude": 23.6427,
+    "longitude": 90.16929
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৬৮ নং আলগীরচর সরকারী প্রাথমিক বিদ্যালয়, বাহ্রা, নবাবগঞ্জ, ঢাকা",
+    "male_count": 927,
+    "female_count": 938,
+    "hijra_count": 0,
+    "latitude": 23.65131,
+    "longitude": 90.17209
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "69নং কান্দা মাত্রা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1420,
+    "female_count": 1296,
+    "hijra_count": 0,
+    "latitude": 23.67317,
+    "longitude": 90.17701
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "71নং বাহ্রা পূর্ব সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2184,
+    "female_count": 2187,
+    "hijra_count": 0,
+    "latitude": 23.66079,
+    "longitude": 90.1965
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "72নং বাহ্রা পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1828,
+    "female_count": 1636,
+    "hijra_count": 0,
+    "latitude": 23.65813,
+    "longitude": 90.192
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "73নং বলমন্তচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1815,
+    "female_count": 1927,
+    "hijra_count": 0,
+    "latitude": 23.6497,
+    "longitude": 90.16716
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৭৭ নং বিজি চরচরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 923,
+    "female_count": 922,
+    "hijra_count": 0,
+    "latitude": 23.63227,
+    "longitude": 90.2398
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "78নং ছাতিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1822,
+    "female_count": 1872,
+    "hijra_count": 0,
+    "latitude": 23.62591,
+    "longitude": 90.21485
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "80নং মাঝপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2133,
+    "female_count": 2121,
+    "hijra_count": 0,
+    "latitude": 23.65133,
+    "longitude": 90.21803
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "81নং মরিচপট্টি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1065,
+    "female_count": 946,
+    "hijra_count": 0,
+    "latitude": 23.59115,
+    "longitude": 90.2108
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "82নং দূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1817,
+    "female_count": 1771,
+    "hijra_count": 0,
+    "latitude": 23.62311,
+    "longitude": 90.21479
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "83নং সোনাহাজরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2094,
+    "female_count": 2105,
+    "hijra_count": 0,
+    "latitude": 23.62535,
+    "longitude": 90.1965
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "84নং গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 581,
+    "female_count": 626,
+    "hijra_count": 0,
+    "latitude": 23.62158,
+    "longitude": 90.19184
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৮৫ নং মুন্সিনগর সরকারী প্রাথমিক বিদ্যালয়, চুড়াইন, নবাবগঞ্জ, ঢাকা।",
+    "male_count": 1302,
+    "female_count": 1386,
+    "hijra_count": 0,
+    "latitude": 23.60777,
+    "longitude": 90.22267
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "86 নং কামারখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 990,
+    "female_count": 938,
+    "hijra_count": 0,
+    "latitude": 23.60845,
+    "longitude": 90.21504
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "87নং গোবিন্দপুর অগ্রনী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1200,
+    "female_count": 1207,
+    "hijra_count": 0,
+    "latitude": 23.62316,
+    "longitude": 90.20123
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "89নং সাদাপুর প্রগতি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2084,
+    "female_count": 2043,
+    "hijra_count": 0,
+    "latitude": 23.65701,
+    "longitude": 90.13917
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৯০নং সিংজোড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1593,
+    "female_count": 1571,
+    "hijra_count": 0,
+    "latitude": 23.71306,
+    "longitude": 90.20105
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "৯৩ নং সৈয়দপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2194,
+    "female_count": 2242,
+    "hijra_count": 0,
+    "latitude": 23.65252,
+    "longitude": 90.13204
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "95নং পাঠান কান্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1388,
+    "female_count": 1361,
+    "hijra_count": 0,
+    "latitude": 23.65622,
+    "longitude": 90.1913
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "96নং মালিকান্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1805,
+    "female_count": 1729,
+    "hijra_count": 0,
+    "latitude": 23.69408,
+    "longitude": 90.26524
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "97নং বড় নবগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1188,
+    "female_count": 1157,
+    "hijra_count": 0,
+    "latitude": 23.67699,
+    "longitude": 90.1364
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "98নং দত্তখন্ড সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1024,
+    "female_count": 988,
+    "hijra_count": 0,
+    "latitude": 23.72402,
+    "longitude": 90.14047
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "অরঙ্গাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1415,
+    "female_count": 1293,
+    "hijra_count": 0,
+    "latitude": 23.66226,
+    "longitude": 90.0366
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "আউলিয়াবাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1170,
+    "female_count": 1221,
+    "hijra_count": 0,
+    "latitude": 23.63888,
+    "longitude": 90.10088
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "আগলা চৌকিঘাটা জনমঙ্গল উচ্চ বিদ্যালয়",
+    "male_count": 1532,
+    "female_count": 1606,
+    "hijra_count": 0,
+    "latitude": 23.64992,
+    "longitude": 90.20038
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "আব্বাস আলী শিশু একাডেমী",
+    "male_count": 1306,
+    "female_count": 1329,
+    "hijra_count": 0,
+    "latitude": 23.62861,
+    "longitude": 90.12208
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ইউসুফপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1812,
+    "female_count": 1794,
+    "hijra_count": 0,
+    "latitude": 23.62367,
+    "longitude": 90.13666
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ইকরাশী আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2382,
+    "hijra_count": 0,
+    "latitude": 23.61716,
+    "longitude": 90.12196
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ইকরাশী আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 2319,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.6408,
+    "longitude": 90.1102
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1571,
+    "female_count": 1504,
+    "hijra_count": 0,
+    "latitude": 23.62882,
+    "longitude": 90.13001
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "উত্তর জয়পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1857,
+    "female_count": 1836,
+    "hijra_count": 0,
+    "latitude": 23.62755,
+    "longitude": 90.12731
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "উত্তর বালুখন্ড পিজি উচ্চ বিদ্যালয়",
+    "male_count": 1286,
+    "female_count": 1250,
+    "hijra_count": 0,
+    "latitude": 23.72403,
+    "longitude": 90.14048
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "উত্তর মধুরচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2176,
+    "female_count": 1607,
+    "hijra_count": 0,
+    "latitude": 23.58567,
+    "longitude": 90.12911
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "এম. মুহীয়্যুদ্দীন ভুইয়া উচ্চ বিদ্যালয়",
+    "male_count": 1803,
+    "female_count": 1710,
+    "hijra_count": 0,
+    "latitude": 23.69809,
+    "longitude": 90.20488
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "কাজীরচর মুগলজান সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 767,
+    "female_count": 717,
+    "hijra_count": 0,
+    "latitude": 23.59172,
+    "longitude": 90.13975
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "কাটাখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1537,
+    "female_count": 1452,
+    "hijra_count": 0,
+    "latitude": 23.61314,
+    "longitude": 90.13366
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "কাঠালী ঘাটা আল মদিনা জামে মসজিদ সংলগ্ন স্থানে অস্থায়ী কেন্দ্র",
+    "male_count": 545,
+    "female_count": 542,
+    "hijra_count": 0,
+    "latitude": 23.63798,
+    "longitude": 90.12811
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "কার্তিকপুর বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1180,
+    "female_count": 1174,
+    "hijra_count": 0,
+    "latitude": 23.64012,
+    "longitude": 90.08601
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "কুঠুরী সরকারী প্রাথমিক বিদ্যালয়, জয়কৃষ্ণপুর, নবাবগঞ্জ, ঢাকা।",
+    "male_count": 1529,
+    "female_count": 1525,
+    "hijra_count": 0,
+    "latitude": 23.68488,
+    "longitude": 90.04446
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "কৃষ্ণদেবপুর সাবের চোকদার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1405,
+    "female_count": 1223,
+    "hijra_count": 0,
+    "latitude": 23.59461,
+    "longitude": 90.12078
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "কেপিআর প্রাথমিক বিদ্যালয়",
+    "male_count": 1128,
+    "female_count": 1144,
+    "hijra_count": 0,
+    "latitude": 23.65667,
+    "longitude": 90.15652
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "কৈলাইল হানাফিয়া দাখিল মাদ্রাসা",
+    "male_count": 1754,
+    "female_count": 1677,
+    "hijra_count": 0,
+    "latitude": 23.68675,
+    "longitude": 90.23387
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "খানেপুর উচ্চ বিদ্যালয়",
+    "male_count": 1622,
+    "female_count": 1626,
+    "hijra_count": 0,
+    "latitude": 23.6748,
+    "longitude": 90.09134
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "গালিমপুর রহমানিয়া উচ্চ বিদ্যালয়",
+    "male_count": 1996,
+    "female_count": 1972,
+    "hijra_count": 0,
+    "latitude": 23.6263,
+    "longitude": 90.20607
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ঘাটা-১ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2268,
+    "female_count": 2226,
+    "hijra_count": 0,
+    "latitude": 23.60303,
+    "longitude": 90.12925
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ঘাটা-২ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1501,
+    "female_count": 1406,
+    "hijra_count": 0,
+    "latitude": 23.6148,
+    "longitude": 90.14445
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "চরকুশাই সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2307,
+    "female_count": 2300,
+    "hijra_count": 0,
+    "latitude": 23.63662,
+    "longitude": 90.08943
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "চরদেওভোগ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1387,
+    "female_count": 1320,
+    "hijra_count": 0,
+    "latitude": 23.62678,
+    "longitude": 90.08348
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "চর হোসেনপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1416,
+    "female_count": 1308,
+    "hijra_count": 0,
+    "latitude": 23.62608,
+    "longitude": 90.07421
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "চারাখালী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 779,
+    "female_count": 767,
+    "hijra_count": 0,
+    "latitude": 23.65747,
+    "longitude": 90.16214
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "জয়পাড়া কলেজ",
+    "male_count": 1245,
+    "female_count": 1232,
+    "hijra_count": 0,
+    "latitude": 23.61824,
+    "longitude": 90.12223
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "জয়পাড়া খালপাড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1623,
+    "female_count": 1528,
+    "hijra_count": 0,
+    "latitude": 23.62664,
+    "longitude": 90.12072
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "জয়পাড়া সরকারি পাইলট উচ্চ বিদ্যালয়",
+    "male_count": 3495,
+    "female_count": 3185,
+    "hijra_count": 0,
+    "latitude": 23.61595,
+    "longitude": 90.12105
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "জামালচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 804,
+    "female_count": 829,
+    "hijra_count": 0,
+    "latitude": 23.62803,
+    "longitude": 90.09748
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ঝনকী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1850,
+    "female_count": 1897,
+    "hijra_count": 0,
+    "latitude": 23.5851,
+    "longitude": 90.1554
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "টাচ স্টোন স্কুল",
+    "male_count": 1241,
+    "female_count": 1173,
+    "hijra_count": 0,
+    "latitude": 23.61714,
+    "longitude": 90.11092
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "তাশূল্লা উচ্চ বিদ্যালয়, নয়নশ্রী",
+    "male_count": 1233,
+    "female_count": 1218,
+    "hijra_count": 0,
+    "latitude": 23.70213,
+    "longitude": 90.11025
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "দক্ষিণ শিমুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2239,
+    "female_count": 2239,
+    "hijra_count": 0,
+    "latitude": 23.57441,
+    "longitude": 90.15686
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "দক্ষিন শিলাকোঠা মাদ্রাসা",
+    "male_count": 2773,
+    "female_count": 2810,
+    "hijra_count": 0,
+    "latitude": 23.63729,
+    "longitude": 90.05507
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "দোহার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1121,
+    "female_count": 1163,
+    "hijra_count": 0,
+    "latitude": 23.59808,
+    "longitude": 90.13837
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ধীৎপুর শহীদ শাকিল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2406,
+    "female_count": 2206,
+    "hijra_count": 0,
+    "latitude": 23.56995,
+    "longitude": 90.18079
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "ধোয়াইর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1716,
+    "female_count": 1649,
+    "hijra_count": 0,
+    "latitude": 23.64946,
+    "longitude": 90.04225
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নবাবগঞ্জ পাইলট গার্লস স্কুল এন্ড কলেজ",
+    "male_count": 1648,
+    "female_count": 1754,
+    "hijra_count": 0,
+    "latitude": 23.65771,
+    "longitude": 90.16367
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নবাবগঞ্জ সরকারি পাইলট উচ্চ বিদ্যালয় ও কলেজ (দক্ষিণ ভবন)",
+    "male_count": 2343,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.65687,
+    "longitude": 90.16381
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নবাবগঞ্জ সরকারি পাইলট উচ্চ বিদ্যালয় ও কলেজ (পশ্চিম ভবন)",
+    "male_count": 0,
+    "female_count": 2380,
+    "hijra_count": 0,
+    "latitude": 23.65684,
+    "longitude": 90.16351
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নবীনগর উত্তর বাহ্রা দাখিল মাদ্রাসা",
+    "male_count": 996,
+    "female_count": 961,
+    "hijra_count": 0,
+    "latitude": 23.71686,
+    "longitude": 90.0972
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নারায়নপুর রায়তুল আমান জামে মসজিদ মাদ্রাসা",
+    "male_count": 905,
+    "female_count": 732,
+    "hijra_count": 1,
+    "latitude": 23.62093,
+    "longitude": 90.07676
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নারিশা খালপাড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1593,
+    "female_count": 1625,
+    "hijra_count": 0,
+    "latitude": 23.56216,
+    "longitude": 90.15057
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নারিশা পশ্চিমচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3290,
+    "female_count": 3100,
+    "hijra_count": 0,
+    "latitude": 23.56642,
+    "longitude": 90.14736
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নারিশা বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1164,
+    "female_count": 1204,
+    "hijra_count": 0,
+    "latitude": 23.55501,
+    "longitude": 90.15242
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "নোয়াদ্দা প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2447,
+    "hijra_count": 0,
+    "latitude": 23.64287,
+    "longitude": 90.20634
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "পদ্মা মহা বিদ্যালয়",
+    "male_count": 1624,
+    "female_count": 1459,
+    "hijra_count": 0,
+    "latitude": 23.54029,
+    "longitude": 90.171
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "পশ্চিম চুড়াইন আদর্শ উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 1266,
+    "female_count": 1228,
+    "hijra_count": 0,
+    "latitude": 23.61805,
+    "longitude": 90.22461
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "পানকুন্ডু সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 668,
+    "female_count": 635,
+    "hijra_count": 0,
+    "latitude": 23.6571,
+    "longitude": 90.0398
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "পালামগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1073,
+    "female_count": 1080,
+    "hijra_count": 0,
+    "latitude": 23.63883,
+    "longitude": 90.11217
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "পূর্বচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 929,
+    "female_count": 939,
+    "hijra_count": 0,
+    "latitude": 23.55114,
+    "longitude": 90.15457
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "পূর্ব চুড়াইন তারিনীবামা উচ্চ বিদ্যালয়",
+    "male_count": 1099,
+    "female_count": 1078,
+    "hijra_count": 0,
+    "latitude": 23.61542,
+    "longitude": 90.22628
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "পূর্ব ধোয়াইর বেসরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 864,
+    "female_count": 860,
+    "hijra_count": 0,
+    "latitude": 23.64932,
+    "longitude": 90.05208
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বক্সনগর উচ্চ বিদ্যালয়",
+    "male_count": 1666,
+    "female_count": 1683,
+    "hijra_count": 0,
+    "latitude": 23.6441,
+    "longitude": 90.17625
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বড় বক্সনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1569,
+    "female_count": 1641,
+    "hijra_count": 0,
+    "latitude": 23.64461,
+    "longitude": 90.17304
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বারুয়াখালী উচ্চ বিদ্যালয়, বারুয়াখালী",
+    "male_count": 1344,
+    "female_count": 1411,
+    "hijra_count": 0,
+    "latitude": 23.68151,
+    "longitude": 90.06623
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বাস্তা দারুল কোরআন ইসলামিয়া মাদ্রাসা",
+    "male_count": 1731,
+    "female_count": 1819,
+    "hijra_count": 0,
+    "latitude": 23.63989,
+    "longitude": 90.08292
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বাহ্রা ইবতেদায়ী মাদ্রাসা",
+    "male_count": 1264,
+    "female_count": 1172,
+    "hijra_count": 0,
+    "latitude": 23.66734,
+    "longitude": 90.19951
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বাহ্রা ওয়াছেক মেমোরিয়াল হাইস্কুল",
+    "male_count": 1652,
+    "female_count": 1636,
+    "hijra_count": 0,
+    "latitude": 23.66268,
+    "longitude": 90.19321
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বাহ্রা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1522,
+    "female_count": 1475,
+    "hijra_count": 0,
+    "latitude": 23.57228,
+    "longitude": 89.94503
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বিলাসপুর ছকেত আলী মুন্সী ফোরকানিয়া মাদ্রাসা",
+    "male_count": 1460,
+    "female_count": 1289,
+    "hijra_count": 0,
+    "latitude": 23.60663,
+    "longitude": 90.10029
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বিলাসপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1824,
+    "female_count": 1594,
+    "hijra_count": 0,
+    "latitude": 23.59534,
+    "longitude": 90.1061
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বেগম আয়েশা পাইলট উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 1744,
+    "female_count": 1706,
+    "hijra_count": 0,
+    "latitude": 23.61668,
+    "longitude": 90.12076
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বেগম হাসিবা উচ্চ বিদ্যালয়",
+    "male_count": 1303,
+    "female_count": 1299,
+    "hijra_count": 0,
+    "latitude": 23.67051,
+    "longitude": 90.151
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "বৈটা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1189,
+    "female_count": 1076,
+    "hijra_count": 0,
+    "latitude": 23.60791,
+    "longitude": 90.12035
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মইতপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1591,
+    "female_count": 1519,
+    "hijra_count": 0,
+    "latitude": 23.55816,
+    "longitude": 90.17488
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মধুরখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1333,
+    "female_count": 1191,
+    "hijra_count": 0,
+    "latitude": 23.55101,
+    "longitude": 90.17319
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মধুরচর আলম মাদবর বিদ্যাপীট",
+    "male_count": 1196,
+    "female_count": 1409,
+    "hijra_count": 0,
+    "latitude": 23.58498,
+    "longitude": 90.14177
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মরহুম মাওলানা সামসুল হক ফোরকানিয়া মাদ্রাসা",
+    "male_count": 1838,
+    "female_count": 1758,
+    "hijra_count": 0,
+    "latitude": 23.59082,
+    "longitude": 90.14961
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মহাকবি কায়কোবাদ বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2804,
+    "female_count": 2674,
+    "hijra_count": 0,
+    "latitude": 23.64687,
+    "longitude": 90.20528
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মাঝিরচর ফোরকানিয়া আমিনিয়া মাদ্রাসা",
+    "male_count": 1246,
+    "female_count": 1169,
+    "hijra_count": 0,
+    "latitude": 23.60586,
+    "longitude": 90.10986
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মাঝিরচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 879,
+    "female_count": 767,
+    "hijra_count": 0,
+    "latitude": 23.60758,
+    "longitude": 90.11136
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মারুয়াপোতা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2148,
+    "female_count": 2141,
+    "hijra_count": 0,
+    "latitude": 23.59816,
+    "longitude": 90.15789
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মালিকান্দা মেঘুলা স্কুল এন্ড কলেজ",
+    "male_count": 2241,
+    "female_count": 2186,
+    "hijra_count": 0,
+    "latitude": 23.58121,
+    "longitude": 90.1406
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মাহমুদপুর বিএম সরকারি প্রাথমিক বিদ্যালয়, মাহমুদপুর",
+    "male_count": 1321,
+    "female_count": 1168,
+    "hijra_count": 0,
+    "latitude": 23.62398,
+    "longitude": 90.07059
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মিয়াহাটি জামে মসজিদ ও মাহবুবিয়া কাদেরিয়া মাদ্রাসা",
+    "male_count": 2371,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.64402,
+    "longitude": 90.2044
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মুকসুদপুর সামসুদ্দিন শিকদার উচ্চ বিদ্যালয়",
+    "male_count": 1875,
+    "female_count": 1858,
+    "hijra_count": 0,
+    "latitude": 23.58138,
+    "longitude": 90.14097
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মেঘুলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1813,
+    "female_count": 1651,
+    "hijra_count": 0,
+    "latitude": 23.57536,
+    "longitude": 90.14634
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "মৌড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1429,
+    "female_count": 1339,
+    "hijra_count": 0,
+    "latitude": 23.56742,
+    "longitude": 90.18594
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "রাইপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2586,
+    "hijra_count": 0,
+    "latitude": 23.61729,
+    "longitude": 90.12167
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "রাইপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2775,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.63166,
+    "longitude": 90.11537
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "লটাখোলা আজাহার আলী মেমোরিয়াল উচ্চ বিদ্যালয়",
+    "male_count": 877,
+    "female_count": 842,
+    "hijra_count": 0,
+    "latitude": 23.62113,
+    "longitude": 90.11397
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "লটাখোলা উচ্চ বিদ্যালয়",
+    "male_count": 1550,
+    "female_count": 1533,
+    "hijra_count": 0,
+    "latitude": 23.62102,
+    "longitude": 90.10968
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "লটাখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1794,
+    "female_count": 1725,
+    "hijra_count": 0,
+    "latitude": 23.62469,
+    "longitude": 90.10884
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "শিকারীপাড়া তারাশঙ্কর কালীশঙ্কর মেমোরিয়াল উচ্চ বিদ্যালয়",
+    "male_count": 1498,
+    "female_count": 1482,
+    "hijra_count": 0,
+    "latitude": 23.69989,
+    "longitude": 90.06855
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "শিমুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2042,
+    "female_count": 2043,
+    "hijra_count": 0,
+    "latitude": 23.57007,
+    "longitude": 90.18055
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "শিলাকোঠা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1482,
+    "female_count": 1453,
+    "hijra_count": 0,
+    "latitude": 23.63603,
+    "longitude": 90.06221
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "শোল্লা হাইস্কুল এন্ড কলেজ",
+    "male_count": 1493,
+    "female_count": 1417,
+    "hijra_count": 1,
+    "latitude": 23.70898,
+    "longitude": 90.18575
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "সাইনপুকুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1726,
+    "female_count": 1594,
+    "hijra_count": 0,
+    "latitude": 23.55303,
+    "longitude": 90.17507
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "সাতভিটা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1574,
+    "female_count": 1546,
+    "hijra_count": 0,
+    "latitude": 23.55424,
+    "longitude": 90.16294
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "সুতারপাড়া আব্দুল হামেদ উচ্চ বিদ্যালয়",
+    "male_count": 911,
+    "female_count": 985,
+    "hijra_count": 0,
+    "latitude": 23.59383,
+    "longitude": 90.14395
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "সোনাতলা মাদ্রাসা",
+    "male_count": 1800,
+    "female_count": 1659,
+    "hijra_count": 0,
+    "latitude": 23.61533,
+    "longitude": 90.18806
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "হযরত বিল্লাল (রাঃ) মাদ্রাসা",
+    "male_count": 774,
+    "female_count": 837,
+    "hijra_count": 0,
+    "latitude": 23.59553,
+    "longitude": 90.13706
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "হরিচন্ডি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1494,
+    "female_count": 1344,
+    "hijra_count": 0,
+    "latitude": 23.61514,
+    "longitude": 90.09462
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "হরেকৃষ্ণ কুসুমকলি উচ্চ বিদ্যালয়",
+    "male_count": 1440,
+    "female_count": 1505,
+    "hijra_count": 0,
+    "latitude": 23.6649,
+    "longitude": 90.14946
+  },
+  {
+    "settings_code": 174,
+    "settings_name": "ঢাকা-১",
+    "center_name": "হাতনী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1497,
+    "female_count": 1436,
+    "hijra_count": 0,
+    "latitude": 23.64229,
+    "longitude": 90.04982
+  }
+]

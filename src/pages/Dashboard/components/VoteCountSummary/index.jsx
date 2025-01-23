@@ -53,7 +53,7 @@ const VoteCountSummary = () => {
               title="মহিলা ভোটার"
               value={toBN(femaleVoter)}
               valueStyle={{
-                color: '#ff8399',
+                color: '#3f8600',
                 fontSize: '14px',
                 fontWeight: 'bold',
               }}
@@ -68,7 +68,7 @@ const VoteCountSummary = () => {
               title="হিজড়া ভোটার"
               value={toBN(hijraVoter)}
               valueStyle={{
-                color: '#ff8399',
+                color: '#3f8600',
                 fontSize: '14px',
                 fontWeight: 'bold',
               }}

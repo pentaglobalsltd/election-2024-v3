@@ -1,0 +1,922 @@
+[
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "অষ্টানী জয়নগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1288,
+        "female_count": 1252,
+        "hijra_count": 0,
+        "latitude": 24.06104,
+        "longitude": 90.79831
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "অষ্টানী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1903,
+        "female_count": 1907,
+        "hijra_count": 0,
+        "latitude": 24.07334,
+        "longitude": 90.80208
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "আজকিতলা নতুন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1646,
+        "female_count": 1550,
+        "hijra_count": 0,
+        "latitude": 24.06396,
+        "longitude": 90.81166
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "আড়ালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1469,
+        "female_count": 1504,
+        "hijra_count": 0,
+        "latitude": 24.04088,
+        "longitude": 90.74713
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "আব্দুল মান্নান ভূইয়া আদর্শ বিদ্যাপিট",
+        "male_count": 2078,
+        "female_count": 2008,
+        "hijra_count": 0,
+        "latitude": 24.05208,
+        "longitude": 90.7147
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "আয়েছ আলী একাডেমী",
+        "male_count": 0,
+        "female_count": 2492,
+        "hijra_count": 0,
+        "latitude": 23.97726,
+        "longitude": 90.73304
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "আলীনগর সরকারীপ্রাথমিক বিদ্যালয়",
+        "male_count": 1419,
+        "female_count": 1452,
+        "hijra_count": 0,
+        "latitude": 24.04389,
+        "longitude": 90.65553
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "আশ্রাফপুর সরকারী প্রাথমিক বিদ্যালয় ও সংলগ্ন মক্তব",
+        "male_count": 2192,
+        "female_count": 2172,
+        "hijra_count": 0,
+        "latitude": 24.05013,
+        "longitude": 90.73757
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "উত্তর সাধারচর দক্ষিণপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1251,
+        "female_count": 1264,
+        "hijra_count": 0,
+        "latitude": 24.02109,
+        "longitude": 90.69523
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "উত্তর সাধারচর পশ্চিম পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1225,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 24.02403,
+        "longitude": 90.67406
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "এস কে চন্দনদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1426,
+        "female_count": 1317,
+        "hijra_count": 0,
+        "latitude": 23.9682,
+        "longitude": 90.75138
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কাজী মফিজ উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 1689,
+        "female_count": 1574,
+        "hijra_count": 0,
+        "latitude": 23.97826,
+        "longitude": 90.74002
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কানাহোটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 760,
+        "female_count": 810,
+        "hijra_count": 0,
+        "latitude": 24.04836,
+        "longitude": 90.74786
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কামরাব উচ্চ বিদ্যালয়",
+        "male_count": 1196,
+        "female_count": 1151,
+        "hijra_count": 0,
+        "latitude": 24.08794,
+        "longitude": 90.79752
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কামরাব সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1216,
+        "female_count": 1233,
+        "hijra_count": 0,
+        "latitude": 24.08829,
+        "longitude": 90.80067
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কামালপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1880,
+        "female_count": 1570,
+        "hijra_count": 0,
+        "latitude": 23.9993,
+        "longitude": 90.81097
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কারারচর মধ্যপাড়া সরকারী প্রাথমিক বিদ্যালয় (মাঠের পূর্ব পার্শ্বের পাকা ভবন ও টিনশেড ভবন)",
+        "male_count": 2389,
+        "female_count": 2315,
+        "hijra_count": 0,
+        "latitude": 23.95972,
+        "longitude": 90.71326
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কারারচর মৌলভী তোফাজ্জল হোসেন উচ্চ বিদ্যালয় (নতুন ভবন মাঠের দক্ষিণ ও পূর্ব পার্শ্বে)",
+        "male_count": 3608,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.94311,
+        "longitude": 90.70852
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কারারচর মৌলভী তোফাজ্জল হোসেন উচ্চ বিদ্যালয় (পুরাতন ভবন এবং মাঠের পশ্চিম-উত্তর পার্শ্বে)",
+        "male_count": 0,
+        "female_count": 3612,
+        "hijra_count": 0,
+        "latitude": 23.94315,
+        "longitude": 90.70865
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কালুয়ারকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1363,
+        "female_count": 1243,
+        "hijra_count": 0,
+        "latitude": 24.01462,
+        "longitude": 90.70816
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কুন্দারপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1783,
+        "female_count": 1794,
+        "hijra_count": 0,
+        "latitude": 23.99885,
+        "longitude": 90.77372
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "কুমরাদী সরকারী প্র্রাথমিক বিদ্যালয়",
+        "male_count": 1573,
+        "female_count": 1479,
+        "hijra_count": 0,
+        "latitude": 23.99194,
+        "longitude": 90.73092
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "খড়িয়া উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2458,
+        "hijra_count": 0,
+        "latitude": 24.02188,
+        "longitude": 90.72181
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "খড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2517,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.02211,
+        "longitude": 90.72175
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "খৈনকুট সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1411,
+        "female_count": 1257,
+        "hijra_count": 0,
+        "latitude": 23.988,
+        "longitude": 90.79909
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "গড়বাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 931,
+        "female_count": 957,
+        "hijra_count": 0,
+        "latitude": 24.06566,
+        "longitude": 90.69528
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "গিলাবের সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1554,
+        "female_count": 1434,
+        "hijra_count": 0,
+        "latitude": 24.0443,
+        "longitude": 90.82027
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ঘাগটিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1338,
+        "female_count": 1320,
+        "hijra_count": 0,
+        "latitude": 23.94946,
+        "longitude": 90.74507
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ঘাশিরদিয়া দক্ষিনপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1285,
+        "female_count": 1248,
+        "hijra_count": 1,
+        "latitude": 23.98583,
+        "longitude": 90.7468
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ঘাশিরদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1392,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": 23.99715,
+        "longitude": 90.7492
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "চরখুপী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1262,
+        "female_count": 1246,
+        "hijra_count": 0,
+        "latitude": 24.01264,
+        "longitude": 90.67355
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "চাঁদপাশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1595,
+        "female_count": 1506,
+        "hijra_count": 0,
+        "latitude": 23.98517,
+        "longitude": 90.77726
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "চৈতন্যা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1119,
+        "female_count": 1062,
+        "hijra_count": 0,
+        "latitude": 24.02268,
+        "longitude": 90.80583
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ছোটাবন্দ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1204,
+        "female_count": 1058,
+        "hijra_count": 0,
+        "latitude": 24.03388,
+        "longitude": 90.81178
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "জয়নগর আলহাজ্ব্ আফছার উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 1654,
+        "female_count": 1597,
+        "hijra_count": 0,
+        "latitude": 24.05451,
+        "longitude": 90.80624
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "জয়মংগল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 958,
+        "female_count": 907,
+        "hijra_count": 0,
+        "latitude": 24.03379,
+        "longitude": 90.81168
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "জানখারটেক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1772,
+        "female_count": 1620,
+        "hijra_count": 0,
+        "latitude": 23.99767,
+        "longitude": 90.80227
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "তেলিয়া ঝাউয়াকান্দি উচ্চ বিদ্যালয়",
+        "male_count": 1888,
+        "female_count": 1819,
+        "hijra_count": 0,
+        "latitude": 24.00218,
+        "longitude": 90.71943
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দক্ষিণ সাধারচর উচ্চ বিদ্যালয়",
+        "male_count": 1256,
+        "female_count": 1154,
+        "hijra_count": 0,
+        "latitude": 23.99207,
+        "longitude": 90.68389
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দক্ষিণ সাধারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1039,
+        "female_count": 1039,
+        "hijra_count": 0,
+        "latitude": 23.99186,
+        "longitude": 90.6837
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দড়িপুরা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1251,
+        "female_count": 1165,
+        "hijra_count": 0,
+        "latitude": 24.07298,
+        "longitude": 90.78161
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দত্তেরগাঁও আদর্শ শিশু শিক্ষালয় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1333,
+        "female_count": 1330,
+        "hijra_count": 0,
+        "latitude": 24.04996,
+        "longitude": 90.70222
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দত্তেরগাঁও উচ্চ বিদ্যালয়",
+        "male_count": 954,
+        "female_count": 995,
+        "hijra_count": 0,
+        "latitude": 24.04258,
+        "longitude": 90.71171
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দত্তেরগাঁওপশ্চিমপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1017,
+        "female_count": 1055,
+        "hijra_count": 0,
+        "latitude": 24.03483,
+        "longitude": 90.69404
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দত্তেরগাঁও ভিটিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1316,
+        "female_count": 1295,
+        "hijra_count": 0,
+        "latitude": 24.03096,
+        "longitude": 90.71648
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দরগাবন্দ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1012,
+        "female_count": 937,
+        "hijra_count": 0,
+        "latitude": 24.05271,
+        "longitude": 90.67364
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "দুলালপুর উচ্চবিদ্যালয়",
+        "male_count": 1938,
+        "female_count": 1968,
+        "hijra_count": 0,
+        "latitude": 24.0507,
+        "longitude": 90.68786
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ধানুয়া উত্তরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1347,
+        "female_count": 1414,
+        "hijra_count": 0,
+        "latitude": 24.04373,
+        "longitude": 90.72532
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "নোয়াদিয়া উচ্চ বিদ্যালয়",
+        "male_count": 2673,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.98065,
+        "longitude": 90.7699
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "নোয়াদিয়া কে এইচ বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2529,
+        "hijra_count": 0,
+        "latitude": 23.98074,
+        "longitude": 90.76934
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "পাড়াতলা শিকদার আঃ মান্নান উচ্চ বিদ্যালয়",
+        "male_count": 923,
+        "female_count": 926,
+        "hijra_count": 0,
+        "latitude": 24.05343,
+        "longitude": 90.65185
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "পাহাড় জয়নগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1669,
+        "female_count": 1557,
+        "hijra_count": 0,
+        "latitude": 24.04503,
+        "longitude": 90.79772
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "পুটিয়া উচ্চ বিদ্যালয় (মাঠের দক্ষিণ পার্শ্বে মূল ভবন)",
+        "male_count": 2441,
+        "female_count": 2389,
+        "hijra_count": 0,
+        "latitude": 23.96393,
+        "longitude": 90.7333
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "পুরান্দিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2167,
+        "female_count": 1979,
+        "hijra_count": 0,
+        "latitude": 24.00789,
+        "longitude": 90.7372
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "পূবেরগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1095,
+        "female_count": 1083,
+        "hijra_count": 0,
+        "latitude": 24.05161,
+        "longitude": 90.73357
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বংশিরদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1783,
+        "female_count": 1812,
+        "hijra_count": 0,
+        "latitude": 23.95994,
+        "longitude": 90.74644
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বাঘাব ইউনিয়ন উচ্চ বিদ্যালয়",
+        "male_count": 1700,
+        "female_count": 1592,
+        "hijra_count": 0,
+        "latitude": 24.01174,
+        "longitude": 90.76286
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বাঘাব দারুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 963,
+        "female_count": 1000,
+        "hijra_count": 0,
+        "latitude": 24.03071,
+        "longitude": 90.75095
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বাজনাব আবুল ফায়েজ মোল্লা উচ্চ বিদ্যালয়",
+        "male_count": 1073,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 24.01266,
+        "longitude": 90.73661
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বাড়ৈগাঁও জামিউল উলুম আলীম মাদরাসা",
+        "male_count": 1432,
+        "female_count": 1404,
+        "hijra_count": 0,
+        "latitude": 24.07648,
+        "longitude": 90.73473
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বান্ধারদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 719,
+        "female_count": 762,
+        "hijra_count": 0,
+        "latitude": 24.02392,
+        "longitude": 90.73807
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বিরাজনগর আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1805,
+        "female_count": 1617,
+        "hijra_count": 0,
+        "latitude": 24.02041,
+        "longitude": 90.78153
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বিলস্বরন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1367,
+        "female_count": 1258,
+        "hijra_count": 0,
+        "latitude": 24.06184,
+        "longitude": 90.75825
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "বৈলাব সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1838,
+        "female_count": 1917,
+        "hijra_count": 0,
+        "latitude": 24.09274,
+        "longitude": 90.74693
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ব্রাহ্মন্দী এডভোকেট সুরুজ আলী উচ্চ বিদ্যালয়",
+        "male_count": 1873,
+        "female_count": 1751,
+        "hijra_count": 0,
+        "latitude": 24.01207,
+        "longitude": 90.75114
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ভংগারটেক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1861,
+        "female_count": 1723,
+        "hijra_count": 0,
+        "latitude": 24.00342,
+        "longitude": 90.79883
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ভরতের কান্দি সরকারী প্রাথমিক বিদ্যালয় (মাঠের উত্তর পার্শ্বের ভবন)",
+        "male_count": 2516,
+        "female_count": 2625,
+        "hijra_count": 0,
+        "latitude": 23.94459,
+        "longitude": 90.72373
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "ভুরভুরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1197,
+        "female_count": 1163,
+        "hijra_count": 0,
+        "latitude": 23.95354,
+        "longitude": 90.76138
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "মজলিশপুর বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1432,
+        "female_count": 1481,
+        "hijra_count": 0,
+        "latitude": 24.05447,
+        "longitude": 90.72261
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "মানিকদী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1967,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.0691,
+        "longitude": 90.68618
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "মানিকদী সানরাইজ মডেল একাডেমী",
+        "male_count": 0,
+        "female_count": 1973,
+        "hijra_count": 0,
+        "latitude": 24.06934,
+        "longitude": 90.68641
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "মিয়ারগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 870,
+        "female_count": 862,
+        "hijra_count": 0,
+        "latitude": 24.01918,
+        "longitude": 90.69347
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "মুনসেফেরচর সরকারী প্রাথমিক বিদ্যালয় (পুরাতন ভবন)",
+        "male_count": 2585,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.97898,
+        "longitude": 90.73019
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "মোহরপাড়া উচ্চ বিদ্যালয়",
+        "male_count": 1036,
+        "female_count": 1011,
+        "hijra_count": 0,
+        "latitude": 24.08491,
+        "longitude": 90.73504
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "যোশর ইউনিয়ন উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2670,
+        "hijra_count": 0,
+        "latitude": 24.0155,
+        "longitude": 90.82472
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "যোশর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2932,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.01543,
+        "longitude": 90.8251
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "লাখপুর শিমুলিয়া উচ্চ বিদ্যালয়",
+        "male_count": 1706,
+        "female_count": 1764,
+        "hijra_count": 0,
+        "latitude": 24.07241,
+        "longitude": 90.66805
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "লাখপুর শিমুলিয়া কলেজ",
+        "male_count": 1500,
+        "female_count": 1556,
+        "hijra_count": 0,
+        "latitude": 24.06854,
+        "longitude": 90.63956
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "লালখারটেক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 971,
+        "female_count": 962,
+        "hijra_count": 0,
+        "latitude": 24.02449,
+        "longitude": 90.81337
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "শিবপুর পাইলট বালিকা উচ্চ বিদ্যালয় (মূল গেইটের ডান পাশের ২য় তলার ভবন)",
+        "male_count": 2091,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.04047,
+        "longitude": 90.73873
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "শিবপুর পাইলট বালিকা উচ্চ বিদ্যালয় (মূল গেইটের বাম পাশের সকল ভবন)",
+        "male_count": 0,
+        "female_count": 2146,
+        "hijra_count": 0,
+        "latitude": 24.0405,
+        "longitude": 90.73879
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "সফরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1050,
+        "female_count": 990,
+        "hijra_count": 0,
+        "latitude": 24.02497,
+        "longitude": 90.74686
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "সবুজ পাহাড় উচ্চ বিদ্যালয়",
+        "male_count": 2027,
+        "female_count": 1864,
+        "hijra_count": 0,
+        "latitude": 24.0347,
+        "longitude": 90.79366
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "সরকারী শহীদ আসাদ কলেজ (একাডেমিক ভবন)",
+        "male_count": 1986,
+        "female_count": 2159,
+        "hijra_count": 0,
+        "latitude": 24.03804,
+        "longitude": 90.73191
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "সাতপাইকা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1046,
+        "female_count": 1053,
+        "hijra_count": 0,
+        "latitude": 24.07063,
+        "longitude": 90.70316
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "সাতপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 942,
+        "female_count": 897,
+        "hijra_count": 0,
+        "latitude": 24.06047,
+        "longitude": 90.73208
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "সুজাতপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 715,
+        "female_count": 682,
+        "hijra_count": 0,
+        "latitude": 24.07577,
+        "longitude": 90.81555
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "সৈয়দনগর আতোয়ার রহমান উচ্চ বিদ্যালয়",
+        "male_count": 2166,
+        "female_count": 2224,
+        "hijra_count": 0,
+        "latitude": 23.97225,
+        "longitude": 90.72428
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "সৈয়দের খোলা পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয় (দেওয়ান আলী মাষ্টার বাড়ী)",
+        "male_count": 1394,
+        "female_count": 1315,
+        "hijra_count": 0,
+        "latitude": 23.98575,
+        "longitude": 90.69883
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "হরিহরদী উচ্চ বিদ্যালয়",
+        "male_count": 1833,
+        "female_count": 1755,
+        "hijra_count": 0,
+        "latitude": 24.00899,
+        "longitude": 90.7024
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "হাজী ইসমাইল মডেল স্কুলএন্ড কলেজ",
+        "male_count": 1262,
+        "female_count": 1233,
+        "hijra_count": 0,
+        "latitude": 24.06881,
+        "longitude": 90.76527
+    },
+    {
+        "settings_code": 201,
+        "settings_name": "নরসিংদী-৩",
+        "center_name": "হিজলিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1107,
+        "female_count": 1007,
+        "hijra_count": 0,
+        "latitude": 23.97575,
+        "longitude": 90.75592
+    }
+]

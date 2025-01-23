@@ -1,0 +1,1142 @@
+[
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "--",
+        "male_count": 1148,
+        "female_count": 1206,
+        "hijra_count": 0,
+        "latitude": 25.3852,
+        "longitude": 89.72664
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "আনালেরতাড়ী সরকারি প্রাথমিক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 1895,
+        "female_count": 1864,
+        "hijra_count": 0,
+        "latitude": 25.36304,
+        "longitude": 89.56859
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "উত্তর গিদারী দ্বি-মুখী উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 3113,
+        "hijra_count": 0,
+        "latitude": 25.39062,
+        "longitude": 89.60115
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "উত্তরপাড়া ১নং সরকারী প্রাথমিক বিদ্যালয়, ১তলা ভবন পশ্চিমাংশ ও টিন সেড ভবন দক্ষিণাংশ  (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2701,
+        "hijra_count": 2,
+        "latitude": 25.33308,
+        "longitude": 89.54408
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "উত্তরপাড়া ২নং সরকারি প্রাথমিক বিদ্যালয় নিচতলা (মহিলা ভোটকেন্দ্র)",
+        "male_count": 1602,
+        "female_count": 1832,
+        "hijra_count": 0,
+        "latitude": 25.33359,
+        "longitude": 89.54055
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "উত্তর বারবলদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1591,
+        "female_count": 1585,
+        "hijra_count": 0,
+        "latitude": 25.42479,
+        "longitude": 89.59258
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "এন,এইচ মডার্ণ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2256,
+        "female_count": 2243,
+        "hijra_count": 0,
+        "latitude": 25.33875,
+        "longitude": 89.55136
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কাজলঢোপ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1856,
+        "female_count": 1832,
+        "hijra_count": 0,
+        "latitude": 25.36047,
+        "longitude": 89.49993
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কাবিলের বাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1672,
+        "female_count": 1835,
+        "hijra_count": 0,
+        "latitude": 25.40701,
+        "longitude": 89.57611
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কামারজানি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1816,
+        "female_count": 1980,
+        "hijra_count": 0,
+        "latitude": 25.3936,
+        "longitude": 89.62849
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কাশদহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1346,
+        "female_count": 1375,
+        "hijra_count": 0,
+        "latitude": 25.32608,
+        "longitude": 89.44474
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কিশামত মালিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2040,
+        "female_count": 2002,
+        "hijra_count": 0,
+        "latitude": 25.41075,
+        "longitude": 89.55881
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কিসমত মালিবাড়ী পূর্বপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1462,
+        "female_count": 1435,
+        "hijra_count": 0,
+        "latitude": 25.39641,
+        "longitude": 89.58451
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কুন্দেরপাড়া গণ উন্নয়ন একাডেমী",
+        "male_count": 2199,
+        "female_count": 2284,
+        "hijra_count": 0,
+        "latitude": 25.35121,
+        "longitude": 89.65728
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কুপতলা ১নং সরকারি প্রাথমিক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2093,
+        "female_count": 2143,
+        "hijra_count": 0,
+        "latitude": 25.39336,
+        "longitude": 89.50825
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কুপতলা আব্দুল কাইয়ুম উচ্চ বিদ্যালয় (টিনশেড ভবন-পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2796,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.39175,
+        "longitude": 89.52546
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কুপতলা আব্দুল কাইয়ুম উচ্চ বিদ্যালয় (নতুন ভবন- মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2818,
+        "hijra_count": 0,
+        "latitude": 25.39175,
+        "longitude": 89.52515
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কোনারপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 880,
+        "female_count": 925,
+        "hijra_count": 0,
+        "latitude": 25.26402,
+        "longitude": 89.53783
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কোমরনই পৌর সরকারি প্রাথমিক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2528,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.33147,
+        "longitude": 89.55941
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "কোমরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1214,
+        "female_count": 1308,
+        "hijra_count": 0,
+        "latitude": 25.31955,
+        "longitude": 89.49144
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খামার গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2106,
+        "female_count": 2237,
+        "hijra_count": 0,
+        "latitude": 25.42698,
+        "longitude": 89.51794
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খামার পীরগাছা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1580,
+        "female_count": 1694,
+        "hijra_count": 0,
+        "latitude": 25.33272,
+        "longitude": 89.47708
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খামার বোয়ালী সরকারি প্রাথমিক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 3505,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.30023,
+        "longitude": 89.55841
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খিদির শরীফ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1609,
+        "female_count": 1664,
+        "hijra_count": 0,
+        "latitude": 25.42467,
+        "longitude": 89.59218
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খোর্দ্দ মালিবাড়ী সরকারি প্রাথমিক বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 1684,
+        "female_count": 1841,
+        "hijra_count": 0,
+        "latitude": 25.39826,
+        "longitude": 89.54944
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খোলাবাড়ি সরকারি প্রাথমিক বিদ্যালয় ২য় তলা (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2005,
+        "female_count": 2004,
+        "hijra_count": 0,
+        "latitude": 25.3498,
+        "longitude": 89.51592
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খোলাহাটি ১নং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1750,
+        "female_count": 1759,
+        "hijra_count": 0,
+        "latitude": 25.3684,
+        "longitude": 89.54786
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খোলাহাটি ২নং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1739,
+        "female_count": 1729,
+        "hijra_count": 0,
+        "latitude": 25.35664,
+        "longitude": 89.55368
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "খোলাহাটী ফারাজীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1839,
+        "female_count": 1874,
+        "hijra_count": 0,
+        "latitude": 25.35506,
+        "longitude": 89.54484
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "গাইবান্ধা ইসলামিয়া উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 3800,
+        "hijra_count": 0,
+        "latitude": 25.32722,
+        "longitude": 89.54557
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "গাইবান্ধা নুরুল হক মডার্ন উচ্চ বিদ্যালয়",
+        "male_count": 1184,
+        "female_count": 1290,
+        "hijra_count": 0,
+        "latitude": 25.33798,
+        "longitude": 89.55083
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "গাইবান্ধা সরকারি উচ্চ বালক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 3394,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.32836,
+        "longitude": 89.54479
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "গাইবান্ধা সরকারি কলেজ (দক্ষিণ বিল্ডিং)- মহিলা ভোটকেন্দ্র",
+        "male_count": 0,
+        "female_count": 4216,
+        "hijra_count": 0,
+        "latitude": 25.32426,
+        "longitude": 89.53931
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "গাইবান্ধা সরকারি কলেজ (পূর্ব বিল্ডিং)- পুরুষ ভোটকেন্দ্র",
+        "male_count": 3861,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.32446,
+        "longitude": 89.53854
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "গিদারী দ্বি মুখী উচ্চ বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2868,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.36843,
+        "longitude": 89.62084
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "গিদারী দ্বীন মোহাম্মদ সরকারি প্রাথমিক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2910,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.39068,
+        "longitude": 89.60089
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "গিদারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2964,
+        "hijra_count": 0,
+        "latitude": 25.36833,
+        "longitude": 89.62096
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ঘাগোয়া এম. বি. উচ্চ বিদ্যালয়",
+        "male_count": 3472,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.36391,
+        "longitude": 89.59064
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ঘাগোয়া সরকারি প্রাথমিক বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 3591,
+        "hijra_count": 0,
+        "latitude": 25.36391,
+        "longitude": 89.59061
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "চকগয়েশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1879,
+        "female_count": 1887,
+        "hijra_count": 1,
+        "latitude": 25.36592,
+        "longitude": 89.4906
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "চকবরুল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1781,
+        "female_count": 1771,
+        "hijra_count": 0,
+        "latitude": 25.23325,
+        "longitude": 89.52576
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "চকমামরোজপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2593,
+        "female_count": 2590,
+        "hijra_count": 0,
+        "latitude": 25.34419,
+        "longitude": 89.52858
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "চাপাদহ উচ্চ বিদ্যালয় (টিনশেড ভবন-পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2668,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.3731,
+        "longitude": 89.52822
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "চাপাদহ উচ্চ বিদ্যালয় (নতুন ভবন- মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2696,
+        "hijra_count": 0,
+        "latitude": 25.3731,
+        "longitude": 89.52822
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "চিথুলিয়া দিগর মহিয়ে সুন্নাহ আলিম মাদ্রাসা",
+        "male_count": 1210,
+        "female_count": 1297,
+        "hijra_count": 0,
+        "latitude": 25.33697,
+        "longitude": 89.73117
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "জাগো ফাউন্ডেশন স্কুল (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2768,
+        "hijra_count": 0,
+        "latitude": 25.33017,
+        "longitude": 89.55932
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ঝিনাশ্বর উচ্চ বিদ্যালয়",
+        "male_count": 2237,
+        "female_count": 2292,
+        "hijra_count": 0,
+        "latitude": 25.32257,
+        "longitude": 89.50661
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "টেংগরজানী সরকারি প্রাথমিক বিদ্যালয় নিচতলা (মহিলা ভোটকেন্দ্র)",
+        "male_count": 2256,
+        "female_count": 2348,
+        "hijra_count": 0,
+        "latitude": 25.31064,
+        "longitude": 89.49952
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "তালতলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1657,
+        "female_count": 1673,
+        "hijra_count": 0,
+        "latitude": 25.34655,
+        "longitude": 89.59746
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "তিনদহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1765,
+        "female_count": 1740,
+        "hijra_count": 0,
+        "latitude": 25.27648,
+        "longitude": 89.52807
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "তুলসীঘাট কাশীনাথ উচ্চ বিদ্যালয়",
+        "male_count": 1761,
+        "female_count": 1854,
+        "hijra_count": 0,
+        "latitude": 25.31459,
+        "longitude": 89.4816
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ত্রিমোহনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1949,
+        "female_count": 1979,
+        "hijra_count": 0,
+        "latitude": 25.26704,
+        "longitude": 89.54945
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "দারিয়াপুর আমান উল্যাহ উচ্চ বিদ্যালয়",
+        "male_count": 1643,
+        "female_count": 1752,
+        "hijra_count": 0,
+        "latitude": 25.38895,
+        "longitude": 89.56891
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "দিগন্ত প্রি-ক্যাডেট স্কুল",
+        "male_count": 1517,
+        "female_count": 1554,
+        "hijra_count": 0,
+        "latitude": 25.38706,
+        "longitude": 89.56557
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "দুর্গাপুর (কুপ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1409,
+        "female_count": 1327,
+        "hijra_count": 0,
+        "latitude": 25.37283,
+        "longitude": 89.51393
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "দুর্গাপুর (রাম) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1804,
+        "female_count": 1950,
+        "hijra_count": 0,
+        "latitude": 25.3066,
+        "longitude": 89.48118
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ধানঘড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1151,
+        "female_count": 1163,
+        "hijra_count": 1,
+        "latitude": 25.33954,
+        "longitude": 89.5175
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ধুতিচোরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1296,
+        "female_count": 1329,
+        "hijra_count": 0,
+        "latitude": 25.35619,
+        "longitude": 89.61909
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "নারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1732,
+        "female_count": 1769,
+        "hijra_count": 0,
+        "latitude": 25.35547,
+        "longitude": 89.52065
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "নারায়নপুর সুখনগর সরকারি প্রাথমিক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 1258,
+        "female_count": 1327,
+        "hijra_count": 0,
+        "latitude": 25.3307,
+        "longitude": 89.52387
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পঁচারকুড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 873,
+        "female_count": 879,
+        "hijra_count": 0,
+        "latitude": 25.3506,
+        "longitude": 89.60977
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পশ্চিম কুপতলা উচ্চ বিদ্যালয়",
+        "male_count": 1086,
+        "female_count": 1195,
+        "hijra_count": 0,
+        "latitude": 25.39354,
+        "longitude": 89.51088
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পশ্চিম গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2188,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.31998,
+        "longitude": 89.53261
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পশ্চিম গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয় (দক্ষিণ মুখীভবন- মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2416,
+        "hijra_count": 0,
+        "latitude": 25.31997,
+        "longitude": 89.53235
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পশ্চিম দুর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1218,
+        "female_count": 1251,
+        "hijra_count": 0,
+        "latitude": 25.37066,
+        "longitude": 89.50258
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পশ্চিমপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1880,
+        "female_count": 2095,
+        "hijra_count": 0,
+        "latitude": 25.33104,
+        "longitude": 89.5385
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পার্বতীপুর সরকারি প্রাথমিক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2743,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.29002,
+        "longitude": 89.50015
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পিয়ারাপুর উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 3538,
+        "hijra_count": 0,
+        "latitude": 25.27728,
+        "longitude": 89.54451
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পিয়ারাপুর সরকারি প্রাথমিক বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 3474,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.27728,
+        "longitude": 89.5445
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পুরাতন বাদিয়াখালী উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 2022,
+        "female_count": 2086,
+        "hijra_count": 0,
+        "latitude": 25.24349,
+        "longitude": 89.55781
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পূর্ব কোমরনই সরকারি প্রাথমিক বিদ্যালয় (নুতন ভবন) (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2787,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.33976,
+        "longitude": 89.56027
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পূর্ব কোমরনই সরকারি প্রাথমিক বিদ্যালয় (পুরাতন ভবন) (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2815,
+        "hijra_count": 0,
+        "latitude": 25.33952,
+        "longitude": 89.5603
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পূর্ব গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1089,
+        "female_count": 1163,
+        "hijra_count": 0,
+        "latitude": 25.31566,
+        "longitude": 89.55277
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পূর্বপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1591,
+        "female_count": 1730,
+        "hijra_count": 0,
+        "latitude": 25.33042,
+        "longitude": 89.55187
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "পূর্ব রাধাকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1474,
+        "female_count": 1507,
+        "hijra_count": 1,
+        "latitude": 25.29918,
+        "longitude": 89.53532
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ফলিয়া বালিকা উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 3249,
+        "hijra_count": 0,
+        "latitude": 25.31857,
+        "longitude": 89.5665
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ফলিয়া সরকারি প্রাথমিক বিদ্যালয় ",
+        "male_count": 3084,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.31853,
+        "longitude": 89.5663
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বড় লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1748,
+        "female_count": 1889,
+        "hijra_count": 0,
+        "latitude": 25.32273,
+        "longitude": 89.47105
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বল্লমঝাড় ১নং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1218,
+        "female_count": 1261,
+        "hijra_count": 0,
+        "latitude": 25.33026,
+        "longitude": 89.49388
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বল্লমঝাড় বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2327,
+        "female_count": 2436,
+        "hijra_count": 0,
+        "latitude": 25.34808,
+        "longitude": 89.4934
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বাগুড়িয়া উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 1967,
+        "female_count": 2042,
+        "hijra_count": 0,
+        "latitude": 25.33427,
+        "longitude": 89.59804
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বাটিকামারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 997,
+        "female_count": 1113,
+        "hijra_count": 0,
+        "latitude": 25.38722,
+        "longitude": 89.6276
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বাদিয়াখালী উচ্চ বিদ্যালয়",
+        "male_count": 1827,
+        "female_count": 1875,
+        "hijra_count": 0,
+        "latitude": 25.23881,
+        "longitude": 89.545
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বামনীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1056,
+        "female_count": 1131,
+        "hijra_count": 0,
+        "latitude": 25.38029,
+        "longitude": 89.58834
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বারটিকরী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1691,
+        "female_count": 1683,
+        "hijra_count": 0,
+        "latitude": 25.39316,
+        "longitude": 89.61963
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বারবলদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2199,
+        "female_count": 2283,
+        "hijra_count": 0,
+        "latitude": 25.40485,
+        "longitude": 89.61864
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বারুইপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1703,
+        "female_count": 1779,
+        "hijra_count": 0,
+        "latitude": 25.38056,
+        "longitude": 89.55091
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বালাআটা উচ্চ বিদ্যালয় (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2370,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.41241,
+        "longitude": 89.53284
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বালাআটা সরকারি প্রাথমিক বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2442,
+        "hijra_count": 0,
+        "latitude": 25.41237,
+        "longitude": 89.53266
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বেড়াডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1821,
+        "female_count": 1865,
+        "hijra_count": 0,
+        "latitude": 25.40443,
+        "longitude": 89.51771
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "বোয়ালী উচ্চ বিদ্যালয়",
+        "male_count": 1853,
+        "female_count": 1812,
+        "hijra_count": 0,
+        "latitude": 25.2894,
+        "longitude": 89.56716
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "মন্ডলপাড়া রহমানিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1566,
+        "female_count": 1633,
+        "hijra_count": 0,
+        "latitude": 25.37329,
+        "longitude": 89.57783
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "মালিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1696,
+        "female_count": 1811,
+        "hijra_count": 0,
+        "latitude": 25.42023,
+        "longitude": 89.57722
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "মীরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2401,
+        "female_count": 2505,
+        "hijra_count": 0,
+        "latitude": 25.33441,
+        "longitude": 89.46193
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "মুন্সীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1373,
+        "female_count": 1558,
+        "hijra_count": 0,
+        "latitude": 25.32733,
+        "longitude": 89.55413
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "মেঘডুমুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1889,
+        "female_count": 2001,
+        "hijra_count": 0,
+        "latitude": 25.27662,
+        "longitude": 89.50331
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "রঘুনাথপুর মোহাম্মদ আলী উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 1846,
+        "female_count": 1929,
+        "hijra_count": 0,
+        "latitude": 25.34714,
+        "longitude": 89.49858
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2079,
+        "female_count": 2116,
+        "hijra_count": 0,
+        "latitude": 25.34708,
+        "longitude": 89.49837
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "রহমতপুর এম এম উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2969,
+        "hijra_count": 0,
+        "latitude": 25.28996,
+        "longitude": 89.49955
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "রাধাকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1621,
+        "female_count": 1708,
+        "hijra_count": 0,
+        "latitude": 25.30863,
+        "longitude": 89.53136
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "রামচন্দ্রপুর বালিকা উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 1756,
+        "female_count": 1796,
+        "hijra_count": 1,
+        "latitude": 25.27724,
+        "longitude": 89.51452
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "রিফাইতপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1699,
+        "female_count": 1721,
+        "hijra_count": 0,
+        "latitude": 25.24405,
+        "longitude": 89.56469
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "রিফাইতপুর স্বতন্ত্র এবতেদায়ী মাদ্রাসা",
+        "male_count": 1542,
+        "female_count": 1504,
+        "hijra_count": 0,
+        "latitude": 25.25039,
+        "longitude": 89.55445
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "ল' কলেজ কিন্ডার গার্টেন (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2426,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.3322,
+        "longitude": 89.54389
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "লক্ষীপুর স্কুল ও কলেজ",
+        "male_count": 4044,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.43072,
+        "longitude": 89.51493
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "লক্ষ্মীপুর বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4224,
+        "hijra_count": 0,
+        "latitude": 25.42734,
+        "longitude": 89.51757
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "লেংগা বাজার বি. এস.উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 4579,
+        "hijra_count": 0,
+        "latitude": 25.43135,
+        "longitude": 89.55874
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "লেংগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 4463,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.4317,
+        "longitude": 89.55825
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "শিবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2030,
+        "female_count": 2124,
+        "hijra_count": 0,
+        "latitude": 25.31853,
+        "longitude": 89.44864
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "শিমুলতাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1828,
+        "female_count": 1856,
+        "hijra_count": 0,
+        "latitude": 25.26393,
+        "longitude": 89.53772
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "সাখাওয়াত হোসেন মেমোরিয়াল উচ্চ বিদ্যালয়",
+        "male_count": 1858,
+        "female_count": 1920,
+        "hijra_count": 0,
+        "latitude": 25.32645,
+        "longitude": 89.52303
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "সাহেব উল্ল্যাহ সরকার উচ্চ বিদ্যালয় (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 3632,
+        "hijra_count": 0,
+        "latitude": 25.30033,
+        "longitude": 89.55776
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "সিধাই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1441,
+        "female_count": 1467,
+        "hijra_count": 0,
+        "latitude": 25.37953,
+        "longitude": 89.67047
+    },
+    {
+        "settings_code": 30,
+        "settings_name": "গাইবান্ধা-২",
+        "center_name": "হরিণ সিংহা আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1903,
+        "female_count": 1952,
+        "hijra_count": 0,
+        "latitude": 25.30703,
+        "longitude": 89.51332
+    }
+]

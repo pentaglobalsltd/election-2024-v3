@@ -1,0 +1,1222 @@
+[
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "আক্কেলপুর উচ্চ বিদ্যালয়, আক্কেলপুর",
+    "male_count": 1231,
+    "female_count": 1228,
+    "hijra_count": 0,
+    "latitude": 24.54086,
+    "longitude": 88.73364
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "উত্তর একডালা দাখিল মাদ্রাসা, উত্তর একডালা",
+    "male_count": 0,
+    "female_count": 2566,
+    "hijra_count": 0,
+    "latitude": 24.59935,
+    "longitude": 88.82515
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "উত্তর একডালা সরকারী প্রাথমিক বিদ্যালয় উত্তর একডালা",
+    "male_count": 2597,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.5996,
+    "longitude": 88.82546
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "একডালা উচ্চ বিদ্যালয়, তাহির একডালা",
+    "male_count": 0,
+    "female_count": 1907,
+    "hijra_count": 0,
+    "latitude": 24.54426,
+    "longitude": 88.77687
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "একডালা সরকারী প্রাথমিক বিদ্যালয়. তাহির একডালা",
+    "male_count": 1885,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.5444,
+    "longitude": 88.7767
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কনোপাড়া উচ্চ বিদ্যালয়, কনোপাড়া, (দক্ষিণ ও পূর্ব ভবন)",
+    "male_count": 2428,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.55996,
+    "longitude": 88.84584
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কনোপাড়া সরকারী প্রাথমিক বিদ্যালয়, কনোপাড়া এবং উচ্চ বিদ্যালয় এর পশ্চিম ভবনসহ",
+    "male_count": 0,
+    "female_count": 2541,
+    "hijra_count": 0,
+    "latitude": 24.55998,
+    "longitude": 88.84588
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কর্ণিপাড়া-সাদোপাড়া দাখিল মাদ্রাসা, সাদোপাড়া",
+    "male_count": 2593,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.56318,
+    "longitude": 88.81995
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কাচারীকোয়ালীপাড়া উচ্চ বিদ্যালয়,কাচারীকোয়ালীপাড়া",
+    "male_count": 1566,
+    "female_count": 1560,
+    "hijra_count": 0,
+    "latitude": 24.61122,
+    "longitude": 88.82061
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কাজীপাড়া নিচুপাড়া সরকারী প্রাথমিক বিদ্যালয়,কাজীপাড়া",
+    "male_count": 1734,
+    "female_count": 1721,
+    "hijra_count": 0,
+    "latitude": 24.646,
+    "longitude": 88.86275
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কাঁঠালবাড়ী উচ্চ বিদ্যালয়, কাঁঠালবাড়ী",
+    "male_count": 0,
+    "female_count": 2760,
+    "hijra_count": 0,
+    "latitude": 24.58521,
+    "longitude": 88.86129
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কাঁঠালবাড়ী সরকারী প্রাথমিক বিদ্যালয়, কাঁঠালবাড়ী",
+    "male_count": 2829,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.5853,
+    "longitude": 88.86168
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কাতিলা সরকারী প্রাথমিক বিদ্যালয়,কাতিলা",
+    "male_count": 1319,
+    "female_count": 1343,
+    "hijra_count": 0,
+    "latitude": 24.56899,
+    "longitude": 88.94331
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কুদাপাড়া আহাদিয়া দাখিল মাদ্রাসা,কুদাপাড়া",
+    "male_count": 984,
+    "female_count": 1012,
+    "hijra_count": 0,
+    "latitude": 24.61109,
+    "longitude": 88.90993
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কুলিবাড়ী সরকারী প্রাথমিক বিদ্যালয়,কুলিবাড়ী",
+    "male_count": 1013,
+    "female_count": 1037,
+    "hijra_count": 0,
+    "latitude": 24.61133,
+    "longitude": 88.84736
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কোণাবাড়ীয়া উচ্চ বিদ্যালয়, কোণাবাড়ীয়া",
+    "male_count": 2294,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.55633,
+    "longitude": 88.91759
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কোনাবাড়ীয়া দাখিল মাদ্রাসা, কোনাবাড়ীয়া",
+    "male_count": 0,
+    "female_count": 2290,
+    "hijra_count": 0,
+    "latitude": 24.55598,
+    "longitude": 88.91639
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কোন্দা উচ্চ বিদ্যালয়,কোন্দা",
+    "male_count": 1939,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.58634,
+    "longitude": 88.71562
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কোন্দা লাড়ুপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1941,
+    "hijra_count": 0,
+    "latitude": 24.58648,
+    "longitude": 88.71584
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "কোয়ালীপাড়া-২ সরকারী প্রাথমিক বিদ্যালয়, দক্ষিণ কোয়ালীপাড়া",
+    "male_count": 1812,
+    "female_count": 1783,
+    "hijra_count": 0,
+    "latitude": 24.53346,
+    "longitude": 88.81831
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "খয়েরা সরকারী প্রাথমিক বিদ্যালয়, খয়রা",
+    "male_count": 1172,
+    "female_count": 1209,
+    "hijra_count": 0,
+    "latitude": 24.61554,
+    "longitude": 88.77648
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "খামারগ্রাম সরকারী প্রাথমিক বিদ্যালয়, খামারগ্রাম",
+    "male_count": 737,
+    "female_count": 744,
+    "hijra_count": 0,
+    "latitude": 24.58225,
+    "longitude": 88.88921
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "খালিশপুর সরকারী প্রাথমিক বিদ্যালয়,খালিশপুর",
+    "male_count": 794,
+    "female_count": 788,
+    "hijra_count": 0,
+    "latitude": 24.64116,
+    "longitude": 88.8507
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গুনিয়াডাঙ্গা সরকারী প্রাথমিক বিদ্যালয় এবং গুনিয়াডাঙ্গা নিম্নমাধ্যমিক বিদ্যালয়সহ, গুনিয়াডাঙ্গা",
+    "male_count": 1419,
+    "female_count": 1383,
+    "hijra_count": 0,
+    "latitude": 24.61027,
+    "longitude": 88.86481
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোড়সার উচ্চ বিদ্যালয়, গোড়সার",
+    "male_count": 0,
+    "female_count": 3017,
+    "hijra_count": 0,
+    "latitude": 24.65161,
+    "longitude": 88.78534
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোড়সার সরকারী প্রাথমিক বিদ্যালয়,গোড়সার",
+    "male_count": 3038,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.65124,
+    "longitude": 88.78514
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোপালপুর ইসলামিয়া আলিম মাদ্রাসা, (পশ্চিম ভবন) গোপালপুর",
+    "male_count": 0,
+    "female_count": 1988,
+    "hijra_count": 0,
+    "latitude": 24.57129,
+    "longitude": 88.80893
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোপালপুর ইসলামিয়া আলিম মাদ্রাসা, (পূর্ব ভবন), গোপালপুর",
+    "male_count": 1903,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.57146,
+    "longitude": 88.80915
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোবিন্দপাড়া উচ্চ বিদ্যালয়, (দক্ষিণ পূর্ব ভবন) গোবিন্দপাড়া",
+    "male_count": 0,
+    "female_count": 2464,
+    "hijra_count": 0,
+    "latitude": 24.65611,
+    "longitude": 88.73278
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোবিন্দপাড়া সরকারী প্রাথমিক বিদ্যালয় এবং গোবিন্দপাড়া উচ্চ বিদ্যালয় এর (টিনসেড ভবন),গোবিন্দপাড়া",
+    "male_count": 2523,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.65611,
+    "longitude": 88.73278
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোয়ালকান্দা সরকারী প্রাথমিক বিদ্যালয় গোয়ালকান্দা ",
+    "male_count": 1521,
+    "female_count": 1442,
+    "hijra_count": 0,
+    "latitude": 24.54281,
+    "longitude": 88.78769
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোয়ালকান্দি দাখিল মাদ্রাসা, টিনসেড ভবন গোয়ালকান্দি",
+    "male_count": 2100,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.54674,
+    "longitude": 88.87282
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "গোয়ালকান্দি দাখিল মাদ্রাসা, পাঁকা ভবন, গোয়ালকান্দি",
+    "male_count": 0,
+    "female_count": 2031,
+    "hijra_count": 0,
+    "latitude": 24.54703,
+    "longitude": 88.87285
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "চক মহব্বতপুর সরকারী প্রাথমিক বিদ্যালয়, চকমহব্বতপুর",
+    "male_count": 1669,
+    "female_count": 1660,
+    "hijra_count": 0,
+    "latitude": 24.55829,
+    "longitude": 88.75829
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "চাঁইপাড়া উচ্চ বিদ্যালয়,চাঁইপাড়া",
+    "male_count": 916,
+    "female_count": 895,
+    "hijra_count": 0,
+    "latitude": 24.53269,
+    "longitude": 88.79235
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "চাঁন্দের আড়া উচ্চ বিদ্যালয়, চাঁন্দের আড়া",
+    "male_count": 0,
+    "female_count": 2719,
+    "hijra_count": 0,
+    "latitude": 24.5423,
+    "longitude": 88.74075
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "চাঁন্দের আড়া সরকারী প্রাথমিক বিদ্যালয়, চাঁন্দের আড়া",
+    "male_count": 2639,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.54237,
+    "longitude": 88.74131
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "চেউখালী উচ্চ বিদ্যালয়, চেউখালী",
+    "male_count": 0,
+    "female_count": 2632,
+    "hijra_count": 0,
+    "latitude": 24.53539,
+    "longitude": 88.8778
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "চেঁউখালী সরকারী প্রাথমিক বিদ্যালয়, চেঁউখালী",
+    "male_count": 2632,
+    "female_count": 0,
+    "hijra_count": 1,
+    "latitude": 24.53593,
+    "longitude": 88.87833
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "জামগ্রাম সরকারী প্রাথমিক বিদ্যালয়, জামগ্রাম",
+    "male_count": 1100,
+    "female_count": 1051,
+    "hijra_count": 0,
+    "latitude": 24.529,
+    "longitude": 88.8265
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "জামলই দাখিল মাদ্রাসা,জগন্নাথপুর",
+    "male_count": 838,
+    "female_count": 764,
+    "hijra_count": 0,
+    "latitude": 24.51919,
+    "longitude": 88.82943
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "জামালপুর সরকারি প্রাথমিক বিদ্যালয়, জামালপুর (দক্ষিণ জামালপুর উচ্চ বিদ্যালয় দুটি কক্ষসহ)",
+    "male_count": 0,
+    "female_count": 2807,
+    "hijra_count": 0,
+    "latitude": 24.54576,
+    "longitude": 88.71859
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ঝাড়গ্রাম সরকারী প্রাথমিক বিদ্যালয়, ঝাড়গ্রাম",
+    "male_count": 1752,
+    "female_count": 1624,
+    "hijra_count": 0,
+    "latitude": 24.62763,
+    "longitude": 88.86918
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ঝিকরা উচ্চ বিদ্যালয়, ঝিকরা",
+    "male_count": 0,
+    "female_count": 2272,
+    "hijra_count": 0,
+    "latitude": 24.61626,
+    "longitude": 88.89303
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ঝিকরা সরকারী প্রাথমিক বিদ্যালয় ঝিকরা",
+    "male_count": 2279,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.61544,
+    "longitude": 88.89343
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ডোখলপাড়া সরকারী প্রাথমিক, ডোখলপাড়া",
+    "male_count": 1162,
+    "female_count": 1155,
+    "hijra_count": 0,
+    "latitude": 24.58644,
+    "longitude": 88.92401
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "তাহেরপুর ডিগ্রী কলেজ, (অনার্স ভবন পশ্চিম) তাহেরপুর",
+    "male_count": 0,
+    "female_count": 3064,
+    "hijra_count": 0,
+    "latitude": 24.51823,
+    "longitude": 88.84619
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "তাহেরপুর ডিগ্রী কলেজ (পুরাতন রাজার ভবনসহ তাহেরপুর)",
+    "male_count": 2937,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.51804,
+    "longitude": 88.84541
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "তোকিপুর নিম্ন মাধ্যমিক বিদ্যালয়, তোকিপুর",
+    "male_count": 0,
+    "female_count": 3112,
+    "hijra_count": 0,
+    "latitude": 24.60393,
+    "longitude": 88.70625
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "তোকিপুর সরকারী প্রাথমিক বিদ্যালয়,তোকিপুর ",
+    "male_count": 3129,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.60395,
+    "longitude": 88.70615
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "দক্ষিণ জামালপুর উচ্চ বিদ্যালয়, জামালপুর",
+    "male_count": 2787,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.54418,
+    "longitude": 88.77689
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "দক্ষিণ মাঝগ্রাম সরকারী প্রাথমিক বিদ্যালয়, দক্ষিণ মাঝগ্রাম",
+    "male_count": 1279,
+    "female_count": 1154,
+    "hijra_count": 0,
+    "latitude": 24.57457,
+    "longitude": 88.89159
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "দামনাশ পারদামনাশ উচ্চ বিদ্যালয়, দামনাশ",
+    "male_count": 1607,
+    "female_count": 1554,
+    "hijra_count": 0,
+    "latitude": 24.67663,
+    "longitude": 88.74286
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "দেওপাড়া বিলমাললী সরকারী প্রাথমিক বিদ্যালয়, দেওপাড়া",
+    "male_count": 1166,
+    "female_count": 1144,
+    "hijra_count": 1,
+    "latitude": 24.67301,
+    "longitude": 88.75701
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "দ্বীপনগর উচ্চ বিদ্যালয়, দ্বীপনগর",
+    "male_count": 2108,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.57697,
+    "longitude": 88.77161
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "দ্বীপনগর কলেজ",
+    "male_count": 0,
+    "female_count": 2072,
+    "hijra_count": 0,
+    "latitude": 24.57702,
+    "longitude": 88.77139
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "দ্বীপপুর উচ্চ বিদ্যালয়,দ্বীপপুর",
+    "male_count": 1488,
+    "female_count": 1480,
+    "hijra_count": 0,
+    "latitude": 24.62937,
+    "longitude": 88.82148
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ধামিনকৌড় সরকারী প্রাথমিক বিদ্যালয়, ধামিনকৌড়",
+    "male_count": 1575,
+    "female_count": 1560,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "নখোপাড়া সরকারী প্রাথমিক বিদ্যালয়,নখোপাড়া",
+    "male_count": 1166,
+    "female_count": 1138,
+    "hijra_count": 0,
+    "latitude": 24.57025,
+    "longitude": 88.92963
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "নরদাশ বহুমুখী উচ্চ বিদ্যালয়, নরদাশ পূর্ব ও দক্ষিণ ভবন",
+    "male_count": 2736,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.6467,
+    "longitude": 88.76117
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "নরদাশ বহুমুখী উচ্চ বিদ্যালয়, (পশ্চিম ভবন) নরদাশ",
+    "male_count": 0,
+    "female_count": 2710,
+    "hijra_count": 0,
+    "latitude": 24.6467,
+    "longitude": 88.76117
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "নরসিংহপুর বান্দাইখাড়া বহুমুখী ফাজিল মাদ্রাসা, বান্দাইখাড়া",
+    "male_count": 0,
+    "female_count": 2049,
+    "hijra_count": 0,
+    "latitude": 24.58691,
+    "longitude": 88.78914
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "নানসর সরকারী প্রাথমিক বিদ্যালয়,নানসর",
+    "male_count": 1573,
+    "female_count": 1541,
+    "hijra_count": 0,
+    "latitude": 24.63964,
+    "longitude": 88.8135
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "পলাশী সরকারী প্রাথমিক বিদ্যালয়, পলাশী",
+    "male_count": 1226,
+    "female_count": 1170,
+    "hijra_count": 0,
+    "latitude": 24.56476,
+    "longitude": 88.86501
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "পানিশাইল উচ্চ বিদ্যালয়, নতুন ভবন এবং পূর্বের টিনসেড ভবন, পানিশাইল",
+    "male_count": 0,
+    "female_count": 2808,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "পানিশাইল সরকারী প্রাথমিক বিদ্যালয় এবং  উচ্চ বিদ্যালয়ের উত্তরের ভবন, পানিশাইল",
+    "male_count": 2881,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বড়বিহানালী উচ্চ বিদ্যালয়,বড়বিহানালী ",
+    "male_count": 1893,
+    "female_count": 1810,
+    "hijra_count": 0,
+    "latitude": 24.62631,
+    "longitude": 88.85224
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বাঁইগাছা উচ্চ বিদ্যালয়, বাঁইগাছা",
+    "male_count": 965,
+    "female_count": 923,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বাড়ীগ্রাম দাখিল মাদ্রাসা, বাড়ীগ্রাম",
+    "male_count": 1052,
+    "female_count": 1060,
+    "hijra_count": 0,
+    "latitude": 24.6229,
+    "longitude": 88.73367
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বানাইপুর সরকারী প্রাথমিক বিদ্যালয়, (ফোরকানীয়া মাদ্রাসা), বানাইপুর",
+    "male_count": 1635,
+    "female_count": 1588,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বান্দাইখাড়া সরকারী প্রাথমিক বিদ্যালয়, বান্দাইখাড়া",
+    "male_count": 2034,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.58682,
+    "longitude": 88.7899
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বারুইপাড়া-১ সরকারী প্রাথমিক বিদ্যালয়, বারুইপাড়া",
+    "male_count": 1110,
+    "female_count": 1063,
+    "hijra_count": 0,
+    "latitude": 24.60645,
+    "longitude": 88.91553
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বালানগর সরকারি প্রাথমিক বিদ্যালয়, বালানগর",
+    "male_count": 1026,
+    "female_count": 984,
+    "hijra_count": 0,
+    "latitude": 24.57226,
+    "longitude": 88.79999
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বিপ্রকয়া সেনপাড়া সরকারী প্রাথমিক বিদ্যালয়,বিপ্রকয়া",
+    "male_count": 793,
+    "female_count": 746,
+    "hijra_count": 0,
+    "latitude": 24.60188,
+    "longitude": 88.87205
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বিশুপাড়া সরকারী প্রাথমিক বিদ্যালয়, বিশুপাড়া",
+    "male_count": 1156,
+    "female_count": 1141,
+    "hijra_count": 0,
+    "latitude": 24.53201,
+    "longitude": 88.83752
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বীরকয়া উচ্চ বিদ্যালয়, বীরকয়া",
+    "male_count": 895,
+    "female_count": 836,
+    "hijra_count": 0,
+    "latitude": 24.62097,
+    "longitude": 88.79312
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বীরকুৎসা অবিনাশ স্কুল এন্ড কলেজ, মূল ভবন, বীরকুৎসা",
+    "male_count": 2939,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বীরকুৎসা সরকারী প্রাথমিক বিদ্যালয়, বীরকুৎসা",
+    "male_count": 0,
+    "female_count": 3082,
+    "hijra_count": 0,
+    "latitude": 24.55904,
+    "longitude": 88.95875
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বুজরুককোলা সরকারী প্রাথমিক বিদ্যালয়, বুজরুক কোলা",
+    "male_count": 1784,
+    "female_count": 1795,
+    "hijra_count": 0,
+    "latitude": 24.55921,
+    "longitude": 88.72121
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "বৈলসিংহ উচ্চ বিদ্যালয় ও কলেজ, বৈলসিংহ",
+    "male_count": 1649,
+    "female_count": 1617,
+    "hijra_count": 0,
+    "latitude": 24.59781,
+    "longitude": 88.8463
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ভটখালী উচ্চ বিদ্যালয় টিনসেট ভবন এবং ভটখালী সরকারী প্রাথমিক বিদ্যালয়, ভটখালী",
+    "male_count": 0,
+    "female_count": 1911,
+    "hijra_count": 0,
+    "latitude": 24.59696,
+    "longitude": 88.89462
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ভটখালী উচ্চ বিদ্যালয়, পাকা ভবন ভটখালী",
+    "male_count": 1940,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.59687,
+    "longitude": 88.89455
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ভবানীগঞ্জ সরকারী উচ্চ বিদ্যালয়, ভবানীগঞ্জ",
+    "male_count": 0,
+    "female_count": 2502,
+    "hijra_count": 0,
+    "latitude": 24.58344,
+    "longitude": 88.81994
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "ভবানীগঞ্জ সরকারী প্রাথমিক বিদ্যালয়,ভবানীগঞ্জ ",
+    "male_count": 2463,
+    "female_count": 0,
+    "hijra_count": 1,
+    "latitude": 24.58406,
+    "longitude": 88.82058
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মচমইল বহুমুখী উচ্চ বিদ্যালয়, টিনসেড ভবন, মচমইল",
+    "male_count": 2038,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.57898,
+    "longitude": 88.73189
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মচমইল বহুমুখী উচ্চ বিদ্যালয় (পূর্বের পাকা ভবন), মচমইল",
+    "male_count": 0,
+    "female_count": 2140,
+    "hijra_count": 0,
+    "latitude": 24.57898,
+    "longitude": 88.73191
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মধুপুর মোহনপুর সরকারী প্রাথমিক বিদ্যালয় (মোহনপুর মানসিংহপুর নিম্নমাধ্যমিক সহ), মোহনপুর",
+    "male_count": 1765,
+    "female_count": 1810,
+    "hijra_count": 0,
+    "latitude": 24.59594,
+    "longitude": 88.80605
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মাড়িয়া মহাবিদ্যালয়,মাড়িয়া",
+    "male_count": 0,
+    "female_count": 2479,
+    "hijra_count": 0,
+    "latitude": 24.64138,
+    "longitude": 88.72166
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মাড়িয়া সরকারী প্রাথমিক বিদ্যালয়,মাড়িয়া",
+    "male_count": 2557,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.6418,
+    "longitude": 88.72093
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মীরপুর উচ্চ বিদ্যালয়, মীরপুর",
+    "male_count": 1418,
+    "female_count": 1447,
+    "hijra_count": 0,
+    "latitude": 24.64355,
+    "longitude": 88.80281
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মুগাইপাড়া উচ্চ বিদ্যালয়,মুগাইপাড়া ",
+    "male_count": 1530,
+    "female_count": 1506,
+    "hijra_count": 0,
+    "latitude": 24.57408,
+    "longitude": 88.70698
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মেন্দিপাড়া সরকারী প্রাথমিক বিদ্যালয়,মেন্দিপাড়া",
+    "male_count": 1176,
+    "female_count": 1170,
+    "hijra_count": 0,
+    "latitude": 24.53519,
+    "longitude": 88.76122
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মোহনগঞ্জ দ্বি-মুখী উচ্চ বিদ্যালয়, মোহনগঞ্জ",
+    "male_count": 0,
+    "female_count": 1969,
+    "hijra_count": 0,
+    "latitude": 24.52371,
+    "longitude": 88.74348
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মোহনগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1963,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.52422,
+    "longitude": 88.74359
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "মোহাম্মদপুর সরকারী প্রাথমিক বিদ্যালয়, মোহাম্মদপুর",
+    "male_count": 893,
+    "female_count": 854,
+    "hijra_count": 0,
+    "latitude": 24.56453,
+    "longitude": 88.77905
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "যাত্রাগাছী ফাজিল মাদ্রাসা (উত্তর ভবন), যাত্রাগাছী",
+    "male_count": 0,
+    "female_count": 2734,
+    "hijra_count": 0,
+    "latitude": 24.58235,
+    "longitude": 88.85266
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "যাত্রাগাছী ফাজিল মাদ্রাসা (পূর্ব ভবন), যাত্রাগাছী",
+    "male_count": 2729,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.58231,
+    "longitude": 88.85262
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "যোগীপাড়া উচ্চ বিদ্যালয়,যোগীপাড়া",
+    "male_count": 0,
+    "female_count": 2349,
+    "hijra_count": 0,
+    "latitude": 24.57999,
+    "longitude": 88.91094
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "যোগীপাড়া সরকারী প্রাথমিক বিদ্যালয়,যোগীপাড়া",
+    "male_count": 2424,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.58026,
+    "longitude": 88.91146
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "রক্ষিতপাড়া সরকারী প্রাথমিক বিদ্যালয় এবং রক্ষিতপাড়া দ্বি-মুখী দাখিল মাদ্রাসা, রক্ষিতপাড়া",
+    "male_count": 1866,
+    "female_count": 1747,
+    "hijra_count": 0,
+    "latitude": 24.61056,
+    "longitude": 88.68551
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "রনশীবাড়ী সরকারী প্রাথমিক বিদ্যালয়, রনশীবাড়ী",
+    "male_count": 1182,
+    "female_count": 1124,
+    "hijra_count": 0,
+    "latitude": 24.6403,
+    "longitude": 88.89618
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "রামগুইয়া সরকারী প্রাথমিক বিদ্যালয়,রামগুইয়া",
+    "male_count": 1595,
+    "female_count": 1520,
+    "hijra_count": 0,
+    "latitude": 24.54953,
+    "longitude": 88.8283
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "রামপুর পাথার সরকারী প্রাথমিক বিদ্যালয়,রামপুর ",
+    "male_count": 1070,
+    "female_count": 1011,
+    "hijra_count": 0,
+    "latitude": 24.66239,
+    "longitude": 88.71183
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "রামরামা সরকারী প্রাথমিক বিদ্যালয়, (মোঃ মতিউর রহমান ভবন) রামরামা",
+    "male_count": 0,
+    "female_count": 2026,
+    "hijra_count": 0,
+    "latitude": 24.52112,
+    "longitude": 88.86043
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "রামরামা সরকারী প্রাথমিক বিদ্যালয়, (মোসাঃ সায়েরা খাতুন ভবন) রামরামা",
+    "male_count": 2026,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.52106,
+    "longitude": 88.86036
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "রাঁয়াপুর সরকারী প্রাথমিক বিদ্যালয়, রাঁয়াপুর",
+    "male_count": 1372,
+    "female_count": 1406,
+    "hijra_count": 0,
+    "latitude": 24.55228,
+    "longitude": 88.89457
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "রুহিয়া মামুদপুর সরকারী প্রাথমিক বিদ্যালয়, এবং রুহিয়া মামুদপুর নিম্নমাধ্যমিক বিদ্যালয়সহ, রুহিয়া",
+    "male_count": 1261,
+    "female_count": 1209,
+    "hijra_count": 0,
+    "latitude": 24.63419,
+    "longitude": 88.7357
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "লাউপাড়া নিম্ন মাধ্যমিক বালিকা বিদ্যালয়, লাড়ুপাড়া",
+    "male_count": 1484,
+    "female_count": 1466,
+    "hijra_count": 0,
+    "latitude": 24.54443,
+    "longitude": 88.76778
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "শেরকোল শিমলা উচ্চ বিদ্যালয় ও দক্ষিণ ও পূর্ব ভবন, শেরকোল",
+    "male_count": 2081,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.67009,
+    "longitude": 88.77776
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "শেরকোল শিমলা উচ্চ বিদ্যালয়, শেরকোল (পশ্চিম ও উত্তর ভবন)",
+    "male_count": 0,
+    "female_count": 2115,
+    "hijra_count": 0,
+    "latitude": 24.66983,
+    "longitude": 88.77749
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "শ্রীপতিপাড়া সরকারী প্রাথমিক বিদ্যালয়, শ্রীপতিপাড়া",
+    "male_count": 915,
+    "female_count": 892,
+    "hijra_count": 0,
+    "latitude": 24.54519,
+    "longitude": 88.93682
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "সাঁইপাড়া উচ্চ বিদ্যালয়",
+    "male_count": 1536,
+    "female_count": 1501,
+    "hijra_count": 0,
+    "latitude": 24.59381,
+    "longitude": 88.76937
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "সাদোপাড়া সরকারী প্রাথমিক বিদ্যালয়, সাদোপাড়া",
+    "male_count": 0,
+    "female_count": 2621,
+    "hijra_count": 0,
+    "latitude": 24.56317,
+    "longitude": 88.81977
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "সূর্য্যপাড়া সরকারী প্রাথমিক বিদ্যালয়, সূর্য্যপাড়া",
+    "male_count": 939,
+    "female_count": 927,
+    "hijra_count": 0,
+    "latitude": 24.59878,
+    "longitude": 88.85995
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "সৈয়দপুর শংকরপৈ সরকারী প্রাথমিক বিদ্যালয়, সৈয়দপুর",
+    "male_count": 1161,
+    "female_count": 1198,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "সোনাডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়, সোনাডাঙ্গা",
+    "male_count": 1541,
+    "female_count": 1560,
+    "hijra_count": 0,
+    "latitude": 24.67702,
+    "longitude": 88.80036
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "হাট খুজিপুর উচ্চ বিদ্যালয়, (উত্তর ভবন), হাট খুজিপুর",
+    "male_count": 2940,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.62416,
+    "longitude": 88.70308
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "হাট খুজিপুর উচ্চ বিদ্যালয়, দক্ষিন ভবন এবং হাটখুজিপুর সরকারি প্রাথমিক বিদ্যালয়সহ দক্ষিন ভবন,হাট খুজিপুর",
+    "male_count": 0,
+    "female_count": 2870,
+    "hijra_count": 0,
+    "latitude": 24.62432,
+    "longitude": 88.70289
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "হাটমাধনগর আলিম মাদ্রাসা,হাট মাধনগর",
+    "male_count": 0,
+    "female_count": 2890,
+    "hijra_count": 0,
+    "latitude": 24.62782,
+    "longitude": 88.77668
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "হাট মাধনগর সরকারী প্রাথমিক বিদ্যালয়,হাট মাধনগর",
+    "male_count": 2953,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.62776,
+    "longitude": 88.77635
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "হামিরকুৎসা উচ্চ বিদ্যালয়, নতুন ভবন, আলোকনগর",
+    "male_count": 2017,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.55922,
+    "longitude": 88.87262
+  },
+  {
+    "settings_code": 55,
+    "settings_name": "রাজশাহী-৪",
+    "center_name": "হামিরকুৎসা উচ্চ বিদ্যালয়, পুরাতন ভবন, আলোকনগর",
+    "male_count": 0,
+    "female_count": 2018,
+    "hijra_count": 0,
+    "latitude": 24.55864,
+    "longitude": 88.87279
+  }
+]

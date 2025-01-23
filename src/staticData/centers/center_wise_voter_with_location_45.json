@@ -1,0 +1,1722 @@
+[
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "১৭৭-দেবীনগর-৫ সরকারী প্রাথমিক বিদ্যালয়, হড়মা",
+    "male_count": 397,
+    "female_count": 375,
+    "hijra_count": 0,
+    "latitude": 24.50209,
+    "longitude": 88.28613
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "১৮২- হড়মা গোরস্থান পাড়া সরকারী প্রাথমিক বিদ্যালয়, উপর হড়মা",
+    "male_count": 1213,
+    "female_count": 1128,
+    "hijra_count": 0,
+    "latitude": 24.5025,
+    "longitude": 88.28143
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "অনুপনগর উচ্চ বিদ্যালয়, অনুপনগর",
+    "male_count": 0,
+    "female_count": 2497,
+    "hijra_count": 0,
+    "latitude": 24.51647,
+    "longitude": 88.30478
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "অনুপনগর সরকারী প্রাথমিক বিদ্যালয়, অনুপনগর",
+    "male_count": 2596,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.51652,
+    "longitude": 88.30481
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "অরুনবাড়ী সরকারী প্রাথমিক বিদ্যালয়, অরুনবাড়ী",
+    "male_count": 767,
+    "female_count": 773,
+    "hijra_count": 0,
+    "latitude": 24.68702,
+    "longitude": 88.26323
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আংগারিয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়, আংগারিয়াপাড়া",
+    "male_count": 996,
+    "female_count": 1008,
+    "hijra_count": 0,
+    "latitude": 24.58783,
+    "longitude": 88.25295
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আজাইপুর আরামবাগ জামেউল উলুম দাখিল মাদ্রাসা, আরামবাগ",
+    "male_count": 1655,
+    "female_count": 1700,
+    "hijra_count": 0,
+    "latitude": 24.59029,
+    "longitude": 88.26854
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আজাইপুর বালিকা উচ্চ বিদ্যালয়, আজাইপুর",
+    "male_count": 0,
+    "female_count": 2199,
+    "hijra_count": 0,
+    "latitude": 24.588,
+    "longitude": 88.26597
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আজাইপুর সরকারী প্রাথমিক বিদ্যালয়, আজাইপুর",
+    "male_count": 1970,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.58822,
+    "longitude": 88.26667
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আতাহার সরকারী প্রাথমিক বিদ্যালয়, আতাহার",
+    "male_count": 1835,
+    "female_count": 1844,
+    "hijra_count": 0,
+    "latitude": 24.61987,
+    "longitude": 88.32163
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আমনুরা কে.এম উচ্চ বিদ্যালয়, আমনুরা",
+    "male_count": 1766,
+    "female_count": 1767,
+    "hijra_count": 0,
+    "latitude": 24.62569,
+    "longitude": 88.40128
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আমনুরা তোফির উদ্দিন স্মৃতি সরকারী প্রাথমিক বিদ্যালয়, ধীনগর",
+    "male_count": 1984,
+    "female_count": 1976,
+    "hijra_count": 0,
+    "latitude": 24.6277,
+    "longitude": 88.39222
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আমনুরা হযরত বুলন্দ শাহ মহা বিদ্যালয়, (নতুন ভবন)ঝিলিম",
+    "male_count": 0,
+    "female_count": 2723,
+    "hijra_count": 0,
+    "latitude": 24.62928,
+    "longitude": 88.40587
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আমনুরা হযরত বুলন্দ শাহ মহা বিদ্যালয়,(পুরাতন ভবন) ঝিলিম",
+    "male_count": 2612,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আলহাজ্ব আব্দুস সামাদ কলেজ, সুনাম বাগিচা, জয়ন্দীপুর",
+    "male_count": 1180,
+    "female_count": 1101,
+    "hijra_count": 0,
+    "latitude": 24.54864,
+    "longitude": 88.19697
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আলাতুলী সরকারি প্রাথমিক বিদ্যালয়, দক্ষীণ আলাতুলি",
+    "male_count": 936,
+    "female_count": 943,
+    "hijra_count": 0,
+    "latitude": 24.44804,
+    "longitude": 88.28879
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আলীনগর উচ্চ বিদ্যালয়, আলীনগর",
+    "male_count": 3160,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.5976,
+    "longitude": 88.28415
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "আলীনগর সরকারী প্রাথমিক বিদ্যালয়, আলীনগর",
+    "male_count": 0,
+    "female_count": 3123,
+    "hijra_count": 0,
+    "latitude": 24.59544,
+    "longitude": 88.28589
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "ইসলামপুর সরকারী প্রাথমিক বিদ্যালয়, নতুন ইসলামপু্র",
+    "male_count": 1769,
+    "female_count": 1518,
+    "hijra_count": 0,
+    "latitude": 24.54336,
+    "longitude": 88.26477
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "উপর রাজারামপুর সরকারী প্রাথমিক বিদ্যালয়, উপর রাজারামপুর",
+    "male_count": 2154,
+    "female_count": 2111,
+    "hijra_count": 0,
+    "latitude": 24.5791,
+    "longitude": 88.28337
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কামারপাড়া সরকারী প্রাথমিক বিদ্যালয়, কামারপাড়া",
+    "male_count": 523,
+    "female_count": 574,
+    "hijra_count": 0,
+    "latitude": 24.49086,
+    "longitude": 88.25804
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কামাল উদ্দিন বালিকা উচ্চ বিদ্যালয়, পুরাতন বাজার",
+    "male_count": 669,
+    "female_count": 685,
+    "hijra_count": 0,
+    "latitude": 24.59888,
+    "longitude": 88.27028
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কারবালা উচ্চ বিদ্যালয় ও কলেজ, কারবালা",
+    "male_count": 2698,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.60228,
+    "longitude": 88.23667
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কারবালা সরকারী প্রাথমিক বিদ্যালয়, কারবালা",
+    "male_count": 0,
+    "female_count": 2726,
+    "hijra_count": 0,
+    "latitude": 24.60256,
+    "longitude": 88.23654
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কালিনগর উচ্চ বিদ্যালয়, কালিনগর",
+    "male_count": 0,
+    "female_count": 2475,
+    "hijra_count": 0,
+    "latitude": 24.57506,
+    "longitude": 88.2073
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কালিনগর সরকারী প্রাথমিক বিদ্যালয়, কালিনগর",
+    "male_count": 2563,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.57517,
+    "longitude": 88.20772
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কালুপুর সরকারী প্রাথমিক বিদ্যালয়, কালুপুর",
+    "male_count": 1234,
+    "female_count": 1204,
+    "hijra_count": 0,
+    "latitude": 24.57939,
+    "longitude": 88.31342
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কালেক্টরেট গ্রীণ ভিউ উচ্চ বিদ্যালয়, কোর্ট এরিয়া",
+    "male_count": 868,
+    "female_count": 899,
+    "hijra_count": 0,
+    "latitude": 24.59468,
+    "longitude": 88.27801
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কৃষ্ণগোবিন্দপুর ১নং সরকারী প্রাথমিক বিদ্যালয়, কৃষ্ণগোবিন্দপুর",
+    "male_count": 1275,
+    "female_count": 1213,
+    "hijra_count": 0,
+    "latitude": 24.60415,
+    "longitude": 88.2066
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কৃষ্ণগোবিন্দপুর খোনাপাড়া সরকারি প্রাথমিক বিদ্যালয়, খোনাপাড়া",
+    "male_count": 1583,
+    "female_count": 1430,
+    "hijra_count": 0,
+    "latitude": 24.59061,
+    "longitude": 88.2064
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কৃষ্ণগোবিন্দপুর বালিকা উচ্চ বিদ্যালয়, কৃষ্ণগোবিন্দপুর",
+    "male_count": 1709,
+    "female_count": 1664,
+    "hijra_count": 0,
+    "latitude": 24.60441,
+    "longitude": 88.20826
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "কোদালকাটি উচ্চ বিদ্যালয়, কোদালকাটি",
+    "male_count": 1054,
+    "female_count": 995,
+    "hijra_count": 0,
+    "latitude": 24.42792,
+    "longitude": 88.29091
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "খামার সরকারী প্রাথমিক বিদ্যালয়, খামার",
+    "male_count": 487,
+    "female_count": 510,
+    "hijra_count": 0,
+    "latitude": 24.56993,
+    "longitude": 88.28533
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "খোসালডাংগা সরকারী প্রাথমিক বিদ্যালয়, খোসালডাংগা",
+    "male_count": 1121,
+    "female_count": 1191,
+    "hijra_count": 0,
+    "latitude": 24.57343,
+    "longitude": 88.29496
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "গনকা সরকারী প্রাথমিক বিদ্যালয়, গনকা",
+    "male_count": 809,
+    "female_count": 833,
+    "hijra_count": 0,
+    "latitude": 24.58905,
+    "longitude": 88.29413
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "গোবরাতলা সরকারী প্রাথমিক বিদ্যালয়, গোবরাতলা",
+    "male_count": 1044,
+    "female_count": 1152,
+    "hijra_count": 0,
+    "latitude": 24.69121,
+    "longitude": 88.28665
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "গোয়ালটুলি সরকারী প্রাথমিক বিদ্যালয়, গোয়ালটুলি",
+    "male_count": 1560,
+    "female_count": 1477,
+    "hijra_count": 0,
+    "latitude": 24.61257,
+    "longitude": 88.21715
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "গোরক্ষনাথপুর সরকারী প্রাথমিক বিদ্যালয়, গোরক্ষনাথপুর",
+    "male_count": 1181,
+    "female_count": 1217,
+    "hijra_count": 0,
+    "latitude": 24.64048,
+    "longitude": 88.26778
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "ঘোড়াপাখিয়া ২নং সরকারী প্রাথমিক বিদ্যালয়, ঘোড়াপাখিয়া",
+    "male_count": 1848,
+    "female_count": 1913,
+    "hijra_count": 0,
+    "latitude": 24.62088,
+    "longitude": 88.1978
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চক আলমপুর সরকারী প্রাথমিক বিদ্যালয়, চক আলমপুর",
+    "male_count": 1372,
+    "female_count": 1326,
+    "hijra_count": 0,
+    "latitude": 24.59681,
+    "longitude": 88.21865
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চকঝগড়ু উচ্চ বিদ্যালয়, চকঝগড়ু",
+    "male_count": 2171,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.65146,
+    "longitude": 88.27946
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চকঝগড়ু সরকারী প্রাথমিক বিদ্যালয়, চকঝগড়ু",
+    "male_count": 0,
+    "female_count": 2130,
+    "hijra_count": 0,
+    "latitude": 24.65383,
+    "longitude": 88.28179
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চক বহরম সরকারী প্রাথমিক বিদ্যালয়, চক বহরম",
+    "male_count": 1676,
+    "female_count": 1635,
+    "hijra_count": 0,
+    "latitude": 24.61238,
+    "longitude": 88.2049
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চর অনুপনগর ২নং সরকারী প্রাথমিক বিদ্যালয়, চর অনুপনগর",
+    "male_count": 1198,
+    "female_count": 1109,
+    "hijra_count": 0,
+    "latitude": 24.52854,
+    "longitude": 88.30391
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চরকাচিচর সরকারী প্রাথমিক বিদ্যালয়, চরকাচিচর",
+    "male_count": 1852,
+    "female_count": 1747,
+    "hijra_count": 0,
+    "latitude": 24.47682,
+    "longitude": 88.22968
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চর কাশিমপুর ফুরকানিয়া মাদ্রাসা, চর কাশিমপুর",
+    "male_count": 553,
+    "female_count": 504,
+    "hijra_count": 0,
+    "latitude": 24.54071,
+    "longitude": 88.30653
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চর দেবীনগর সরকারী প্রাথমিক বিদ্যালয়, চর দেবীনগর",
+    "male_count": 1518,
+    "female_count": 1341,
+    "hijra_count": 0,
+    "latitude": 24.50319,
+    "longitude": 88.25976
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চরনরেন্দ্রপুর সরকারী প্রাথমিক বিদ্যালয়, নরেন্দ্রপুর",
+    "male_count": 2119,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.49769,
+    "longitude": 88.22083
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চরবাগডাংগা উচ্চ বিদ্যালয়, চরবাগডাংগা",
+    "male_count": 1082,
+    "female_count": 1025,
+    "hijra_count": 0,
+    "latitude": 24.50117,
+    "longitude": 88.18734
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চরবাগডাংগা দাখিল মাদ্রাসা, চরবাগডাঙ্গা",
+    "male_count": 1901,
+    "female_count": 1846,
+    "hijra_count": 0,
+    "latitude": 24.50173,
+    "longitude": 88.18271
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চর বাসুদেবপুর সরকারী প্রাথমিক বিদ্যালয়, চর বাসুদেবপুর",
+    "male_count": 782,
+    "female_count": 776,
+    "hijra_count": 0,
+    "latitude": 24.52812,
+    "longitude": 88.31067
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চরমালগোঠা সরকারী প্রাথমিক বিদ্যালয়, চরমালগোঠা",
+    "male_count": 963,
+    "female_count": 901,
+    "hijra_count": 0,
+    "latitude": 24.49444,
+    "longitude": 88.18574
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চর মোহনপুর দক্ষিন পাড়া সরকারী প্রাথমিক বিদ্যালয়, চর মোহনপুর",
+    "male_count": 0,
+    "female_count": 2865,
+    "hijra_count": 0,
+    "latitude": 24.57469,
+    "longitude": 88.22967
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চর মোহনপুর সরকারী প্রাথমিক বিদ্যালয়, চর মোহনপুর",
+    "male_count": 3227,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.58133,
+    "longitude": 88.23111
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চররাজারামপুর সরকারী প্রাথমিক বিদ্যালয়, কাজিপাড়া",
+    "male_count": 943,
+    "female_count": 840,
+    "hijra_count": 0,
+    "latitude": 24.55808,
+    "longitude": 88.28137
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চর হরিশপুর সরকারী প্রাথমিক বিদ্যালয়, চর হরিশপুর",
+    "male_count": 1330,
+    "female_count": 1230,
+    "hijra_count": 0,
+    "latitude": 24.48424,
+    "longitude": 88.22828
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চাটাইডুবি উচ্চ বিদ্যালয়, চাটাইডুবি",
+    "male_count": 1641,
+    "female_count": 1527,
+    "hijra_count": 0,
+    "latitude": 24.5393,
+    "longitude": 88.24515
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চাঁদলাই সরকারী প্রাথমিক বিদ্যালয়, চাঁদলাই",
+    "male_count": 1563,
+    "female_count": 1762,
+    "hijra_count": 0,
+    "latitude": 24.59046,
+    "longitude": 88.25851
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চাঁপাইনবাবগঞ্জ পলিটেকনিক ইনস্টিটিউট, বারঘরিয়া চাঁপাইনবাবগঞ্জ",
+    "male_count": 1579,
+    "female_count": 1645,
+    "hijra_count": 0,
+    "latitude": 24.60331,
+    "longitude": 88.25434
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চাঁপাইনবাবগঞ্জ পিটিআই পরীক্ষণ বিদ্যালয়, বালুবাগান",
+    "male_count": 1626,
+    "female_count": 1615,
+    "hijra_count": 0,
+    "latitude": 24.59367,
+    "longitude": 88.26463
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চাঁপাইমহেশপুর সরকারী প্রাথমিক বিদ্যালয়, চাঁপাই মহেশপুর",
+    "male_count": 1731,
+    "female_count": 1759,
+    "hijra_count": 0,
+    "latitude": 24.65984,
+    "longitude": 88.29499
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চামাগ্রাম সরকারী প্রাথমিক বিদ্যালয়, চামাগ্রাম",
+    "male_count": 2788,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.60667,
+    "longitude": 88.24472
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চামাগ্রাম হেনা উচ্চ বিদ্যালয়, চামাগ্রাম",
+    "male_count": 0,
+    "female_count": 2894,
+    "hijra_count": 0,
+    "latitude": 24.60655,
+    "longitude": 88.24412
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চুনাখালী এনায়েতুল্লাহ সিনিয়র আলিম মাদ্রাসা, চুনাখালী",
+    "male_count": 1846,
+    "female_count": 1854,
+    "hijra_count": 0,
+    "latitude": 24.60899,
+    "longitude": 88.20911
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "চৌহদ্দীটোলা সরকারী প্রাথমিক বিদ্যালয়, চৌহদ্দীটোলা",
+    "male_count": 886,
+    "female_count": 892,
+    "hijra_count": 0,
+    "latitude": 24.57389,
+    "longitude": 88.29898
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "ছয়রশিয়া আলাতুলী সরকারী প্রাথমিক বিদ্যালয়, ছয়রশিয়া",
+    "male_count": 514,
+    "female_count": 510,
+    "hijra_count": 0,
+    "latitude": 24.50153,
+    "longitude": 88.26893
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "ছয়রশিয়া সরকারী প্রাথমিক বিদ্যালয়, ছয়রশিয়া",
+    "male_count": 1430,
+    "female_count": 1317,
+    "hijra_count": 0,
+    "latitude": 24.53838,
+    "longitude": 88.26138
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "জামাদারপাড়া সরকারী প্রাথমিক বিদ্যালয়, জামাদারপাড়া",
+    "male_count": 1511,
+    "female_count": 1381,
+    "hijra_count": 0,
+    "latitude": 24.60847,
+    "longitude": 88.25345
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "জোড়গাছি সরকারী প্রাথমিক বিদ্যালয়, জোড়গাছি",
+    "male_count": 1662,
+    "female_count": 1738,
+    "hijra_count": 0,
+    "latitude": 24.57835,
+    "longitude": 88.27142
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "জোহরপুর সরকারি প্রাথমিক বিদ্যালয়, জোহরপুর",
+    "male_count": 1235,
+    "female_count": 1058,
+    "hijra_count": 0,
+    "latitude": 24.52893,
+    "longitude": 88.12994
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "টিকরামপুর উচ্চ বিদ্যালয়, টিকরামপুর",
+    "male_count": 0,
+    "female_count": 2738,
+    "hijra_count": 0,
+    "latitude": 24.58705,
+    "longitude": 88.24675
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "টিকরামপুর সরকারী প্রাথমিক বিদ্যালয়, টিকরামপুর",
+    "male_count": 2839,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.58715,
+    "longitude": 88.2468
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "টিকলিচর সরকারী প্রাথমিক বিদ্যালয়, টিকলিচর",
+    "male_count": 1197,
+    "female_count": 1140,
+    "hijra_count": 0,
+    "latitude": 24.54291,
+    "longitude": 88.18245
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "টিপু সুলতান কলেজ, গড়াইপাড়া",
+    "male_count": 1920,
+    "female_count": 1715,
+    "hijra_count": 0,
+    "latitude": 24.51551,
+    "longitude": 88.20421
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "তাজকেরাতুন স্বরুপনগর সরকারী প্রাথমিক বিদ্যালয়, স্বরুপনগর",
+    "male_count": 1068,
+    "female_count": 1095,
+    "hijra_count": 0,
+    "latitude": 24.58818,
+    "longitude": 88.28439
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "তেররশিয়া সরকারী প্রাথমিক বিদ্যালয়, (নতুন ভবন) তেররশিয়া",
+    "male_count": 2759,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "তেররশিয়া সরকারী প্রাথমিক বিদ্যালয়, (পুরাতন ভবন) তেররশিয়া",
+    "male_count": 0,
+    "female_count": 2506,
+    "hijra_count": 0,
+    "latitude": 24.54812,
+    "longitude": 88.23404
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দক্ষিণ চরাগ্রাম সরকারী প্রাথমিক বিদ্যালয়, দক্ষিণ চরাগ্রাম, (নতুন ভবনের ২য় ও ৩য় তলা)",
+    "male_count": 2220,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দক্ষিণ চরাগ্রাম সরকারী প্রাথমিক বিদ্যালয়, দক্ষিণ চরাগ্রাম, (পুরাতন ভবন ও নতুন ভবনের নীচতলা)",
+    "male_count": 0,
+    "female_count": 2212,
+    "hijra_count": 0,
+    "latitude": 24.57798,
+    "longitude": 88.25119
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দিয়াড় ধাইনগর উচ্চ বিদ্যালয়, দিয়াড় ধাইনগর",
+    "male_count": 1660,
+    "female_count": 1519,
+    "hijra_count": 0,
+    "latitude": 24.69806,
+    "longitude": 88.26101
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দূর্গাপুর সরকারী প্রাথমিক বিদ্যালয়, দূর্গাপুর",
+    "male_count": 1628,
+    "female_count": 1690,
+    "hijra_count": 0,
+    "latitude": 24.6186,
+    "longitude": 88.28915
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দেবীনগর ৩নং সরকারী প্রাথমিক বিদ্যালয়, দেবীনগর",
+    "male_count": 1563,
+    "female_count": 1559,
+    "hijra_count": 0,
+    "latitude": 24.52082,
+    "longitude": 88.26228
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দেবীনগর দ্বিমূখী মাধ্যমিক বিদ্যালয়, দেবীনগর",
+    "male_count": 1316,
+    "female_count": 1296,
+    "hijra_count": 0,
+    "latitude": 24.52303,
+    "longitude": 88.26746
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দেবীনগর বিশ্বাস টোলা সরকারী প্রাথমিক বিদ্যালয়, বিশ্বাসটোলা",
+    "male_count": 1000,
+    "female_count": 1000,
+    "hijra_count": 0,
+    "latitude": 24.51719,
+    "longitude": 88.2674
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দেবীনগর ভাটোপাড়া সরকারী প্রাথমিক বিদ্যালয়, ভাটোপাড়া",
+    "male_count": 1310,
+    "female_count": 1246,
+    "hijra_count": 0,
+    "latitude": 24.50882,
+    "longitude": 88.27435
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দেবীপুর সরকারি প্রাথমিক বিদ্যালয়, দেবীপুর",
+    "male_count": 1008,
+    "female_count": 954,
+    "hijra_count": 0,
+    "latitude": 24.56321,
+    "longitude": 88.11764
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দ্বারিয়াপুর সরকারী প্রাথমিক বিদ্যালয়, দ্বারিয়াপুর, (নতুন ভবন)",
+    "male_count": 0,
+    "female_count": 2705,
+    "hijra_count": 0,
+    "latitude": 24.56575,
+    "longitude": 88.30123
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "দ্বারিয়াপুর সরকারী প্রাথমিক বিদ্যালয়, দ্বারিয়াপুর, (পুরাতন ভবন)",
+    "male_count": 2559,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নবাবগঞ্জ উচ্চ বিদ্যালয়, ইসলামপুর (নতুন ভবন)",
+    "male_count": 1191,
+    "female_count": 1435,
+    "hijra_count": 0,
+    "latitude": 24.59664,
+    "longitude": 88.26858
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নবাবগঞ্জ উচ্চ বিদ্যালয়,  ইসলামপুর (পুরাতন ভবন)",
+    "male_count": 1311,
+    "female_count": 1429,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নবাবগঞ্জ জেলা আদর্শ উচ্চ বিদ্যালয়, সোনারমোড়",
+    "male_count": 2821,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.5894,
+    "longitude": 88.27379
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নবাবগঞ্জ মডেল সরকারি প্রাথমিক বিদ্যালয়, কাঠালবাগিচা",
+    "male_count": 1907,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.59674,
+    "longitude": 88.27341
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নবাবগঞ্জ শহর সরকারী প্রাথমিক বিদ্যালয়, দরগাপাড়া",
+    "male_count": 1106,
+    "female_count": 1232,
+    "hijra_count": 0,
+    "latitude": 24.59749,
+    "longitude": 88.26991
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নবাবগঞ্জ সরকারী বালিকা উচ্চ বিদ্যালয়, গাবতলা মোড়",
+    "male_count": 1358,
+    "female_count": 1476,
+    "hijra_count": 0,
+    "latitude": 24.59701,
+    "longitude": 88.27308
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নবাবগঞ্জ সিটি কলেজ, পুরাতন সিএন্ডবি ঘাট",
+    "male_count": 1837,
+    "female_count": 1870,
+    "hijra_count": 0,
+    "latitude": 24.59795,
+    "longitude": 88.261
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নবাব জায়গীর মাজহারুল উলুম রহমানিয়া ও হাফিজিয়া মাদ্রাসা, নবাব জাইগীর",
+    "male_count": 1597,
+    "female_count": 1444,
+    "hijra_count": 0,
+    "latitude": 24.5532,
+    "longitude": 88.18304
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নয়নশুকা আরকে উচ্চ বিদ্যালয়, নয়নশুকা",
+    "male_count": 1736,
+    "female_count": 1771,
+    "hijra_count": 0,
+    "latitude": 24.58719,
+    "longitude": 88.25908
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নয়াগোলা উচ্চ বিদ্যালয়, নয়াগোলা",
+    "male_count": 1783,
+    "female_count": 1732,
+    "hijra_count": 0,
+    "latitude": 24.61276,
+    "longitude": 88.29469
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নরেন্দ্রপুর উচ্চ বিদ্যালয়, নরেন্দ্রপুর",
+    "male_count": 0,
+    "female_count": 1939,
+    "hijra_count": 0,
+    "latitude": 24.49789,
+    "longitude": 88.21993
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নামোরাজারামপুর সরকারী প্রাথমিক বিদ্যালয়, নামোরাজারামপুর",
+    "male_count": 1771,
+    "female_count": 1820,
+    "hijra_count": 0,
+    "latitude": 24.5699,
+    "longitude": 88.27383
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নামোশংকরবাটি বালিকা উচ্চ বিদ্যালয়, (২য় তলা) শংকরবাটি",
+    "male_count": 2015,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নামোশংকরবাটি বালিকা উচ্চ বিদ্যালয়, (নিচতলা) শংকরবাটি",
+    "male_count": 2096,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.57803,
+    "longitude": 88.25867
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নামোশংকরবাটি সরকারী প্রাথমিক বিদ্যালয়, নামোশংকরবাটি",
+    "male_count": 1370,
+    "female_count": 1380,
+    "hijra_count": 0,
+    "latitude": 24.57695,
+    "longitude": 88.25779
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নামোশংকরবাটী উচ্চ বিদ্যালয়, শংকরবাটী",
+    "male_count": 2309,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.58046,
+    "longitude": 88.25706
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নামোসুন্দরপুর সরকারী প্রাথমিক বিদ্যালয়, বাগডাংগা",
+    "male_count": 2465,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.54527,
+    "longitude": 88.21385
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নারায়নপুর আদর্শ মহাবিদ্যালয়, নারায়নপুর",
+    "male_count": 451,
+    "female_count": 460,
+    "hijra_count": 0,
+    "latitude": 24.57202,
+    "longitude": 88.10229
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "নারায়নপুর জাওনিয়া সরকারী প্রাথমিক বিদ্যালয়, জাওনিয়া",
+    "male_count": 1683,
+    "female_count": 1587,
+    "hijra_count": 0,
+    "latitude": 24.56438,
+    "longitude": 88.10915
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "পলশা সরকারী প্রাথমিক বিদ্যালয়, পলশা",
+    "male_count": 1484,
+    "female_count": 1494,
+    "hijra_count": 0,
+    "latitude": 24.64966,
+    "longitude": 88.28548
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "পাঠানপাড়া সরকারি প্রাথমিক বিদ্যালয়, পাঠানপাড়া",
+    "male_count": 0,
+    "female_count": 2072,
+    "hijra_count": 0,
+    "latitude": 24.60028,
+    "longitude": 88.27517
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "পাররামকৃষ্ণপুর উচ্চ বিদ্যালয়, পাররামকৃষ্ণপুর",
+    "male_count": 1888,
+    "female_count": 1612,
+    "hijra_count": 0,
+    "latitude": 24.55964,
+    "longitude": 88.21471
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "পাররামকৃষ্ণপুর বাবলাবোনা সরকারী প্রাথমিক বিদ্যালয়, পাররামকৃষ্ণপুর",
+    "male_count": 1360,
+    "female_count": 1238,
+    "hijra_count": 0,
+    "latitude": 24.56165,
+    "longitude": 88.20575
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বহরম সরকারী প্রাথমিক বিদ্যালয়, বহরম",
+    "male_count": 1520,
+    "female_count": 1451,
+    "hijra_count": 0,
+    "latitude": 24.6134,
+    "longitude": 88.19935
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বাখরআলি সরকারী প্রাথমিক বিদ্যালয়, বাখরআলি",
+    "male_count": 1854,
+    "female_count": 1680,
+    "hijra_count": 0,
+    "latitude": 24.51984,
+    "longitude": 88.18599
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বারঘরিয়া সরকারী প্রাথমিক বিদ্যালয়, বারঘরিয়া",
+    "male_count": 1031,
+    "female_count": 1145,
+    "hijra_count": 0,
+    "latitude": 24.60673,
+    "longitude": 88.24981
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বাররশিয়া সরকারী প্রাথমিক বিদ্যালয়, (নতুন ভবন) বাররশিয়া",
+    "male_count": 2366,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বাররশিয়া সরকারী প্রাথমিক বিদ্যালয়, (পুরাতন ভবন) বাররশিয়া",
+    "male_count": 0,
+    "female_count": 2110,
+    "hijra_count": 0,
+    "latitude": 24.5391,
+    "longitude": 88.23374
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বালিয়াডাংগা-১ সরকারী প্রাথমিক বিদ্যালয়, বালিয়াডাংগা",
+    "male_count": 1232,
+    "female_count": 1316,
+    "hijra_count": 0,
+    "latitude": 24.62906,
+    "longitude": 88.27461
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বালিয়াডাংগা উচ্চ বিদ্যালয়, বালিয়াডাংগা",
+    "male_count": 1924,
+    "female_count": 1922,
+    "hijra_count": 0,
+    "latitude": 24.63066,
+    "longitude": 88.27087
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বালুগ্রাম সরকারী প্রাথমিক বিদ্যালয়, বালুগ্রাম",
+    "male_count": 2014,
+    "female_count": 1970,
+    "hijra_count": 0,
+    "latitude": 24.63082,
+    "longitude": 88.29357
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বালুয়াচুড়ি সরকারী প্রাথমিক বিদ্যালয়, কলিকাতা",
+    "male_count": 1479,
+    "female_count": 1414,
+    "hijra_count": 0,
+    "latitude": 24.52611,
+    "longitude": 88.24884
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বিউগল বর্ডার গার্ড সরকারি প্রাথমিক বিদ্যালয়, কল্যানপুর",
+    "male_count": 1000,
+    "female_count": 909,
+    "hijra_count": 0,
+    "latitude": 24.60268,
+    "longitude": 88.28711
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বিদিরপুর সরকারি প্রাথমিক বিদ্যালয়, বিদিরপুর",
+    "male_count": 999,
+    "female_count": 1064,
+    "hijra_count": 0,
+    "latitude": 24.60035,
+    "longitude": 88.29712
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বেহুলা সরকারী প্রাথমিক বিদ্যালয়, বেহুলা",
+    "male_count": 1486,
+    "female_count": 1402,
+    "hijra_count": 0,
+    "latitude": 24.68225,
+    "longitude": 88.27454
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "বৈদ্যনাথপুর সরকারি প্রাথমিক বিদ্যালয়, বৈদ্যনাথপুর",
+    "male_count": 851,
+    "female_count": 797,
+    "hijra_count": 0,
+    "latitude": 24.55168,
+    "longitude": 88.12521
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "ভগবানপুর সরকারী প্রাথমিক বিদ্যালয়, ভগবানপুর",
+    "male_count": 934,
+    "female_count": 888,
+    "hijra_count": 0,
+    "latitude": 24.60388,
+    "longitude": 88.22122
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মহাডাংগা সরকারি প্রাথমিক বিদ্যালয়, মহাডাংগা",
+    "male_count": 1159,
+    "female_count": 1199,
+    "hijra_count": 0,
+    "latitude": 24.60681,
+    "longitude": 88.30465
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মহারাজনগর সরকারী প্রাথমিক বিদ্যালয়, মহারাজনগর",
+    "male_count": 1280,
+    "female_count": 1138,
+    "hijra_count": 0,
+    "latitude": 24.53561,
+    "longitude": 88.18312
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মহারাজপুর উচ্চ বিদ্যালয়, মহারাজপুর",
+    "male_count": 3205,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.60865,
+    "longitude": 88.2256
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মহারাজপুর শেখপাড়া সরকারী প্রাথমিক বিদ্যালয়, শেখপাড়া",
+    "male_count": 1009,
+    "female_count": 1121,
+    "hijra_count": 0,
+    "latitude": 24.60853,
+    "longitude": 88.23321
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মহারাজপুর সরকারী প্রাথমিক বিদ্যালয়, মহারাজপুর",
+    "male_count": 0,
+    "female_count": 3183,
+    "hijra_count": 0,
+    "latitude": 24.60865,
+    "longitude": 88.22549
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মহারাজপুর হেরাস মন্ডল টোলা সরকারী প্রাথমিক বিদ্যালয়, সালিমডোলপাড়া",
+    "male_count": 1704,
+    "female_count": 1722,
+    "hijra_count": 0,
+    "latitude": 24.61069,
+    "longitude": 88.23886
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মহিপুর সরকারী প্রাথমিক বিদ্যালয়, মহিপুর",
+    "male_count": 1161,
+    "female_count": 1149,
+    "hijra_count": 0,
+    "latitude": 24.69517,
+    "longitude": 88.26895
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মাঝপাড়া সরকারী প্রাথমিক বিদ্যালয়, মাঝপাড়া",
+    "male_count": 0,
+    "female_count": 3029,
+    "hijra_count": 0,
+    "latitude": 24.58559,
+    "longitude": 88.27314
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মালবাগডাংগা সরকারী প্রাথমিক বিদ্যালয়, মালবাগডাংগা",
+    "male_count": 1668,
+    "female_count": 1518,
+    "hijra_count": 0,
+    "latitude": 24.50204,
+    "longitude": 88.18184
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মুনসেফপুর ফাজিল মাদ্রাসা, মুনসেফপুর",
+    "male_count": 1027,
+    "female_count": 1038,
+    "hijra_count": 0,
+    "latitude": 24.69965,
+    "longitude": 88.27219
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মোহনপুর পৌর সরকারী প্রাথমিক বিদ্যালয়, চর মোহনপুর",
+    "male_count": 820,
+    "female_count": 774,
+    "hijra_count": 0,
+    "latitude": 24.57795,
+    "longitude": 88.2422
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "মোহনপুর সরকারী প্রাথমিক বিদ্যালয়, মোহনপুর",
+    "male_count": 1185,
+    "female_count": 1138,
+    "hijra_count": 0,
+    "latitude": 24.57324,
+    "longitude": 88.21475
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "যাদুপুর দাখিল মাদ্রাসা, শিমুলতলা",
+    "male_count": 2132,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.62239,
+    "longitude": 88.28666
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "রাজারামপুর হামিদুল্লাহ উচ্চ বিদ্যালয়, রাজারামপুর",
+    "male_count": 3125,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.57514,
+    "longitude": 88.26469
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "রানীনগর তারানগর সরকারি প্রাথমিক বিদ্যালয়, রানীনগর তারানগর",
+    "male_count": 717,
+    "female_count": 693,
+    "hijra_count": 0,
+    "latitude": 24.45256,
+    "longitude": 88.28113
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "রানীনগর দাখিল মাদ্রাসা, রানীনগর",
+    "male_count": 781,
+    "female_count": 772,
+    "hijra_count": 0,
+    "latitude": 24.4876,
+    "longitude": 88.25062
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "রামচন্দ্রপুর হাট সরকারী প্রাথমিক বিদ্যালয়, রামচন্দ্রপুর হাট",
+    "male_count": 1664,
+    "female_count": 1635,
+    "hijra_count": 0,
+    "latitude": 24.60773,
+    "longitude": 88.20288
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "রামজীবনপুর সরকারী প্রাথমিক বিদ্যালয়, রামজীবনপুর",
+    "male_count": 858,
+    "female_count": 838,
+    "hijra_count": 0,
+    "latitude": 24.62833,
+    "longitude": 88.26261
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "রেহাইচর বালিকা উচ্চ বিদ্যালয়, রেহাইচর (নতুন ভবন)",
+    "male_count": 0,
+    "female_count": 2445,
+    "hijra_count": 0,
+    "latitude": 24.59192,
+    "longitude": 88.2528
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "রেহাইচর বালিকা উচ্চ বিদ্যালয়, রেহাইচর (পুরাতন ভবন)",
+    "male_count": 2392,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "লক্ষীনারায়নপুর ১নং সরকারী প্রাথমিক বিদ্যালয়, লক্ষীনারায়নপুর",
+    "male_count": 1246,
+    "female_count": 1183,
+    "hijra_count": 0,
+    "latitude": 24.54747,
+    "longitude": 88.25778
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "লক্ষী নারায়নপুর ২নং সরকারী প্রাথমিক বিদ্যালয়, উত্তর চরাগ্রাম",
+    "male_count": 1591,
+    "female_count": 1587,
+    "hijra_count": 0,
+    "latitude": 24.58225,
+    "longitude": 88.25328
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "লক্ষীপুর উচ্চ বিদ্যালয়, লক্ষীপুর",
+    "male_count": 0,
+    "female_count": 3651,
+    "hijra_count": 0,
+    "latitude": 24.61295,
+    "longitude": 88.24333
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "লক্ষীপুর সরকারী প্রাথমিক বিদ্যালয়, লক্ষীপুর",
+    "male_count": 3616,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.61319,
+    "longitude": 88.2432
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শংকরবাটি ১নং সরকারি প্রাথমিক বিদ্যালয়, শংকরবাটি",
+    "male_count": 1310,
+    "female_count": 1369,
+    "hijra_count": 0,
+    "latitude": 24.58304,
+    "longitude": 88.2706
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শংকরবাটি ২নং সরকারী প্রাথমিক বিদ্যালয়, শংকরবাটি",
+    "male_count": 0,
+    "female_count": 2117,
+    "hijra_count": 0,
+    "latitude": 24.57904,
+    "longitude": 88.26081
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শংকরবাটি উচ্চ বিদ্যালয়, পোল্লাডাংগা",
+    "male_count": 929,
+    "female_count": 951,
+    "hijra_count": 0,
+    "latitude": 24.58319,
+    "longitude": 88.26462
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শংকরবাটি কাটাবাগান সরকারী প্রাথমিক বিদ্যালয়, কাটাবাগান",
+    "male_count": 0,
+    "female_count": 2095,
+    "hijra_count": 0,
+    "latitude": 24.57386,
+    "longitude": 88.26131
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শংকরবাটী হেফজুল উলুম ফায়েজা খানম কামিল মাদ্রাসা, শংকরবাটী",
+    "male_count": 0,
+    "female_count": 2370,
+    "hijra_count": 0,
+    "latitude": 24.58057,
+    "longitude": 88.25672
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শাহজাহানপুর ইসলামিয়া বালিকা দাখিল মাদ্রাসা, রাজাপাড়া",
+    "male_count": 1064,
+    "female_count": 991,
+    "hijra_count": 0,
+    "latitude": 24.4899,
+    "longitude": 88.22543
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শাহজাহানপুর সরকারী প্রাথমিক বিদ্যালয়, শাহজাহানপুর",
+    "male_count": 1853,
+    "female_count": 1814,
+    "hijra_count": 0,
+    "latitude": 24.50219,
+    "longitude": 88.22339
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শিমুলতলা সরকারী প্রাথমিক বিদ্যালয়, শিমুলতলা",
+    "male_count": 0,
+    "female_count": 2151,
+    "hijra_count": 0,
+    "latitude": 24.62219,
+    "longitude": 88.27688
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "শ্রীরামপুর সরকারী প্রাথমিক বিদ্যালয়, শ্রীরামপুর",
+    "male_count": 1383,
+    "female_count": 1330,
+    "hijra_count": 0,
+    "latitude": 24.63712,
+    "longitude": 88.275
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "সরকারী টেকনিক্যাল স্কুল এন্ড কলেজ, ভকেশনাল রোড",
+    "male_count": 1527,
+    "female_count": 1665,
+    "hijra_count": 0,
+    "latitude": 24.59859,
+    "longitude": 88.28636
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "সরজন সরকারী প্রাথমিক বিদ্যালয়, সরজন",
+    "male_count": 1391,
+    "female_count": 1391,
+    "hijra_count": 0,
+    "latitude": 24.70451,
+    "longitude": 88.27303
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "সালিমডোলপাড়া বালিকা উচ্চ বিদ্যালয়, সালিমডোলপাড়া",
+    "male_count": 1052,
+    "female_count": 1045,
+    "hijra_count": 0,
+    "latitude": 24.61412,
+    "longitude": 88.23161
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "সুজন একাডেমি, সুন্দরপুর",
+    "male_count": 1015,
+    "female_count": 921,
+    "hijra_count": 0,
+    "latitude": 24.55686,
+    "longitude": 88.19389
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "সুবাগ উচ্চ বিদ্যালয়, বাগডাংগা",
+    "male_count": 0,
+    "female_count": 2123,
+    "hijra_count": 0,
+    "latitude": 24.54503,
+    "longitude": 88.21342
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "সেখালীপুর সরকারী প্রাথমিক বিদ্যালয়, নরেন্দ্রপুর",
+    "male_count": 1157,
+    "female_count": 1032,
+    "hijra_count": 0,
+    "latitude": 24.49087,
+    "longitude": 88.21626
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "সেহালা জগদীশ রায় চৌধুরী সরকারী প্রাথমিক বিদ্যালয়, সেহালা",
+    "male_count": 1538,
+    "female_count": 1483,
+    "hijra_count": 0,
+    "latitude": 24.58366,
+    "longitude": 88.29454
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "হরিপুর-১ নং উচ্চ বিদ্যালয়, হরিপুর",
+    "male_count": 0,
+    "female_count": 2084,
+    "hijra_count": 0,
+    "latitude": 24.57361,
+    "longitude": 88.2881
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "হরিপুর বালিকা উচ্চ বিদ্যালয়, হরিপুর",
+    "male_count": 1062,
+    "female_count": 1048,
+    "hijra_count": 0,
+    "latitude": 24.57317,
+    "longitude": 88.29537
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "হরিপুর সরকারী প্রাথমিক বিদ্যালয়, হরিপুর",
+    "male_count": 2042,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.57346,
+    "longitude": 88.28813
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "হরিরামপুর ঘুঘুডিমা সরকারী প্রাথমিক বিদ্যালয়, ঘুঘুডিমা",
+    "male_count": 1160,
+    "female_count": 1206,
+    "hijra_count": 0,
+    "latitude": 24.68036,
+    "longitude": 88.29977
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "হালুয়াবান্ধা সরকারী প্রাথমিক বিদ্যালয়, হালুয়াবান্ধা",
+    "male_count": 650,
+    "female_count": 646,
+    "hijra_count": 0,
+    "latitude": 24.57026,
+    "longitude": 88.27922
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "হাসিনা বালিকা উচ্চ বিদ্যালয়, রাজারামপুর",
+    "male_count": 0,
+    "female_count": 3361,
+    "hijra_count": 0,
+    "latitude": 24.57524,
+    "longitude": 88.26812
+  },
+  {
+    "settings_code": 45,
+    "settings_name": "চাঁপাইনবাবগঞ্জ-৩",
+    "center_name": "হোসেনডাংগা হাজী তাবারক সরকারী প্রাথমিক বিদ্যালয়, হোসেনডাংগা",
+    "male_count": 1489,
+    "female_count": 1492,
+    "hijra_count": 0,
+    "latitude": 24.59762,
+    "longitude": 88.31935
+  }
+]

@@ -1,0 +1,1962 @@
+[
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "১নং কবাখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1990,
+        "female_count": 1688,
+        "hijra_count": 0,
+        "latitude": 23.24183,
+        "longitude": 92.08661
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "১নং নুনছড়ি প্রকল্প সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 988,
+        "female_count": 999,
+        "hijra_count": 0,
+        "latitude": 23.04574,
+        "longitude": 91.99125
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "২নং বাঘাইছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1146,
+        "female_count": 1096,
+        "hijra_count": 0,
+        "latitude": 23.34327,
+        "longitude": 92.04064
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "অংহলাচিনছড়ি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 953,
+        "female_count": 909,
+        "hijra_count": 0,
+        "latitude": 22.95523,
+        "longitude": 91.68746
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "আচালং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2062,
+        "female_count": 1971,
+        "hijra_count": 0,
+        "latitude": 23.29884,
+        "longitude": 91.77997
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "আমতলী উচ্চ বিদ্যালয়",
+        "male_count": 1226,
+        "female_count": 1214,
+        "hijra_count": 0,
+        "latitude": 23.17216,
+        "longitude": 91.82619
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "আলুটিলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 898,
+        "female_count": 917,
+        "hijra_count": 0,
+        "latitude": 23.07688,
+        "longitude": 91.88404
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ইটছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 597,
+        "female_count": 611,
+        "hijra_count": 0,
+        "latitude": 23.04602,
+        "longitude": 92.00982
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "উত্তর কবাখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1808,
+        "female_count": 1817,
+        "hijra_count": 0,
+        "latitude": 23.24711,
+        "longitude": 92.07665
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "উত্তর রেংকার্য্যা উচ্চ বিদ্যালয়",
+        "male_count": 1667,
+        "female_count": 1545,
+        "hijra_count": 0,
+        "latitude": 23.08137,
+        "longitude": 92.13038
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "উদাল বাগান উচ্চ বিদ্যালয়",
+        "male_count": 1356,
+        "female_count": 1319,
+        "hijra_count": 0,
+        "latitude": 23.31486,
+        "longitude": 92.0461
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "উল্টাছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 1036,
+        "female_count": 1007,
+        "hijra_count": 0,
+        "latitude": 23.0173,
+        "longitude": 92.03871
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কংচাইরী পাড়া সরকারি প্রাথমিক বিদ্যালয",
+        "male_count": 976,
+        "female_count": 973,
+        "hijra_count": 0,
+        "latitude": 23.22742,
+        "longitude": 91.91356
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কমলছড়ি পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 1411,
+        "female_count": 1431,
+        "hijra_count": 0,
+        "latitude": 23.07164,
+        "longitude": 91.99248
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কমলছড়ি হেডম্যান পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 984,
+        "female_count": 1020,
+        "hijra_count": 0,
+        "latitude": 23.08078,
+        "longitude": 92.00216
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "করল্যাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1231,
+        "female_count": 1272,
+        "hijra_count": 0,
+        "latitude": 23.14792,
+        "longitude": 91.82361
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কাটারুংছড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2199,
+        "female_count": 2120,
+        "hijra_count": 0,
+        "latitude": 23.31911,
+        "longitude": 92.04153
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কায়াংঘাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1309,
+        "female_count": 1268,
+        "hijra_count": 0,
+        "latitude": 22.99634,
+        "longitude": 92.03123
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কালাপানি নতুন বাজার ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1454,
+        "female_count": 1414,
+        "hijra_count": 0,
+        "latitude": 22.86418,
+        "longitude": 91.75243
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কিষ্টমনি পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 602,
+        "female_count": 623,
+        "hijra_count": 0,
+        "latitude": 23.34269,
+        "longitude": 91.89672
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কুড়াদিয়াছড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 933,
+        "female_count": 955,
+        "hijra_count": 0,
+        "latitude": 23.23662,
+        "longitude": 91.92195
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কুতুবছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1105,
+        "female_count": 1092,
+        "hijra_count": 0,
+        "latitude": 22.69894,
+        "longitude": 91.88815
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "কুমারধন রোয়াজা পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 803,
+        "female_count": 817,
+        "hijra_count": 0,
+        "latitude": 23.15969,
+        "longitude": 91.9423
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খবংপড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1165,
+        "female_count": 924,
+        "hijra_count": 0,
+        "latitude": 23.12053,
+        "longitude": 91.96852
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খাগড়াছড়ি কলেজিয়েট উচ্চ বিদ্যালয়",
+        "male_count": 1695,
+        "female_count": 1496,
+        "hijra_count": 0,
+        "latitude": 23.108,
+        "longitude": 91.97145
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খাগড়াছড়ি কারিগরি প্রশিক্ষণ কেন্দ্র",
+        "male_count": 2458,
+        "female_count": 2291,
+        "hijra_count": 0,
+        "latitude": 23.09166,
+        "longitude": 91.98186
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খাগড়াছড়ি পুলিশ লাইন্স স্কুল",
+        "male_count": 1486,
+        "female_count": 1482,
+        "hijra_count": 0,
+        "latitude": 23.11174,
+        "longitude": 91.9834
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খাগড়াছড়ি সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 2156,
+        "female_count": 1601,
+        "hijra_count": 0,
+        "latitude": 23.11039,
+        "longitude": 91.98855
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খাগড়াছড়ি সরকারি কলেজ",
+        "male_count": 2278,
+        "female_count": 1403,
+        "hijra_count": 0,
+        "latitude": 23.11363,
+        "longitude": 91.977
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খাগড়াছড়ি সরকারি বালিকা উচ্চ বিদ্যালয় (ভবন-১)",
+        "male_count": 2444,
+        "female_count": 2521,
+        "hijra_count": 0,
+        "latitude": 23.10946,
+        "longitude": 91.99106
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খাগড়াবিল জুনিয়র হাই স্কুল",
+        "male_count": 1980,
+        "female_count": 1838,
+        "hijra_count": 0,
+        "latitude": 22.9377,
+        "longitude": 91.73153
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খুলারাম পাড়া উচ্চ বিদ্যালয়",
+        "male_count": 1009,
+        "female_count": 933,
+        "hijra_count": 0,
+        "latitude": 22.96137,
+        "longitude": 92.06464
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "খেদাছড়া ডিপি পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2505,
+        "female_count": 2327,
+        "hijra_count": 0,
+        "latitude": 23.0765,
+        "longitude": 91.86257
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গকুলপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1310,
+        "female_count": 1315,
+        "hijra_count": 0,
+        "latitude": 23.05398,
+        "longitude": 91.82574
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গচ্ছাবিল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2097,
+        "hijra_count": 0,
+        "latitude": 22.86491,
+        "longitude": 91.85389
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গণচন্দ্র কার্বারী পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 853,
+        "female_count": 874,
+        "hijra_count": 0,
+        "latitude": 23.04117,
+        "longitude": 91.87271
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গভামারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1149,
+        "female_count": 1169,
+        "hijra_count": 0,
+        "latitude": 22.88646,
+        "longitude": 91.86425
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গর্জনতলী সরকারী প্রাথমিক বিদ্যালয় (পুরুষ কেন্দ্র)",
+        "male_count": 2702,
+        "female_count": 2676,
+        "hijra_count": 0,
+        "latitude": 22.9966,
+        "longitude": 91.7408
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গাছবান উচ্চ মাধ্যমিক বিদ্যালয়",
+        "male_count": 571,
+        "female_count": 580,
+        "hijra_count": 0,
+        "latitude": 23.16087,
+        "longitude": 91.9489
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গাড়ীটানা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1453,
+        "female_count": 1396,
+        "hijra_count": 0,
+        "latitude": 22.78943,
+        "longitude": 91.79719
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গামারীঢালা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 884,
+        "female_count": 900,
+        "hijra_count": 0,
+        "latitude": 23.03344,
+        "longitude": 92.01809
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গুইমারা গভ. মডেল হাই স্কুল",
+        "male_count": 1891,
+        "female_count": 1815,
+        "hijra_count": 0,
+        "latitude": 22.9603,
+        "longitude": 91.86977
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গৈয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 798,
+        "female_count": 790,
+        "hijra_count": 0,
+        "latitude": 22.88717,
+        "longitude": 91.73166
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গোমতি বি,কে উচ্চ বিদ্যালয়",
+        "male_count": 1386,
+        "female_count": 1375,
+        "hijra_count": 0,
+        "latitude": 23.12445,
+        "longitude": 91.8653
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "গোমতি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 814,
+        "female_count": 761,
+        "hijra_count": 0,
+        "latitude": 23.11086,
+        "longitude": 91.85413
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": " চংড়াছড়ি এস ই এস ডি পি মডেল মাধ্যমিক বিদ্যালয়",
+        "male_count": 1695,
+        "female_count": 1630,
+        "hijra_count": 0,
+        "latitude": 23.12549,
+        "longitude": 92.11463
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "চেংগী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1605,
+        "female_count": 1649,
+        "hijra_count": 0,
+        "latitude": 23.33678,
+        "longitude": 91.91213
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "চেংগুছড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 965,
+        "female_count": 965,
+        "hijra_count": 0,
+        "latitude": 22.8333,
+        "longitude": 91.79295
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "চৌংড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1850,
+        "female_count": 1839,
+        "hijra_count": 0,
+        "latitude": 22.9517,
+        "longitude": 92.0188
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "চৌধুরীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 827,
+        "female_count": 810,
+        "hijra_count": 0,
+        "latitude": 22.9884,
+        "longitude": 91.73805
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ছদুরখীল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1169,
+        "female_count": 1063,
+        "hijra_count": 0,
+        "latitude": 22.86311,
+        "longitude": 91.78544
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ছোট পানছড়ি (উঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 444,
+        "female_count": 491,
+        "hijra_count": 0,
+        "latitude": 23.28253,
+        "longitude": 91.88094
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ছোট মেরুং উচ্চ বিদ্যালয়, কেন্দ্র -১ (পাকা বিল্ডিং)",
+        "male_count": 1964,
+        "female_count": 1831,
+        "hijra_count": 0,
+        "latitude": 23.16455,
+        "longitude": 92.10437
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ছোট মেরুং বাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 902,
+        "female_count": 882,
+        "hijra_count": 0,
+        "latitude": 23.16261,
+        "longitude": 92.11157
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "জামতলী আনসার-ভিডিপি ক্লাব",
+        "male_count": 1216,
+        "female_count": 1198,
+        "hijra_count": 0,
+        "latitude": 23.22681,
+        "longitude": 92.05152
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "জারুলছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 919,
+        "female_count": 1033,
+        "hijra_count": 0,
+        "latitude": 22.81085,
+        "longitude": 91.86983
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "জারুলছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1080,
+        "female_count": 1010,
+        "hijra_count": 0,
+        "latitude": 23.3871,
+        "longitude": 92.01951
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "জালিয়া পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1615,
+        "female_count": 1579,
+        "hijra_count": 0,
+        "latitude": 22.94543,
+        "longitude": 91.86157
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "জোরমরম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 906,
+        "female_count": 898,
+        "hijra_count": 0,
+        "latitude": 23.1812,
+        "longitude": 91.92708
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "টংগীছড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1102,
+        "female_count": 1133,
+        "hijra_count": 0,
+        "latitude": 23.06472,
+        "longitude": 91.98339
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "টেক্সটাইল ভোকেশনাল ইন্‌স্টিটিউট",
+        "male_count": 0,
+        "female_count": 2632,
+        "hijra_count": 0,
+        "latitude": 23.11556,
+        "longitude": 91.99659
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ঠাকুরছড়া উচ্চ বিদ্যালয় (ভবন-২)",
+        "male_count": 2333,
+        "female_count": 2407,
+        "hijra_count": 0,
+        "latitude": 23.08198,
+        "longitude": 91.97305
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ডাইনছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2483,
+        "hijra_count": 0,
+        "latitude": 22.88416,
+        "longitude": 91.81715
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ডেবলছড়ি বাজার পাড়া জুনিয়র হাইস্কুল",
+        "male_count": 801,
+        "female_count": 799,
+        "hijra_count": 0,
+        "latitude": 22.89332,
+        "longitude": 91.92029
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ডেবলছড়ি মুখ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 906,
+        "female_count": 893,
+        "hijra_count": 0,
+        "latitude": 22.91037,
+        "longitude": 91.93151
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তবলছড়ি কায়াংঘাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1052,
+        "female_count": 1085,
+        "hijra_count": 0,
+        "latitude": 22.98351,
+        "longitude": 92.03171
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তাইন্দং উচ্চ বিদ্যালয়",
+        "male_count": 1475,
+        "female_count": 1459,
+        "hijra_count": 0,
+        "latitude": 23.2846,
+        "longitude": 91.79078
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তানৈক্য পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2013,
+        "female_count": 1940,
+        "hijra_count": 0,
+        "latitude": 23.30515,
+        "longitude": 91.78683
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তারাবনছড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1011,
+        "female_count": 1020,
+        "hijra_count": 0,
+        "latitude": 23.24667,
+        "longitude": 91.92902
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তারাবন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1085,
+        "female_count": 1093,
+        "hijra_count": 0,
+        "latitude": 23.36586,
+        "longitude": 91.90742
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তালমনিপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1607,
+        "female_count": 1690,
+        "hijra_count": 0,
+        "latitude": 22.96404,
+        "longitude": 91.79475
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তিনটহরী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2758,
+        "hijra_count": 0,
+        "latitude": 22.82464,
+        "longitude": 91.82467
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তিনটহরী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2849,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.8245,
+        "longitude": 91.82467
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "তৈকর্মা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1032,
+        "female_count": 869,
+        "hijra_count": 0,
+        "latitude": 22.93511,
+        "longitude": 91.91026
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "থলিবাড়ি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1091,
+        "female_count": 1091,
+        "hijra_count": 0,
+        "latitude": 22.95383,
+        "longitude": 91.83437
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "থৈলাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 712,
+        "female_count": 701,
+        "hijra_count": 0,
+        "latitude": 23.2017,
+        "longitude": 91.80397
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দক্ষিণ খবংপড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1046,
+        "female_count": 1124,
+        "hijra_count": 0,
+        "latitude": 23.11233,
+        "longitude": 91.96894
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দক্ষিণ ছোট মেরুং আর এ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1378,
+        "female_count": 1292,
+        "hijra_count": 0,
+        "latitude": 23.15392,
+        "longitude": 92.11818
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দক্ষিণ লতিবান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1075,
+        "female_count": 1109,
+        "hijra_count": 0,
+        "latitude": 23.26552,
+        "longitude": 91.91154
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দাঁতকুপ্যা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1437,
+        "female_count": 1398,
+        "hijra_count": 0,
+        "latitude": 23.03918,
+        "longitude": 92.02608
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দীঘিনালা মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2260,
+        "female_count": 2094,
+        "hijra_count": 0,
+        "latitude": 23.24594,
+        "longitude": 92.06738
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দুধুকছড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1710,
+        "female_count": 1717,
+        "hijra_count": 0,
+        "latitude": 23.39047,
+        "longitude": 91.88588
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দুল্যাতলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 774,
+        "female_count": 781,
+        "hijra_count": 0,
+        "latitude": 22.83629,
+        "longitude": 91.91295
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দেওয়ান পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1367,
+        "female_count": 1340,
+        "hijra_count": 0,
+        "latitude": 22.82191,
+        "longitude": 91.91349
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দেওয়ান পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1256,
+        "female_count": 1132,
+        "hijra_count": 0,
+        "latitude": 22.99436,
+        "longitude": 91.90756
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "দেবেন্দ্র মোহন পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1529,
+        "female_count": 1541,
+        "hijra_count": 0,
+        "latitude": 23.15321,
+        "longitude": 92.01035
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ধলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1545,
+        "female_count": 1456,
+        "hijra_count": 0,
+        "latitude": 23.04809,
+        "longitude": 91.86007
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "নতুন ডাইনছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2552,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.88313,
+        "longitude": 91.81785
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "নতুন পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1382,
+        "female_count": 1392,
+        "hijra_count": 0,
+        "latitude": 23.04867,
+        "longitude": 91.88832
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "নাড়াইছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1306,
+        "female_count": 1111,
+        "hijra_count": 0,
+        "latitude": 23.24872,
+        "longitude": 92.07372
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "নিউ অযোধ্যা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1071,
+        "female_count": 1121,
+        "hijra_count": 0,
+        "latitude": 23.08231,
+        "longitude": 91.84207
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "নিউ তৈচাকমা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1279,
+        "female_count": 1212,
+        "hijra_count": 0,
+        "latitude": 22.94959,
+        "longitude": 91.79315
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "নুনছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 952,
+        "female_count": 943,
+        "hijra_count": 0,
+        "latitude": 23.01925,
+        "longitude": 91.99713
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "নুনছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1245,
+        "female_count": 1268,
+        "hijra_count": 0,
+        "latitude": 23.35528,
+        "longitude": 92.02796
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "নোয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1230,
+        "female_count": 1160,
+        "hijra_count": 0,
+        "latitude": 23.26659,
+        "longitude": 91.78688
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পল্টনজয় পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1092,
+        "female_count": 1087,
+        "hijra_count": 0,
+        "latitude": 23.13137,
+        "longitude": 91.95641
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পাইলট ফার্ম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1490,
+        "female_count": 1414,
+        "hijra_count": 0,
+        "latitude": 23.29064,
+        "longitude": 91.90785
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পাতাছড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 818,
+        "female_count": 872,
+        "hijra_count": 0,
+        "latitude": 22.96343,
+        "longitude": 91.81052
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পানছড়ি ইসলামিয়া সিনিয়র মাদ্রাসা",
+        "male_count": 1103,
+        "female_count": 987,
+        "hijra_count": 0,
+        "latitude": 23.29321,
+        "longitude": 91.90254
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পানছড়ি বাজার মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2081,
+        "female_count": 2048,
+        "hijra_count": 0,
+        "latitude": 23.29792,
+        "longitude": 91.89785
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পাবলাখালী শান্তিপুর উচ্চ বিদ্যালয়",
+        "male_count": 1588,
+        "female_count": 1487,
+        "hijra_count": 0,
+        "latitude": 23.25411,
+        "longitude": 92.07337
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পাহাড়তলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1139,
+        "female_count": 1174,
+        "hijra_count": 0,
+        "latitude": 22.92326,
+        "longitude": 92.03071
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পূঁজগাং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1922,
+        "female_count": 1824,
+        "hijra_count": 0,
+        "latitude": 23.33758,
+        "longitude": 91.92136
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পূর্ব ধলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1000,
+        "female_count": 1016,
+        "hijra_count": 0,
+        "latitude": 23.06664,
+        "longitude": 91.87909
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পূর্ব বলিপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1207,
+        "female_count": 1091,
+        "hijra_count": 0,
+        "latitude": 22.96407,
+        "longitude": 91.73031
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পেরাছড়া উচ্চ বিদ্যালয়, বাত্তোরাম পাড়া (ভবন-২), পেরাছড়া",
+        "male_count": 1978,
+        "female_count": 1995,
+        "hijra_count": 0,
+        "latitude": 23.14406,
+        "longitude": 91.96249
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "পোমাং পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1632,
+        "female_count": 1625,
+        "hijra_count": 0,
+        "latitude": 23.25207,
+        "longitude": 92.05745
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ফুত্যাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 580,
+        "female_count": 495,
+        "hijra_count": 0,
+        "latitude": 22.8007,
+        "longitude": 91.91276
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়ইতলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1173,
+        "female_count": 1074,
+        "hijra_count": 0,
+        "latitude": 22.94465,
+        "longitude": 91.9
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়ডলু উচ্চ বিদ্যালয়",
+        "male_count": 2622,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.80819,
+        "longitude": 91.82238
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়ডলু কুঞ্জুরীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2664,
+        "hijra_count": 0,
+        "latitude": 22.8086,
+        "longitude": 91.82256
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়নাল ডাকবাংলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1502,
+        "female_count": 1332,
+        "hijra_count": 0,
+        "latitude": 23.21983,
+        "longitude": 91.80951
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়নাল মাষ্টারপাড়া স্বতন্ত্র এবতেদায়ী মাদ্রাসা",
+        "male_count": 695,
+        "female_count": 676,
+        "hijra_count": 0,
+        "latitude": 23.0413,
+        "longitude": 91.87288
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1029,
+        "female_count": 1002,
+        "hijra_count": 0,
+        "latitude": 23.13361,
+        "longitude": 92.00416
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 781,
+        "female_count": 795,
+        "hijra_count": 0,
+        "latitude": 23.1937,
+        "longitude": 91.98527
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড় পানছড়ি (উত্তর) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 744,
+        "female_count": 725,
+        "hijra_count": 0,
+        "latitude": 23.31997,
+        "longitude": 91.89408
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড় পানছড়ি (দক্ষিণ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 624,
+        "female_count": 652,
+        "hijra_count": 0,
+        "latitude": 23.29947,
+        "longitude": 91.8812
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়পিলাক(২) সরকারি প্রাথমিক বিদ্যালয়-২",
+        "male_count": 1183,
+        "female_count": 1196,
+        "hijra_count": 0,
+        "latitude": 22.9395,
+        "longitude": 91.88813
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়পিলাক সরকারি প্রাথমিক বিদ্যালয়-১",
+        "male_count": 1508,
+        "female_count": 1371,
+        "hijra_count": 0,
+        "latitude": 22.95467,
+        "longitude": 91.89043
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বড়বিল মুসলিম পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2190,
+        "female_count": 1988,
+        "hijra_count": 0,
+        "latitude": 23.23613,
+        "longitude": 91.79573
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": " বড়াদম উচ্চ বিদ্যালয়, কেন্দ্র- ১ (টিনসেড বিল্ডিং)",
+        "male_count": 1941,
+        "female_count": 2007,
+        "hijra_count": 0,
+        "latitude": 23.28763,
+        "longitude": 92.05009
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বংপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1186,
+        "female_count": 1213,
+        "hijra_count": 0,
+        "latitude": 23.23018,
+        "longitude": 91.80475
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বর্মাছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 400,
+        "female_count": 389,
+        "hijra_count": 0,
+        "latitude": 22.68773,
+        "longitude": 91.93621
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বাইল্যাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1362,
+        "female_count": 1372,
+        "hijra_count": 0,
+        "latitude": 23.00984,
+        "longitude": 91.87314
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বাটনাতলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1967,
+        "female_count": 2001,
+        "hijra_count": 0,
+        "latitude": 22.90502,
+        "longitude": 91.80362
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": " বানছড়া উচ্চ বিদ্যালয়,  কেন্দ্র- ১, (পাকা বিল্ডিং)",
+        "male_count": 1974,
+        "female_count": 2056,
+        "hijra_count": 0,
+        "latitude": 23.2732,
+        "longitude": 92.05924
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বাবুছড়া আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1717,
+        "female_count": 1622,
+        "hijra_count": 0,
+        "latitude": 23.34115,
+        "longitude": 92.03469
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বাবুছড়া উচ্চ বিদ্যালয়",
+        "male_count": 1078,
+        "female_count": 983,
+        "hijra_count": 0,
+        "latitude": 23.3313,
+        "longitude": 92.03903
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বেতছড়ি সরকারি প্রাথমিক বিদ্যালয়,  কেন্দ্র-১ (পাকা বিল্ডিং)",
+        "male_count": 2087,
+        "female_count": 2017,
+        "hijra_count": 0,
+        "latitude": 23.19764,
+        "longitude": 92.1023
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বেলছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 1544,
+        "female_count": 1695,
+        "hijra_count": 0,
+        "latitude": 23.09872,
+        "longitude": 91.84099
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বোয়ালখালী সরকারি প্রাথমিক বিদ্যালয়, কেন্দ্র-১ (পাকা বিল্ডিং)",
+        "male_count": 2562,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.23076,
+        "longitude": 92.07215
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "বোয়ালখালী সরকারি প্রাথমিক বিদ্যালয়, কেন্দ্র-২ (টিনসেড বিল্ডিং)",
+        "male_count": 0,
+        "female_count": 2329,
+        "hijra_count": 1,
+        "latitude": 23.23113,
+        "longitude": 92.07209
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ভবানীচরন রোয়াজা পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1412,
+        "female_count": 1365,
+        "hijra_count": 0,
+        "latitude": 23.1296,
+        "longitude": 91.86662
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ভাইবোনছড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2111,
+        "female_count": 2060,
+        "hijra_count": 0,
+        "latitude": 23.21374,
+        "longitude": 91.91531
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ভিজাকিজিং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 863,
+        "female_count": 798,
+        "hijra_count": 0,
+        "latitude": 23.19304,
+        "longitude": 91.93174
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ভূয়াছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1312,
+        "female_count": 1281,
+        "hijra_count": 0,
+        "latitude": 23.06769,
+        "longitude": 92.01302
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "ভৃগুরাম কার্বারীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1259,
+        "female_count": 1205,
+        "hijra_count": 0,
+        "latitude": 22.97745,
+        "longitude": 91.73709
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মধ্যনগর এবতেদায়ী মাদ্রাসা",
+        "male_count": 1730,
+        "female_count": 2009,
+        "hijra_count": 1,
+        "latitude": 23.28666,
+        "longitude": 91.8859
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": " মধ্য বেতছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1851,
+        "female_count": 1886,
+        "hijra_count": 0,
+        "latitude": 23.20496,
+        "longitude": 92.07964
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মধ্য বোয়ালখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1362,
+        "female_count": 1374,
+        "hijra_count": 0,
+        "latitude": 23.22116,
+        "longitude": 92.07825
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মরাটিলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 650,
+        "female_count": 636,
+        "hijra_count": 0,
+        "latitude": 23.27372,
+        "longitude": 91.85789
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মংহলা পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1364,
+        "female_count": 1394,
+        "hijra_count": 0,
+        "latitude": 22.79901,
+        "longitude": 91.8765
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মহালছড়ি আদর্শ বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1332,
+        "female_count": 1293,
+        "hijra_count": 0,
+        "latitude": 22.92697,
+        "longitude": 92.01938
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মহালছড়ি গুচ্ছগ্রাম সরকারি প্রাথমিক বিদ্যালয় ও মহালছড়ি ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1151,
+        "female_count": 1020,
+        "hijra_count": 0,
+        "latitude": 22.93499,
+        "longitude": 92.03231
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মহালছড়ি সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 1703,
+        "female_count": 1381,
+        "hijra_count": 0,
+        "latitude": 22.93422,
+        "longitude": 92.02762
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মাইসছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 1970,
+        "female_count": 1859,
+        "hijra_count": 0,
+        "latitude": 23.02213,
+        "longitude": 92.01414
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মাটিরাঙ্গা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1047,
+        "female_count": 1011,
+        "hijra_count": 0,
+        "latitude": 23.04062,
+        "longitude": 91.86919
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মাটিরাঙ্গা মডেল সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 2727,
+        "female_count": 2517,
+        "hijra_count": 0,
+        "latitude": 23.03238,
+        "longitude": 91.87524
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মাটিরাঙ্গা মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1909,
+        "female_count": 1627,
+        "hijra_count": 0,
+        "latitude": 23.04564,
+        "longitude": 91.87518
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মানিকছড়ি ইউনিয়ন পরিষদ কমপ্লেক্স",
+        "male_count": 0,
+        "female_count": 3069,
+        "hijra_count": 0,
+        "latitude": 22.84475,
+        "longitude": 91.83679
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মানিকছড়ি ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 2125,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.86431,
+        "longitude": 91.85357
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মানিকছড়ি মুসলিমপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3143,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.84402,
+        "longitude": 91.83421
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মায়াফা পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 933,
+        "female_count": 926,
+        "hijra_count": 0,
+        "latitude": 23.23688,
+        "longitude": 92.04123
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মুক্তাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 754,
+        "female_count": 775,
+        "hijra_count": 0,
+        "latitude": 22.68771,
+        "longitude": 91.93617
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মুনিগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1079,
+        "female_count": 1123,
+        "hijra_count": 0,
+        "latitude": 23.1894,
+        "longitude": 91.92261
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মুসলিম নগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 618,
+        "female_count": 651,
+        "hijra_count": 0,
+        "latitude": 23.27565,
+        "longitude": 91.88481
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মুসলিম পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1570,
+        "female_count": 1622,
+        "hijra_count": 0,
+        "latitude": 22.96864,
+        "longitude": 91.86144
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মুসলিম পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 795,
+        "female_count": 713,
+        "hijra_count": 0,
+        "latitude": 23.10604,
+        "longitude": 91.97944
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মোল্লা বাজার উচ্চ বিদ্যালয়",
+        "male_count": 1598,
+        "female_count": 1498,
+        "hijra_count": 0,
+        "latitude": 23.26203,
+        "longitude": 91.81006
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মোহন্ত কার্বারী পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 778,
+        "female_count": 740,
+        "hijra_count": 0,
+        "latitude": 23.04117,
+        "longitude": 91.87271
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "মোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1264,
+        "female_count": 1178,
+        "hijra_count": 0,
+        "latitude": 23.30491,
+        "longitude": 91.89398
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "যতীন্দ্র কার্বারী পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1137,
+        "female_count": 1131,
+        "hijra_count": 0,
+        "latitude": 22.77424,
+        "longitude": 91.91665
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "যন্ত্রনাথ কার্বারী পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1737,
+        "female_count": 1746,
+        "hijra_count": 0,
+        "latitude": 22.99644,
+        "longitude": 92.01615
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "যোগ্যছোলা উচ্চ বিদ্যালয়",
+        "male_count": 1299,
+        "female_count": 1289,
+        "hijra_count": 0,
+        "latitude": 22.81999,
+        "longitude": 91.76651
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "রহমতপুর কুমিল্লাটিলা আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 689,
+        "female_count": 683,
+        "hijra_count": 0,
+        "latitude": 23.12544,
+        "longitude": 91.98612
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "রাঙ্গাপানিছড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 595,
+        "female_count": 569,
+        "hijra_count": 0,
+        "latitude": 23.12501,
+        "longitude": 92.01015
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "রাজবাড়ী মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3057,
+        "hijra_count": 0,
+        "latitude": 22.84911,
+        "longitude": 91.84186
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "রানী নীহার দেবী সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 3014,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.85008,
+        "longitude": 91.8422
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "রামগড় বালিকা উচ্চ বিদ্যালয় (মহিলা কেন্দ্র)",
+        "male_count": 2185,
+        "female_count": 2226,
+        "hijra_count": 0,
+        "latitude": 23.00218,
+        "longitude": 91.7392
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "রামগড় মডেল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1289,
+        "female_count": 1188,
+        "hijra_count": 0,
+        "latitude": 23.09336,
+        "longitude": 91.99405
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "রামশিরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1059,
+        "female_count": 1029,
+        "hijra_count": 0,
+        "latitude": 23.1873,
+        "longitude": 91.81514
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "লক্ষীছড়ি সরকারি কলেজ",
+        "male_count": 959,
+        "female_count": 907,
+        "hijra_count": 0,
+        "latitude": 22.79679,
+        "longitude": 91.90671
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "লক্ষীছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 769,
+        "female_count": 674,
+        "hijra_count": 0,
+        "latitude": 22.80058,
+        "longitude": 91.90949
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "লতিবান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 778,
+        "female_count": 800,
+        "hijra_count": 0,
+        "latitude": 23.28508,
+        "longitude": 91.92816
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "লামকুপাড়া সরকারী প্রাথমিক বিদ্যালয় (মহিলা কেন্দ্র)",
+        "male_count": 2095,
+        "female_count": 2057,
+        "hijra_count": 0,
+        "latitude": 22.96354,
+        "longitude": 91.73757
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "লেমুছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 984,
+        "female_count": 1078,
+        "hijra_count": 0,
+        "latitude": 22.9771,
+        "longitude": 92.02426
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "লোগাং করল্যাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 877,
+        "female_count": 892,
+        "hijra_count": 0,
+        "latitude": 23.38036,
+        "longitude": 91.8914
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "লোগাং বাজার আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1447,
+        "female_count": 1500,
+        "hijra_count": 0,
+        "latitude": 23.3671,
+        "longitude": 91.8931
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "শান্তিপুর উচ্চ বিদ্যালয়",
+        "male_count": 1499,
+        "female_count": 1433,
+        "hijra_count": 0,
+        "latitude": 23.11111,
+        "longitude": 91.85409
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "শান্তিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1491,
+        "female_count": 1464,
+        "hijra_count": 0,
+        "latitude": 23.26758,
+        "longitude": 91.90671
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "শিশু কল্যাণ প্রাথমিক বিদ্যালয়",
+        "male_count": 2581,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.11175,
+        "longitude": 91.99671
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "শিশু সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2085,
+        "female_count": 1033,
+        "hijra_count": 0,
+        "latitude": 23.10348,
+        "longitude": 91.98299
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "শুকনাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 549,
+        "female_count": 497,
+        "hijra_count": 0,
+        "latitude": 22.80073,
+        "longitude": 91.91275
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "শুকনাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1319,
+        "female_count": 1194,
+        "hijra_count": 0,
+        "latitude": 23.27155,
+        "longitude": 91.80299
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "শুকনাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 912,
+        "female_count": 837,
+        "hijra_count": 0,
+        "latitude": 23.27611,
+        "longitude": 91.95106
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "সদু কার্বারী পাড়া সরকারী প্রাথমিক বিদ্যালয় (পুরুষ কেন্দ্র)",
+        "male_count": 2257,
+        "female_count": 2018,
+        "hijra_count": 0,
+        "latitude": 22.97868,
+        "longitude": 91.72053
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "সাপমারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1484,
+        "female_count": 1509,
+        "hijra_count": 0,
+        "latitude": 22.79656,
+        "longitude": 91.78307
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "সাপমারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1975,
+        "female_count": 2018,
+        "hijra_count": 0,
+        "latitude": 23.04827,
+        "longitude": 91.88688
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "সিঙ্গিনালা উচ্চ বিদ্যালয়",
+        "male_count": 1002,
+        "female_count": 1063,
+        "hijra_count": 0,
+        "latitude": 22.93728,
+        "longitude": 92.04992
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "সিঙ্গিনালা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 953,
+        "female_count": 950,
+        "hijra_count": 0,
+        "latitude": 22.93689,
+        "longitude": 92.05017
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "সিন্দুকছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 1341,
+        "female_count": 1338,
+        "hijra_count": 0,
+        "latitude": 22.92374,
+        "longitude": 91.93665
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "সোমাচন্দ্র কার্বারী পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 972,
+        "female_count": 860,
+        "hijra_count": 0,
+        "latitude": 22.98311,
+        "longitude": 91.75951
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "হাজাধন মনি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1167,
+        "female_count": 1085,
+        "hijra_count": 0,
+        "latitude": 23.16891,
+        "longitude": 92.11254
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "হাফছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2003,
+        "female_count": 1951,
+        "hijra_count": 0,
+        "latitude": 22.92628,
+        "longitude": 91.85731
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "হাসান নগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1308,
+        "female_count": 1257,
+        "hijra_count": 0,
+        "latitude": 23.29659,
+        "longitude": 91.91133
+    },
+    {
+        "settings_code": 298,
+        "settings_name": "খাগড়াছড়ি",
+        "center_name": "হাসিনসনপুর উচ্চ বিদ্যালয়,  কেন্দ্র-১ (পাকা বিল্ডিং)",
+        "male_count": 1983,
+        "female_count": 1991,
+        "hijra_count": 0,
+        "latitude": 23.23073,
+        "longitude": 92.07512
+    }
+]

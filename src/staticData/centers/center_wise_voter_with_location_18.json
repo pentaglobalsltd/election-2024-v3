@@ -1,0 +1,882 @@
+[
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "০২ নং ফুলগাছ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1648,
+        "female_count": 1610,
+        "hijra_count": 0,
+        "latitude": 25.95423,
+        "longitude": 89.4527
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "১নং খুনিয়াগাছ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1010,
+        "female_count": 988,
+        "hijra_count": 0,
+        "latitude": 25.85768,
+        "longitude": 89.38456
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "২নং খুনিয়াগাছ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 759,
+        "female_count": 700,
+        "hijra_count": 0,
+        "latitude": 25.85467,
+        "longitude": 89.38498
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "আইর খামার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1704,
+        "female_count": 1710,
+        "hijra_count": 0,
+        "latitude": 25.87153,
+        "longitude": 89.52538
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "আমবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3649,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.87323,
+        "longitude": 89.50798
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "ইটাপোতা আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1480,
+        "female_count": 1545,
+        "hijra_count": 0,
+        "latitude": 25.9654,
+        "longitude": 89.45813
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "ইটাপোতা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1186,
+        "female_count": 1183,
+        "hijra_count": 0,
+        "latitude": 25.95911,
+        "longitude": 89.46785
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কদমতলা উচ্চ বিদ্যালয়",
+        "male_count": 1963,
+        "female_count": 1858,
+        "hijra_count": 0,
+        "latitude": 25.87034,
+        "longitude": 89.48355
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কবি শেখ ফজলল করিম বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3678,
+        "hijra_count": 0,
+        "latitude": 25.91328,
+        "longitude": 89.43885
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কর্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2740,
+        "hijra_count": 0,
+        "latitude": 25.98614,
+        "longitude": 89.45236
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কাচারীরপাড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1903,
+        "female_count": 1847,
+        "hijra_count": 0,
+        "latitude": 25.80362,
+        "longitude": 89.45585
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কাজীর চওড়া উচ্চ বিদ্যালয়",
+        "male_count": 1737,
+        "female_count": 1766,
+        "hijra_count": 0,
+        "latitude": 25.86966,
+        "longitude": 89.43876
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কালমাটি আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 3475,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.86774,
+        "longitude": 89.36003
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কালমাটি দাখিল মাদ্‌রাসা",
+        "male_count": 0,
+        "female_count": 3394,
+        "hijra_count": 0,
+        "latitude": 25.87003,
+        "longitude": 89.36386
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কালমাটি দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1706,
+        "female_count": 1670,
+        "hijra_count": 0,
+        "latitude": 25.86487,
+        "longitude": 89.3801
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কাশিপুর ছিলাখানা দাখিল মাদ্‌রাসা",
+        "male_count": 2284,
+        "female_count": 2112,
+        "hijra_count": 0,
+        "latitude": 25.88813,
+        "longitude": 89.46734
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কাশিপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1896,
+        "female_count": 1848,
+        "hijra_count": 0,
+        "latitude": 25.88447,
+        "longitude": 89.47563
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কিসামত হারাটি ডি. এস. আই দাখিল মাদ্‌রাসা",
+        "male_count": 0,
+        "female_count": 4116,
+        "hijra_count": 0,
+        "latitude": 25.88543,
+        "longitude": 89.39649
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কিসামত হারাটি বি.এল উচ্চ বিদ্যালয়",
+        "male_count": 4124,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.88639,
+        "longitude": 89.39919
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কুর্শামারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1943,
+        "female_count": 1869,
+        "hijra_count": 0,
+        "latitude": 25.84397,
+        "longitude": 89.43393
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কুলাঘাট উচ্চ বিদ্যালয়",
+        "male_count": 3101,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.92607,
+        "longitude": 89.49329
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কুলাঘাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3121,
+        "hijra_count": 0,
+        "latitude": 25.92622,
+        "longitude": 89.49383
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "কোদালখাতা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2007,
+        "female_count": 2026,
+        "hijra_count": 0,
+        "latitude": 25.94547,
+        "longitude": 89.46198
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "খারুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 544,
+        "female_count": 573,
+        "hijra_count": 0,
+        "latitude": 25.96122,
+        "longitude": 89.49258
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "খুনিয়াগাছ সিডিউল কাস্ট উচ্চ বিদ্যালয়",
+        "male_count": 1524,
+        "female_count": 1472,
+        "hijra_count": 0,
+        "latitude": 25.85741,
+        "longitude": 89.38507
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "খোচাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2133,
+        "female_count": 2349,
+        "hijra_count": 1,
+        "latitude": 25.91837,
+        "longitude": 89.43996
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "গিয়াস উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 3600,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.91446,
+        "longitude": 89.43738
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "গোকুন্ডা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1660,
+        "female_count": 1706,
+        "hijra_count": 0,
+        "latitude": 25.81953,
+        "longitude": 89.45147
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "চর খাটামারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1161,
+        "female_count": 1161,
+        "hijra_count": 0,
+        "latitude": 25.90337,
+        "longitude": 89.51922
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "চর বাসুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1929,
+        "female_count": 1781,
+        "hijra_count": 0,
+        "latitude": 25.8817,
+        "longitude": 89.55797
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "চর শিবেরকুটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1096,
+        "female_count": 1138,
+        "hijra_count": 0,
+        "latitude": 25.93193,
+        "longitude": 89.50508
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "চার্চ অভ্ গড উচ্চ বিদ্যালয়",
+        "male_count": 1891,
+        "female_count": 1984,
+        "hijra_count": 0,
+        "latitude": 25.91163,
+        "longitude": 89.43672
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "চিনাতুলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1146,
+        "female_count": 1068,
+        "hijra_count": 0,
+        "latitude": 25.8252,
+        "longitude": 89.3768
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "ছিড়ামাল্লী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1620,
+        "female_count": 1593,
+        "hijra_count": 0,
+        "latitude": 25.87314,
+        "longitude": 89.54421
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "জগৎবেড় কালিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1845,
+        "female_count": 1786,
+        "hijra_count": 0,
+        "latitude": 25.83183,
+        "longitude": 89.42356
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "ঢাকনাই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2005,
+        "female_count": 2011,
+        "hijra_count": 0,
+        "latitude": 25.86688,
+        "longitude": 89.40891
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "তালুক মৃত্তিঙ্গাঁ টেকনিক্যাল এ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+        "male_count": 2201,
+        "female_count": 2232,
+        "hijra_count": 0,
+        "latitude": 25.84776,
+        "longitude": 89.4497
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "তিসতা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1752,
+        "female_count": 1717,
+        "hijra_count": 0,
+        "latitude": 25.80485,
+        "longitude": 89.4412
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "তিস্তা খলিলুর রহমান খাদেম উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2661,
+        "hijra_count": 0,
+        "latitude": 25.80582,
+        "longitude": 89.43909
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "তিস্তা মোশতাক আহমাদ ফাজিল মাদ্‌রাসা",
+        "male_count": 2619,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.80651,
+        "longitude": 89.43924
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "দুড়াকুটি উচ্চ বিদ্যালয়",
+        "male_count": 1450,
+        "female_count": 1534,
+        "hijra_count": 0,
+        "latitude": 25.96527,
+        "longitude": 89.43745
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "দেউতিরহাট দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 2995,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.82899,
+        "longitude": 89.49546
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "দেউতিরহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2874,
+        "hijra_count": 0,
+        "latitude": 25.82884,
+        "longitude": 89.49622
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "ধাইরখাতা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1715,
+        "female_count": 1751,
+        "hijra_count": 0,
+        "latitude": 25.93673,
+        "longitude": 89.48284
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "নয়াহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1126,
+        "female_count": 1103,
+        "hijra_count": 0,
+        "latitude": 25.85756,
+        "longitude": 89.51985
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "নিজপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2189,
+        "female_count": 2170,
+        "hijra_count": 0,
+        "latitude": 25.88588,
+        "longitude": 89.44832
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "পঞ্চগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1518,
+        "female_count": 1463,
+        "hijra_count": 0,
+        "latitude": 25.84389,
+        "longitude": 89.51402
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "পাগলারহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2308,
+        "female_count": 2176,
+        "hijra_count": 0,
+        "latitude": 25.81811,
+        "longitude": 89.39335
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "পুটিমারী জমসেদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1680,
+        "female_count": 1561,
+        "hijra_count": 0,
+        "latitude": 25.82607,
+        "longitude": 89.35413
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "পূর্ব সাপটানা উচ্চ বিদ্যালয়",
+        "male_count": 2838,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.92097,
+        "longitude": 89.46716
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "পূর্ব সাপটানা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2963,
+        "hijra_count": 0,
+        "latitude": 25.92053,
+        "longitude": 89.46656
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "ফকিরটারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3413,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.87543,
+        "longitude": 89.42735
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "ফুলগাছ উচ্চ বিদ্যালয়",
+        "male_count": 1695,
+        "female_count": 1763,
+        "hijra_count": 0,
+        "latitude": 25.934,
+        "longitude": 89.44382
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "বড়বাড়ী শহীদ আবুল কাশেম উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3683,
+        "hijra_count": 0,
+        "latitude": 25.87327,
+        "longitude": 89.50828
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "বত্রিশ হাজারী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3592,
+        "hijra_count": 0,
+        "latitude": 25.9146,
+        "longitude": 89.42374
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "বত্রিশ হাজারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3645,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.91477,
+        "longitude": 89.42347
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "বানিয়াটারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 629,
+        "female_count": 600,
+        "hijra_count": 0,
+        "latitude": 25.85011,
+        "longitude": 89.40453
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "বানিয়ার দিঘী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1315,
+        "female_count": 1342,
+        "hijra_count": 0,
+        "latitude": 25.88387,
+        "longitude": 89.50346
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "বুড়ির দীঘি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2018,
+        "female_count": 1857,
+        "hijra_count": 0,
+        "latitude": 25.84137,
+        "longitude": 89.52719
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "বুড়িরহাট উচ্চ বিদ্যালয়",
+        "male_count": 1877,
+        "female_count": 1922,
+        "hijra_count": 0,
+        "latitude": 25.87864,
+        "longitude": 89.45464
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "মধুরাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1086,
+        "female_count": 1063,
+        "hijra_count": 0,
+        "latitude": 25.8149,
+        "longitude": 89.42417
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "মনোরম সরোজিনি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1358,
+        "female_count": 1336,
+        "hijra_count": 0,
+        "latitude": 25.84691,
+        "longitude": 89.46454
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "মহেন্দ্রনগর উচ্চ বিদ্যালয়",
+        "male_count": 1596,
+        "female_count": 1570,
+        "hijra_count": 0,
+        "latitude": 25.86016,
+        "longitude": 89.4577
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "মুস্তফী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2010,
+        "female_count": 1942,
+        "hijra_count": 0,
+        "latitude": 25.82942,
+        "longitude": 89.46315
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "মোগলহাট উচ্চ বিদ্যালয়",
+        "male_count": 2632,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.98642,
+        "longitude": 89.45179
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "মোগলহাট মদিনাতুল উলুম দাখিল মাদ্‌রাসা, কর্ণপুর (মহিলা ভোট কেন্দ্র)",
+        "male_count": 1878,
+        "female_count": 1933,
+        "hijra_count": 0,
+        "latitude": 25.98306,
+        "longitude": 89.44735
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "রতিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2672,
+        "hijra_count": 0,
+        "latitude": 25.8287,
+        "longitude": 89.43936
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "রতিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2814,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.82886,
+        "longitude": 89.43935
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "রাজপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1511,
+        "female_count": 1437,
+        "hijra_count": 0,
+        "latitude": 25.84332,
+        "longitude": 89.41455
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "রামদাস সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1748,
+        "female_count": 1697,
+        "hijra_count": 0,
+        "latitude": 25.85073,
+        "longitude": 89.50831
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "লালমনিরহাট নেছারিয়া কামিল মাদ্‌রাসা",
+        "male_count": 1803,
+        "female_count": 1933,
+        "hijra_count": 0,
+        "latitude": 25.91948,
+        "longitude": 89.45269
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "লালমনিরহাট সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 3199,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.91679,
+        "longitude": 89.44812
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "লালমনিরহাট সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 2431,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.9168,
+        "longitude": 89.44817
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "লালমনিরহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1896,
+        "female_count": 1927,
+        "hijra_count": 0,
+        "latitude": 25.91935,
+        "longitude": 89.4502
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "লালমনিরহাট সরকারি বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 5882,
+        "hijra_count": 0,
+        "latitude": 25.91699,
+        "longitude": 89.44893
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "লোহাখুচি দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3286,
+        "hijra_count": 0,
+        "latitude": 25.87585,
+        "longitude": 89.4274
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "শহীদ শাহজাহান কলোনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1583,
+        "female_count": 1806,
+        "hijra_count": 0,
+        "latitude": 25.92419,
+        "longitude": 89.4434
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "শিবেরকুটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2203,
+        "female_count": 2199,
+        "hijra_count": 0,
+        "latitude": 25.94365,
+        "longitude": 89.48844
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "সাকোয়া তাজ মাহমুদ উচ্চ বিদ্যালয়",
+        "male_count": 2984,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.9024,
+        "longitude": 89.50184
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "সাকোয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2875,
+        "hijra_count": 0,
+        "latitude": 25.90212,
+        "longitude": 89.50233
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "সিন্দুরমতি উচ্চ বিদ্যালয়",
+        "male_count": 1623,
+        "female_count": 1695,
+        "hijra_count": 0,
+        "latitude": 25.81411,
+        "longitude": 89.51413
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "সোনাতলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1665,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 25.87951,
+        "longitude": 89.53574
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "হরিণচড়া আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1501,
+        "female_count": 1422,
+        "hijra_count": 0,
+        "latitude": 25.83338,
+        "longitude": 89.34947
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "হরিণচড়া তালপট্টি উচ্চ বিদ্যালয়",
+        "male_count": 772,
+        "female_count": 642,
+        "hijra_count": 0,
+        "latitude": 25.83821,
+        "longitude": 89.34109
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "হরিদেব সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2097,
+        "female_count": 2080,
+        "hijra_count": 0,
+        "latitude": 25.86171,
+        "longitude": 89.49665
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "হাড়ীভাঙ্গা ইসলামিয়া দাখিল মাদ্‌রাসা",
+        "male_count": 2311,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.90478,
+        "longitude": 89.43165
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "হাড়ীভাঙ্গা দরগার পাড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2293,
+        "hijra_count": 0,
+        "latitude": 25.91179,
+        "longitude": 89.41817
+    },
+    {
+        "settings_code": 18,
+        "settings_name": "লালমনিরহাট-৩",
+        "center_name": "হিরামানিক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1798,
+        "female_count": 1739,
+        "hijra_count": 0,
+        "latitude": 25.86334,
+        "longitude": 89.41722
+    }
+]

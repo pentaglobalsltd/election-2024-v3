@@ -1,0 +1,1632 @@
+[
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "আছাদনগর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-আছাদনগর",
+    "male_count": 1457,
+    "female_count": 1269,
+    "hijra_count": 0,
+    "latitude": 25.03309,
+    "longitude": 91.59818
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "আজমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 862,
+    "female_count": 892,
+    "hijra_count": 0,
+    "latitude": 25.04951,
+    "longitude": 91.54469
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "আমবাড়ী উচ্চ বিদ্যালয়",
+    "male_count": 1542,
+    "female_count": 1454,
+    "hijra_count": 0,
+    "latitude": 25.06996,
+    "longitude": 91.4737
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "আমেরতল সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-আমেরতল",
+    "male_count": 1961,
+    "female_count": 1888,
+    "hijra_count": 0,
+    "latitude": 24.97992,
+    "longitude": 91.60863
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "আলমপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-আলমপুর",
+    "male_count": 1649,
+    "female_count": 1469,
+    "hijra_count": 0,
+    "latitude": 24.86065,
+    "longitude": 91.63948
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "আলমপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-আলমপুর",
+    "male_count": 2433,
+    "female_count": 2447,
+    "hijra_count": 0,
+    "latitude": 24.95034,
+    "longitude": 91.66029
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "আলীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 825,
+    "female_count": 770,
+    "hijra_count": 0,
+    "latitude": 25.08952,
+    "longitude": 91.51315
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ইউনিয়ন পরিষদ কমপ্লেক্স ভবন, গ্রাম-বাহাদুরপুর",
+    "male_count": 2461,
+    "female_count": 2443,
+    "hijra_count": 0,
+    "latitude": 25.05046,
+    "longitude": 91.67503
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ইসলামপুর সিদ্দিকিয়া দাখিল মাদ্রাসা",
+    "male_count": 2035,
+    "female_count": 1787,
+    "hijra_count": 0,
+    "latitude": 25.16463,
+    "longitude": 91.59066
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "এরুয়াখাই সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2319,
+    "female_count": 2090,
+    "hijra_count": 0,
+    "latitude": 25.09139,
+    "longitude": 91.51194
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "এলঙ্গী মডেল হাই স্কুল, গ্রাম-এলঙ্গী",
+    "male_count": 1210,
+    "female_count": 1062,
+    "hijra_count": 0,
+    "latitude": 24.97003,
+    "longitude": 91.63404
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কপলা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-কপলা",
+    "male_count": 1261,
+    "female_count": 1100,
+    "hijra_count": 0,
+    "latitude": 24.95838,
+    "longitude": 91.52005
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কলাউড়া দারুসসুন্নাহ কাসিমিয়া সিনিয়র মাদ্রাসা",
+    "male_count": 2477,
+    "female_count": 2310,
+    "hijra_count": 0,
+    "latitude": 25.13347,
+    "longitude": 91.61583
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কাইতকোনা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-কাইতকোনা",
+    "male_count": 1930,
+    "female_count": 1930,
+    "hijra_count": 0,
+    "latitude": 24.92426,
+    "longitude": 91.53115
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কাড়ইলগাঁও সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-কাড়ইলগাঁও",
+    "male_count": 1751,
+    "female_count": 1628,
+    "hijra_count": 0,
+    "latitude": 25.01578,
+    "longitude": 91.61817
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কান্দাগাঁও -নোয়াগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1837,
+    "female_count": 1775,
+    "hijra_count": 0,
+    "latitude": 25.00513,
+    "longitude": 91.56484
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কান্দাগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2322,
+    "female_count": 2290,
+    "hijra_count": 0,
+    "latitude": 25.11555,
+    "longitude": 91.5723
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কালারুখা লতিফিয়া ইসলামিয়া দাখিল মাদ্রাসা, গ্রাম-কালারুকা",
+    "male_count": 1659,
+    "female_count": 1600,
+    "hijra_count": 0,
+    "latitude": 24.98904,
+    "longitude": 91.67095
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কুপিয়া সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- কুপিয়া",
+    "male_count": 1152,
+    "female_count": 1112,
+    "hijra_count": 0,
+    "latitude": 25.06926,
+    "longitude": 91.66063
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কুমনা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-কুমনা",
+    "male_count": 1660,
+    "female_count": 1616,
+    "hijra_count": 0,
+    "latitude": 25.02611,
+    "longitude": 91.65053
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কুমারনীকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1534,
+    "female_count": 1440,
+    "hijra_count": 0,
+    "latitude": 25.02639,
+    "longitude": 91.53996
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কুর্শি সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-কুর্শি",
+    "male_count": 2434,
+    "female_count": 2186,
+    "hijra_count": 0,
+    "latitude": 24.87007,
+    "longitude": 91.59527
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কুশিউড়া বেসরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1120,
+    "female_count": 1089,
+    "hijra_count": 0,
+    "latitude": 25.12007,
+    "longitude": 91.60505
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কৃষ্ণনগর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-কৃষ্ণনগর",
+    "male_count": 906,
+    "female_count": 924,
+    "hijra_count": 0,
+    "latitude": 24.91212,
+    "longitude": 91.67935
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "কৈতক সরকারি প্রাথমিক বিদ্যালয়, গ্রাম - কৈতক",
+    "male_count": 2435,
+    "female_count": 2341,
+    "hijra_count": 0,
+    "latitude": 24.92953,
+    "longitude": 91.56513
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "খরিদিচর সিনিয়র আলিম মাদ্রাসা, গ্রাম-খরিদিচর",
+    "male_count": 1006,
+    "female_count": 973,
+    "hijra_count": 0,
+    "latitude": 24.97391,
+    "longitude": 91.59234
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "খিদুরা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- খিদ্রা",
+    "male_count": 1184,
+    "female_count": 1096,
+    "hijra_count": 0,
+    "latitude": 24.88626,
+    "longitude": 91.67755
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "খুরমা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- খুরমা",
+    "male_count": 1535,
+    "female_count": 1356,
+    "hijra_count": 0,
+    "latitude": 24.90049,
+    "longitude": 91.59702
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "গণেশপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-গণেশপুর",
+    "male_count": 1582,
+    "female_count": 1701,
+    "hijra_count": 0,
+    "latitude": 25.04536,
+    "longitude": 91.6727
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "গোপীনগর নতুননগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1936,
+    "female_count": 1791,
+    "hijra_count": 0,
+    "latitude": 25.02383,
+    "longitude": 91.49938
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "গোবিন্দগঞ্জ সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-গোবিন্দগঞ্জ",
+    "male_count": 1195,
+    "female_count": 1203,
+    "hijra_count": 0,
+    "latitude": 24.92973,
+    "longitude": 91.68394
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "গোয়ারাই সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2485,
+    "female_count": 2408,
+    "hijra_count": 0,
+    "latitude": 25.02099,
+    "longitude": 91.56854
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "গোয়াসপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- গোয়াসপুর",
+    "male_count": 726,
+    "female_count": 666,
+    "hijra_count": 0,
+    "latitude": 24.92028,
+    "longitude": 91.63979
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "চন্ডীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1767,
+    "female_count": 1678,
+    "hijra_count": 0,
+    "latitude": 25.03238,
+    "longitude": 91.52845
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "চন্দ্রনাথ বালিকা উচ্চ বিদ্যালয়, গ্রাম-মন্ডলীভোগ",
+    "male_count": 0,
+    "female_count": 2912,
+    "hijra_count": 0,
+    "latitude": 25.0341,
+    "longitude": 91.66375
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "চরচৌরাই মাদ্রাসা, গ্রাম-চরচৌরাই",
+    "male_count": 996,
+    "female_count": 1082,
+    "hijra_count": 0,
+    "latitude": 24.95035,
+    "longitude": 91.5553
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "চাইরগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2736,
+    "female_count": 2501,
+    "hijra_count": 0,
+    "latitude": 25.12743,
+    "longitude": 91.67592
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "চানপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-চানপুর",
+    "male_count": 1000,
+    "female_count": 849,
+    "hijra_count": 0,
+    "latitude": 24.97823,
+    "longitude": 91.53712
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "চাঁনপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-চানপুর",
+    "male_count": 1528,
+    "female_count": 1413,
+    "hijra_count": 0,
+    "latitude": 25.05426,
+    "longitude": 91.60113
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "চেচান সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-চেচান",
+    "male_count": 1756,
+    "female_count": 1793,
+    "hijra_count": 0,
+    "latitude": 24.94262,
+    "longitude": 91.5863
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "চৌকা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-চৌকা",
+    "male_count": 1073,
+    "female_count": 1003,
+    "hijra_count": 0,
+    "latitude": 24.95112,
+    "longitude": 91.59817
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ছাতক রশিদিয়া মাদরাসা, গ্রাম- গণক্ষাই",
+    "male_count": 864,
+    "female_count": 964,
+    "hijra_count": 0,
+    "latitude": 25.01295,
+    "longitude": 91.63873
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ছাতক সিমেন্ট ফ্যাক্টরী উচ্চ বিদ্যালয়, সিমেন্ট ফ্যাক্টরী, ছাতক",
+    "male_count": 0,
+    "female_count": 2822,
+    "hijra_count": 0,
+    "latitude": 25.0495,
+    "longitude": 91.65755
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ছাতারপই সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-ছাতারপই",
+    "male_count": 1047,
+    "female_count": 908,
+    "hijra_count": 0,
+    "latitude": 24.89655,
+    "longitude": 91.52549
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ছৈলা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- ছৈলা",
+    "male_count": 1445,
+    "female_count": 1272,
+    "hijra_count": 0,
+    "latitude": 24.88162,
+    "longitude": 91.63839
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জাউয়াবাজার ডিগ্রী কলেজ, গ্রাম-জাউয়া",
+    "male_count": 1245,
+    "female_count": 1246,
+    "hijra_count": 0,
+    "latitude": 24.92867,
+    "longitude": 91.54211
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জাউয়া সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-জাউয়াবাজার",
+    "male_count": 1930,
+    "female_count": 1911,
+    "hijra_count": 0,
+    "latitude": 24.92678,
+    "longitude": 91.55109
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জাতুয়া সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-জাতুয়া",
+    "male_count": 954,
+    "female_count": 904,
+    "hijra_count": 0,
+    "latitude": 24.94368,
+    "longitude": 91.60729
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জামেয়া-ই-ইসলামীয়া বনগাঁও দাখিল মাদরাসা, গ্রাম- বনগাঁও",
+    "male_count": 2173,
+    "female_count": 1893,
+    "hijra_count": 0,
+    "latitude": 25.13095,
+    "longitude": 91.69791
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জামেয়া ইসলামিয়া কওমিয়া বালিউড়া মাদ্রাসা",
+    "male_count": 1658,
+    "female_count": 1641,
+    "hijra_count": 0,
+    "latitude": 25.08399,
+    "longitude": 91.62118
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জামেয়া কুরানীয়া নোয়াকুট মাদ্রাসা, গ্রাম-নোয়াকোট",
+    "male_count": 710,
+    "female_count": 647,
+    "hijra_count": 0,
+    "latitude": 25.14263,
+    "longitude": 91.71258
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জালালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 793,
+    "female_count": 835,
+    "hijra_count": 0,
+    "latitude": 25.05939,
+    "longitude": 91.5186
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জালালপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-জালালপুর",
+    "male_count": 1927,
+    "female_count": 1901,
+    "hijra_count": 0,
+    "latitude": 24.94052,
+    "longitude": 91.64346
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জালালাবাদ উচ্চ বিদ্যালয়, গ্রাম-চরগোবিন্দ",
+    "male_count": 1533,
+    "female_count": 1470,
+    "hijra_count": 0,
+    "latitude": 24.95471,
+    "longitude": 91.53862
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জালালীচর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-জালালী চর",
+    "male_count": 1381,
+    "female_count": 1348,
+    "hijra_count": 0,
+    "latitude": 24.95677,
+    "longitude": 91.56037
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জালিয়া সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-জালিয়া",
+    "male_count": 1023,
+    "female_count": 878,
+    "hijra_count": 0,
+    "latitude": 24.88868,
+    "longitude": 91.50681
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "জাহিদপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-জাহিদপুর",
+    "male_count": 1616,
+    "female_count": 1492,
+    "hijra_count": 0,
+    "latitude": 24.84416,
+    "longitude": 91.62457
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ঝিগলী উচ্চ বিদ্যালয় ও কলেজ, গ্রাম-ঝিগলী",
+    "male_count": 1932,
+    "female_count": 1822,
+    "hijra_count": 0,
+    "latitude": 24.83764,
+    "longitude": 91.58952
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "টেবলাই সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1042,
+    "female_count": 1039,
+    "hijra_count": 0,
+    "latitude": 25.07409,
+    "longitude": 91.5816
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "টেংরা উচ্চ বিদ্যালয়",
+    "male_count": 1652,
+    "female_count": 1689,
+    "hijra_count": 0,
+    "latitude": 25.08145,
+    "longitude": 91.54099
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ঢুলপশী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1536,
+    "female_count": 1433,
+    "hijra_count": 0,
+    "latitude": 25.06648,
+    "longitude": 91.4826
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "তকিপুর হাউলী সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-তকিপুর",
+    "male_count": 2337,
+    "female_count": 2339,
+    "hijra_count": 0,
+    "latitude": 24.93757,
+    "longitude": 91.68151
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "তাজপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-তাজপুর",
+    "male_count": 1171,
+    "female_count": 1185,
+    "hijra_count": 0,
+    "latitude": 24.9501,
+    "longitude": 91.67896
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "তাতিকোনা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-তাতীকোনা",
+    "male_count": 1970,
+    "female_count": 1862,
+    "hijra_count": 0,
+    "latitude": 25.03172,
+    "longitude": 91.67757
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "দেবেরগাঁও সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-দেবেরগাঁও",
+    "male_count": 1154,
+    "female_count": 1136,
+    "hijra_count": 0,
+    "latitude": 24.93088,
+    "longitude": 91.53761
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "দোয়ারাবাজার সরকারি মডেল উচ্চ বিদ্যালয়",
+    "male_count": 2972,
+    "female_count": 3042,
+    "hijra_count": 0,
+    "latitude": 25.04913,
+    "longitude": 91.55881
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "দোহালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1926,
+    "female_count": 1902,
+    "hijra_count": 0,
+    "latitude": 25.02651,
+    "longitude": 91.55478
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ধোপাখাই সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1248,
+    "female_count": 1189,
+    "hijra_count": 0,
+    "latitude": 24.99958,
+    "longitude": 91.5573
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নরসিংপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1981,
+    "female_count": 1910,
+    "hijra_count": 0,
+    "latitude": 25.10024,
+    "longitude": 91.65134
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নরসিংহপুর তালুপাঠ সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-নরসিংহপুর",
+    "male_count": 2005,
+    "female_count": 1737,
+    "hijra_count": 0,
+    "latitude": 24.83476,
+    "longitude": 91.6442
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নাছিমপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1599,
+    "female_count": 1422,
+    "hijra_count": 1,
+    "latitude": 25.10749,
+    "longitude": 91.67883
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নাদামপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-নাদামপুর",
+    "male_count": 1569,
+    "female_count": 1551,
+    "hijra_count": 0,
+    "latitude": 24.9516,
+    "longitude": 91.62375
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নানশ্রী সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-চরমহল্লা",
+    "male_count": 1355,
+    "female_count": 1217,
+    "hijra_count": 0,
+    "latitude": 24.97016,
+    "longitude": 91.57052
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নূরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1163,
+    "female_count": 1060,
+    "hijra_count": 0,
+    "latitude": 25.09139,
+    "longitude": 91.51194
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নৈনগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1521,
+    "female_count": 1564,
+    "hijra_count": 0,
+    "latitude": 25.02782,
+    "longitude": 91.58092
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নোয়াগাঁও মাদ্রাসা, গ্রাম-নোয়াগাঁও",
+    "male_count": 1319,
+    "female_count": 1305,
+    "hijra_count": 0,
+    "latitude": 25.05084,
+    "longitude": 91.66878
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নোয়াগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 814,
+    "female_count": 806,
+    "hijra_count": 0,
+    "latitude": 25.11718,
+    "longitude": 91.52555
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নোয়ারাই ইসলামপুর ইসলামিয়া মাদ্রাসা, সিমেন্ট ফ্যাক্টরি, ছাতক।",
+    "male_count": 2810,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 25.05239,
+    "longitude": 91.65735
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "নোয়ারাই সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-নোয়ারাই",
+    "male_count": 2093,
+    "female_count": 2056,
+    "hijra_count": 0,
+    "latitude": 25.03845,
+    "longitude": 91.6549
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "পঞ্চগ্রাম উচ্চ বিদ্যালয়, গ্রাম- জিয়াপুর",
+    "male_count": 2360,
+    "female_count": 2281,
+    "hijra_count": 0,
+    "latitude": 24.87087,
+    "longitude": 91.53185
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "পলিরচর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1204,
+    "female_count": 1175,
+    "hijra_count": 0,
+    "latitude": 25.00546,
+    "longitude": 91.49114
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "পাইকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1892,
+    "female_count": 1921,
+    "hijra_count": 0,
+    "latitude": 25.10674,
+    "longitude": 91.60249
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "পাইগাঁও উচ্চ বিদ্যালয়, গ্রাম-পাইগাঁও",
+    "male_count": 747,
+    "female_count": 718,
+    "hijra_count": 0,
+    "latitude": 24.93451,
+    "longitude": 91.55135
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "পান্ডারগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 931,
+    "female_count": 897,
+    "hijra_count": 0,
+    "latitude": 25.01858,
+    "longitude": 91.51595
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "পালকাপন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1274,
+    "female_count": 1251,
+    "hijra_count": 0,
+    "latitude": 25.09761,
+    "longitude": 91.59562
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "পীরপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-পীরপুর",
+    "male_count": 1359,
+    "female_count": 1343,
+    "hijra_count": 0,
+    "latitude": 24.92269,
+    "longitude": 91.63253
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "পেশকারগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1995,
+    "female_count": 1851,
+    "hijra_count": 0,
+    "latitude": 25.14629,
+    "longitude": 91.57733
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "প্রতাপপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1397,
+    "female_count": 1388,
+    "hijra_count": 0,
+    "latitude": 25.01993,
+    "longitude": 91.59126
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বগুলা রোছমত আলী রামসুন্দর উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 2920,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 25.13564,
+    "longitude": 91.57539
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বগুলা রোছমত আলী রামসুন্দর উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 0,
+    "female_count": 2871,
+    "hijra_count": 0,
+    "latitude": 25.13566,
+    "longitude": 91.57537
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বড়কাপন সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বড়কাপন",
+    "male_count": 1606,
+    "female_count": 1550,
+    "hijra_count": 0,
+    "latitude": 24.93589,
+    "longitude": 91.50355
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বড়খাল বহুমুখী স্কুল ও কলেজ, বড়খাল",
+    "male_count": 0,
+    "female_count": 2803,
+    "hijra_count": 0,
+    "latitude": 25.1122,
+    "longitude": 91.61219
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বড়খাল বহুমুখী স্কুল ও কলেজ, বড়খাল ",
+    "male_count": 2788,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 25.11788,
+    "longitude": 91.61407
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বরাটুকা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বরাটুকা",
+    "male_count": 1927,
+    "female_count": 1790,
+    "hijra_count": 0,
+    "latitude": 24.84157,
+    "longitude": 91.60187
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বল্লভপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বল্লভপুর",
+    "male_count": 811,
+    "female_count": 866,
+    "hijra_count": 0,
+    "latitude": 24.98928,
+    "longitude": 91.57885
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বাউসা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বাউসা",
+    "male_count": 1574,
+    "female_count": 1461,
+    "hijra_count": 0,
+    "latitude": 24.99992,
+    "longitude": 91.6393
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বাগইন সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- বাগইন",
+    "male_count": 1556,
+    "female_count": 1469,
+    "hijra_count": 0,
+    "latitude": 24.89031,
+    "longitude": 91.64797
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বাগবাড়ী সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বাগবাড়ী",
+    "male_count": 2495,
+    "female_count": 2557,
+    "hijra_count": 0,
+    "latitude": 25.03363,
+    "longitude": 91.65893
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বাঘমারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1456,
+    "female_count": 1381,
+    "hijra_count": 0,
+    "latitude": 25.10275,
+    "longitude": 91.58286
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বাঘরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 603,
+    "female_count": 546,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বাজিতপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 933,
+    "female_count": 1014,
+    "hijra_count": 0,
+    "latitude": 25.02703,
+    "longitude": 91.53134
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বানায়াত সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- বানায়ত",
+    "male_count": 975,
+    "female_count": 933,
+    "hijra_count": 0,
+    "latitude": 24.94573,
+    "longitude": 91.50369
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বারগোপী সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বারগোপী",
+    "male_count": 1538,
+    "female_count": 1612,
+    "hijra_count": 0,
+    "latitude": 24.89152,
+    "longitude": 91.63125
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বাংলাবাজার সামারুন্নেছা উচ্চ বিদ্যালয় ও কলেজ, গ্রাম-বড়চাল",
+    "male_count": 1315,
+    "female_count": 1330,
+    "hijra_count": 0,
+    "latitude": 24.8934,
+    "longitude": 91.66224
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বালিউড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1720,
+    "female_count": 1572,
+    "hijra_count": 0,
+    "latitude": 25.09508,
+    "longitude": 91.62926
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বাঁশতলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1461,
+    "female_count": 1352,
+    "hijra_count": 0,
+    "latitude": 25.15188,
+    "longitude": 91.59242
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বিলপাড় সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বিলপাড়",
+    "male_count": 2249,
+    "female_count": 2340,
+    "hijra_count": 0,
+    "latitude": 24.91588,
+    "longitude": 91.66094
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বীরসিং সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1276,
+    "female_count": 1274,
+    "hijra_count": 0,
+    "latitude": 25.08876,
+    "longitude": 91.58983
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বুরাইয়া চিছরাউলী সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-চিছরাউলী",
+    "male_count": 1097,
+    "female_count": 1037,
+    "hijra_count": 0,
+    "latitude": 24.84801,
+    "longitude": 91.65325
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বৈশাকান্দি বেসরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বৈশাকান্দি",
+    "male_count": 931,
+    "female_count": 811,
+    "hijra_count": 0,
+    "latitude": 25.11362,
+    "longitude": 91.70444
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "বোবরাপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বোবরাপুর",
+    "male_count": 1434,
+    "female_count": 1370,
+    "hijra_count": 0,
+    "latitude": 24.98328,
+    "longitude": 91.69479
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ব্রাহ্মণ-ঝুলিয়া সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- ব্রাহ্মন ঝুলিয়া",
+    "male_count": 917,
+    "female_count": 796,
+    "hijra_count": 0,
+    "latitude": 24.87612,
+    "longitude": 91.69273
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ভাতগাঁও সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-ভাতগাঁও",
+    "male_count": 1247,
+    "female_count": 1048,
+    "hijra_count": 0,
+    "latitude": 24.86756,
+    "longitude": 91.51472
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "ভূইগাঁও স্বতন্ত্র এবতেদায়ী মাদ্রাসা, গ্রাম- ভূইগাঁও",
+    "male_count": 1135,
+    "female_count": 1115,
+    "hijra_count": 0,
+    "latitude": 24.92807,
+    "longitude": 91.61333
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মঈনপুর বহুমূখী উচ্চ বিদ্যালয়, গ্রাম-মঈনপুর",
+    "male_count": 1701,
+    "female_count": 1767,
+    "hijra_count": 0,
+    "latitude": 24.87884,
+    "longitude": 91.62552
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মঙ্গলপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1106,
+    "female_count": 1086,
+    "hijra_count": 0,
+    "latitude": 25.00647,
+    "longitude": 91.51707
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মন্ডলপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-মন্ডলপুর",
+    "male_count": 1973,
+    "female_count": 2009,
+    "hijra_count": 0,
+    "latitude": 24.85771,
+    "longitude": 91.56219
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মন্ডলীভোগ সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- মন্ডলীভোগ",
+    "male_count": 3071,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 25.03632,
+    "longitude": 91.66681
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মল্লিকপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- মল্লিকপুর",
+    "male_count": 855,
+    "female_count": 883,
+    "hijra_count": 0,
+    "latitude": 25.01301,
+    "longitude": 91.63865
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মহদী সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- মহদী",
+    "male_count": 1901,
+    "female_count": 1747,
+    "hijra_count": 0,
+    "latitude": 24.90086,
+    "longitude": 91.585
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মাঠগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2482,
+    "female_count": 2394,
+    "hijra_count": 0,
+    "latitude": 25.13894,
+    "longitude": 91.5386
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মাধবপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-মাধবপুর",
+    "male_count": 1440,
+    "female_count": 1260,
+    "hijra_count": 0,
+    "latitude": 24.99903,
+    "longitude": 91.66087
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মানিকপুর-গোদাবাড়ি সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-মানিকপুর",
+    "male_count": 1108,
+    "female_count": 1112,
+    "hijra_count": 0,
+    "latitude": 25.09382,
+    "longitude": 91.63305
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মান্নারগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1078,
+    "female_count": 1056,
+    "hijra_count": 0,
+    "latitude": 25.0731,
+    "longitude": 91.50254
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মিফতাহুল উলুম মাদ্রাসা, গ্রাম-মোগলপাড়া",
+    "male_count": 1538,
+    "female_count": 1640,
+    "hijra_count": 0,
+    "latitude": 25.03486,
+    "longitude": 91.67579
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মুনিরজ্ঞাতি উচ্চ বিদ্যালয়, গ্রাম- মুনিরজ্ঞাতি",
+    "male_count": 2826,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.92296,
+    "longitude": 91.6061
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মুনিরজ্ঞাতি সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- মুনিরজ্ঞাতি",
+    "male_count": 0,
+    "female_count": 2666,
+    "hijra_count": 0,
+    "latitude": 24.93281,
+    "longitude": 91.6128
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মোল্লাআতা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-মোল্লাআতা",
+    "male_count": 1574,
+    "female_count": 1672,
+    "hijra_count": 0,
+    "latitude": 24.92849,
+    "longitude": 91.66399
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "মৌলা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-মৌলা",
+    "male_count": 986,
+    "female_count": 992,
+    "hijra_count": 0,
+    "latitude": 25.06548,
+    "longitude": 91.64156
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "রহমতপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-রহমতপুর",
+    "male_count": 1818,
+    "female_count": 1523,
+    "hijra_count": 0,
+    "latitude": 25.10685,
+    "longitude": 91.68652
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "রাজারগাঁও সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-রাজারগাঁও",
+    "male_count": 1921,
+    "female_count": 1851,
+    "hijra_count": 0,
+    "latitude": 25.06419,
+    "longitude": 91.62877
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "রাতগাঁও সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-রাতগাঁও",
+    "male_count": 1572,
+    "female_count": 1565,
+    "hijra_count": 0,
+    "latitude": 25.02117,
+    "longitude": 91.64671
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "রাধানগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1791,
+    "female_count": 1666,
+    "hijra_count": 0,
+    "latitude": 25.00905,
+    "longitude": 91.5263
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "রামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2162,
+    "female_count": 2074,
+    "hijra_count": 0,
+    "latitude": 25.04683,
+    "longitude": 91.46409
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "রামপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-রামপুর",
+    "male_count": 1100,
+    "female_count": 1060,
+    "hijra_count": 0,
+    "latitude": 24.91169,
+    "longitude": 91.61767
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "রামপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-রামপুর",
+    "male_count": 1671,
+    "female_count": 1628,
+    "hijra_count": 0,
+    "latitude": 24.96471,
+    "longitude": 91.70733
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "রায়সন্তোষপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-রায়সন্তোষপুর",
+    "male_count": 1181,
+    "female_count": 1099,
+    "hijra_count": 0,
+    "latitude": 24.96041,
+    "longitude": 91.68306
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2471,
+    "female_count": 2544,
+    "hijra_count": 0,
+    "latitude": 25.11565,
+    "longitude": 91.56643
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "লাকেশ্বর দাখিল মাদ্রাসা, গ্রাম- লাকেশ্বর",
+    "male_count": 1552,
+    "female_count": 1589,
+    "hijra_count": 0,
+    "latitude": 24.87583,
+    "longitude": 91.66682
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "লামাসানিয়া জামেয়া ইসলামিয়া দাখিল মাদ্রাসা",
+    "male_count": 1014,
+    "female_count": 988,
+    "hijra_count": 0,
+    "latitude": 25.07698,
+    "longitude": 91.60005
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "লাস্তবেরগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 898,
+    "female_count": 916,
+    "hijra_count": 0,
+    "latitude": 25.08375,
+    "longitude": 91.61063
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "লিয়াকতগঞ্জ উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 1989,
+    "female_count": 2008,
+    "hijra_count": 0,
+    "latitude": 25.11718,
+    "longitude": 91.52555
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "লুভিয়া ও পূর্ব সোনাপুর হুসাইনিয়া দারুল উলূম মাদরাসা",
+    "male_count": 1515,
+    "female_count": 1344,
+    "hijra_count": 0,
+    "latitude": 25.12931,
+    "longitude": 91.67966
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "শক্তিয়ারগাঁও সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- শক্তিয়ারগাঁও",
+    "male_count": 814,
+    "female_count": 784,
+    "hijra_count": 0,
+    "latitude": 24.83513,
+    "longitude": 91.51564
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "শরীফপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1532,
+    "female_count": 1521,
+    "hijra_count": 0,
+    "latitude": 25.05644,
+    "longitude": 91.55916
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "শাহ-আরফিন নগর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-বাশঁটিলা",
+    "male_count": 1958,
+    "female_count": 1890,
+    "hijra_count": 0,
+    "latitude": 25.04845,
+    "longitude": 91.63178
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "শিবনগর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-শিবনগর",
+    "male_count": 1596,
+    "female_count": 1635,
+    "hijra_count": 0,
+    "latitude": 24.91573,
+    "longitude": 91.68281
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "শিমুলতলা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-শিমুলতলা",
+    "male_count": 2531,
+    "female_count": 2231,
+    "hijra_count": 0,
+    "latitude": 25.01286,
+    "longitude": 91.67961
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "শ্রীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1350,
+    "female_count": 1359,
+    "hijra_count": 0,
+    "latitude": 25.00167,
+    "longitude": 91.50584
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "সদুখালী সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- বানিকান্দি",
+    "male_count": 1486,
+    "female_count": 1407,
+    "hijra_count": 0,
+    "latitude": 24.87186,
+    "longitude": 91.58062
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "সমতা মাধ্যমিক বিদ্যালয় ও কলেজ, গ্রাম-কামারগাঁও",
+    "male_count": 1631,
+    "female_count": 1654,
+    "hijra_count": 0,
+    "latitude": 24.87395,
+    "longitude": 91.55651
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "সমুজ আলী উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 0,
+    "female_count": 2855,
+    "hijra_count": 0,
+    "latitude": 25.09029,
+    "longitude": 91.55676
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "সমুজ আলী উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 2999,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 25.09042,
+    "longitude": 91.55675
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "সাহেবেরগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1074,
+    "female_count": 1022,
+    "hijra_count": 0,
+    "latitude": 25.00868,
+    "longitude": 91.52685
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "সিংচাপইড় ইসলামিয়া আলিম মাদ্রাসা, গ্রাম- সিংচাপইড়",
+    "male_count": 1744,
+    "female_count": 1623,
+    "hijra_count": 0,
+    "latitude": 24.89388,
+    "longitude": 91.59219
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "সিলেট পাল্প এন্ড পেপার মিলস্ উচ্চ বিদ্যালয়, গ্রাম-পেপারমিল",
+    "male_count": 942,
+    "female_count": 970,
+    "hijra_count": 0,
+    "latitude": 25.02624,
+    "longitude": 91.65063
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "সোনাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 923,
+    "female_count": 966,
+    "hijra_count": 0,
+    "latitude": 24.99708,
+    "longitude": 91.52855
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "হাজারীগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1632,
+    "female_count": 1540,
+    "hijra_count": 0,
+    "latitude": 25.06727,
+    "longitude": 91.47807
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "হাজী আব্দুল খালিক উচ্চ বিদ্যালয়, গ্রাম- টেটিয়ারচর",
+    "male_count": 931,
+    "female_count": 910,
+    "hijra_count": 0,
+    "latitude": 24.97388,
+    "longitude": 91.58422
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "হাজী রইছ আলী উচ্চ বিদ্যালয়, গ্রাম-বাতিরকান্দি",
+    "male_count": 2084,
+    "female_count": 1941,
+    "hijra_count": 0,
+    "latitude": 25.02411,
+    "longitude": 91.64052
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "হাদাচানপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-হাদাচানপুর",
+    "male_count": 1267,
+    "female_count": 1085,
+    "hijra_count": 0,
+    "latitude": 25.07435,
+    "longitude": 91.67011
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "হায়দরপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-হায়দরপুর",
+    "male_count": 1377,
+    "female_count": 1439,
+    "hijra_count": 0,
+    "latitude": 24.84215,
+    "longitude": 91.55489
+  },
+  {
+    "settings_code": 228,
+    "settings_name": "সুনামগঞ্জ-৫",
+    "center_name": "হাসনাবাদ সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-হাসনাবাদ",
+    "male_count": 2210,
+    "female_count": 1966,
+    "hijra_count": 0,
+    "latitude": 24.97834,
+    "longitude": 91.67019
+  }
+]

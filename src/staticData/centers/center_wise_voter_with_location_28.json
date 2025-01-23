@@ -1,0 +1,1302 @@
+[
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "আনসার ডিলার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 819,
+        "female_count": 796,
+        "hijra_count": 0,
+        "latitude": 25.50796,
+        "longitude": 89.76328
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ইজলামারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2336,
+        "hijra_count": 1,
+        "latitude": 25.5292,
+        "longitude": 89.83833
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "উত্তর খাউরিয়ার চর সরকারী প্রথমিক বিদ্যালয়",
+        "male_count": 689,
+        "female_count": 757,
+        "hijra_count": 0,
+        "latitude": 25.6381,
+        "longitude": 89.78633
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "উত্তর চর সাজাই মন্ডলপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 751,
+        "female_count": 754,
+        "hijra_count": 0,
+        "latitude": 25.50168,
+        "longitude": 89.77648
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কয়ারপাড় বীর বিক্রম উচ্চ বিদ্যালয়",
+        "male_count": 1253,
+        "female_count": 1227,
+        "hijra_count": 0,
+        "latitude": 25.63818,
+        "longitude": 89.6721
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কলাবাড়ী, বারবান্দা, বড়াইবাড়ী, চুলিয়ার চর উচ্চ বিদ্যালয়",
+        "male_count": 1423,
+        "female_count": 1379,
+        "hijra_count": 0,
+        "latitude": 25.52232,
+        "longitude": 89.8407
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কাউনিয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1399,
+        "female_count": 1450,
+        "hijra_count": 0,
+        "latitude": 25.66624,
+        "longitude": 89.84594
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কাঁচকোল খামার সখিনা ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1518,
+        "female_count": 1648,
+        "hijra_count": 0,
+        "latitude": 25.61747,
+        "longitude": 89.68513
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কাঁচকোল হাট মহিরুন নেছা উচ্চ বিদ্যালয়",
+        "male_count": 1569,
+        "female_count": 1673,
+        "hijra_count": 0,
+        "latitude": 25.62006,
+        "longitude": 89.68208
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কাজাইকাটা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1416,
+        "female_count": 1445,
+        "hijra_count": 0,
+        "latitude": 25.68782,
+        "longitude": 89.83428
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কাজাই কাটা স্কুল এন্ড কলেজ",
+        "male_count": 1059,
+        "female_count": 1093,
+        "hijra_count": 0,
+        "latitude": 25.6968,
+        "longitude": 89.828
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কোদালকাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1187,
+        "female_count": 1285,
+        "hijra_count": 0,
+        "latitude": 25.48732,
+        "longitude": 89.7611
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কোমরভাঙ্গী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2459,
+        "hijra_count": 0,
+        "latitude": 25.4908,
+        "longitude": 89.81042
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "কোমরভাঙ্গী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2573,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.49071,
+        "longitude": 89.80277
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "খঞ্জনমারা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1884,
+        "female_count": 1790,
+        "hijra_count": 0,
+        "latitude": 25.58982,
+        "longitude": 89.81692
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "খরখরিয়া ২নং সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 886,
+        "female_count": 1029,
+        "hijra_count": 0,
+        "latitude": 25.55401,
+        "longitude": 89.66906
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "খারুভাঁজ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 397,
+        "female_count": 407,
+        "hijra_count": 0,
+        "latitude": 25.47351,
+        "longitude": 89.74999
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "খালেদা শওকত পাটোয়ারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1406,
+        "female_count": 1444,
+        "hijra_count": 0,
+        "latitude": 25.64059,
+        "longitude": 89.68142
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "খেদাইমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1648,
+        "female_count": 1614,
+        "hijra_count": 0,
+        "latitude": 25.60873,
+        "longitude": 89.81114
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "খেয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 976,
+        "female_count": 990,
+        "hijra_count": 0,
+        "latitude": 25.47888,
+        "longitude": 89.84293
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "খেরুয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1621,
+        "female_count": 1658,
+        "hijra_count": 0,
+        "latitude": 25.59851,
+        "longitude": 89.77453
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "খোর্দ্দবাঁশপাতারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 627,
+        "female_count": 656,
+        "hijra_count": 0,
+        "latitude": 25.49156,
+        "longitude": 89.68633
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "গয়টাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1374,
+        "female_count": 1337,
+        "hijra_count": 0,
+        "latitude": 25.59588,
+        "longitude": 89.86279
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "গয়নার পটল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 404,
+        "female_count": 421,
+        "hijra_count": 0,
+        "latitude": 25.5923,
+        "longitude": 89.7458
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ঘুঘুমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1424,
+        "female_count": 1347,
+        "hijra_count": 0,
+        "latitude": 25.65709,
+        "longitude": 89.79081
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চড়াইহাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 912,
+        "female_count": 881,
+        "hijra_count": 0,
+        "latitude": 25.42664,
+        "longitude": 89.71815
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর ইটালুকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 793,
+        "female_count": 754,
+        "hijra_count": 0,
+        "latitude": 25.70952,
+        "longitude": 89.8307
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর কাজাই কাটা আদর্শ নিম্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1251,
+        "female_count": 1202,
+        "hijra_count": 0,
+        "latitude": 25.68115,
+        "longitude": 89.81814
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর খরখরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1521,
+        "female_count": 1538,
+        "hijra_count": 0,
+        "latitude": 25.5494,
+        "longitude": 89.66089
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর গোড়ারকুটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 480,
+        "female_count": 513,
+        "hijra_count": 0,
+        "latitude": 25.58424,
+        "longitude": 89.70129
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর টাপুরচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 646,
+        "female_count": 658,
+        "hijra_count": 0,
+        "latitude": 25.63862,
+        "longitude": 89.82698
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর নেওয়াজী বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 653,
+        "female_count": 665,
+        "hijra_count": 0,
+        "latitude": 25.43055,
+        "longitude": 89.76914
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চরপাত্রখাতা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1645,
+        "female_count": 1578,
+        "hijra_count": 0,
+        "latitude": 25.55625,
+        "longitude": 89.63867
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর পাহাড়তলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1624,
+        "female_count": 1454,
+        "hijra_count": 0,
+        "latitude": 25.4667,
+        "longitude": 89.83259
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চরবন্দবেড় সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1330,
+        "female_count": 1356,
+        "hijra_count": 0,
+        "latitude": 25.57006,
+        "longitude": 89.81374
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর বৈইলমনদিয়ার খাতা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1004,
+        "female_count": 1226,
+        "hijra_count": 0,
+        "latitude": 25.53426,
+        "longitude": 89.70992
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর বোয়ালমারী দাখিল মাদ্রাসা",
+        "male_count": 1718,
+        "female_count": 1603,
+        "hijra_count": 0,
+        "latitude": 25.63029,
+        "longitude": 89.87212
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর মুদাফৎকালিকাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 916,
+        "female_count": 941,
+        "hijra_count": 0,
+        "latitude": 25.58585,
+        "longitude": 89.77084
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর রাজিবপুর আলিম মাদ্রাসা",
+        "male_count": 1513,
+        "female_count": 1519,
+        "hijra_count": 0,
+        "latitude": 25.4504,
+        "longitude": 89.80725
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর শাখাহাতি ১নং সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 830,
+        "female_count": 1023,
+        "hijra_count": 0,
+        "latitude": 25.53866,
+        "longitude": 89.70724
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চর শৌলমারী বহুমূখী উচ্চ বিদ্যালয়",
+        "male_count": 1895,
+        "female_count": 1878,
+        "hijra_count": 1,
+        "latitude": 25.65477,
+        "longitude": 89.80292
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চাক্তাবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2111,
+        "female_count": 1993,
+        "hijra_count": 0,
+        "latitude": 25.54087,
+        "longitude": 89.81263
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চিলমারী উচ্চ বিদ্যালয়",
+        "male_count": 1768,
+        "female_count": 1806,
+        "hijra_count": 0,
+        "latitude": 25.57245,
+        "longitude": 89.67087
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চুলিয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1049,
+        "female_count": 983,
+        "hijra_count": 0,
+        "latitude": 25.51261,
+        "longitude": 89.85197
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "চেংটাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1075,
+        "female_count": 1022,
+        "hijra_count": 0,
+        "latitude": 25.61984,
+        "longitude": 89.85914
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ছালিপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 740,
+        "female_count": 759,
+        "hijra_count": 0,
+        "latitude": 25.5581,
+        "longitude": 89.75476
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "জাউনিয়ার চর উচ্চ বিদ্যালয়",
+        "male_count": 1915,
+        "female_count": 1956,
+        "hijra_count": 0,
+        "latitude": 25.44237,
+        "longitude": 89.82156
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "জোড়গাছ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 772,
+        "female_count": 782,
+        "hijra_count": 0,
+        "latitude": 25.56288,
+        "longitude": 89.67527
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ঝগড়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1021,
+        "female_count": 964,
+        "hijra_count": 0,
+        "latitude": 25.63518,
+        "longitude": 89.85066
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "টাপুরচর বিজি উচ্চ বিদ্যালয়",
+        "male_count": 971,
+        "female_count": 984,
+        "hijra_count": 0,
+        "latitude": 25.65249,
+        "longitude": 89.83055
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "টাপুররচর স্কুল এন্ড কলেজ",
+        "male_count": 1899,
+        "female_count": 1857,
+        "hijra_count": 0,
+        "latitude": 25.62182,
+        "longitude": 89.83801
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "টালুয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 709,
+        "female_count": 669,
+        "hijra_count": 0,
+        "latitude": 25.59929,
+        "longitude": 89.83512
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ডাটিয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 940,
+        "female_count": 903,
+        "hijra_count": 0,
+        "latitude": 25.51666,
+        "longitude": 89.7663
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ডি,এ চিলমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1017,
+        "female_count": 1101,
+        "hijra_count": 0,
+        "latitude": 25.558,
+        "longitude": 89.66678
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ঢুষমারা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1646,
+        "female_count": 1777,
+        "hijra_count": 0,
+        "latitude": 25.52319,
+        "longitude": 89.7067
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "তেকানীগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1308,
+        "female_count": 1244,
+        "hijra_count": 1,
+        "latitude": 25.63033,
+        "longitude": 89.86171
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "তেলিপাড়া (মন্ডল পাড়া) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1239,
+        "female_count": 1244,
+        "hijra_count": 0,
+        "latitude": 25.60694,
+        "longitude": 89.67962
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "থানাহাট পাইলট এ,ইউ,  উচ্চ বিদ্যালয়",
+        "male_count": 4054,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.58395,
+        "longitude": 89.66153
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "থানাহাট পাইলট বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4298,
+        "hijra_count": 0,
+        "latitude": 25.58362,
+        "longitude": 89.65989
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "দক্ষিণ খাউরিয়া স্কুল এন্ড কলেজ",
+        "male_count": 1831,
+        "female_count": 1963,
+        "hijra_count": 0,
+        "latitude": 25.60062,
+        "longitude": 89.75347
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "দক্ষিণ টাপুরচর এল এইচ দাখিল মাদ্রাসা",
+        "male_count": 1614,
+        "female_count": 1592,
+        "hijra_count": 0,
+        "latitude": 25.61352,
+        "longitude": 89.83788
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "দাঁতভাংগা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 882,
+        "female_count": 821,
+        "hijra_count": 0,
+        "latitude": 25.65825,
+        "longitude": 89.85338
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "দাঁতভাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1958,
+        "female_count": 2002,
+        "hijra_count": 0,
+        "latitude": 25.65523,
+        "longitude": 89.85283
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "দাঁতভাঙ্গা হাইস্কুল এন্ড কলেজ",
+        "male_count": 1290,
+        "female_count": 1278,
+        "hijra_count": 0,
+        "latitude": 25.65504,
+        "longitude": 89.85308
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "দিয়ারার চর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1298,
+        "female_count": 1279,
+        "hijra_count": 0,
+        "latitude": 25.41976,
+        "longitude": 89.76769
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ধনারচর চরেরগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1431,
+        "female_count": 1374,
+        "hijra_count": 1,
+        "latitude": 25.51252,
+        "longitude": 89.80231
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ধনারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1895,
+        "female_count": 1852,
+        "hijra_count": 0,
+        "latitude": 25.50182,
+        "longitude": 89.81193
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ধুলাউড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1627,
+        "female_count": 1619,
+        "hijra_count": 0,
+        "latitude": 25.43092,
+        "longitude": 89.80343
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "নটারকান্দি উচ্চ বিদ্যালয়",
+        "male_count": 1032,
+        "female_count": 1042,
+        "hijra_count": 0,
+        "latitude": 25.54552,
+        "longitude": 89.77376
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "নতুনবন্দর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2814,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.54986,
+        "longitude": 89.85553
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "নতুনবন্দর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2714,
+        "hijra_count": 0,
+        "latitude": 25.54996,
+        "longitude": 89.85563
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "নয়ারচর ইসলামিয়া ফাজিল মাদ্রাসা",
+        "male_count": 1178,
+        "female_count": 1261,
+        "hijra_count": 0,
+        "latitude": 25.40497,
+        "longitude": 89.76485
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "নয়ারচর মদনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1528,
+        "female_count": 1581,
+        "hijra_count": 0,
+        "latitude": 25.39647,
+        "longitude": 89.76838
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "নাজিমুদ্দৌলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 723,
+        "female_count": 798,
+        "hijra_count": 0,
+        "latitude": 25.48775,
+        "longitude": 89.76467
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "পশ্চিম রাজিবপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1016,
+        "female_count": 994,
+        "hijra_count": 0,
+        "latitude": 25.43668,
+        "longitude": 89.78245
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "পাখিউড়া উচ্চ বিদ্যালয়",
+        "male_count": 1132,
+        "female_count": 1105,
+        "hijra_count": 0,
+        "latitude": 25.63745,
+        "longitude": 89.80232
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "পুটিমারী রোকুনুদ্দৌলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1051,
+        "female_count": 1103,
+        "hijra_count": 0,
+        "latitude": 25.59479,
+        "longitude": 89.67562
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ফকিরের হাট উচ্চ বিদ্যালয়",
+        "male_count": 2614,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.64766,
+        "longitude": 89.69232
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ফকিরের হাট মফিজিয়া সিনিয়র মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2653,
+        "hijra_count": 0,
+        "latitude": 25.64658,
+        "longitude": 89.69179
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ফলুয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1262,
+        "female_count": 1318,
+        "hijra_count": 0,
+        "latitude": 25.55817,
+        "longitude": 89.78568
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ফুলবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2462,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.53941,
+        "longitude": 89.84616
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বকবান্ধা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1325,
+        "female_count": 1313,
+        "hijra_count": 0,
+        "latitude": 25.4892,
+        "longitude": 89.84542
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বজরা তবকপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2031,
+        "female_count": 2124,
+        "hijra_count": 0,
+        "latitude": 25.60115,
+        "longitude": 89.67114
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বড়বেড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1409,
+        "female_count": 1448,
+        "hijra_count": 0,
+        "latitude": 25.41575,
+        "longitude": 89.77742
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বড়মাদারটিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1559,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 25.52767,
+        "longitude": 89.82708
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বড়াইকান্দি মোল্লাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 439,
+        "female_count": 488,
+        "hijra_count": 0,
+        "latitude": 25.60444,
+        "longitude": 89.84786
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বদরপুর দাখিল মাদ্রাসা",
+        "male_count": 1669,
+        "female_count": 1687,
+        "hijra_count": 0,
+        "latitude": 25.46147,
+        "longitude": 89.79833
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বদরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 844,
+        "female_count": 887,
+        "hijra_count": 0,
+        "latitude": 25.4784,
+        "longitude": 89.76302
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বাইটকামারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1445,
+        "female_count": 1561,
+        "hijra_count": 0,
+        "latitude": 25.61082,
+        "longitude": 89.81379
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বাউসমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1307,
+        "female_count": 1248,
+        "hijra_count": 0,
+        "latitude": 25.59106,
+        "longitude": 89.85466
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বাওয়াইরগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1351,
+        "female_count": 1244,
+        "hijra_count": 0,
+        "latitude": 25.51301,
+        "longitude": 89.83181
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বাঘমারা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1423,
+        "female_count": 1465,
+        "hijra_count": 0,
+        "latitude": 25.57013,
+        "longitude": 89.817
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বাঞ্চারচর দাখিল মাদ্রাসা",
+        "male_count": 1546,
+        "female_count": 1484,
+        "hijra_count": 0,
+        "latitude": 25.59719,
+        "longitude": 89.83043
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বালাবাড়ি হাট বি,এল,উচ্চ বিদ্যালয়",
+        "male_count": 1342,
+        "female_count": 1374,
+        "hijra_count": 0,
+        "latitude": 25.60141,
+        "longitude": 89.65458
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বালাবাড়ীহাট আই,এম,এস, ফাজিল ডিগ্রি মাদ্রাসা",
+        "male_count": 2292,
+        "female_count": 2366,
+        "hijra_count": 0,
+        "latitude": 25.61006,
+        "longitude": 89.65294
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বালিয়ামারী বাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1709,
+        "female_count": 1658,
+        "hijra_count": 1,
+        "latitude": 25.45082,
+        "longitude": 89.82641
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বালিয়ামারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1111,
+        "female_count": 1123,
+        "hijra_count": 0,
+        "latitude": 25.46512,
+        "longitude": 89.80845
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বালুরগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1631,
+        "female_count": 1515,
+        "hijra_count": 0,
+        "latitude": 25.65249,
+        "longitude": 89.83055
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "বোয়ালমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1173,
+        "female_count": 1112,
+        "hijra_count": 0,
+        "latitude": 25.60797,
+        "longitude": 89.8591
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ভাটপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 374,
+        "female_count": 409,
+        "hijra_count": 0,
+        "latitude": 25.50443,
+        "longitude": 89.72391
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "ভেলামারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 475,
+        "female_count": 514,
+        "hijra_count": 0,
+        "latitude": 25.47075,
+        "longitude": 89.77678
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "মধ্য খেদাইমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1584,
+        "female_count": 1629,
+        "hijra_count": 0,
+        "latitude": 25.63073,
+        "longitude": 89.79048
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "মাচাবান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2074,
+        "female_count": 2185,
+        "hijra_count": 0,
+        "latitude": 25.57744,
+        "longitude": 89.65756
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "মিয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1035,
+        "female_count": 970,
+        "hijra_count": 0,
+        "latitude": 25.6798,
+        "longitude": 89.81477
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "মির্জাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2501,
+        "female_count": 2244,
+        "hijra_count": 0,
+        "latitude": 25.55127,
+        "longitude": 89.8338
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "মুদাফৎ কালিকাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1346,
+        "female_count": 1337,
+        "hijra_count": 0,
+        "latitude": 25.56754,
+        "longitude": 89.75383
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "মুদাফৎথানা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1684,
+        "female_count": 1781,
+        "hijra_count": 0,
+        "latitude": 25.56602,
+        "longitude": 89.66038
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "মুন্সিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1031,
+        "female_count": 1119,
+        "hijra_count": 1,
+        "latitude": 25.44548,
+        "longitude": 89.7882
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "মোহনগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 922,
+        "female_count": 1006,
+        "hijra_count": 0,
+        "latitude": 25.39791,
+        "longitude": 89.75628
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "যাদুরচর উচ্চ বিদ্যালয়",
+        "male_count": 1875,
+        "female_count": 1939,
+        "hijra_count": 0,
+        "latitude": 25.52286,
+        "longitude": 89.81513
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "যাদুরচর নতুনগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1709,
+        "female_count": 1673,
+        "hijra_count": 0,
+        "latitude": 25.52444,
+        "longitude": 89.80466
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "রমনা ১নং সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1391,
+        "female_count": 1284,
+        "hijra_count": 0,
+        "latitude": 25.57829,
+        "longitude": 89.67618
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "রাজারভিটা ইসলামিয়া ফাজিল ডিগ্রি মাদ্রাসা",
+        "male_count": 1164,
+        "female_count": 1206,
+        "hijra_count": 0,
+        "latitude": 25.58476,
+        "longitude": 89.67709
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "রাজিবপুর সরকারি মডেল পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 2106,
+        "female_count": 2256,
+        "hijra_count": 1,
+        "latitude": 25.44341,
+        "longitude": 89.7951
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "রাণীগঞ্জ মদন মোহন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1199,
+        "female_count": 1204,
+        "hijra_count": 1,
+        "latitude": 25.63149,
+        "longitude": 89.67462
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "রাধাবল্লভ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 937,
+        "female_count": 956,
+        "hijra_count": 0,
+        "latitude": 25.63126,
+        "longitude": 89.66286
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "রৌমারী কেরামতিয়া সিনিয়র মাদ্রাসা",
+        "male_count": 1987,
+        "female_count": 2070,
+        "hijra_count": 0,
+        "latitude": 25.57615,
+        "longitude": 89.83847
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "রৌমারী মডেল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2577,
+        "hijra_count": 1,
+        "latitude": 25.57446,
+        "longitude": 89.8314
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "রৌমারী সিজি জামান সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 2454,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.5752,
+        "longitude": 89.83143
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "লালকুড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1742,
+        "female_count": 1648,
+        "hijra_count": 0,
+        "latitude": 25.49708,
+        "longitude": 89.81909
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "শংকর মাধবপুর উচ্চ বিদ্যালয়",
+        "male_count": 867,
+        "female_count": 955,
+        "hijra_count": 0,
+        "latitude": 25.47,
+        "longitude": 89.77517
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "শরিফেরহাট সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1555,
+        "female_count": 1610,
+        "hijra_count": 0,
+        "latitude": 25.56039,
+        "longitude": 89.65943
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "শিবেরডাঙ্গী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1749,
+        "female_count": 1673,
+        "hijra_count": 0,
+        "latitude": 25.47516,
+        "longitude": 89.81691
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "শৌলমারী এমআর স্কুল এন্ড কলেজ",
+        "male_count": 1313,
+        "female_count": 1314,
+        "hijra_count": 0,
+        "latitude": 25.61294,
+        "longitude": 89.85069
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "শৌলমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1208,
+        "female_count": 1256,
+        "hijra_count": 0,
+        "latitude": 25.58126,
+        "longitude": 89.85515
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "সহিদুর রহমান সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1260,
+        "female_count": 1197,
+        "hijra_count": 0,
+        "latitude": 25.58478,
+        "longitude": 89.87151
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "সাজাইয়ের চর সারকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 769,
+        "female_count": 770,
+        "hijra_count": 0,
+        "latitude": 25.49641,
+        "longitude": 89.77234
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "সাজাই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 805,
+        "female_count": 758,
+        "hijra_count": 0,
+        "latitude": 25.48116,
+        "longitude": 89.79622
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "সোনাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 995,
+        "female_count": 1015,
+        "hijra_count": 0,
+        "latitude": 25.67375,
+        "longitude": 89.80094
+    },
+    {
+        "settings_code": 28,
+        "settings_name": "কুড়িগ্রাম-৪",
+        "center_name": "স্বীকারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1085,
+        "female_count": 1092,
+        "hijra_count": 0,
+        "latitude": 25.43373,
+        "longitude": 89.72493
+    }
+]

@@ -1,0 +1,1432 @@
+[
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "অভয়াচরণ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1144,
+        "female_count": 1156,
+        "hijra_count": 0,
+        "latitude": 23.7779,
+        "longitude": 90.37413
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আউনাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 821,
+        "female_count": 800,
+        "hijra_count": 0,
+        "latitude": 23.43318,
+        "longitude": 89.56554
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আড়পাড়া মহিলা কলেজ",
+        "male_count": 1729,
+        "female_count": 1709,
+        "hijra_count": 0,
+        "latitude": 23.3668,
+        "longitude": 89.36342
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আড়পাড়া মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 1511,
+        "female_count": 1553,
+        "hijra_count": 0,
+        "latitude": 23.3769,
+        "longitude": 89.37038
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আড়পাড়া সদর আলীম মাদ্রাসা",
+        "male_count": 1462,
+        "female_count": 1557,
+        "hijra_count": 0,
+        "latitude": 23.37385,
+        "longitude": 89.37009
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আড়পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1090,
+        "female_count": 975,
+        "hijra_count": 0,
+        "latitude": 23.46656,
+        "longitude": 89.53489
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আমজাদ আলী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1643,
+        "female_count": 1650,
+        "hijra_count": 0,
+        "latitude": 23.31148,
+        "longitude": 89.42505
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আমিয়ান মাধ্যমিক বিদ্যালয়",
+        "male_count": 1635,
+        "female_count": 1602,
+        "hijra_count": 0,
+        "latitude": 23.39422,
+        "longitude": 89.26122
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আমুড়িয়া কারিগরি ও ব্যবসায় ব্যবস্থপনা কলেজ",
+        "male_count": 1382,
+        "female_count": 1341,
+        "hijra_count": 0,
+        "latitude": 23.3816,
+        "longitude": 89.4448
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আমুড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1616,
+        "female_count": 1599,
+        "hijra_count": 0,
+        "latitude": 23.38322,
+        "longitude": 89.4416
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আলহাজ্ব কাজী আব্দুল ওয়াহেদ মাধ্যমিক বিদ্যালয়",
+        "male_count": 2726,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.33298,
+        "longitude": 89.49458
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "আসবা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 929,
+        "female_count": 878,
+        "hijra_count": 0,
+        "latitude": 23.36847,
+        "longitude": 89.41433
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "উত্তর কুঠিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1325,
+        "female_count": 1322,
+        "hijra_count": 0,
+        "latitude": 23.4252,
+        "longitude": 89.60029
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "উরুড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1588,
+        "female_count": 1520,
+        "hijra_count": 0,
+        "latitude": 23.43653,
+        "longitude": 89.52379
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কাওড়া মঙ্গলহাটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1561,
+        "female_count": 1520,
+        "hijra_count": 0,
+        "latitude": 23.41512,
+        "longitude": 89.53443
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কাটিগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1114,
+        "female_count": 1108,
+        "hijra_count": 0,
+        "latitude": 23.28853,
+        "longitude": 89.45099
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কাতলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1831,
+        "female_count": 1757,
+        "hijra_count": 0,
+        "latitude": 23.32931,
+        "longitude": 89.35608
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কানুটিয়া আব্দুল আলা মাধ্যমিক বিদ্যালয়",
+        "male_count": 1951,
+        "female_count": 1793,
+        "hijra_count": 0,
+        "latitude": 23.4269,
+        "longitude": 89.54392
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কালিশংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1216,
+        "female_count": 1205,
+        "hijra_count": 0,
+        "latitude": 23.32293,
+        "longitude": 89.60474
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কালুপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 939,
+        "female_count": 890,
+        "hijra_count": 0,
+        "latitude": 23.42558,
+        "longitude": 89.46915
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কুচিয়ামোড়া মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 909,
+        "female_count": 853,
+        "hijra_count": 0,
+        "latitude": 23.34425,
+        "longitude": 89.43844
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কুমরুল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1190,
+        "female_count": 1106,
+        "hijra_count": 0,
+        "latitude": 23.46984,
+        "longitude": 89.59823
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কুমারকোটা দাখিল মাদ্রাসা",
+        "male_count": 728,
+        "female_count": 704,
+        "hijra_count": 0,
+        "latitude": 23.36107,
+        "longitude": 89.38347
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কুল্লিয়া কুচিয়ামোড়া সৈয়দ আতর আলী স্কুল এন্ড কলেজ",
+        "male_count": 1684,
+        "female_count": 1588,
+        "hijra_count": 0,
+        "latitude": 23.3583,
+        "longitude": 89.43708
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কুশখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1599,
+        "female_count": 1515,
+        "hijra_count": 0,
+        "latitude": 23.34369,
+        "longitude": 89.28955
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "কেরীনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1365,
+        "female_count": 1223,
+        "hijra_count": 0,
+        "latitude": 23.46682,
+        "longitude": 89.54447
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "খর্দ্দফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 965,
+        "female_count": 940,
+        "hijra_count": 0,
+        "latitude": 23.3434,
+        "longitude": 89.55193
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "খলিশাখালী মাধ্যমিক বিদ্যালয় ও সংলগ্ন খলিশাখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2243,
+        "female_count": 2076,
+        "hijra_count": 0,
+        "latitude": 23.32366,
+        "longitude": 89.55509
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "খাটোর রামানন্দকাঠি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2020,
+        "female_count": 1965,
+        "hijra_count": 0,
+        "latitude": 23.27432,
+        "longitude": 89.43647
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "খালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1918,
+        "female_count": 1750,
+        "hijra_count": 0,
+        "latitude": 23.46133,
+        "longitude": 89.51083
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "খিলগাতী জি. কে সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 778,
+        "female_count": 746,
+        "hijra_count": 0,
+        "latitude": 23.43754,
+        "longitude": 89.30307
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "গঙ্গারামপুর প্রসন্ন কুমার (পি.কে.) মাধ্যমিক বিদ্যালয়",
+        "male_count": 1828,
+        "female_count": 1737,
+        "hijra_count": 0,
+        "latitude": 23.30903,
+        "longitude": 89.48097
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "গজদূর্বা গোলাম হোসেন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 847,
+        "female_count": 830,
+        "hijra_count": 0,
+        "latitude": 23.42813,
+        "longitude": 89.3165
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "গাংনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1618,
+        "female_count": 1573,
+        "hijra_count": 0,
+        "latitude": 23.32414,
+        "longitude": 89.46925
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "গোপালনগর নিম্ন মাধ্যমিক বিদ্যালয়, গোপালনগর ও সংলগ্ন লাহুড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1635,
+        "female_count": 1623,
+        "hijra_count": 0,
+        "latitude": 23.45867,
+        "longitude": 89.59588
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "গোপীনাথপুর মোঃ আব্দুল খালেক স্কুল এন্ড কলেজ",
+        "male_count": 940,
+        "female_count": 895,
+        "hijra_count": 0,
+        "latitude": 23.40923,
+        "longitude": 89.5386
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "গোবরনাদা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 939,
+        "female_count": 890,
+        "hijra_count": 0,
+        "latitude": 23.37388,
+        "longitude": 89.54217
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "গোবরা পঞ্চমপল্লী মাধ্যমিক বিদ্যালয়",
+        "male_count": 2185,
+        "female_count": 2066,
+        "hijra_count": 2,
+        "latitude": 23.28754,
+        "longitude": 89.34926
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "গোয়াল বাথান মাধ্যমিক বিদ্যালয়",
+        "male_count": 1801,
+        "female_count": 1716,
+        "hijra_count": 0,
+        "latitude": 23.39127,
+        "longitude": 89.50184
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ঘুল্লিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1524,
+        "female_count": 1399,
+        "hijra_count": 0,
+        "latitude": 23.44957,
+        "longitude": 89.52162
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "চাপড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1325,
+        "female_count": 1161,
+        "hijra_count": 0,
+        "latitude": 23.3911,
+        "longitude": 89.40499
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "চালমিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2168,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.49232,
+        "longitude": 89.54177
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "চালিমিয়া মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2035,
+        "hijra_count": 0,
+        "latitude": 23.4927,
+        "longitude": 89.54225
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "চিত্তবিশ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1350,
+        "female_count": 1347,
+        "hijra_count": 0,
+        "latitude": 23.43969,
+        "longitude": 89.58602
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "চৌবাড়িয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1597,
+        "female_count": 1503,
+        "hijra_count": 0,
+        "latitude": 23.45101,
+        "longitude": 89.54967
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ছয়ঘরিয়া এবিএস ফাজিল মাদ্রাসা",
+        "male_count": 1470,
+        "female_count": 1385,
+        "hijra_count": 0,
+        "latitude": 23.33559,
+        "longitude": 89.32582
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ছান্দড়া প্রগতি মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2517,
+        "hijra_count": 0,
+        "latitude": 23.35027,
+        "longitude": 89.30432
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ছান্দড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2548,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.35035,
+        "longitude": 89.30406
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "জুনারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1838,
+        "female_count": 1744,
+        "hijra_count": 0,
+        "latitude": 23.33425,
+        "longitude": 89.3807
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ঝামা মাধ্যমিক বিদ্যালয়",
+        "male_count": 1971,
+        "female_count": 1894,
+        "hijra_count": 0,
+        "latitude": 23.35826,
+        "longitude": 89.5779
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ডুমুরশিয়া ডিসি মাধ্যমিক বিদ্যালয়",
+        "male_count": 1435,
+        "female_count": 1335,
+        "hijra_count": 0,
+        "latitude": 23.48936,
+        "longitude": 89.531
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ঢুষরাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 939,
+        "female_count": 893,
+        "hijra_count": 0,
+        "latitude": 23.38327,
+        "longitude": 89.59351
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "তালখড়ী মাধ্যমিক বিদ্যালয়",
+        "male_count": 2138,
+        "female_count": 1988,
+        "hijra_count": 0,
+        "latitude": 23.38552,
+        "longitude": 89.33525
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "তিলখড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1206,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": 23.38218,
+        "longitude": 89.2859
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "থৈপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 837,
+        "female_count": 881,
+        "hijra_count": 0,
+        "latitude": 23.41088,
+        "longitude": 89.29281
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "দক্ষিণ শরুশুনা (মাদ্রাসা সংলগ্ন) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 601,
+        "female_count": 572,
+        "hijra_count": 0,
+        "latitude": 23.30057,
+        "longitude": 89.41499
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "দক্ষিণ শরুশুনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1478,
+        "female_count": 1474,
+        "hijra_count": 0,
+        "latitude": 23.29403,
+        "longitude": 89.40687
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "দরিশলই সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1195,
+        "female_count": 1154,
+        "hijra_count": 0,
+        "latitude": 23.38085,
+        "longitude": 89.38469
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "দিঘলগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1227,
+        "female_count": 1210,
+        "hijra_count": 0,
+        "latitude": 23.41109,
+        "longitude": 89.33375
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "দীঘা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1726,
+        "female_count": 1599,
+        "hijra_count": 0,
+        "latitude": 23.44906,
+        "longitude": 89.5695
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "দুর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1404,
+        "female_count": 1328,
+        "hijra_count": 0,
+        "latitude": 23.39948,
+        "longitude": 89.46706
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "দেবিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1139,
+        "female_count": 1042,
+        "hijra_count": 0,
+        "latitude": 23.40531,
+        "longitude": 89.26847
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "দেশমুখপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 861,
+        "female_count": 851,
+        "hijra_count": 1,
+        "latitude": 23.30264,
+        "longitude": 89.42905
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ধনেশ্বরগাতী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1424,
+        "female_count": 1361,
+        "hijra_count": 0,
+        "latitude": 23.40966,
+        "longitude": 89.3153
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ধর্মদাহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1667,
+        "female_count": 1527,
+        "hijra_count": 0,
+        "latitude": 23.41249,
+        "longitude": 89.47979
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ধুলজোড়া চুড়ারগাতি প্রতাপ চন্দ্র মাধ্যমিক বিদ্যালয়",
+        "male_count": 1526,
+        "female_count": 1406,
+        "hijra_count": 0,
+        "latitude": 23.48638,
+        "longitude": 89.52041
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ধোয়াইল আদর্শ মাধ্যমিক বিদ্যালয় ও সংলগ্ন ধোয়াইল সরকারি প্রাথমিক বিদ্যালয় ধোয়াইল",
+        "male_count": 2239,
+        "female_count": 2244,
+        "hijra_count": 0,
+        "latitude": 23.40445,
+        "longitude": 89.57336
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "নহাটা রানী পতিত পাবনী (আর, পিপি) মাধ্যমিক বিদ্যালয়",
+        "male_count": 2637,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.33744,
+        "longitude": 89.52
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "নহাটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2487,
+        "hijra_count": 0,
+        "latitude": 23.3371,
+        "longitude": 89.5206
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "নাওভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1690,
+        "female_count": 1652,
+        "hijra_count": 0,
+        "latitude": 23.40366,
+        "longitude": 89.50367
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "নাগড়িপাড়া ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1338,
+        "female_count": 1324,
+        "hijra_count": 0,
+        "latitude": 23.45981,
+        "longitude": 89.59498
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "নাঘোসা নবমপল্লী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1529,
+        "female_count": 1437,
+        "hijra_count": 0,
+        "latitude": 23.37741,
+        "longitude": 89.30848
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "নাঘোসা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 898,
+        "female_count": 885,
+        "hijra_count": 0,
+        "latitude": 23.37727,
+        "longitude": 89.30872
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "নিখড়হাটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1708,
+        "female_count": 1617,
+        "hijra_count": 0,
+        "latitude": 23.39362,
+        "longitude": 89.55421
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "নিত্যানন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 956,
+        "female_count": 864,
+        "hijra_count": 0,
+        "latitude": 23.36019,
+        "longitude": 89.53091
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "পরমেশ্বরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1002,
+        "female_count": 959,
+        "hijra_count": 0,
+        "latitude": 23.31161,
+        "longitude": 89.48851
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "পলাশবাড়ীয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1402,
+        "female_count": 1330,
+        "hijra_count": 0,
+        "latitude": 23.34364,
+        "longitude": 89.5622
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "পানিঘাটা উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1657,
+        "female_count": 1649,
+        "hijra_count": 0,
+        "latitude": 23.32259,
+        "longitude": 89.5013
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "পারপলিতা পঞ্চপল্লী নেহাল চন্দ্র মাধ্যমিক বিদ্যালয়",
+        "male_count": 1166,
+        "female_count": 1100,
+        "hijra_count": 0,
+        "latitude": 23.34807,
+        "longitude": 89.46974
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "পাল্লা মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 1363,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 23.46669,
+        "longitude": 89.59561
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "পিয়ারপুর ইসলামিয়া বালিকা দাখিল মাদ্রাসা",
+        "male_count": 1548,
+        "female_count": 1486,
+        "hijra_count": 0,
+        "latitude": 23.32604,
+        "longitude": 89.31328
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "পুখুরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 866,
+        "female_count": 812,
+        "hijra_count": 0,
+        "latitude": 23.36096,
+        "longitude": 89.38926
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "পুলুম গোলাম সরোয়ার মাধ্যমিক বিদ্যালয়",
+        "male_count": 1641,
+        "female_count": 1606,
+        "hijra_count": 0,
+        "latitude": 23.28954,
+        "longitude": 89.43672
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ফলসিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1268,
+        "female_count": 1233,
+        "hijra_count": 0,
+        "latitude": 23.44767,
+        "longitude": 89.56398
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1559,
+        "female_count": 1516,
+        "hijra_count": 0,
+        "latitude": 23.34897,
+        "longitude": 89.53886
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বড়জোকা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2013,
+        "female_count": 1986,
+        "hijra_count": 0,
+        "latitude": 23.36758,
+        "longitude": 89.51088
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বড়রিয়া এ ডব্লিউ ফাজিল (ডিগ্রী) মাদ্রাসা, বড়রিয়া, উত্তর ভবন",
+        "male_count": 2455,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.39951,
+        "longitude": 89.56816
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বড়রিয়া এ ডব্লিউ ফাজিল (ডিগ্রী) মাদ্রাসা, বড়রিয়া, দক্ষিণ ভবন",
+        "male_count": 0,
+        "female_count": 2446,
+        "hijra_count": 0,
+        "latitude": 23.40006,
+        "longitude": 89.5685
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বড়শলই পঞ্চপল্লী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1056,
+        "female_count": 968,
+        "hijra_count": 0,
+        "latitude": 23.38872,
+        "longitude": 89.4013
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বনগ্রাম কৃষাণ মজদুর সম্মিলিত মাধ্যমিক বিদ্যালয়",
+        "male_count": 2000,
+        "female_count": 1945,
+        "hijra_count": 0,
+        "latitude": 23.33333,
+        "longitude": 89.57709
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বলরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1602,
+        "female_count": 1539,
+        "hijra_count": 0,
+        "latitude": 23.3623,
+        "longitude": 89.56709
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বলুগ্রাম নতুন গ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1025,
+        "female_count": 958,
+        "hijra_count": 0,
+        "latitude": 23.34864,
+        "longitude": 89.45452
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বাউলিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 986,
+        "female_count": 964,
+        "hijra_count": 0,
+        "latitude": 23.33021,
+        "longitude": 89.39897
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বাটাজোড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1166,
+        "female_count": 1098,
+        "hijra_count": 0,
+        "latitude": 23.34178,
+        "longitude": 89.51573
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বানিয়াবহু কাওড়া আলিম মাদ্রাসা",
+        "male_count": 1371,
+        "female_count": 1318,
+        "hijra_count": 0,
+        "latitude": 23.42334,
+        "longitude": 89.51681
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বাবুখালী আফতাব উদ্দীন মাধ্যমিক বিদ্যালয়",
+        "male_count": 2583,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.48968,
+        "longitude": 89.56017
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বাবুখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2421,
+        "hijra_count": 0,
+        "latitude": 23.48976,
+        "longitude": 89.55996
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বামনখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1043,
+        "female_count": 1017,
+        "hijra_count": 0,
+        "latitude": 23.25971,
+        "longitude": 89.44523
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বামনডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1610,
+        "female_count": 1508,
+        "hijra_count": 0,
+        "latitude": 23.3515,
+        "longitude": 89.48022
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বালিদিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1926,
+        "female_count": 1873,
+        "hijra_count": 0,
+        "latitude": 23.38219,
+        "longitude": 89.55296
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বাহারবাগ আবেদ আলী দাখিল মাদ্রাসা",
+        "male_count": 2055,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.3738,
+        "longitude": 89.46048
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বাহারবাগ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1931,
+        "hijra_count": 0,
+        "latitude": 23.37869,
+        "longitude": 89.45997
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বিনোদপুর বসন্ত কুমার মাধ্যমিক বিদ্যালয়, বিনোদপুর (উত্তর একাডেমিক ভবন)",
+        "male_count": 0,
+        "female_count": 2471,
+        "hijra_count": 0,
+        "latitude": 23.44493,
+        "longitude": 89.49838
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বিনোদপুর বসন্ত কুমার মাধ্যমিক বিদ্যালয়, বিনোদপুর (দক্ষিণ একাডেমিক ভবন)",
+        "male_count": 2559,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.44546,
+        "longitude": 89.49833
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বিনোদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1074,
+        "female_count": 1018,
+        "hijra_count": 0,
+        "latitude": 23.44217,
+        "longitude": 89.50486
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বৃহষনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1160,
+        "female_count": 1106,
+        "hijra_count": 0,
+        "latitude": 23.50505,
+        "longitude": 89.51852
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বেজড়া নারানদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1663,
+        "female_count": 1619,
+        "hijra_count": 0,
+        "latitude": 23.32488,
+        "longitude": 89.51598
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "বেরইলপলিতা সরকারি বালক প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2765,
+        "hijra_count": 0,
+        "latitude": 23.33294,
+        "longitude": 89.49468
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ভাটোয়াইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 730,
+        "female_count": 679,
+        "hijra_count": 0,
+        "latitude": 23.40306,
+        "longitude": 89.35251
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "ভুলবাড়িয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1692,
+        "female_count": 1679,
+        "hijra_count": 0,
+        "latitude": 23.39002,
+        "longitude": 89.31457
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "মধুখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1534,
+        "female_count": 1542,
+        "hijra_count": 0,
+        "latitude": 23.30022,
+        "longitude": 89.44952
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "মশাখালী দ্বাদশ পল্লী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1040,
+        "female_count": 965,
+        "hijra_count": 0,
+        "latitude": 23.41466,
+        "longitude": 89.26343
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "মহম্মদপুর মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 1613,
+        "female_count": 1562,
+        "hijra_count": 0,
+        "latitude": 23.39829,
+        "longitude": 89.59924
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "মোবারেকপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1633,
+        "female_count": 1542,
+        "hijra_count": 0,
+        "latitude": 23.2951,
+        "longitude": 89.50893
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "মৌশা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1348,
+        "female_count": 1244,
+        "hijra_count": 0,
+        "latitude": 23.40886,
+        "longitude": 89.55466
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "যশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 726,
+        "female_count": 674,
+        "hijra_count": 0,
+        "latitude": 23.42423,
+        "longitude": 89.56342
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "যশোবন্তপুর সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন যশোবন্তপুর মাধ্যমিক বিদ্যালয়",
+        "male_count": 1815,
+        "female_count": 1692,
+        "hijra_count": 0,
+        "latitude": 23.34381,
+        "longitude": 89.58775
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "রাজপাট মাধ্যমিক বিদ্যালয়",
+        "male_count": 1672,
+        "female_count": 1594,
+        "hijra_count": 0,
+        "latitude": 23.37313,
+        "longitude": 89.52403
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "রাজাপুর-রাহাতপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1675,
+        "female_count": 1734,
+        "hijra_count": 0,
+        "latitude": 23.36184,
+        "longitude": 89.51949
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "রাড়ীখালী মাধ্যমিক বিদ্যালয়",
+        "male_count": 879,
+        "female_count": 867,
+        "hijra_count": 0,
+        "latitude": 23.41473,
+        "longitude": 89.50555
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "রামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1300,
+        "female_count": 1229,
+        "hijra_count": 0,
+        "latitude": 23.31864,
+        "longitude": 89.41329
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "রায়জাদাপুর আদাডাংগা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 803,
+        "female_count": 756,
+        "hijra_count": 0,
+        "latitude": 23.32154,
+        "longitude": 89.38299
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "রায়পাশা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1863,
+        "female_count": 1776,
+        "hijra_count": 0,
+        "latitude": 23.38428,
+        "longitude": 89.60823
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "রুপদাহ সরকারি প্রাথিমক বিদ্যালয়",
+        "male_count": 797,
+        "female_count": 754,
+        "hijra_count": 0,
+        "latitude": 23.4143,
+        "longitude": 89.46051
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "রো-নগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1200,
+        "female_count": 1127,
+        "hijra_count": 0,
+        "latitude": 23.32459,
+        "longitude": 89.59377
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "শতখালী দারুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 1986,
+        "hijra_count": 0,
+        "latitude": 23.34502,
+        "longitude": 89.33481
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "শতখালী পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1252,
+        "female_count": 1201,
+        "hijra_count": 0,
+        "latitude": 23.33972,
+        "longitude": 89.34945
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "শতখালী সিংহেশ্বরপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2057,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.34501,
+        "longitude": 89.33539
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "শত্রুজিৎপুর কালি প্রসন্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1736,
+        "female_count": 1761,
+        "hijra_count": 0,
+        "latitude": 23.41799,
+        "longitude": 89.49066
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "শত্রুজিৎপুর গোরাচাঁদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1412,
+        "female_count": 1393,
+        "hijra_count": 0,
+        "latitude": 23.42715,
+        "longitude": 89.49011
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "শরুশুনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1379,
+        "female_count": 1322,
+        "hijra_count": 0,
+        "latitude": 23.29946,
+        "longitude": 89.4053
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "শালিখা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1125,
+        "female_count": 1062,
+        "hijra_count": 0,
+        "latitude": 23.29811,
+        "longitude": 89.37778
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "শ্রীহট্ট মাধ্যমিক বিদ্যালয়",
+        "male_count": 712,
+        "female_count": 720,
+        "hijra_count": 0,
+        "latitude": 23.35185,
+        "longitude": 89.38112
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "সংকোচখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1740,
+        "female_count": 1611,
+        "hijra_count": 0,
+        "latitude": 23.36677,
+        "longitude": 89.47171
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "সরকারি আর এস কে এইচ ইনস্টিটিউশন (উত্তর পার্শ্বস্থ মূল ভবন)",
+        "male_count": 3036,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.40063,
+        "longitude": 89.59716
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "সরকারি আর এস কে এইচ ইনস্টিটিউশন  (দক্ষিণ পার্শ্বস্থ্য ফ্যাসিলিটিজ ভবন)",
+        "male_count": 0,
+        "female_count": 3096,
+        "hijra_count": 0,
+        "latitude": 23.40036,
+        "longitude": 89.59702
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "সাবলাট সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1724,
+        "female_count": 1616,
+        "hijra_count": 0,
+        "latitude": 23.36986,
+        "longitude": 89.28378
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "সিংড়া তিলখড়ি মাধ্যমিক বিদ্যালয়",
+        "male_count": 1120,
+        "female_count": 1151,
+        "hijra_count": 0,
+        "latitude": 23.38926,
+        "longitude": 89.28946
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "সীমাখালী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1689,
+        "female_count": 1592,
+        "hijra_count": 0,
+        "latitude": 23.3264,
+        "longitude": 89.31751
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "হরিশপুর দাখিল মাদ্রাসা",
+        "male_count": 2423,
+        "female_count": 2304,
+        "hijra_count": 0,
+        "latitude": 23.30964,
+        "longitude": 89.33807
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "হরেকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1676,
+        "female_count": 1712,
+        "hijra_count": 0,
+        "latitude": 23.37674,
+        "longitude": 89.58333
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "হাজরাহাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1228,
+        "female_count": 1241,
+        "hijra_count": 0,
+        "latitude": 23.31137,
+        "longitude": 89.38208
+    },
+    {
+        "settings_code": 92,
+        "settings_name": "মাগুড়া-২",
+        "center_name": "হাটবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1901,
+        "female_count": 1925,
+        "hijra_count": 0,
+        "latitude": 23.33252,
+        "longitude": 89.43422
+    }
+]

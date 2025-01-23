@@ -1,0 +1,1872 @@
+[
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(০১নং) উত্তর পচাঁকোড়ালিয়া সরকারী প্রাথমিক বিদ্যালয়, পচাঁকোড়ালিয়া।",
+        "male_count": 1194,
+        "female_count": 1194,
+        "hijra_count": 0,
+        "latitude": 22.07522,
+        "longitude": 90.1483
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(০২নং) চন্দনতলা আঃ গফুর দাখিল মাদ্রাসা, চন্দনতলা।",
+        "male_count": 1287,
+        "female_count": 1299,
+        "hijra_count": 0,
+        "latitude": 22.05899,
+        "longitude": 90.11955
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(০৩নং) পচাঁকোড়ালিয়া সরকারী প্রাথমিক বিদ্যালয়, বড়পাড়া।",
+        "male_count": 1536,
+        "female_count": 1499,
+        "hijra_count": 0,
+        "latitude": 22.05549,
+        "longitude": 90.14721
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(০৪নং) পচাঁকোড়ালিয়া বাবু আলী দাখিল মাদ্রাসা, চান্দখালী।",
+        "male_count": 1449,
+        "female_count": 1483,
+        "hijra_count": 0,
+        "latitude": 22.08093,
+        "longitude": 90.15515
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(০৫নং) বগীরহাট সরকারী প্রাথমিক বিদ্যালয় ও সংলগ্ন মাধ্যমিক বিদ্যালয়, বগীর হাট।",
+        "male_count": 1043,
+        "female_count": 1110,
+        "hijra_count": 0,
+        "latitude": 22.05898,
+        "longitude": 90.11428
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(০৬নং) গাবতলী সরকারী প্রাথমিক বিদ্যালয়,গাবতলী।",
+        "male_count": 1230,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": 22.03584,
+        "longitude": 90.09978
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(০৭নং) চরপাড়া সরকারী প্রাথমিক বিদ্যালয়,চরপাড়া।",
+        "male_count": 1760,
+        "female_count": 1833,
+        "hijra_count": 0,
+        "latitude": 22.01946,
+        "longitude": 90.08812
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১০নং) আঙ্গুলকাটা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1211,
+        "female_count": 1160,
+        "hijra_count": 0,
+        "latitude": 22.17365,
+        "longitude": 90.23752
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১০নং) জাকিরতবক দাখিল মাদ্রাসা, জাকিরতবক।",
+        "male_count": 1583,
+        "female_count": 1598,
+        "hijra_count": 0,
+        "latitude": 21.99735,
+        "longitude": 90.09905
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১১নং) খেকুয়ানী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1320,
+        "female_count": 1299,
+        "hijra_count": 0,
+        "latitude": 22.17984,
+        "longitude": 90.25122
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১১নং) হেলেঞ্চাবাড়িয়া সরকারী প্রাথমিকবিদ্যালয়,হেলেঞ্চাবাড়িয়া।",
+        "male_count": 1622,
+        "female_count": 1581,
+        "hijra_count": 0,
+        "latitude": 22.04651,
+        "longitude": 90.14462
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১২নং) আলীর বন্দর মাধ্যমিক বিদ্যালয় ও সংলগ্ন সরকারী প্রাথমিক বিদ্যালয়, আলীর বন্দর",
+        "male_count": 1448,
+        "female_count": 1474,
+        "hijra_count": 0,
+        "latitude": 22.01673,
+        "longitude": 90.14761
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১২নং) ডালাচোরা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1887,
+        "female_count": 1899,
+        "hijra_count": 0,
+        "latitude": 22.2051,
+        "longitude": 90.24606
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৩নং) গোজখালী মাধ্যমিক বিদ্যালয় ও সংলগ্ন সরকারী প্রাথমিক বিদ্যালয়।",
+        "male_count": 1398,
+        "female_count": 1357,
+        "hijra_count": 0,
+        "latitude": 22.18175,
+        "longitude": 90.28615
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৩নং) দক্ষিন ঝাড়াখালী দাখিল মাদ্রাসা, ঝাড়াখালী",
+        "male_count": 1328,
+        "female_count": 1313,
+        "hijra_count": 0,
+        "latitude": 21.99116,
+        "longitude": 90.15271
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৪নং) ফকিরখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1423,
+        "female_count": 1357,
+        "hijra_count": 0,
+        "latitude": 22.2324,
+        "longitude": 90.26812
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৪নং) বেহালা মাধ্যমিক বিদ্যালয় ও সংলগ্ন সরকারী প্রাথমিক বিদ্যালয়, বেহালা।",
+        "male_count": 1619,
+        "female_count": 1582,
+        "hijra_count": 0,
+        "latitude": 22.01152,
+        "longitude": 90.1256
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৫নং) কচুপাত্রা সরকারী প্রাথমিক বিদ্যালয়, কচুপাত্রা।",
+        "male_count": 1960,
+        "female_count": 1915,
+        "hijra_count": 0,
+        "latitude": 22.03717,
+        "longitude": 90.1747
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৫নং) কালীবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1694,
+        "female_count": 1581,
+        "hijra_count": 0,
+        "latitude": 22.22362,
+        "longitude": 90.28163
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৬নং) কেওয়াবুনিয়া মাধ্যমিক বিদ্যালয় ও সংলগ্ন দক্ষিন কেওয়াবুনিয়া সরকারী প্রাথমিক বিদ্যালয়, কেওয়াবুনিয়া",
+        "male_count": 1588,
+        "female_count": 1514,
+        "hijra_count": 0,
+        "latitude": 22.22977,
+        "longitude": 90.30702
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৭নং) নলবুনিয়া সরকারী প্রাথমিক বিদ্যালয়, নলবুনিয়া।",
+        "male_count": 1039,
+        "female_count": 980,
+        "hijra_count": 0,
+        "latitude": 22.0258,
+        "longitude": 90.1648
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৭নং) মহিষকাটা নেছারিয়া দাখিল মাদ্রাসা, রায়বালা",
+        "male_count": 1631,
+        "female_count": 1566,
+        "hijra_count": 0,
+        "latitude": 22.2147,
+        "longitude": 90.3053
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৮নং) উত্তর চুনাখালী সরকারী প্রাথমিক বিদ্যালয়, পূর্ব চুনাখালী",
+        "male_count": 1129,
+        "female_count": 1132,
+        "hijra_count": 0,
+        "latitude": 22.21514,
+        "longitude": 90.29829
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৮নং) চাউলাপাড়া সরকারী প্রাথমিক বিদ্যালয়, চাউলাপাড়া।",
+        "male_count": 951,
+        "female_count": 982,
+        "hijra_count": 0,
+        "latitude": 21.99958,
+        "longitude": 90.1742
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৯নং) চুনাখালী মাধ্যমিক বিদ্যালয় ও চুনাখালী বোর্ড সরকারী প্রাথমিক বিদ্যালয়, চুনাখালী।",
+        "male_count": 1528,
+        "female_count": 1548,
+        "hijra_count": 0,
+        "latitude": 22.21454,
+        "longitude": 90.28604
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১৯নং) তালতলী মাধ্যমিক বিদ্যালয় ও সংলগ্ন ছাতনপাড়া সরকারী প্রাথমিক বিদ্যালয়,তালতলী বন্দর।",
+        "male_count": 1761,
+        "female_count": 1750,
+        "hijra_count": 1,
+        "latitude": 21.98516,
+        "longitude": 90.08417
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(১নং) আমতলী সরকারী এ, কে, হাই স্কুল (উত্তর ভকন) (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2694,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.14188,
+        "longitude": 90.23288
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২০নং) আমড়াগাছিয়া সরকারী প্রাথমিক বিদ্যালয়, আমড়াগাছিয়া",
+        "male_count": 1494,
+        "female_count": 1574,
+        "hijra_count": 0,
+        "latitude": 22.19887,
+        "longitude": 90.27633
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২০নং) তালতলী ছালেহিয়া সিনিয়র মাদ্রাসা, তালতলী ",
+        "male_count": 1315,
+        "female_count": 1322,
+        "hijra_count": 0,
+        "latitude": 21.9785,
+        "longitude": 90.08382
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২১নং) আগাঠাকুরপাড়া সরকারী প্রাথমিক বিদ্যালয়, আগাঠাকুরপাড়া।",
+        "male_count": 2068,
+        "female_count": 1967,
+        "hijra_count": 0,
+        "latitude": 21.96512,
+        "longitude": 90.1153
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২১নং) কুকুয়া গোজখালী সরকারী প্রাথমিক বিদ্যালয় ও সংলগ্ন কুকুয়া আদর্শ মাধ্যমিক বিদ্যালয়, কুকুয়া",
+        "male_count": 1410,
+        "female_count": 1418,
+        "hijra_count": 0,
+        "latitude": 22.24543,
+        "longitude": 90.23903
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২২নং) কাজিরখাল সরকারী প্রাথমিক বিদ্যালয়, কাজিরখাল।",
+        "male_count": 1023,
+        "female_count": 999,
+        "hijra_count": 0,
+        "latitude": 21.94487,
+        "longitude": 90.11416
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২২নং) কুকুয়া হাট সরকারী প্রাথমিক বিদ্যালয় ও সংলগ্ন শহীদ সোহরাওয়ার্দী মাধ্যমিক বিদ্যালয়, কুকুয়া হাট।",
+        "male_count": 1994,
+        "female_count": 1991,
+        "hijra_count": 0,
+        "latitude": 22.18039,
+        "longitude": 90.3243
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৩নং) হরিনখোলা দাখিল মাদ্রাসা, হরিনখোলা।",
+        "male_count": 1315,
+        "female_count": 1309,
+        "hijra_count": 0,
+        "latitude": 21.93219,
+        "longitude": 90.11236
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৩নং) হরিমৃত্যুঞ্জয় স্বল্পব্যয়ী গ্রামীণ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1170,
+        "female_count": 1185,
+        "hijra_count": 0,
+        "latitude": 22.17914,
+        "longitude": 90.27218
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৪নং) দক্ষিণ সওদাগরপাড়া সরকারী প্রাথমিক বিদ্যালয়, দক্ষিণ সওদাগরপাড়া",
+        "male_count": 887,
+        "female_count": 876,
+        "hijra_count": 0,
+        "latitude": 21.89914,
+        "longitude": 90.09793
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৪নং) মধ্য শাখারিয়া সরকারী প্রাথমিক বিদ্যালয়, শাখারিয়া (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2068,
+        "female_count": 1996,
+        "hijra_count": 0,
+        "latitude": 22.13646,
+        "longitude": 90.22888
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৫নং) ছোট অংকুজানপাড়া সরকারী প্রাথমিক বিদ্যালয়, ",
+        "male_count": 1636,
+        "female_count": 1674,
+        "hijra_count": 0,
+        "latitude": 21.95385,
+        "longitude": 90.07129
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৬নং) আঠারগাছিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1782,
+        "female_count": 1692,
+        "hijra_count": 0,
+        "latitude": 22.13647,
+        "longitude": 90.22887
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৬নং) মৌরবী সরকারী প্রাথমিক বিদ্যালয়, মৌরবীপাড়া।",
+        "male_count": 931,
+        "female_count": 905,
+        "hijra_count": 0,
+        "latitude": 21.93603,
+        "longitude": 90.08049
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৭নং) গেরাবুনিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1285,
+        "female_count": 1195,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৮নং) দক্ষিন সোনাখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 939,
+        "female_count": 898,
+        "hijra_count": 0,
+        "latitude": 22.18584,
+        "longitude": 90.35749
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৯নং) নলবুনিয়া সাইক্লোন সেল্টার, নলবুনিয়া।",
+        "male_count": 1764,
+        "female_count": 1753,
+        "hijra_count": 0,
+        "latitude": 21.94081,
+        "longitude": 90.0399
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২৯নং) পশ্চিম সোনাখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1323,
+        "female_count": 1245,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(২নং) আমতলী সরকারী এ, কে, হাই স্কুল (দক্ষিন ভবন) (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2976,
+        "hijra_count": 2,
+        "latitude": 22.14187,
+        "longitude": 90.23285
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩০নং) উত্তর সোনাখালী সরকারী প্রাথমিক বিদ্যালয়, উত্তর সোনাখালী। (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2306,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩০নং) কবিরাজপাড়া সরকারী প্রাথমিক বিদ্যালয়, কবিরাজপাড়া।",
+        "male_count": 1232,
+        "female_count": 1275,
+        "hijra_count": 0,
+        "latitude": 21.92797,
+        "longitude": 90.09572
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩১নং)উত্তর সোনাখালী স্কুল এন্ড কলেজ,  উত্তর সোনাখালী। (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2190,
+        "hijra_count": 0,
+        "latitude": 22.13649,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩১নং) লাউপাড়া মাধ্যমিক বিদ্যালয়, লাউপাড়া।",
+        "male_count": 1443,
+        "female_count": 1442,
+        "hijra_count": 0,
+        "latitude": 21.91173,
+        "longitude": 90.06425
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩২নং)গাজীপুর সিনিয়র ফাজিল মাদ্রাসা",
+        "male_count": 1741,
+        "female_count": 1696,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩২নং) সখিনা সরকারী প্রাথমিক বিদ্যালয়, ছকিনাপাড়া।",
+        "male_count": 968,
+        "female_count": 915,
+        "hijra_count": 0,
+        "latitude": 21.8966,
+        "longitude": 90.04062
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩৩নং)দক্ষিন রাওঘা সরকারী প্রাথমিক বিদ্যালয়, দক্ষিন রাওঘা। ",
+        "male_count": 2131,
+        "female_count": 2066,
+        "hijra_count": 0,
+        "latitude": 22.13649,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩৩নং) নিদ্রার চর সরকারী প্রাথমিক বিদ্যালয়, নিদ্রারচর।",
+        "male_count": 1166,
+        "female_count": 1210,
+        "hijra_count": 0,
+        "latitude": 21.91358,
+        "longitude": 90.03396
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩৫নং)উত্তর তক্তাবুনিয়া সরকারী প্রাথমিক বিদ্যালয়, উত্তর তক্তাবুনিয়া।",
+        "male_count": 1527,
+        "female_count": 1555,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22884
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩৬নং)হলদিয়া হাট সরকারী প্রাথমিক বিদ্যালয়, হলদিয়া।",
+        "male_count": 1150,
+        "female_count": 1217,
+        "hijra_count": 0,
+        "latitude": 22.13649,
+        "longitude": 90.22884
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩৭নং)দক্ষিন কাঠালিয়া মাধ্যমিক বিদ্যালয় ও সংলগ্ন দক্ষিন কাঠালিয়া সরাকারী প্রাথমিক বিদ্যালয়।",
+        "male_count": 1597,
+        "female_count": 1569,
+        "hijra_count": 0,
+        "latitude": 22.13649,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩৮নং) উত্তর পূর্ব টেপুরা (টেপুরা হাট) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1627,
+        "female_count": 1561,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22884
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩৯নং) হলদিয়া ইউনিয়ন পরিষদ কমপ্লেক্স, হলদিয়া ।",
+        "male_count": 1870,
+        "female_count": 1826,
+        "hijra_count": 0,
+        "latitude": 22.13649,
+        "longitude": 90.22884
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৩নং) আমতলী বন্দর হোসাইনিয়া ফাজিল মাদ্রাসা",
+        "male_count": 1154,
+        "female_count": 1192,
+        "hijra_count": 0,
+        "latitude": 22.13986,
+        "longitude": 90.22839
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪০নং) পূর্ব চিলা সরকারি প্রাথমিক ",
+        "male_count": 1563,
+        "female_count": 1506,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22884
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪১নং) চিলা এইচ.বি মাধ্যমিক বিদ্যালয়",
+        "male_count": 1640,
+        "female_count": 1678,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪২নং) মধ্য ছোনাউঠা সরকারী প্রাথামিক বিদ্যালয়, ছোনাউঠা।",
+        "male_count": 1426,
+        "female_count": 1364,
+        "hijra_count": 0,
+        "latitude": 22.13648,
+        "longitude": 90.22885
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪৪নং) চাওড়া নেছারিয়া আলিম মাদ্রাসা",
+        "male_count": 908,
+        "female_count": 877,
+        "hijra_count": 0,
+        "latitude": 22.14226,
+        "longitude": 90.24013
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪৫নং) বৈঠাকাটা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 845,
+        "female_count": 889,
+        "hijra_count": 0,
+        "latitude": 22.15637,
+        "longitude": 90.22856
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪৬নং) শেখ হাসিনা সরকারী টেকনিক্যাল স্কুল এন্ড কলেজ",
+        "male_count": 950,
+        "female_count": 1049,
+        "hijra_count": 0,
+        "latitude": 22.14226,
+        "longitude": 90.24013
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪৭নং) কাউনিয়া এব্রাহিম একাডেমী মাধ্যমিক বিদ্যালয়",
+        "male_count": 924,
+        "female_count": 1025,
+        "hijra_count": 0,
+        "latitude": 22.12278,
+        "longitude": 90.25813
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪৮নং) চাওড়া চালিতাবুনিয়া সরকারী প্রাথমিক বিদ্যালয়,",
+        "male_count": 984,
+        "female_count": 1029,
+        "hijra_count": 0,
+        "latitude": 22.13968,
+        "longitude": 90.22552
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪৯নং) পাতাকাটা নুরুলহক নিম্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1084,
+        "female_count": 1093,
+        "hijra_count": 0,
+        "latitude": 22.16667,
+        "longitude": 90.27157
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৪নং) আমতলী সরকারী কলেজ",
+        "male_count": 1560,
+        "female_count": 1657,
+        "hijra_count": 0,
+        "latitude": 22.13458,
+        "longitude": 90.22922
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫০নং) পূর্ব পাতাকাটা মেহের আলী দাখিল মাদ্রাসা",
+        "male_count": 1063,
+        "female_count": 1012,
+        "hijra_count": 0,
+        "latitude": 22.15581,
+        "longitude": 90.29376
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫১নং) পূর্ব চন্দ্রা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1274,
+        "female_count": 1302,
+        "hijra_count": 0,
+        "latitude": 22.12886,
+        "longitude": 90.26866
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫২নং) দক্ষিন পশ্চিম আমতলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1255,
+        "female_count": 1291,
+        "hijra_count": 0,
+        "latitude": 22.14227,
+        "longitude": 90.24013
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫৩নং) দক্ষিন পূর্ব আমতলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1142,
+        "female_count": 1270,
+        "hijra_count": 0,
+        "latitude": 22.14225,
+        "longitude": 90.24012
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫৪নং) মরিচবুনিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1269,
+        "female_count": 1336,
+        "hijra_count": 0,
+        "latitude": 22.13644,
+        "longitude": 90.23027
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫৫নং) মহিষডাঙ্গা সরাকারী প্রাথমিক বিদ্যালয়,",
+        "male_count": 1336,
+        "female_count": 1304,
+        "hijra_count": 0,
+        "latitude": 22.11798,
+        "longitude": 90.25018
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫৬নং) চলাভাঙ্গা মাধ্যমিক বিদ্যালয়",
+        "male_count": 1010,
+        "female_count": 1050,
+        "hijra_count": 0,
+        "latitude": 22.08185,
+        "longitude": 90.23254
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫৭নং) মাইঠা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1026,
+        "female_count": 1022,
+        "hijra_count": 0,
+        "latitude": 22.07341,
+        "longitude": 90.25407
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫৮নং) উত্তর পশ্চিম টিয়াখালী কালামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1766,
+        "female_count": 1731,
+        "hijra_count": 0,
+        "latitude": 22.05654,
+        "longitude": 90.2361
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫৯নং) সেকান্দারখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1416,
+        "female_count": 1385,
+        "hijra_count": 0,
+        "latitude": 22.02994,
+        "longitude": 90.24223
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৫নং) ছুরিকাটা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 831,
+        "female_count": 827,
+        "hijra_count": 0,
+        "latitude": 22.12548,
+        "longitude": 90.23194
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৬০নং) উল্টাখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1234,
+        "female_count": 1190,
+        "hijra_count": 0,
+        "latitude": 22.04601,
+        "longitude": 90.25018
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৬১নং) বালিয়াতলী চরকগাছিয়া দাখিল মাদ্রাসা",
+        "male_count": 1658,
+        "female_count": 1673,
+        "hijra_count": 0,
+        "latitude": 22.10044,
+        "longitude": 90.15437
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৬২নং) ঘোপখালী আল-আমিন দাখিল মাদ্রাসা,",
+        "male_count": 1205,
+        "female_count": 1202,
+        "hijra_count": 0,
+        "latitude": 22.09307,
+        "longitude": 90.17474
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৬৩নং) মধ্য আরপাঙ্গাশিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1366,
+        "female_count": 1343,
+        "hijra_count": 0,
+        "latitude": 22.096,
+        "longitude": 90.19465
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৬৪নং) আড়পাঙ্গাশিয়া সরকারী প্রাথমিক বিদ্যালয় ও সংলগ্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1632,
+        "female_count": 1719,
+        "hijra_count": 0,
+        "latitude": 22.09491,
+        "longitude": 90.20632
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৬৫নং) তারিকাঁটা মাধ্যমিক বিদ্যালয়",
+        "male_count": 886,
+        "female_count": 847,
+        "hijra_count": 0,
+        "latitude": 22.0689,
+        "longitude": 90.20653
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৬নং) বাসুগী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1355,
+        "female_count": 1531,
+        "hijra_count": 0,
+        "latitude": 22.18586,
+        "longitude": 90.35748
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৭নং) গুলিশাখালী ইসহাক মাধ্যমিক বিদ্যালয় ও সংলগ্ন ",
+        "male_count": 1919,
+        "female_count": 1883,
+        "hijra_count": 0,
+        "latitude": 22.22251,
+        "longitude": 90.23309
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "(৯নং) হরিদ্রাবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়,",
+        "male_count": 1398,
+        "female_count": 1292,
+        "hijra_count": 0,
+        "latitude": 22.24519,
+        "longitude": 90.23898
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "আংগারপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1360,
+        "female_count": 1331,
+        "hijra_count": 0,
+        "latitude": 22.15862,
+        "longitude": 90.1244
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "আমড়াঝুড়ি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1456,
+        "female_count": 1456,
+        "hijra_count": 0,
+        "latitude": 22.19341,
+        "longitude": 90.16188
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "আমতলী আঃ খালেক আদর্শ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1177,
+        "female_count": 1089,
+        "hijra_count": 0,
+        "latitude": 22.10287,
+        "longitude": 90.08596
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "আয়লা পাতাকাটা দাখিল মাদ্রাসা",
+        "male_count": 1005,
+        "female_count": 977,
+        "hijra_count": 0,
+        "latitude": 22.22399,
+        "longitude": 90.20114
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "আয়লা মাধ্যমিক বিদ্যালয়",
+        "male_count": 1384,
+        "female_count": 1366,
+        "hijra_count": 0,
+        "latitude": 22.22117,
+        "longitude": 90.19773
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "আয়লা লেমুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 804,
+        "female_count": 841,
+        "hijra_count": 0,
+        "latitude": 22.19751,
+        "longitude": 90.19398
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ইটবাড়িয়া কদমতলা মাধ্যমিক বিদ্যালয় ও সংলগ্ন কদমতলা সরকারি প্রাধমিক বিদ্যালয়।",
+        "male_count": 1232,
+        "female_count": 1237,
+        "hijra_count": 0,
+        "latitude": 22.17124,
+        "longitude": 90.19101
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "উত্তর আমতলী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 728,
+        "female_count": 788,
+        "hijra_count": 0,
+        "latitude": 22.20077,
+        "longitude": 90.10601
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "উত্তর পাতাকাটা সরকারী প্রাথমিক বিদ্যালয়।",
+        "male_count": 1288,
+        "female_count": 1274,
+        "hijra_count": 1,
+        "latitude": 22.20574,
+        "longitude": 90.06203
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "উত্তর পূর্ব কলাগাছিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1183,
+        "female_count": 1127,
+        "hijra_count": 0,
+        "latitude": 22.25205,
+        "longitude": 90.27907
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "এফ.ডি কাঠালতলী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1468,
+        "female_count": 1514,
+        "hijra_count": 0,
+        "latitude": 22.12328,
+        "longitude": 90.06145
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "এম. বালিয়াতলী ডি. এন কলেজ",
+        "male_count": 1193,
+        "female_count": 1246,
+        "hijra_count": 0,
+        "latitude": 22.05295,
+        "longitude": 90.06603
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "কড়ইতলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2107,
+        "hijra_count": 0,
+        "latitude": 22.15929,
+        "longitude": 90.13699
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "কড়ইতলা সোনাখালী গগন মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
+        "male_count": 1968,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.15906,
+        "longitude": 90.13696
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "কদমতলা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1269,
+        "female_count": 1192,
+        "hijra_count": 0,
+        "latitude": 22.11715,
+        "longitude": 90.04179
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "কামড়াবাদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1072,
+        "female_count": 1090,
+        "hijra_count": 0,
+        "latitude": 22.13678,
+        "longitude": 90.18928
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "কালীরতবক দাখিল মাদ্রাসা",
+        "male_count": 1052,
+        "female_count": 1003,
+        "hijra_count": 0,
+        "latitude": 22.12097,
+        "longitude": 90.12866
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "কেওড়াবুনিয়া ইউনিয়ন পরিষদ",
+        "male_count": 1516,
+        "female_count": 1596,
+        "hijra_count": 0,
+        "latitude": 22.21321,
+        "longitude": 90.16709
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "কেওড়াবুনিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1045,
+        "female_count": 1027,
+        "hijra_count": 0,
+        "latitude": 22.16888,
+        "longitude": 90.14939
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "কে, লতাবাড়িয়া সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1537,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.15862,
+        "longitude": 90.12443
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ক্রোক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1512,
+        "female_count": 1650,
+        "hijra_count": 0,
+        "latitude": 22.14491,
+        "longitude": 90.10983
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "খাজুরতলা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1404,
+        "female_count": 1568,
+        "hijra_count": 2,
+        "latitude": 22.18072,
+        "longitude": 90.11408
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গর্জনবুনিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1485,
+        "female_count": 1536,
+        "hijra_count": 0,
+        "latitude": 22.036,
+        "longitude": 90.0245
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গাজী মাহমুদ দারুচ্ছালাম দাখিল মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 1685,
+        "hijra_count": 0,
+        "latitude": 22.03196,
+        "longitude": 89.99983
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গাজী মাহমুদ সরকারি প্রাথমিক বিদ্যলয়",
+        "male_count": 1696,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.03191,
+        "longitude": 90.00009
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গিলাতলী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1344,
+        "female_count": 1433,
+        "hijra_count": 0,
+        "latitude": 22.21408,
+        "longitude": 90.13669
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গুদিঘাটা মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2094,
+        "hijra_count": 0,
+        "latitude": 22.20857,
+        "longitude": 90.16561
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গুদিঘাটা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 2136,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.20841,
+        "longitude": 90.16555
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গুলিশাখালী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1322,
+        "female_count": 1343,
+        "hijra_count": 0,
+        "latitude": 22.19108,
+        "longitude": 90.04421
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গোড়া পদ্মা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1254,
+        "female_count": 1208,
+        "hijra_count": 0,
+        "latitude": 21.99587,
+        "longitude": 90.02313
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গোলবুনিয়া সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1131,
+        "female_count": 1078,
+        "hijra_count": 0,
+        "latitude": 22.05942,
+        "longitude": 90.0474
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "গৌরীচন্না নওয়াব সলিমুল্লাহ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1441,
+        "female_count": 1469,
+        "hijra_count": 0,
+        "latitude": 22.21344,
+        "longitude": 90.11287
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ঘটখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1064,
+        "female_count": 1133,
+        "hijra_count": 0,
+        "latitude": 22.16358,
+        "longitude": 90.25148
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "চড়কগাছিয়া ফাজিল (ডিগ্রী) মাদ্রাসা",
+        "male_count": 1550,
+        "female_count": 1557,
+        "hijra_count": 0,
+        "latitude": 22.16029,
+        "longitude": 90.1716
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "চামোপাড়া এবতেদায়ী মাদ্রাসা",
+        "male_count": 1932,
+        "female_count": 1963,
+        "hijra_count": 0,
+        "latitude": 21.93125,
+        "longitude": 90.05587
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "চালিতাতলা কে. বি মাধ্যমিক বিদ্যালয়",
+        "male_count": 1287,
+        "female_count": 1340,
+        "hijra_count": 0,
+        "latitude": 22.1748,
+        "longitude": 90.08864
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "চালিতাতলী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1639,
+        "female_count": 1586,
+        "hijra_count": 0,
+        "latitude": 22.07327,
+        "longitude": 90.09657
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ছোট গৌরীচন্না খানবাড়ী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 725,
+        "female_count": 767,
+        "hijra_count": 0,
+        "latitude": 22.2253,
+        "longitude": 90.12932
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ছোট গৌরীচন্না মাধ্যমিক বিদ্যালয়",
+        "male_count": 1613,
+        "female_count": 1575,
+        "hijra_count": 0,
+        "latitude": 22.238,
+        "longitude": 90.12761
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ছোট লবণগোলা হাজারবিঘা মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2112,
+        "hijra_count": 0,
+        "latitude": 22.14184,
+        "longitude": 90.16604
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "জাঙ্গালিয়া ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1081,
+        "female_count": 1092,
+        "hijra_count": 0,
+        "latitude": 22.1959,
+        "longitude": 90.21915
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "জেলখানা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1094,
+        "female_count": 1080,
+        "hijra_count": 0,
+        "latitude": 22.15862,
+        "longitude": 90.12441
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ডেমা গুলিশাখালী হাকিমিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1306,
+        "female_count": 1294,
+        "hijra_count": 0,
+        "latitude": 22.18328,
+        "longitude": 90.06074
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ঢলুয়া সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1650,
+        "female_count": 1689,
+        "hijra_count": 0,
+        "latitude": 22.14379,
+        "longitude": 90.09377
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "তুলাতলা ইটবাড়িয়া সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1828,
+        "female_count": 1791,
+        "hijra_count": 0,
+        "latitude": 22.17304,
+        "longitude": 90.17557
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "তেতুলবাড়িয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 887,
+        "female_count": 862,
+        "hijra_count": 0,
+        "latitude": 22.19601,
+        "longitude": 90.0389
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "দক্ষিন খাজুরতলা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 822,
+        "female_count": 898,
+        "hijra_count": 0,
+        "latitude": 22.17366,
+        "longitude": 90.10533
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "দক্ষিন বাশবুনিয়া সরকারি প্রাঃ বিদ্যালয়",
+        "male_count": 986,
+        "female_count": 1054,
+        "hijra_count": 0,
+        "latitude": 22.12812,
+        "longitude": 90.12329
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "দক্ষিন মনসাতলী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 885,
+        "female_count": 970,
+        "hijra_count": 0,
+        "latitude": 22.16498,
+        "longitude": 90.1223
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "দক্ষিন লেমুয়া সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1031,
+        "female_count": 1015,
+        "hijra_count": 0,
+        "latitude": 22.12565,
+        "longitude": 90.07906
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "দঃ লতাবাড়িয়া ইসলামিয়া দাঃ মাদ্রাঃ ভোকেশনাল স্কুল বহুমুখি আশ্রায়ন কেন্দ্র",
+        "male_count": 0,
+        "female_count": 1549,
+        "hijra_count": 0,
+        "latitude": 22.17293,
+        "longitude": 90.16754
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ধুপতী মনসাতলী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 961,
+        "female_count": 961,
+        "hijra_count": 0,
+        "latitude": 22.15853,
+        "longitude": 90.12441
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "নলী চড়কগাছিয়া সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1329,
+        "female_count": 1281,
+        "hijra_count": 0,
+        "latitude": 22.09065,
+        "longitude": 90.0409
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "নলী মনসাতলী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1291,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": 22.06723,
+        "longitude": 90.07015
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "নলী মাইঠা সরকারী প্রাঃ বিদ্যালয় ও সংলগ্ন নলী মাইঠা মাঃ বিদ্যালয়",
+        "male_count": 1309,
+        "female_count": 1331,
+        "hijra_count": 0,
+        "latitude": 22.08371,
+        "longitude": 90.07158
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "নলী মুসলিম উচ্চ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1033,
+        "female_count": 1010,
+        "hijra_count": 0,
+        "latitude": 22.0732,
+        "longitude": 90.03966
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "নিমতলী আজিজাবাদ সি. এম মাঃ বিঃ ও সংলগ্ন নিমতলী মাইঠা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1222,
+        "female_count": 1206,
+        "hijra_count": 1,
+        "latitude": 22.09589,
+        "longitude": 90.07031
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পরীরখাল মাধ্যমিক বিদ্যালয়",
+        "male_count": 1730,
+        "female_count": 1710,
+        "hijra_count": 0,
+        "latitude": 22.04423,
+        "longitude": 90.05155
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পশুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 929,
+        "female_count": 923,
+        "hijra_count": 0,
+        "latitude": 22.20805,
+        "longitude": 90.19049
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পশ্চিম গুদিঘাটা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 736,
+        "female_count": 725,
+        "hijra_count": 0,
+        "latitude": 22.21753,
+        "longitude": 90.14684
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পাজড়াভাঙ্গা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1196,
+        "female_count": 1223,
+        "hijra_count": 0,
+        "latitude": 22.13802,
+        "longitude": 90.05022
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পুলিশ লাইন হাই স্কুল",
+        "male_count": 1875,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.15226,
+        "longitude": 90.13305
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পুলিশ লাইন হাই স্কুল",
+        "male_count": 0,
+        "female_count": 1929,
+        "hijra_count": 0,
+        "latitude": 22.15274,
+        "longitude": 90.13273
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পূর্ব কাটাখালী শরীফিয়া সরকারি প্রাথমিক বিদ্যালয়।",
+        "male_count": 1581,
+        "female_count": 1537,
+        "hijra_count": 0,
+        "latitude": 22.19355,
+        "longitude": 90.10255
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পূর্ব কেওড়াবুনিয়া দাখিল মাদ্রাসা",
+        "male_count": 1138,
+        "female_count": 1124,
+        "hijra_count": 0,
+        "latitude": 22.17224,
+        "longitude": 90.21201
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পূর্ব কেওড়াবুনিয়া সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1051,
+        "female_count": 1061,
+        "hijra_count": 0,
+        "latitude": 22.16394,
+        "longitude": 90.21023
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পূর্ব ধুপতি সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1510,
+        "female_count": 1531,
+        "hijra_count": 0,
+        "latitude": 22.18642,
+        "longitude": 90.14208
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পূর্ব রায়ভোগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1263,
+        "female_count": 1182,
+        "hijra_count": 0,
+        "latitude": 22.09777,
+        "longitude": 90.05311
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "পোটকাখালী সঃ প্রাঃ বিদ্যালয়",
+        "male_count": 1338,
+        "female_count": 1414,
+        "hijra_count": 0,
+        "latitude": 22.15746,
+        "longitude": 90.08733
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "ফুলঝুড়ি বহুমুখী মাধ্যমিক বিদ্যালয়,",
+        "male_count": 1379,
+        "female_count": 1402,
+        "hijra_count": 0,
+        "latitude": 22.2135,
+        "longitude": 90.07571
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বড়ইতলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1421,
+        "female_count": 1371,
+        "hijra_count": 0,
+        "latitude": 22.14992,
+        "longitude": 90.06717
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বড় বালিয়াতলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1789,
+        "female_count": 1679,
+        "hijra_count": 0,
+        "latitude": 22.00318,
+        "longitude": 90.05098
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বড় লবণগোলা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1634,
+        "female_count": 1590,
+        "hijra_count": 0,
+        "latitude": 22.13042,
+        "longitude": 90.12685
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বরগুনা আদর্শ বালিকা মাধ্যমিক বিদ্যালয়",
+        "male_count": 1568,
+        "female_count": 1037,
+        "hijra_count": 0,
+        "latitude": 22.15898,
+        "longitude": 90.11787
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বরগুনা জেলা স্কুল",
+        "male_count": 2147,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.15603,
+        "longitude": 90.12259
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বরগুনা সরকারী কলেজ",
+        "male_count": 1686,
+        "female_count": 1910,
+        "hijra_count": 0,
+        "latitude": 22.15746,
+        "longitude": 90.11347
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বরগুনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2528,
+        "hijra_count": 0,
+        "latitude": 22.15587,
+        "longitude": 90.12226
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বরগুনা সরকারী বালিকা মাধ্যমিক বিদ্যালয়,",
+        "male_count": 1426,
+        "female_count": 1482,
+        "hijra_count": 0,
+        "latitude": 22.15767,
+        "longitude": 90.12051
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বরগুনা সরকারী মহিলা কলেজ",
+        "male_count": 1509,
+        "female_count": 1559,
+        "hijra_count": 0,
+        "latitude": 22.1599,
+        "longitude": 90.12763
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বাওয়ালকর ডি কে মাধ্যমিক বিদ্যালয়",
+        "male_count": 1570,
+        "female_count": 1585,
+        "hijra_count": 0,
+        "latitude": 22.18153,
+        "longitude": 90.07963
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বাবুগঞ্জ আদর্শ মাধ্যমিক বিদ্যালয়",
+        "male_count": 873,
+        "female_count": 830,
+        "hijra_count": 0,
+        "latitude": 22.00773,
+        "longitude": 90.0275
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বালিয়াতলী সি টি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1172,
+        "female_count": 1172,
+        "hijra_count": 0,
+        "latitude": 22.02236,
+        "longitude": 90.05089
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বুড়িরচর আলহাজ মফিজ উদ্দিন গাজী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1601,
+        "female_count": 1525,
+        "hijra_count": 0,
+        "latitude": 22.15297,
+        "longitude": 90.19917
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "বৈঠাকাটা শিশু কল্যাণ আদর্শ সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 970,
+        "female_count": 1047,
+        "hijra_count": 1,
+        "latitude": 22.14165,
+        "longitude": 90.10512
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "মধ্য কুমড়াখালী এস.কে.রায় সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1413,
+        "female_count": 1510,
+        "hijra_count": 0,
+        "latitude": 22.17709,
+        "longitude": 90.09699
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "মধ্য পাঠাকাটা সরকারি প্রাঃ বিদ্যালয়",
+        "male_count": 933,
+        "female_count": 987,
+        "hijra_count": 0,
+        "latitude": 22.11181,
+        "longitude": 90.0746
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "মনসাতলী সরকারি প্রাঃ বিদ্যালয়",
+        "male_count": 1099,
+        "female_count": 1080,
+        "hijra_count": 0,
+        "latitude": 22.17587,
+        "longitude": 90.12708
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "মানিকখালী বড় লবণগোলা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1494,
+        "female_count": 1437,
+        "hijra_count": 0,
+        "latitude": 22.12489,
+        "longitude": 90.14496
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "মোল্লারহোড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1271,
+        "female_count": 1204,
+        "hijra_count": 0,
+        "latitude": 22.13044,
+        "longitude": 90.04009
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "রায়েরতবক সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 944,
+        "female_count": 921,
+        "hijra_count": 0,
+        "latitude": 22.09763,
+        "longitude": 90.12014
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "লাকুরতলা সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1663,
+        "female_count": 1804,
+        "hijra_count": 0,
+        "latitude": 22.17729,
+        "longitude": 90.12823
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "লাকুরতলা সোনার বাংলা মাধ্যমিক বিদ্যালয়",
+        "male_count": 1078,
+        "female_count": 1047,
+        "hijra_count": 0,
+        "latitude": 22.196,
+        "longitude": 90.1189
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "লেমুয়া স্বতন্ত্র ইবতেদায়ী মাদ্রাসা,",
+        "male_count": 846,
+        "female_count": 853,
+        "hijra_count": 0,
+        "latitude": 22.19084,
+        "longitude": 90.1991
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "শিয়ালিয়া এম. আই.মাধ্যমিক বিদ্যালয়",
+        "male_count": 1007,
+        "female_count": 1004,
+        "hijra_count": 0,
+        "latitude": 22.02473,
+        "longitude": 90.0365
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "সোনাখালী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1217,
+        "female_count": 1233,
+        "hijra_count": 0,
+        "latitude": 22.1597,
+        "longitude": 90.15064
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "সোনাতলা সরকারী প্রাঃ বিদ্যলয়",
+        "male_count": 1164,
+        "female_count": 1049,
+        "hijra_count": 0,
+        "latitude": 22.0059,
+        "longitude": 90.00414
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "হাজারবিঘা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2102,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.14179,
+        "longitude": 90.16628
+    },
+    {
+        "settings_code": 109,
+        "settings_name": "বরগুনা-১",
+        "center_name": "হেউলিবুনিয়া সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 886,
+        "female_count": 995,
+        "hijra_count": 0,
+        "latitude": 22.12317,
+        "longitude": 90.0968
+    }
+]

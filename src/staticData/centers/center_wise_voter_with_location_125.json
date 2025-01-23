@@ -1,0 +1,902 @@
+[
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "০২নং মধ্য চেচঁরী সরকারী প্রাথমিক বিদ্যালয় (মালিবাড়ীর স্কুল)",
+        "male_count": 1007,
+        "female_count": 927,
+        "hijra_count": 0,
+        "latitude": 22.43723,
+        "longitude": 90.05602
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "০৭নং চেচঁরী আদর্শ সরকারী প্রাথমিক বিদ্যালয় (দক্ষিণ চেচরী)",
+        "male_count": 1273,
+        "female_count": 1260,
+        "hijra_count": 0,
+        "latitude": 22.41672,
+        "longitude": 90.08977
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "০৮নং দক্ষিণ চেচঁরী সরকারী প্রাথমিক বিদ্যালয় (নাগাসি বাড়ীর স্কুল)",
+        "male_count": 1141,
+        "female_count": 1129,
+        "hijra_count": 0,
+        "latitude": 22.42075,
+        "longitude": 90.06957
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১০১ নং উত্তর মরিচবুনিয়া সরকারি প্রাথমিক বিদ্যালয় (উত্তর মরিচবুনিয়া)",
+        "male_count": 1515,
+        "female_count": 1422,
+        "hijra_count": 0,
+        "latitude": 22.3693,
+        "longitude": 90.04911
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১০১ নং পশ্চিম কানুদাসকাঠী  সরকারি প্রাথমিক বিদ্যালয় (কাচারী বাড়ী)",
+        "male_count": 1289,
+        "female_count": 1215,
+        "hijra_count": 0,
+        "latitude": 22.50357,
+        "longitude": 90.07626
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১০২ নং দক্ষিণ পূর্ব পুটিয়াখালী সরকারি প্রাথমিক বিদ্যালয় (গাজির হাটের দক্ষিণ দিকে)",
+        "male_count": 1160,
+        "female_count": 1089,
+        "hijra_count": 0,
+        "latitude": 22.49413,
+        "longitude": 90.13224
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১০নং পূর্ব মহিষকান্দি সরকারী প্রাথমিক বিদ্যালয় (মিয়া বাড়ী মডেল স্কুল)",
+        "male_count": 2138,
+        "female_count": 1980,
+        "hijra_count": 0,
+        "latitude": 22.41777,
+        "longitude": 90.06898
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১১৭নং উত্তর পূর্ব ইন্দ্রপাশা সরকারি প্রাথমিক বিদ্যালয়  ও পূর্ব ইন্দ্রপাশা কমিউনিটি ক্লিনিক (পূর্ব ইন্দ্রপাশা)",
+        "male_count": 1114,
+        "female_count": 1023,
+        "hijra_count": 0,
+        "latitude": 22.58084,
+        "longitude": 90.16371
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১২নং নৈকাঠী নমঃপাড়া সরকারী প্রাথমিক বিদ্যালয় (নৈকাঠী)",
+        "male_count": 1194,
+        "female_count": 1145,
+        "hijra_count": 0,
+        "latitude": 22.58247,
+        "longitude": 90.09187
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১৩নং ভায়লাবুনিয়া সরকারী প্রাথমিক বিদ্যালয় (ভায়লাবুনিয়া)",
+        "male_count": 842,
+        "female_count": 761,
+        "hijra_count": 0,
+        "latitude": 22.41257,
+        "longitude": 90.03513
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১৬নং তারাবুনিয়া সরকারী প্রাথমিক বিদ্যালয় (পুলিশ ক্যাম্প সংলগ্ন)",
+        "male_count": 1661,
+        "female_count": 1551,
+        "hijra_count": 0,
+        "latitude": 22.41777,
+        "longitude": 90.06898
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১৮নং কানুনিয়া সরকারি প্রাথমিক বিদ্যালয় (কানুনিয়া)",
+        "male_count": 898,
+        "female_count": 925,
+        "hijra_count": 0,
+        "latitude": 22.61548,
+        "longitude": 90.13139
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১৮নং পাটিখালঘাটা সরকারী প্রাথমিক বিদ্যালয় (পাটিখালঘাটা বাজার সংলগ্ন)",
+        "male_count": 1038,
+        "female_count": 963,
+        "hijra_count": 0,
+        "latitude": 22.38588,
+        "longitude": 90.03471
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "১নং সাতুরিয়া হামিদিয়া সরকারী প্রাথমিক বিদ্যালয় (মিয়ার হাট)",
+        "male_count": 918,
+        "female_count": 920,
+        "hijra_count": 0,
+        "latitude": 22.57274,
+        "longitude": 90.05556
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "২০নং মধ্য নেয়ামতপুরা সরকারী প্রাথমিক বিদ্যালয় (গার্লস স্কুল সংলগ্ন)",
+        "male_count": 900,
+        "female_count": 839,
+        "hijra_count": 0,
+        "latitude": 22.37331,
+        "longitude": 90.02882
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "২৩নং ঝোড়খালী সরকারী প্রাথমিক বিদ্যালয় (ঝোড়খালী)",
+        "male_count": 753,
+        "female_count": 748,
+        "hijra_count": 0,
+        "latitude": 22.3482,
+        "longitude": 90.06541
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৩২নং আলগী সরকারি প্রাথমিক বিদ্যালয় (আলগী)",
+        "male_count": 1149,
+        "female_count": 1103,
+        "hijra_count": 0,
+        "latitude": 22.54714,
+        "longitude": 90.13858
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৩৩নং আমুয়া স্টীমারঘাট সরকারী প্রাথমিক বিদ্যালয় (মেডিকেলের পার্শ্বে)",
+        "male_count": 2649,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.35245,
+        "longitude": 90.07925
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৩৫নং ছোনাউটা আদর্শ সরকারী প্রাথমিক বিদ্যালয় (উত্তর ছোনাউটা)",
+        "male_count": 1051,
+        "female_count": 1018,
+        "hijra_count": 0,
+        "latitude": 22.37349,
+        "longitude": 90.06334
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৩৬নং কৈবর্তখালী সরকারী প্রাথমিক বিদ্যালয় ( বড় কৈবর্তখালী)",
+        "male_count": 1890,
+        "female_count": 1908,
+        "hijra_count": 0,
+        "latitude": 22.54622,
+        "longitude": 90.11951
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৩৭নং হেতালবুনিয়া সরকারী প্রাথমিক বিদ্যালয় (হেতালবুনিয়া)",
+        "male_count": 862,
+        "female_count": 838,
+        "hijra_count": 0,
+        "latitude": 22.3653,
+        "longitude": 90.09937
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৪১নং আউরা জয়খালী সরকারী প্রাথমিক বিদ্যালয় (জয়খালী)",
+        "male_count": 722,
+        "female_count": 701,
+        "hijra_count": 0,
+        "latitude": 22.38661,
+        "longitude": 90.11693
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৪২নং আনইলবুনিয়া সরকারী প্রাথমিক বিদ্যালয় (আনইলবুনিয়া)",
+        "male_count": 1126,
+        "female_count": 1107,
+        "hijra_count": 0,
+        "latitude": 22.40152,
+        "longitude": 90.10941
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৪৫নং গালুয়া দূর্গাপুর সরকারি প্রাথমিক বিদ্যালয় (গালুয়া বাজার)",
+        "male_count": 1994,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.51522,
+        "longitude": 90.10806
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৪৬ নং গালুয়া সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন জি,কে মাধ্যমিক বিদ্যালয় (গালুয়া পাকা পুলের পূর্ব দিক)",
+        "male_count": 779,
+        "female_count": 742,
+        "hijra_count": 0,
+        "latitude": 22.52852,
+        "longitude": 90.11653
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৪৭ নং পশ্চিম পুটিয়াখালী সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন পুটিয়াখালী নিম্ন মাধ্যমিক বিদ্যালয় বহুমুখী ঘূর্ণিঝড় আশ্রয়কেন্দ্র (খাঁ হাটের পশ্চিম পার্শ্বে)",
+        "male_count": 1485,
+        "female_count": 1430,
+        "hijra_count": 0,
+        "latitude": 22.51425,
+        "longitude": 90.12279
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৪ নং উত্তর তারাবুনিয়া বোর্ড সরকারী প্রাথমিক বিদ্যালয় (সরকার বাড়ী)",
+        "male_count": 1296,
+        "female_count": 1278,
+        "hijra_count": 0,
+        "latitude": 22.55247,
+        "longitude": 90.07345
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫০ নং পুটিয়াখালী সরকারি প্রাথমিক বিদ্যালয় (পুটিয়াখালী বাজার সংলগ্ন)",
+        "male_count": 1370,
+        "female_count": 1268,
+        "hijra_count": 0,
+        "latitude": 22.51505,
+        "longitude": 90.1443
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫২নং জীবনদাসকাঠী সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন জীবনদাসকাঠী এন,এ, এস দাখিল মাদ্রাসা (ছোট কৈবর্তখালী নতুন হাটের পার্শ্বে)",
+        "male_count": 877,
+        "female_count": 781,
+        "hijra_count": 0,
+        "latitude": 22.53122,
+        "longitude": 90.13134
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫৪নং পশ্চিম শৌলজালিয়া সরকারী প্রাথমিক বিদ্যালয় (সেন্টারের হাটের পশ্চিম পার্শ্বে)",
+        "male_count": 1109,
+        "female_count": 1110,
+        "hijra_count": 0,
+        "latitude": 22.45722,
+        "longitude": 90.12946
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫৪নং ভাতকাঠি সরকারি প্রাথমিক বিদ্যালয় (ভাতকাঠী)",
+        "male_count": 1117,
+        "female_count": 1018,
+        "hijra_count": 0,
+        "latitude": 22.53438,
+        "longitude": 90.16489
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫৬ নং আরুয়া সরকারি প্রাথমিক বিদ্যালয়  ও সংলগ্ন সোনারগাঁও জেএকে মাধ্যমিক বিদ্যালয় (আরুয়া)",
+        "male_count": 822,
+        "female_count": 785,
+        "hijra_count": 0,
+        "latitude": 22.50803,
+        "longitude": 90.1573
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫৭ নং পশ্চিম বড়ইয়া সরকারি প্রাথমিক বিদ্যালয় (পশ্চিম বড়ইয়া)",
+        "male_count": 720,
+        "female_count": 669,
+        "hijra_count": 0,
+        "latitude": 22.49898,
+        "longitude": 90.17542
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫৮নং পূর্ব তালগাছিয়া সরকারি প্রাথমিক বিদ্যালয় (পূর্ব তালগাছিয়া)",
+        "male_count": 743,
+        "female_count": 732,
+        "hijra_count": 0,
+        "latitude": 22.45722,
+        "longitude": 90.12946
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫৮ নং মধ্য বড়ইয়া সরকারি প্রাথমিক বিদ্যালয় (বড়ইয়া)",
+        "male_count": 1034,
+        "female_count": 975,
+        "hijra_count": 0,
+        "latitude": 22.50491,
+        "longitude": 90.18734
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৫৯নং বাঁশবাড়ি কৈখালী সরকারী প্রাথমিক বিদ্যালয় (বান্দাঘাটা)",
+        "male_count": 1124,
+        "female_count": 1068,
+        "hijra_count": 0,
+        "latitude": 22.41793,
+        "longitude": 90.12404
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৬২ নং নিজামিয়া সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন নিজামিয়া এম এল উচ্চ বিদ্যালয় (নিজামিয়া)",
+        "male_count": 763,
+        "female_count": 776,
+        "hijra_count": 0,
+        "latitude": 22.51375,
+        "longitude": 90.17313
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৬৩নং চল্লিশ কাহনিয়া সরকারি প্রাথামিক বিদ্যালয় ও সংলগ্ন চল্লিশ কাহনিয়া উত্তমপুর দাখিল মাদ্রাসা (চল্লিশ কাহনিয়া)",
+        "male_count": 1578,
+        "female_count": 1477,
+        "hijra_count": 0,
+        "latitude": 22.53232,
+        "longitude": 90.17523
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৬৪নং আওড়াবুনিয়া বোর্ড সরকারী প্রাথমিক বিদ্যালয় (আওড়াবুনিয়া)",
+        "male_count": 895,
+        "female_count": 848,
+        "hijra_count": 0,
+        "latitude": 22.46934,
+        "longitude": 90.1749
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৬৫ নং বাদুরতলা সরকারী প্রাথমিক বিদ্যালয় (বাদুরতলা)",
+        "male_count": 1035,
+        "female_count": 986,
+        "hijra_count": 0,
+        "latitude": 22.54815,
+        "longitude": 90.18328
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৬৬নং উত্তর সাউথপুর সরকারী প্রাথমিক বিদ্যালয় (উত্তর সাউথপুর)",
+        "male_count": 1175,
+        "female_count": 1118,
+        "hijra_count": 0,
+        "latitude": 22.55987,
+        "longitude": 90.15965
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৬৭নং পূর্ব আওড়াবুনিয়া সরকারী প্রাথমিক বিদ্যালয় (পূর্ব আওড়াবুনিয়া)",
+        "male_count": 1422,
+        "female_count": 1340,
+        "hijra_count": 0,
+        "latitude": 22.48378,
+        "longitude": 90.17204
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৬৮ নং পুখরীজানা সরকারী প্রাথমিক বিদ্যালয় কাম সাইক্লোন সেল্টার (পুখরীজানা)",
+        "male_count": 985,
+        "female_count": 963,
+        "hijra_count": 0,
+        "latitude": 22.56815,
+        "longitude": 90.18846
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৬৮ নং পূর্ব ছিটকি সরকারী প্রাথমিক বিদ্যালয় (পূর্ব ছিটকি)",
+        "male_count": 877,
+        "female_count": 856,
+        "hijra_count": 0,
+        "latitude": 22.48399,
+        "longitude": 90.18038
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৭০নং উত্তর চড়াইল সরকারী প্রাথমিক বিদ্যালয় (উত্তর চড়াইল)",
+        "male_count": 1163,
+        "female_count": 1021,
+        "hijra_count": 0,
+        "latitude": 22.50377,
+        "longitude": 90.14965
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৭০ নং ডহরশংকর সরকারি প্রাথমিক বিদ্যালয় (ডহরশংকর)",
+        "male_count": 1086,
+        "female_count": 1019,
+        "hijra_count": 0,
+        "latitude": 22.57632,
+        "longitude": 90.18178
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৭২ নং পূর্ব ইন্দ্রপাশা সরকারি প্রাথমিক বিদ্যালয় (পূর্ব ইন্দ্রপাশা)",
+        "male_count": 1059,
+        "female_count": 1076,
+        "hijra_count": 0,
+        "latitude": 22.57392,
+        "longitude": 90.16256
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৭৫ নং বাঘরী সরকারী প্রাথমিক বিদ্যালয় ও সংলগ্ন বাঘরী বালিকা মাধ্যমিক বিদ্যালয় (বাঘরী)",
+        "male_count": 1465,
+        "female_count": 1511,
+        "hijra_count": 0,
+        "latitude": 22.59206,
+        "longitude": 90.15644
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৭৫নং মধ্য বিল ছোনাউটা তোতা মিয়া সরকারী প্রাথমিক বিদ্যালয় (বিল ছোনাউটা)",
+        "male_count": 925,
+        "female_count": 834,
+        "hijra_count": 0,
+        "latitude": 22.39562,
+        "longitude": 90.07369
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "৭নং দক্ষিন তারাবুনিয়া ২ সরকারী প্রাথমিক বিদ্যালয় (কদুতলা)",
+        "male_count": 846,
+        "female_count": 780,
+        "hijra_count": 0,
+        "latitude": 22.52117,
+        "longitude": 90.06893
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "আওড়াবুনিয়া মডেল উচ্চ বিদ্যালয় (আওড়াবুনিয়া)",
+        "male_count": 1188,
+        "female_count": 1148,
+        "hijra_count": 0,
+        "latitude": 22.46934,
+        "longitude": 90.1749
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "আঙ্গারিয়া উচ্চ বিদ্যালয় ও সংলগ্ন ৩৪নং দক্ষিণ আঙ্গারিয়া সরকারি প্রাথমিক বিদ্যালয় (আঙ্গারিয়া)",
+        "male_count": 1745,
+        "female_count": 1672,
+        "hijra_count": 0,
+        "latitude": 22.53588,
+        "longitude": 90.14553
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "আদাখোলা মাধ্যমিক বিদ্যালয় ও সংলগ্ন ৫৫নং আদাখোলা সরকারি প্রাথমিক বিদ্যালয় (আদাখোলা)",
+        "male_count": 1187,
+        "female_count": 1183,
+        "hijra_count": 0,
+        "latitude": 22.51968,
+        "longitude": 90.15825
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "আমুয়া উচ্চ বালিকা বিদ্যালয় (মেডিকেলের পার্শ্বে)",
+        "male_count": 0,
+        "female_count": 2505,
+        "hijra_count": 2,
+        "latitude": 22.35239,
+        "longitude": 90.07907
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "আমুয়া ছোনাউটা দাখিল মাদ্রাসা (পূর্ব ছোনাউটা)",
+        "male_count": 1618,
+        "female_count": 1559,
+        "hijra_count": 0,
+        "latitude": 22.37086,
+        "longitude": 90.06872
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "ইউসুফ আলী মাধ্যমিক বিদ্যালয় (দক্ষিণ রাজাপুর)",
+        "male_count": 1284,
+        "female_count": 1300,
+        "hijra_count": 0,
+        "latitude": 22.55228,
+        "longitude": 90.1306
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "এন. ডব্লিউ লেবুবুনিয়া এইচ.টি.আই দাখিল মাদ্‌রাসা (লেবুবুনিয়া হাফিজিয়া দাখিল মাদ্রাসা)",
+        "male_count": 866,
+        "female_count": 850,
+        "hijra_count": 0,
+        "latitude": 22.56861,
+        "longitude": 90.08111
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "এস ডব্লিউ কাঠীপাড়া উচ্চ বিদ্যালয় ও সংলগ্ন ১৩নং দঃ পঃ কাঠীপাড়া সরকারি প্রাথমিক বিদ্যালয় (কাঠীপাড়া)",
+        "male_count": 1547,
+        "female_count": 1471,
+        "hijra_count": 0,
+        "latitude": 22.57171,
+        "longitude": 90.09567
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "কচুয়া মাধ্যমিক বিদ্যালয় (কচুয়া)",
+        "male_count": 2005,
+        "female_count": 1933,
+        "hijra_count": 0,
+        "latitude": 22.42707,
+        "longitude": 90.14131
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "কাঠালিয়া পাইলট বালিকা বিদ্যালয় (কাঠালিয়া সদর)",
+        "male_count": 0,
+        "female_count": 1786,
+        "hijra_count": 0,
+        "latitude": 22.40103,
+        "longitude": 90.1265
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "কাঠালিয়া সরকারি পাইলট মডেল উচ্চ বিদ্যালয় (কাঠালিয়া সদর)",
+        "male_count": 1806,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.40154,
+        "longitude": 90.125
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "কানুদাসকাঠী নলবুনিয়া উচ্চ বিদ্যালয় (কাটাখালী বাজার সংলগ্ন)",
+        "male_count": 1093,
+        "female_count": 1044,
+        "hijra_count": 0,
+        "latitude": 22.49931,
+        "longitude": 90.09067
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "কানুদাসকাঠী মাওলানা আঃ রব কামিল মাদ্রাসা (নলবুনিয়া সি এন্ড বি সংলগ্ন)",
+        "male_count": 1599,
+        "female_count": 1570,
+        "hijra_count": 0,
+        "latitude": 22.50501,
+        "longitude": 90.09816
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "কেওতা ঘিঘড়া ফাজিল মাদ্রাসা (নতুন ভবন) (কেওতা বাজার সংলগ্ন)",
+        "male_count": 0,
+        "female_count": 1889,
+        "hijra_count": 0,
+        "latitude": 22.60352,
+        "longitude": 90.13475
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "কেওতা ঘিঘড়া ফাজিল মাদ্রাসা (মূল ভবন) (কেওতা বাজার সংলগ্ন)",
+        "male_count": 1972,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.6032,
+        "longitude": 90.13573
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "কৈখালী বলতলা কানাইপুর মাধ্যমিক বিদ্যালয় (বীনাপানি)",
+        "male_count": 1050,
+        "female_count": 1006,
+        "hijra_count": 0,
+        "latitude": 22.46018,
+        "longitude": 90.1165
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "গালুয়া ইউনিয়ন মাধ্যমিক বিদ্যালয় (গালুয়া বাজার)",
+        "male_count": 0,
+        "female_count": 1998,
+        "hijra_count": 0,
+        "latitude": 22.51591,
+        "longitude": 90.1076
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "চাড়াখালী বহুমুখী মাধ্যমিক বিদ্যালয় ও সংলগ্ন ৩৭নং চাড়াখালী সরকারি প্রাথমিক বিদ্যালয় (চাড়াখালী বাজার)",
+        "male_count": 1559,
+        "female_count": 1552,
+        "hijra_count": 0,
+        "latitude": 22.52929,
+        "longitude": 90.10585
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "চিংড়াখালী মাধ্যমিক বিদ্যালয় (চিংড়াখালী)",
+        "male_count": 1111,
+        "female_count": 1128,
+        "hijra_count": 0,
+        "latitude": 22.37915,
+        "longitude": 90.11019
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "চেচঁরীরামপুর এম এল মাধ্যমিক বিদ্যালয় (কৈখালী বাজার সংলগ্ন)",
+        "male_count": 2107,
+        "female_count": 1998,
+        "hijra_count": 0,
+        "latitude": 22.42882,
+        "longitude": 90.06907
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "দক্ষিন তারাবুনিয়া হাজী সৈয়দ আফছার উদ্দিন মেমোরিয়াল মাধ্যমিক বিদ্যালয় (মিরাবাড়ী হাই স্কুল)",
+        "male_count": 1531,
+        "female_count": 1484,
+        "hijra_count": 0,
+        "latitude": 22.52032,
+        "longitude": 90.08057
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "পশ্চিম ছিটকি স্কুল এ্যান্ড কলেজ (পশ্চিম ছিটকি)",
+        "male_count": 1024,
+        "female_count": 1041,
+        "hijra_count": 0,
+        "latitude": 22.47324,
+        "longitude": 90.12186
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "পালট মোহাম্মাদিয়া দাখিল মাদ্রাসা (পালট)",
+        "male_count": 1051,
+        "female_count": 989,
+        "hijra_count": 0,
+        "latitude": 22.50615,
+        "longitude": 90.19521
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "পিংড়ী মাধ্যমিক বিদ্যালয় ও সংলগ্ন ২০নং পিংড়ী সরকারি প্রাথমিক বিদ্যালয় (পিংড়ী)",
+        "male_count": 1075,
+        "female_count": 1016,
+        "hijra_count": 0,
+        "latitude": 22.60452,
+        "longitude": 90.16208
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "বলতলা উচ্চ বিদ্যালয় (উত্তর বলতলা)",
+        "male_count": 1285,
+        "female_count": 1127,
+        "hijra_count": 0,
+        "latitude": 22.45722,
+        "longitude": 90.12946
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "বানাই মাধ্যমিক বিদ্যালয় (বানাই বাজার সংলগ্ন)",
+        "male_count": 1062,
+        "female_count": 1026,
+        "hijra_count": 0,
+        "latitude": 22.42039,
+        "longitude": 90.03338
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "বারবাকপুর বালিকা মাধ্যমিক বিদ্যালয় ও সংলগ্ন ২৬নং বারবাকপুর সরকারি প্রাথমিক বিদ্যালয় (বরবাকপুর)",
+        "male_count": 1322,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 22.5677,
+        "longitude": 90.11494
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "বাঁশবুনিয়া মাধ্যমিক বিদ্যালয় (তালতলা বাজার সংলগ্ন)",
+        "male_count": 1879,
+        "female_count": 1945,
+        "hijra_count": 0,
+        "latitude": 22.38258,
+        "longitude": 90.09013
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "মঠবাড়ী মোহাম্মাদিয়া দাখিল মাদ্রাসা (মঠবাড়ী)",
+        "male_count": 1054,
+        "female_count": 980,
+        "hijra_count": 0,
+        "latitude": 22.50605,
+        "longitude": 90.19522
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "মধ্য ফুলহার মুক্তিযোদ্ধা মোসলেম উদ্দিন মাধ্যমিক বিদ্যালয় ও সংলগ্ন ৯৬নং মধ্য ফুলহার সরকারি প্রাথমিক বিদ্যালয় (মধ্য ফুলহার)",
+        "male_count": 1201,
+        "female_count": 1063,
+        "hijra_count": 1,
+        "latitude": 22.5411,
+        "longitude": 90.09814
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "মনোহরপুর উচ্চ বিদ্যালয় ও সংলগ্ন ২৫নং দক্ষিণ মনোহরপুর সরকারি প্রাথমিক বিদ্যালয় (মনোহরপুর)",
+        "male_count": 1313,
+        "female_count": 1269,
+        "hijra_count": 0,
+        "latitude": 22.56812,
+        "longitude": 90.1248
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "রাজাপুর পাইলট উচ্চ বিদ্যালয় (রাজাপুর সদর)",
+        "male_count": 1783,
+        "female_count": 1918,
+        "hijra_count": 0,
+        "latitude": 22.57085,
+        "longitude": 90.14183
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "রাজাপুর পাইলট বালিকা উচ্চ বিদ্যালয় (রাজাপুর সদর)",
+        "male_count": 1742,
+        "female_count": 1708,
+        "hijra_count": 0,
+        "latitude": 22.57034,
+        "longitude": 90.14289
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "শহীদরাজা ডিগ্রী কলেজ (আমুয়া)",
+        "male_count": 1424,
+        "female_count": 1397,
+        "hijra_count": 0,
+        "latitude": 22.35418,
+        "longitude": 90.07457
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "শুক্তাগড় উচ্চ বিদালয় (শুক্তাগড়)",
+        "male_count": 1413,
+        "female_count": 1277,
+        "hijra_count": 0,
+        "latitude": 22.58169,
+        "longitude": 90.10624
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "শৌলজালিয়া মাধ্যমিক বিদ্যালয় (শৌলজালিয়া)",
+        "male_count": 1081,
+        "female_count": 1145,
+        "hijra_count": 0,
+        "latitude": 22.43162,
+        "longitude": 90.1616
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "সরকারি তফাজ্জল হোসেন মানিক মিয়া ডিগ্রী কলেজ (ব্রাক অফিসের সামনে)",
+        "male_count": 1523,
+        "female_count": 1522,
+        "hijra_count": 0,
+        "latitude": 22.40961,
+        "longitude": 90.11943
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "সাংগর আদর্শ উচ্চ বিদালয় ও সংলগ্ন ২২নং সাংগর সরকারি প্রাথমিক বিদ্যালয় (সাংগর)",
+        "male_count": 1546,
+        "female_count": 1491,
+        "hijra_count": 0,
+        "latitude": 22.58795,
+        "longitude": 90.1364
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "সাতুরিয়া এম এম মাধ্যমিক বিদ্যালয় (সাতুরিয়া মিয়া বাড়ী)",
+        "male_count": 970,
+        "female_count": 987,
+        "hijra_count": 0,
+        "latitude": 22.57913,
+        "longitude": 90.05933
+    },
+    {
+        "settings_code": 125,
+        "settings_name": "ঝালোকাঠি-১",
+        "center_name": "সোনার বাংলা মাধ্যমিক বিদ্যালয় (সোনার বাংলা হাট)",
+        "male_count": 810,
+        "female_count": 864,
+        "hijra_count": 0,
+        "latitude": 22.44623,
+        "longitude": 90.16353
+    }
+]

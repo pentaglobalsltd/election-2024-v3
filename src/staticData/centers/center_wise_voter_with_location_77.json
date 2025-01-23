@@ -1,0 +1,1392 @@
+[
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "০৩ নং মহানগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1613,
+        "female_count": 1669,
+        "hijra_count": 0,
+        "latitude": 23.91386,
+        "longitude": 89.12879
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আইডিয়াল নিম্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 984,
+        "female_count": 1005,
+        "hijra_count": 0,
+        "latitude": 23.87013,
+        "longitude": 89.10885
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আইলচারা ইউপি অফিস",
+        "male_count": 0,
+        "female_count": 3062,
+        "hijra_count": 0,
+        "latitude": 23.86124,
+        "longitude": 89.0372
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আড়পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1665,
+        "female_count": 1540,
+        "hijra_count": 0,
+        "latitude": 23.76061,
+        "longitude": 89.02035
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আড়ুয়াপাড়া তরুণ সংঘ (পাঠাগার ও ক্লাব)",
+        "male_count": 3255,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.89882,
+        "longitude": 89.14038
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আড়ুয়াপাড়া মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 2718,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.90346,
+        "longitude": 89.13841
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আদর্শ মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3291,
+        "hijra_count": 0,
+        "latitude": 23.9168,
+        "longitude": 89.10834
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আদর্শ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1386,
+        "female_count": 1492,
+        "hijra_count": 0,
+        "latitude": 23.91738,
+        "longitude": 89.10801
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আব্দালপুর ইউপি অফিস",
+        "male_count": 1279,
+        "female_count": 1298,
+        "hijra_count": 0,
+        "latitude": 23.76889,
+        "longitude": 89.10338
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আলামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1939,
+        "female_count": 2032,
+        "hijra_count": 0,
+        "latitude": 23.82561,
+        "longitude": 89.09281
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আসাননগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1120,
+        "female_count": 1127,
+        "hijra_count": 0,
+        "latitude": 23.74165,
+        "longitude": 89.03606
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "আস্তানগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1716,
+        "female_count": 1768,
+        "hijra_count": 0,
+        "latitude": 23.77997,
+        "longitude": 89.08151
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "ইসলামিয়া কলেজ",
+        "male_count": 3218,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.9102,
+        "longitude": 89.12788
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "উজানগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1978,
+        "female_count": 1987,
+        "hijra_count": 0,
+        "latitude": 23.79065,
+        "longitude": 89.10187
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "উত্তর লাহিনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3038,
+        "female_count": 3313,
+        "hijra_count": 0,
+        "latitude": 23.89277,
+        "longitude": 89.14741
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "উদয়পুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 741,
+        "female_count": 698,
+        "hijra_count": 0,
+        "latitude": 23.79494,
+        "longitude": 89.06877
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "উদিবাড়ী দায়রাপাক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1441,
+        "female_count": 1483,
+        "hijra_count": 0,
+        "latitude": 23.90519,
+        "longitude": 89.11171
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কন্দোর্পদিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1919,
+        "female_count": 1861,
+        "hijra_count": 0,
+        "latitude": 23.72942,
+        "longitude": 89.04784
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কবুরহাট মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2317,
+        "hijra_count": 0,
+        "latitude": 23.87356,
+        "longitude": 89.07747
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কবুরহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2232,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.8715,
+        "longitude": 89.07384
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কমলাপুর মাধ্যমিক বিদ্যালয়",
+        "male_count": 1867,
+        "female_count": 1872,
+        "hijra_count": 0,
+        "latitude": 23.84417,
+        "longitude": 89.15204
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "করিমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1693,
+        "female_count": 1691,
+        "hijra_count": 0,
+        "latitude": 23.78574,
+        "longitude": 89.1391
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কাঞ্চনপুর রাতুলপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1313,
+        "female_count": 1396,
+        "hijra_count": 0,
+        "latitude": 23.83697,
+        "longitude": 89.12382
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কান্তিনগর বোয়ালদহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1389,
+        "female_count": 1193,
+        "hijra_count": 0,
+        "latitude": 23.92519,
+        "longitude": 89.14698
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কালিশংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2451,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.89565,
+        "longitude": 89.13371
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কিত্তিনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 836,
+        "female_count": 844,
+        "hijra_count": 0,
+        "latitude": 23.74787,
+        "longitude": 89.13118
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কুওয়াতুল ইসলাম আলিয়া মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2772,
+        "hijra_count": 0,
+        "latitude": 23.90574,
+        "longitude": 89.13957
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কুমারগাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2474,
+        "female_count": 2526,
+        "hijra_count": 0,
+        "latitude": 23.88142,
+        "longitude": 89.11364
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কুষ্টিয়া আদর্শ ডিগ্রী কলেজ",
+        "male_count": 0,
+        "female_count": 2015,
+        "hijra_count": 0,
+        "latitude": 23.89729,
+        "longitude": 89.14787
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কুষ্টিয়া সরকারি বিশ্ববিদ্যালয় কলেজ",
+        "male_count": 1250,
+        "female_count": 1443,
+        "hijra_count": 0,
+        "latitude": 23.90336,
+        "longitude": 89.12871
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "কুষ্টিয়া সরকারি বিশ্ববিদ্যালয় কলেজ",
+        "male_count": 1120,
+        "female_count": 1221,
+        "hijra_count": 0,
+        "latitude": 23.90346,
+        "longitude": 89.12748
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "খাজানগর কমিউনিটি ক্লিনিক ও সংলগ্ন খাজানগর আদর্শ ঈদগাহ মাঠ",
+        "male_count": 0,
+        "female_count": 3321,
+        "hijra_count": 0,
+        "latitude": 23.86389,
+        "longitude": 89.06272
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "খাজানগর জামেয়া আরাবীয়া দাখিল মাদ্রাসা",
+        "male_count": 1619,
+        "female_count": 1582,
+        "hijra_count": 0,
+        "latitude": 23.86745,
+        "longitude": 89.0608
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "খাজানগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3241,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86673,
+        "longitude": 89.0604
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "খেজুরতলা পাটিকাবাড়ী মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2666,
+        "hijra_count": 0,
+        "latitude": 23.7888,
+        "longitude": 89.00305
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "খেজুরতলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1262,
+        "female_count": 1279,
+        "hijra_count": 0,
+        "latitude": 23.81379,
+        "longitude": 89.00045
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "খোর্দ্দ আইলচারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1725,
+        "female_count": 1697,
+        "hijra_count": 0,
+        "latitude": 23.81998,
+        "longitude": 89.04649
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "খোর্দ্দ বাখইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1153,
+        "female_count": 1112,
+        "hijra_count": 0,
+        "latitude": 23.80339,
+        "longitude": 89.0868
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1266,
+        "female_count": 1338,
+        "hijra_count": 0,
+        "latitude": 23.85006,
+        "longitude": 89.14998
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "গোস্বামী দূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1400,
+        "female_count": 1363,
+        "hijra_count": 0,
+        "latitude": 23.77131,
+        "longitude": 89.00229
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "চরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 989,
+        "female_count": 981,
+        "hijra_count": 0,
+        "latitude": 23.767,
+        "longitude": 89.0857
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "চর ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 563,
+        "female_count": 538,
+        "hijra_count": 0,
+        "latitude": 23.97598,
+        "longitude": 89.16383
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "চাঁদ সুলতানা উচ্চ বালিকা বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3728,
+        "hijra_count": 1,
+        "latitude": 23.90752,
+        "longitude": 89.13086
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "চাপাইগাছি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1004,
+        "female_count": 1006,
+        "hijra_count": 0,
+        "latitude": 23.81262,
+        "longitude": 89.07923
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "চৌড়হাস মুকুল সংঘ মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 1928,
+        "female_count": 2165,
+        "hijra_count": 0,
+        "latitude": 23.89094,
+        "longitude": 89.11053
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "চৌড়হাস মুকুল সংঘ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2099,
+        "female_count": 2273,
+        "hijra_count": 0,
+        "latitude": 23.89107,
+        "longitude": 89.11087
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "চৌড়হাস সরকারি প্রাথমিক বিদ্যালয় (নতুন ভবন)",
+        "male_count": 2223,
+        "female_count": 2326,
+        "hijra_count": 0,
+        "latitude": 23.89739,
+        "longitude": 89.10975
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "ছয়ঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 746,
+        "female_count": 703,
+        "hijra_count": 0,
+        "latitude": 23.71644,
+        "longitude": 89.02921
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "ছিরাতুন্নেছা আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1162,
+        "female_count": 1116,
+        "hijra_count": 0,
+        "latitude": 23.91503,
+        "longitude": 89.13814
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জগতি মাধ্যমিক বিদ্যালয়",
+        "male_count": 1338,
+        "female_count": 1229,
+        "hijra_count": 0,
+        "latitude": 23.89228,
+        "longitude": 89.10104
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জগতি মাধ্যমিক বিদ্যালয়",
+        "male_count": 1019,
+        "female_count": 1252,
+        "hijra_count": 0,
+        "latitude": 23.89276,
+        "longitude": 89.10131
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জগতি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 936,
+        "female_count": 918,
+        "hijra_count": 0,
+        "latitude": 23.89228,
+        "longitude": 89.10104
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জগন্নাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1595,
+        "female_count": 1644,
+        "hijra_count": 0,
+        "latitude": 23.87176,
+        "longitude": 89.14309
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জি, কে, মাধ্যমিক বিদ্যালয়",
+        "male_count": 2838,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.91272,
+        "longitude": 89.12766
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জিয়ারখী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1682,
+        "female_count": 1613,
+        "hijra_count": 0,
+        "latitude": 23.85385,
+        "longitude": 89.12574
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জুগিয়া দক্ষিণ পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1669,
+        "female_count": 1784,
+        "hijra_count": 0,
+        "latitude": 23.92029,
+        "longitude": 89.10554
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জুগিয়া দাখিল মাদ্রাসা",
+        "male_count": 3282,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.91961,
+        "longitude": 89.09948
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জুগিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1416,
+        "female_count": 1562,
+        "hijra_count": 0,
+        "latitude": 23.93115,
+        "longitude": 89.10371
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "জোতপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1557,
+        "female_count": 1593,
+        "hijra_count": 0,
+        "latitude": 23.83653,
+        "longitude": 89.1341
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "ঝাউদিয়া বাজার মাধ্যমিক বিদ্যালয়",
+        "male_count": 2899,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.77231,
+        "longitude": 89.06656
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "ঝাউদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2958,
+        "hijra_count": 0,
+        "latitude": 23.7748,
+        "longitude": 89.05545
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "ডাবিরাভিটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1649,
+        "female_count": 1538,
+        "hijra_count": 0,
+        "latitude": 23.8159,
+        "longitude": 89.00816
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "ঢাকা মিনাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2072,
+        "female_count": 2106,
+        "hijra_count": 0,
+        "latitude": 23.89283,
+        "longitude": 89.08253
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "দহকোলা মধ্যপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1450,
+        "female_count": 1449,
+        "hijra_count": 0,
+        "latitude": 23.82852,
+        "longitude": 89.06648
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "দহকোলা মহম্মদ শাহী উচ্চ বিদ্যালয়",
+        "male_count": 1842,
+        "female_count": 1832,
+        "hijra_count": 0,
+        "latitude": 23.8319,
+        "longitude": 89.06284
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "দূর্বাচারা হাইস্কুল",
+        "male_count": 818,
+        "female_count": 792,
+        "hijra_count": 0,
+        "latitude": 23.81092,
+        "longitude": 89.15453
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "দোস্তপাড়া দাখিল মাদ্রাসা",
+        "male_count": 1173,
+        "female_count": 1294,
+        "hijra_count": 0,
+        "latitude": 23.87279,
+        "longitude": 89.06924
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "নওয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1390,
+        "female_count": 1383,
+        "hijra_count": 0,
+        "latitude": 23.83249,
+        "longitude": 89.08225
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "নাজিরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1071,
+        "female_count": 1020,
+        "hijra_count": 0,
+        "latitude": 23.81086,
+        "longitude": 89.06252
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "নৃসিংহপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1349,
+        "female_count": 1323,
+        "hijra_count": 0,
+        "latitude": 23.71233,
+        "longitude": 89.01542
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পদ্মানগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1144,
+        "female_count": 1079,
+        "hijra_count": 0,
+        "latitude": 23.78015,
+        "longitude": 89.13463
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পশ্চিম আব্দালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1846,
+        "female_count": 1836,
+        "hijra_count": 0,
+        "latitude": 23.74684,
+        "longitude": 89.08538
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পাটিকাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2585,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.7889,
+        "longitude": 89.00299
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পিয়ারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1101,
+        "female_count": 1058,
+        "hijra_count": 0,
+        "latitude": 23.71383,
+        "longitude": 89.11873
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পুরাতন কুষ্টিয়া বালক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1217,
+        "female_count": 1176,
+        "hijra_count": 0,
+        "latitude": 23.94161,
+        "longitude": 89.12511
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পূর্ব আব্দালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2420,
+        "female_count": 2371,
+        "hijra_count": 0,
+        "latitude": 23.74945,
+        "longitude": 89.15011
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পূর্ব মজমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1991,
+        "female_count": 2282,
+        "hijra_count": 0,
+        "latitude": 23.90462,
+        "longitude": 89.11658
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পৌর ২ নং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2884,
+        "hijra_count": 0,
+        "latitude": 23.90238,
+        "longitude": 89.13669
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পৌর ৩ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3488,
+        "hijra_count": 0,
+        "latitude": 23.89877,
+        "longitude": 89.14043
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পৌর-৪ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2560,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.90582,
+        "longitude": 89.13701
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পৌর ৫ নং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1148,
+        "female_count": 1301,
+        "hijra_count": 0,
+        "latitude": 23.91025,
+        "longitude": 89.13328
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পৌর ৬ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2975,
+        "hijra_count": 0,
+        "latitude": 23.91077,
+        "longitude": 89.13092
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "পৌর ৭ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3951,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.89889,
+        "longitude": 89.14564
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বটতেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1704,
+        "female_count": 1771,
+        "hijra_count": 0,
+        "latitude": 23.87547,
+        "longitude": 89.09213
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বটতৈল দক্ষিণ পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1545,
+        "female_count": 1559,
+        "hijra_count": 1,
+        "latitude": 23.85475,
+        "longitude": 89.09973
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বড় আইলচারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3112,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.85777,
+        "longitude": 89.0376
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বরইটুপি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1472,
+        "female_count": 1462,
+        "hijra_count": 0,
+        "latitude": 23.8156,
+        "longitude": 89.13754
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1490,
+        "female_count": 1526,
+        "hijra_count": 0,
+        "latitude": 23.86066,
+        "longitude": 89.11483
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বলরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1719,
+        "female_count": 1635,
+        "hijra_count": 0,
+        "latitude": 23.70109,
+        "longitude": 89.03524
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বল্লভপুর জামিয়া কারিমিয়া আলেয়া বেগম বহুমূখি মাদ্রাসা",
+        "male_count": 1673,
+        "female_count": 1682,
+        "hijra_count": 0,
+        "latitude": 23.85869,
+        "longitude": 89.04646
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বাগডাংগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1217,
+        "female_count": 1233,
+        "hijra_count": 0,
+        "latitude": 23.83389,
+        "longitude": 89.03969
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বাড়াদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1851,
+        "female_count": 1964,
+        "hijra_count": 0,
+        "latitude": 23.8965,
+        "longitude": 89.10362
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বামনগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 823,
+        "female_count": 761,
+        "hijra_count": 0,
+        "latitude": 23.76827,
+        "longitude": 89.02795
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বারখাদা মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3525,
+        "hijra_count": 0,
+        "latitude": 23.93323,
+        "longitude": 89.09357
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বারখাদা সরকারি প্রাথমিক বালিকা বিদ্যালয়",
+        "male_count": 1406,
+        "female_count": 1389,
+        "hijra_count": 0,
+        "latitude": 23.93279,
+        "longitude": 89.0936
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বারখাদা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3446,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.94636,
+        "longitude": 89.09282
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বালিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়, বালিয়াপাড়া",
+        "male_count": 1329,
+        "female_count": 1397,
+        "hijra_count": 0,
+        "latitude": 23.82229,
+        "longitude": 89.11409
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বিত্তিপাড়া বেসরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1157,
+        "female_count": 1219,
+        "hijra_count": 0,
+        "latitude": 23.78983,
+        "longitude": 89.11319
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বিষ্ণুদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1592,
+        "female_count": 1554,
+        "hijra_count": 0,
+        "latitude": 23.74294,
+        "longitude": 89.1115
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বেড় বাড়াদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1264,
+        "female_count": 1228,
+        "hijra_count": 0,
+        "latitude": 23.76983,
+        "longitude": 89.12794
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বেলঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1754,
+        "female_count": 1769,
+        "hijra_count": 1,
+        "latitude": 23.83785,
+        "longitude": 89.11514
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "বোয়ালদহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1679,
+        "female_count": 1710,
+        "hijra_count": 0,
+        "latitude": 23.9247,
+        "longitude": 89.13329
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 854,
+        "female_count": 842,
+        "hijra_count": 0,
+        "latitude": 23.81769,
+        "longitude": 89.12349
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মাগুরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1415,
+        "female_count": 1378,
+        "hijra_count": 0,
+        "latitude": 23.77988,
+        "longitude": 89.00702
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মাজপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1728,
+        "female_count": 1659,
+        "hijra_count": 0,
+        "latitude": 23.7858,
+        "longitude": 89.0487
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মাজিলা বালক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1945,
+        "female_count": 1905,
+        "hijra_count": 0,
+        "latitude": 23.79394,
+        "longitude": 89.02088
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মাদরাসাতুল আবরার",
+        "male_count": 1810,
+        "female_count": 1956,
+        "hijra_count": 0,
+        "latitude": 23.90991,
+        "longitude": 89.11402
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মাধপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1579,
+        "female_count": 1645,
+        "hijra_count": 0,
+        "latitude": 23.7934,
+        "longitude": 89.11636
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মিলপাড়া মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4193,
+        "hijra_count": 0,
+        "latitude": 23.90033,
+        "longitude": 89.14763
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মৃত্তিকা পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1081,
+        "female_count": 1046,
+        "hijra_count": 0,
+        "latitude": 23.79035,
+        "longitude": 89.15725
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মোল্লা তেঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1754,
+        "female_count": 1860,
+        "hijra_count": 0,
+        "latitude": 23.88642,
+        "longitude": 89.12346
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "মোহিনী মোহন বিদ্যাপিঠ",
+        "male_count": 1861,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.8977,
+        "longitude": 89.14897
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "রাধানগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1653,
+        "female_count": 1646,
+        "hijra_count": 0,
+        "latitude": 23.72625,
+        "longitude": 89.03767
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "লাহিনী মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2547,
+        "hijra_count": 0,
+        "latitude": 23.88782,
+        "longitude": 89.1455
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "লাহিনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2504,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.88552,
+        "longitude": 89.15077
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "শংকরদিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2270,
+        "hijra_count": 0,
+        "latitude": 23.74217,
+        "longitude": 89.02162
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "শংকরদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2242,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.76863,
+        "longitude": 89.02801
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "শান্তিডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1883,
+        "female_count": 1790,
+        "hijra_count": 0,
+        "latitude": 23.73785,
+        "longitude": 89.14779
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "শালদাহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2116,
+        "female_count": 2181,
+        "hijra_count": 0,
+        "latitude": 23.93102,
+        "longitude": 89.1198
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "শিবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1552,
+        "female_count": 1516,
+        "hijra_count": 0,
+        "latitude": 23.76475,
+        "longitude": 89.14008
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "শিমুলিয়া কাথুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1530,
+        "female_count": 1538,
+        "hijra_count": 0,
+        "latitude": 23.85842,
+        "longitude": 89.08221
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "সাহাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1484,
+        "female_count": 1439,
+        "hijra_count": 0,
+        "latitude": 23.75265,
+        "longitude": 89.11167
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "সিরাজুল হক মুসলিম হাইস্কুল",
+        "male_count": 0,
+        "female_count": 2902,
+        "hijra_count": 0,
+        "latitude": 23.90515,
+        "longitude": 89.13079
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "সিরাজুল হক মুসলিম হাইস্কুল",
+        "male_count": 2677,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.90529,
+        "longitude": 89.12967
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "সুগ্রীবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1873,
+        "female_count": 1904,
+        "hijra_count": 0,
+        "latitude": 23.72861,
+        "longitude": 89.13096
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "স্বর্গপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1009,
+        "female_count": 1058,
+        "hijra_count": 0,
+        "latitude": 23.85003,
+        "longitude": 89.06783
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "স্বস্তিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1663,
+        "female_count": 1735,
+        "hijra_count": 0,
+        "latitude": 23.84554,
+        "longitude": 89.09814
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হররা মেটন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1722,
+        "female_count": 1620,
+        "hijra_count": 0,
+        "latitude": 23.87061,
+        "longitude": 89.12746
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হরিনারায়ণপুর বহুমূখী উচ্চ বিদ্যালয়",
+        "male_count": 2117,
+        "female_count": 2155,
+        "hijra_count": 0,
+        "latitude": 23.75824,
+        "longitude": 89.14051
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হরেকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1360,
+        "female_count": 1460,
+        "hijra_count": 0,
+        "latitude": 23.91376,
+        "longitude": 89.11283
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হাউজিং এষ্টেট মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3910,
+        "hijra_count": 0,
+        "latitude": 23.89198,
+        "longitude": 89.12765
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হাউজিং এস্টেট মডেল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3521,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.89154,
+        "longitude": 89.12746
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হাজী মফিজ উদ্দীন ফোরকানিয়া মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2763,
+        "hijra_count": 0,
+        "latitude": 23.89579,
+        "longitude": 89.13375
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হাটশহরিপুর দি ওল্ড কুষ্টিয়া হাইস্কুল",
+        "male_count": 0,
+        "female_count": 2544,
+        "hijra_count": 0,
+        "latitude": 23.92868,
+        "longitude": 89.12745
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হাটশহরিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2498,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.92921,
+        "longitude": 89.12744
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হাতিভাংগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1262,
+        "female_count": 1214,
+        "hijra_count": 0,
+        "latitude": 23.75066,
+        "longitude": 89.05424
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হাতিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1529,
+        "female_count": 1411,
+        "hijra_count": 0,
+        "latitude": 23.77574,
+        "longitude": 89.0917
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হারুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1128,
+        "female_count": 1036,
+        "hijra_count": 0,
+        "latitude": 23.79038,
+        "longitude": 89.03843
+    },
+    {
+        "settings_code": 77,
+        "settings_name": "কুষ্টিয়া-৩",
+        "center_name": "হাসানবাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1549,
+        "female_count": 1579,
+        "hijra_count": 0,
+        "latitude": 23.74319,
+        "longitude": 89.1182
+    }
+]

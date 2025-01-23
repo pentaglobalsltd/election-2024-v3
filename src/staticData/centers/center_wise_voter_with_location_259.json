@@ -1,0 +1,1052 @@
+[
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "অশ্বদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2578,
+        "female_count": 2356,
+        "hijra_count": 0,
+        "latitude": 23.32176,
+        "longitude": 91.20726
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "আতাকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1940,
+        "female_count": 1866,
+        "hijra_count": 0,
+        "latitude": 23.13684,
+        "longitude": 91.32526
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "আবদুল্লাহপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3260,
+        "female_count": 3200,
+        "hijra_count": 0,
+        "latitude": 23.31817,
+        "longitude": 91.26526
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "আলকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1906,
+        "female_count": 1801,
+        "hijra_count": 0,
+        "latitude": 23.06986,
+        "longitude": 91.32658
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "আলকরা হাফিজুল ইসলাম চৌধুরী উচ্চ বিদ্যালয",
+        "male_count": 1748,
+        "female_count": 1701,
+        "hijra_count": 0,
+        "latitude": 23.07057,
+        "longitude": 91.32891
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "উওর বেতিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1042,
+        "female_count": 975,
+        "hijra_count": 0,
+        "latitude": 23.122,
+        "longitude": 91.33571
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "উনকোট উচ্চ বিদ্যালয়",
+        "male_count": 4012,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.25418,
+        "longitude": 91.23477
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "উনকোট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3756,
+        "hijra_count": 0,
+        "latitude": 23.25377,
+        "longitude": 91.23463
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "কাইচ্ছুটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2241,
+        "female_count": 2047,
+        "hijra_count": 0,
+        "latitude": 23.08042,
+        "longitude": 91.35596
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "কাতালিয়া আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1365,
+        "female_count": 1322,
+        "hijra_count": 0,
+        "latitude": 23.31424,
+        "longitude": 91.21097
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "কাদঘর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2370,
+        "female_count": 2150,
+        "hijra_count": 0,
+        "latitude": 23.24189,
+        "longitude": 91.24569
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "কাদৈর উচ্চ বিদ্যালয়",
+        "male_count": 3197,
+        "female_count": 2981,
+        "hijra_count": 0,
+        "latitude": 23.27191,
+        "longitude": 91.23402
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "কালকোট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2093,
+        "female_count": 1980,
+        "hijra_count": 0,
+        "latitude": 23.1817,
+        "longitude": 91.29801
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "কালিকাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2940,
+        "female_count": 2840,
+        "hijra_count": 0,
+        "latitude": 23.30153,
+        "longitude": 91.29842
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "কাশিনগর ইসলামিয়া সিনিয়র মাদ্রাসা",
+        "male_count": 2157,
+        "female_count": 1977,
+        "hijra_count": 0,
+        "latitude": 23.31838,
+        "longitude": 91.2238
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "কুলিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2090,
+        "female_count": 2056,
+        "hijra_count": 0,
+        "latitude": 23.16856,
+        "longitude": 91.3111
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "খাটরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1847,
+        "female_count": 1759,
+        "hijra_count": 0,
+        "latitude": 23.08146,
+        "longitude": 91.28767
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "খিরনশাল ইসলামিয়া ফাজিল মাদ্রাসা",
+        "male_count": 1485,
+        "female_count": 1387,
+        "hijra_count": 0,
+        "latitude": 23.22752,
+        "longitude": 91.26966
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "গাছবাড়িয়া গাউছিয়া তৈয়্যবিয়া সিনিয়র মাদ্রাসা",
+        "male_count": 2683,
+        "female_count": 2576,
+        "hijra_count": 0,
+        "latitude": 23.27128,
+        "longitude": 91.26214
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "গুনবতী বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 2376,
+        "female_count": 2174,
+        "hijra_count": 0,
+        "latitude": 23.08907,
+        "longitude": 91.29895
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ঘোষতল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1584,
+        "female_count": 1536,
+        "hijra_count": 0,
+        "latitude": 23.1462,
+        "longitude": 91.32512
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চকলক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2214,
+        "female_count": 2117,
+        "hijra_count": 0,
+        "latitude": 23.345,
+        "longitude": 91.29739
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চাঁন্দকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1786,
+        "female_count": 1663,
+        "hijra_count": 0,
+        "latitude": 23.20533,
+        "longitude": 91.28792
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চান্দশ্রী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2533,
+        "female_count": 2585,
+        "hijra_count": 0,
+        "latitude": 23.34788,
+        "longitude": 91.26396
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চাঁন্দিশকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1791,
+        "female_count": 1791,
+        "hijra_count": 0,
+        "latitude": 23.21973,
+        "longitude": 91.29809
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চিওড়া বেগম ফয়জুন্নেছা উচ্চ বিদ্যালয়",
+        "male_count": 2881,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.14582,
+        "longitude": 91.31119
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চিওড়া সরকারি কলেজ",
+        "male_count": 0,
+        "female_count": 2783,
+        "hijra_count": 0,
+        "latitude": 23.23175,
+        "longitude": 91.31162
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চৌদ্দগ্রাম আলহাজ্ব এম.এ. করিম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1587,
+        "female_count": 1581,
+        "hijra_count": 0,
+        "latitude": 23.22599,
+        "longitude": 91.31264
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চৌদ্দগ্রাম মাধ্যমিক পাইলট বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2463,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.22793,
+        "longitude": 91.3146
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "চৌদ্দগ্রাম মাধ্যমিক পাইলট বালিকা উচ্চ বিদ্যালয়\t",
+        "male_count": 0,
+        "female_count": 2397,
+        "hijra_count": 0,
+        "latitude": 23.22802,
+        "longitude": 91.31463
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ছাতিয়ানী আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1722,
+        "female_count": 1606,
+        "hijra_count": 0,
+        "latitude": 23.21432,
+        "longitude": 91.263
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "জয়ন্তীনগর লালমিয়া ফারিজা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2212,
+        "female_count": 2063,
+        "hijra_count": 0,
+        "latitude": 23.21928,
+        "longitude": 91.31824
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "জয়মঙ্গলপুর আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 2031,
+        "female_count": 1715,
+        "hijra_count": 1,
+        "latitude": 23.35996,
+        "longitude": 91.21911
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ডেকড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1052,
+        "female_count": 936,
+        "hijra_count": 0,
+        "latitude": 23.07925,
+        "longitude": 91.3401
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "তারাশাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1934,
+        "female_count": 1858,
+        "hijra_count": 0,
+        "latitude": 23.18479,
+        "longitude": 91.27436
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "দক্ষিণ শ্রীপুর দারুস সালাম ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2671,
+        "hijra_count": 0,
+        "latitude": 24.44858,
+        "longitude": 90.89642
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "দক্ষিণ শ্রীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2861,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.44858,
+        "longitude": 90.89642
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "দশবাহা এছলাহে উম্মৎ মাদ্রাসা",
+        "male_count": 1462,
+        "female_count": 1421,
+        "hijra_count": 0,
+        "latitude": 23.09715,
+        "longitude": 91.29001
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "দেড়কোটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2015,
+        "female_count": 1784,
+        "hijra_count": 0,
+        "latitude": 23.21356,
+        "longitude": 91.27123
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "দৈয়ারা নুরানিয়া হাফিজিয়া মাদ্রাসা",
+        "male_count": 1182,
+        "female_count": 1147,
+        "hijra_count": 0,
+        "latitude": 23.20548,
+        "longitude": 91.30299
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ধর্মপুর নাজিম আলী স্কুল এন্ড কলেজ",
+        "male_count": 2577,
+        "female_count": 2562,
+        "hijra_count": 0,
+        "latitude": 23.31073,
+        "longitude": 91.28765
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ধোড়করা উচ্চ বিদ্যালয়",
+        "male_count": 2884,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.14253,
+        "longitude": 91.28561
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ধোড়করা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2586,
+        "hijra_count": 0,
+        "latitude": 23.14226,
+        "longitude": 91.28518
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "নাটাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1460,
+        "female_count": 1495,
+        "hijra_count": 0,
+        "latitude": 23.25192,
+        "longitude": 91.31275
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "নানকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1688,
+        "female_count": 1554,
+        "hijra_count": 0,
+        "latitude": 23.18268,
+        "longitude": 91.31397
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "নারচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1876,
+        "female_count": 1704,
+        "hijra_count": 0,
+        "latitude": 23.29775,
+        "longitude": 91.21957
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "নারায়নপুর উচ্চ বিদ্যালয়",
+        "male_count": 2598,
+        "female_count": 2474,
+        "hijra_count": 0,
+        "latitude": 23.26911,
+        "longitude": 91.2824
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "নালঘর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1993,
+        "female_count": 1889,
+        "hijra_count": 0,
+        "latitude": 23.29872,
+        "longitude": 91.26213
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "নোয়াগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2424,
+        "female_count": 2304,
+        "hijra_count": 0,
+        "latitude": 23.12733,
+        "longitude": 91.3088
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "নোয়াপুর সরকারি প্রাথমিক বিদ্র্যালয়",
+        "male_count": 2079,
+        "female_count": 1959,
+        "hijra_count": 0,
+        "latitude": 23.15837,
+        "longitude": 91.31241
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "পদুয়া উওর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2763,
+        "female_count": 2605,
+        "hijra_count": 0,
+        "latitude": 23.29744,
+        "longitude": 91.24001
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "পদুয়া সুফিয়া রহমান উচ্চ বিদ্যালয়",
+        "male_count": 1974,
+        "female_count": 1925,
+        "hijra_count": 0,
+        "latitude": 23.09107,
+        "longitude": 91.3425
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "পন্নারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1520,
+        "female_count": 1414,
+        "hijra_count": 0,
+        "latitude": 23.14661,
+        "longitude": 91.26839
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "পরিকোট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 876,
+        "female_count": 804,
+        "hijra_count": 0,
+        "latitude": 23.10333,
+        "longitude": 91.28461
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "পাঁচরা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1354,
+        "female_count": 1315,
+        "hijra_count": 0,
+        "latitude": 23.23929,
+        "longitude": 91.30805
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "পায়ের খোলা উচ্চ বিদ্যালয়",
+        "male_count": 1381,
+        "female_count": 1405,
+        "hijra_count": 0,
+        "latitude": 23.12494,
+        "longitude": 91.32105
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "পোটকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1804,
+        "female_count": 1655,
+        "hijra_count": 0,
+        "latitude": 23.26779,
+        "longitude": 91.21472
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ফকিরহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1863,
+        "female_count": 1708,
+        "hijra_count": 1,
+        "latitude": 23.26172,
+        "longitude": 91.2493
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ফাল্গুনকরা আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2297,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.21372,
+        "longitude": 91.31493
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ফাল্গুনকরা আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2328,
+        "hijra_count": 0,
+        "latitude": 23.21373,
+        "longitude": 91.31531
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ফুলগ্রাম সরকারি প্রাথমিক বিদালয়",
+        "male_count": 929,
+        "female_count": 832,
+        "hijra_count": 0,
+        "latitude": 23.12742,
+        "longitude": 91.29518
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ফুলমুড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1298,
+        "female_count": 1250,
+        "hijra_count": 0,
+        "latitude": 23.23882,
+        "longitude": 91.27578
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বগৈর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2327,
+        "female_count": 2169,
+        "hijra_count": 0,
+        "latitude": 23.30674,
+        "longitude": 91.23119
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বসন্তপুর ইসলামিয়া সিনিয়র (আলিম) মাদ্রাসা",
+        "male_count": 2375,
+        "female_count": 2444,
+        "hijra_count": 0,
+        "latitude": 23.19351,
+        "longitude": 91.31632
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বসন্তপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2343,
+        "female_count": 2265,
+        "hijra_count": 0,
+        "latitude": 23.2516,
+        "longitude": 91.2772
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বাকগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2367,
+        "female_count": 2048,
+        "hijra_count": 0,
+        "latitude": 23.05918,
+        "longitude": 91.31146
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বাগৈগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1240,
+        "female_count": 1149,
+        "hijra_count": 0,
+        "latitude": 23.23634,
+        "longitude": 91.12409
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বাতিসা মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2522,
+        "hijra_count": 0,
+        "latitude": 23.19728,
+        "longitude": 91.31386
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বাবুচি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1438,
+        "female_count": 1314,
+        "hijra_count": 0,
+        "latitude": 23.28652,
+        "longitude": 91.29909
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বাসন্ডা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2429,
+        "female_count": 2335,
+        "hijra_count": 0,
+        "latitude": 23.24119,
+        "longitude": 91.26362
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বিজয়করা স্কুল এন্ড কলেজ",
+        "male_count": 2689,
+        "female_count": 2510,
+        "hijra_count": 1,
+        "latitude": 23.1122,
+        "longitude": 91.32876
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বীরচন্দ্রনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2033,
+        "female_count": 1814,
+        "hijra_count": 0,
+        "latitude": 23.25661,
+        "longitude": 91.30845
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বুধড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1290,
+        "female_count": 1383,
+        "hijra_count": 0,
+        "latitude": 23.07855,
+        "longitude": 91.29528
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "বেতিয়ারা  সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1235,
+        "female_count": 1114,
+        "hijra_count": 0,
+        "latitude": 23.11516,
+        "longitude": 91.33838
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ভাংগাপুস্করনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2911,
+        "female_count": 2607,
+        "hijra_count": 0,
+        "latitude": 23.28587,
+        "longitude": 91.22505
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "ভাজনকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1612,
+        "female_count": 1477,
+        "hijra_count": 0,
+        "latitude": 23.09919,
+        "longitude": 91.34175
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "মরকটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1530,
+        "female_count": 1457,
+        "hijra_count": 0,
+        "latitude": 23.19476,
+        "longitude": 91.27077
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "মানিকপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1557,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 23.3347,
+        "longitude": 91.26104
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "মাসকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1025,
+        "female_count": 972,
+        "hijra_count": 0,
+        "latitude": 23.20217,
+        "longitude": 91.27852
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "মিয়াবাজার লতিফুন্নেছা উচ্চ বিদ্যালয়",
+        "male_count": 2529,
+        "female_count": 2394,
+        "hijra_count": 0,
+        "latitude": 23.33554,
+        "longitude": 91.27096
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "মুন্সিরহাট উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2587,
+        "hijra_count": 0,
+        "latitude": 23.25145,
+        "longitude": 91.25951
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "মুন্সিরহাট উচ্চ বিদ্যালয়",
+        "male_count": 2797,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.25147,
+        "longitude": 91.25953
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "মোস্তফা কামাল উচ্চ বিদ্যালয়",
+        "male_count": 2560,
+        "female_count": 2547,
+        "hijra_count": 0,
+        "latitude": 23.16283,
+        "longitude": 91.27363
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "যুগিরকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3004,
+        "female_count": 2946,
+        "hijra_count": 0,
+        "latitude": 23.33356,
+        "longitude": 91.21832
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "রফিক ভূঁইয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1364,
+        "female_count": 1246,
+        "hijra_count": 0,
+        "latitude": 23.07607,
+        "longitude": 91.34893
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "রাজবল্লভপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2873,
+        "female_count": 2770,
+        "hijra_count": 0,
+        "latitude": 23.09629,
+        "longitude": 91.31921
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "রানীর বাজার মাধ্যমিক বিদ্যালয়",
+        "male_count": 1116,
+        "female_count": 962,
+        "hijra_count": 0,
+        "latitude": 23.34052,
+        "longitude": 91.20704
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "রামচন্দ্রপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1391,
+        "female_count": 1380,
+        "hijra_count": 0,
+        "latitude": 23.32245,
+        "longitude": 91.2518
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "রামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2222,
+        "female_count": 2061,
+        "hijra_count": 0,
+        "latitude": 23.10566,
+        "longitude": 91.31482
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2588,
+        "hijra_count": 0,
+        "latitude": 23.08731,
+        "longitude": 91.32723
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2608,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.08819,
+        "longitude": 91.32922
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "শীবের বাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2515,
+        "female_count": 2541,
+        "hijra_count": 0,
+        "latitude": 23.33502,
+        "longitude": 91.28477
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "শ্রীপুর (উত্তর) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1417,
+        "female_count": 1484,
+        "hijra_count": 1,
+        "latitude": 23.07346,
+        "longitude": 91.30797
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "শ্রীপুর প্রসন্ন একাডেমী",
+        "male_count": 800,
+        "female_count": 683,
+        "hijra_count": 0,
+        "latitude": 23.31295,
+        "longitude": 91.25611
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সলাকান্দি গোলক চন্দ্র উচ্চ বিদ্যালয়",
+        "male_count": 3746,
+        "female_count": 3575,
+        "hijra_count": 0,
+        "latitude": 23.26922,
+        "longitude": 91.28241
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সাঙ্গিশ্বর উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2404,
+        "hijra_count": 0,
+        "latitude": 23.13191,
+        "longitude": 91.27889
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সাঙ্গিশ্বর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2669,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.13191,
+        "longitude": 91.27889
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সাতবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1755,
+        "female_count": 1658,
+        "hijra_count": 0,
+        "latitude": 23.34028,
+        "longitude": 91.24843
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সামুকসার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1537,
+        "female_count": 1398,
+        "hijra_count": 0,
+        "latitude": 23.34797,
+        "longitude": 91.24987
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সারপটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1985,
+        "female_count": 1809,
+        "hijra_count": 0,
+        "latitude": 23.16512,
+        "longitude": 91.30276
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সিংরাইশ রহমানিয়া বালিকা আলিম মাদ্রাসা",
+        "male_count": 1466,
+        "female_count": 1354,
+        "hijra_count": 0,
+        "latitude": 23.22376,
+        "longitude": 91.26841
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সুরিকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2285,
+        "female_count": 2175,
+        "hijra_count": 0,
+        "latitude": 23.10645,
+        "longitude": 91.29518
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "সোনাকাটিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1275,
+        "female_count": 1241,
+        "hijra_count": 0,
+        "latitude": 23.25042,
+        "longitude": 91.30348
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "হাজারীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2041,
+        "female_count": 1864,
+        "hijra_count": 0,
+        "latitude": 23.25533,
+        "longitude": 91.22151
+    },
+    {
+        "settings_code": 259,
+        "settings_name": "কুমিল্লা-১১",
+        "center_name": "হাটবাইর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1398,
+        "female_count": 1328,
+        "hijra_count": 0,
+        "latitude": 23.12139,
+        "longitude": 91.29259
+    }
+]

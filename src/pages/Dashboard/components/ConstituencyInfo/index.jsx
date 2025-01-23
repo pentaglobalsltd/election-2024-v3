@@ -8,6 +8,7 @@ import { Table, Typography, Drawer } from 'antd';
 import constituencyCounts from '../../../../staticData/constituencyInfo.json';
 import './styles.scss';
 import { selectConstituency } from '../../../../actions/constituency.js';
+import { BarChart } from '../BarChart/index.jsx';
 
 const { Text } = Typography;
 
@@ -50,7 +51,7 @@ const Result = ({ data }) => {
   );
 };
 
-const ConstituencyInfo = () => {
+const ConstituencyInfo = ({ selectedDistrict }) => {
   const dispatch = useDispatch();
 
   const _selectedConstituency = useSelector((state) => state.constituency);
@@ -78,33 +79,40 @@ const ConstituencyInfo = () => {
     }
   }, [selectedConstituency]);
 
+  useEffect(() => {
+    setSelectedConstituencyCount(null);
+  }, [selectedDistrict]);
+  if (!selectedConstituencyCount) return null;
+
   return (
     <Drawer
       title={selectedConstituency ? selectedConstituency.name : ''}
       placement="right"
-      closable={false}
+      closable={true}
       onClose={onClose}
       open={selectedConstituency}
       key="Constituency"
-      width={300}
+      width={320}
+      mask={false}
     >
       <>
         {selectedConstituency ? (
           <svg
             version="1.1"
-            x="0px"
-            y="0px"
             viewBox={'0 0 300 400'}
-            className="svg__district"
+            className="svg__constituency"
           >
             <g
               id={`${selectedConstituency.name}`}
               key={`${selectedConstituency.name}`}
-              className={`svg__seat `}
+              className={`svg__seat`}
             >
               {selectedConstituency.component}
             </g>
           </svg>
+        ) : null}
+        {selectedConstituencyCount?.[0] ? (
+          <BarChart data={selectedConstituencyCount?.[0] || []} />
         ) : null}
         <Result data={selectedConstituencyCount || []} />
       </>
