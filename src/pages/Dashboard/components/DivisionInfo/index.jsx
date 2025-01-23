@@ -74,7 +74,8 @@ const DivisionInfo = () => {
   const [api, contextHolder] = notification.useNotification({ stack: false });
 
   const openNotification = (selectedDivision) => {
-    const selectedDivisionCount = divisionVoteCounts.filter(
+    if (!selectedDivision) return;
+    const selectedDivisionCount = divisionVoteCounts?.filter(
       (item) => Number(item.code) === selectedDivision.code,
     );
 

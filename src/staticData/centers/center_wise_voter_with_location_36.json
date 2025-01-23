@@ -1,1242 +1,1242 @@
 [
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "আওলাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 611,
-        "female_count": 758,
-        "hijra_count": 0,
-        "latitude": 24.75442,
-        "longitude": 89.60652
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "আগুনিয়াতাইড় সরকারী প্রাথমিক বিদ্যালয়, আগুনিয়াতাইড় উত্তরপাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 1971,
-        "female_count": 2219,
-        "hijra_count": 0,
-        "latitude": 25.04486,
-        "longitude": 89.48964
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "আচারের পাড়া সরকারী প্রাথমিক বিদ্যালয়, আচারের পাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 1190,
-        "female_count": 1190,
-        "hijra_count": 0,
-        "latitude": 24.96356,
-        "longitude": 89.55314
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "আড়িয়া চকনন্দন সরকারী প্রাথমিক বিদ্যালয়, চকনন্দন, সোনাতলা, বগুড়া।",
-        "male_count": 2121,
-        "female_count": 2147,
-        "hijra_count": 0,
-        "latitude": 25.02938,
-        "longitude": 89.51785
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "উত্তর কালাই হাটা সরকারী প্রাথমিক বিদ্যালয়, উত্তর কালাইহাটা , সোনাতলা, বগুড়া।",
-        "male_count": 1398,
-        "female_count": 1274,
-        "hijra_count": 0,
-        "latitude": 25.03287,
-        "longitude": 89.56448
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "উত্তর টেংরাকুড়া কটাপুর বাজার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1086,
-        "female_count": 1153,
-        "hijra_count": 0,
-        "latitude": 24.94929,
-        "longitude": 89.66462
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "এনায়েত আলী উচ্চ বিদ্যালয়, হলিদাবগা, সোনাতলা, বগুড়া।",
-        "male_count": 2125,
-        "female_count": 2220,
-        "hijra_count": 0,
-        "latitude": 24.98777,
-        "longitude": 89.5094
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কড়িতলা এস এইচ উচ্চ বিদ্যালয়",
-        "male_count": 1219,
-        "female_count": 1268,
-        "hijra_count": 0,
-        "latitude": 24.78617,
-        "longitude": 89.58539
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "করমজা সরকারী প্রাথমিক বিদ্যালয় (টিন সেড, নিচ তলা)",
-        "male_count": 0,
-        "female_count": 2286,
-        "hijra_count": 0,
-        "latitude": 24.93926,
-        "longitude": 89.52111
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "করমজা সরকারী প্রাথমিক বিদ্যালয়( ভবন-১, টিন সেট),  হাটকরমজা, সোনাতলা, বগুড়া। (মহিলা কেন্দ্র)",
-        "male_count": 2238,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.93942,
-        "longitude": 89.52135
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কর্পূর দ্বি-পাক্ষিক উচ্চ বিদ্যালয়",
-        "male_count": 1173,
-        "female_count": 1165,
-        "hijra_count": 0,
-        "latitude": 24.99517,
-        "longitude": 89.46855
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কানুপুর সরকারী প্রাথমিক বিদ্যালয়, কানুপুর, সোনাতলা, বগুড়া।",
-        "male_count": 993,
-        "female_count": 1049,
-        "hijra_count": 0,
-        "latitude": 25.04306,
-        "longitude": 89.47399
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কামারপাড়া সরকারী প্রাথমিক বিদ্যালয়, কামারপাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 1323,
-        "female_count": 1427,
-        "hijra_count": 0,
-        "latitude": 25.03039,
-        "longitude": 89.4869
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কামালপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 740,
-        "female_count": 838,
-        "hijra_count": 0,
-        "latitude": 24.77617,
-        "longitude": 89.60903
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কুড়িপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1015,
-        "female_count": 1081,
-        "hijra_count": 0,
-        "latitude": 24.90759,
-        "longitude": 89.59087
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কুতুবপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1150,
-        "female_count": 1238,
-        "hijra_count": 0,
-        "latitude": 24.80842,
-        "longitude": 89.58355
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কুপতলা উত্তর পাড়া সরকারী প্রাথমিক বিদ্যালয়,",
-        "male_count": 1690,
-        "female_count": 1654,
-        "hijra_count": 0,
-        "latitude": 24.89743,
-        "longitude": 89.56024
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "কুপতলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1250,
-        "female_count": 1312,
-        "hijra_count": 0,
-        "latitude": 24.89569,
-        "longitude": 89.55752
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "খাটিয়ামারী সরকারী প্রাথমিক বিদ্যালয়, খাটিয়ামারী, সোনাতলা, বগুড়া।",
-        "male_count": 1239,
-        "female_count": 1210,
-        "hijra_count": 0,
-        "latitude": 24.9943,
-        "longitude": 89.55902
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "খোর্দ্দবলাইল সরকারি প্রাথমিক বিদ্যালয়, (খোর্দ্দবলাইল উচ্চ বিদ্যালয় সংযুক্ত)",
-        "male_count": 1749,
-        "female_count": 1724,
-        "hijra_count": 0,
-        "latitude": 24.92956,
-        "longitude": 89.56995
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "গনকপাড়া সরকারি প্রাথমিক বিদ্যালয় ",
-        "male_count": 2062,
-        "female_count": 2139,
-        "hijra_count": 0,
-        "latitude": 24.92991,
-        "longitude": 89.54188
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "গুড়াভাঙ্গা সরকারী প্রাথমিক বিদ্যালয়, সোনাকানিয়া, সোনাতলা, বগুড়া।",
-        "male_count": 1597,
-        "female_count": 1586,
-        "hijra_count": 0,
-        "latitude": 24.97434,
-        "longitude": 89.51892
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "গোদাগাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1355,
-        "female_count": 1409,
-        "hijra_count": 0,
-        "latitude": 24.9172,
-        "longitude": 89.5453
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ঘঘুমারী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1921,
-        "female_count": 2116,
-        "hijra_count": 0,
-        "latitude": 24.79946,
-        "longitude": 89.58628
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "চকরতিনাথ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 639,
-        "female_count": 554,
-        "hijra_count": 0,
-        "latitude": 24.95436,
-        "longitude": 89.56833
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "চমরগাছা সরকারী প্রাথমিক বিদ্যালয়, চমরগাছা, সোনাতলা, বগুড়া।",
-        "male_count": 1620,
-        "female_count": 1715,
-        "hijra_count": 0,
-        "latitude": 25.05294,
-        "longitude": 89.4893
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "চর চালুয়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1201,
-        "female_count": 1131,
-        "hijra_count": 0,
-        "latitude": 24.96686,
-        "longitude": 89.67311
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "চর দলিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 595,
-        "female_count": 490,
-        "hijra_count": 0,
-        "latitude": 24.98601,
-        "longitude": 89.66487
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "চরপাড়া সরকারি প্রাথমিক বিদ্যালয়, দেবডাংগা,কুতুবপুর ইউপি।",
-        "male_count": 912,
-        "female_count": 953,
-        "hijra_count": 0,
-        "latitude": 24.83964,
-        "longitude": 89.58548
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "চরমাঝবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1163,
-        "female_count": 1210,
-        "hijra_count": 0,
-        "latitude": 24.8001,
-        "longitude": 89.64477
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "চাড়ালকান্দি সরকারী প্রাথমিক বিদ্যালয়, চাড়ালকান্দি, সোনাতলা, বগুড়া।",
-        "male_count": 1399,
-        "female_count": 1440,
-        "hijra_count": 0,
-        "latitude": 24.96304,
-        "longitude": 89.48172
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "চান্দিনা নোয়ারপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 755,
-        "female_count": 762,
-        "hijra_count": 0,
-        "latitude": 24.91733,
-        "longitude": 89.56363
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ছাইহাটা কে এম দ্বি মূখী উচ্চ বিদ্যালয় ",
-        "male_count": 1826,
-        "female_count": 1967,
-        "hijra_count": 0,
-        "latitude": 24.81768,
-        "longitude": 89.54593
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ছাগলধরা সরকারি প্রাথমিক বিদ্যালয় ও ছাগলধরা উচ্চ বিদ্যালয়",
-        "male_count": 1650,
-        "female_count": 1720,
-        "hijra_count": 0,
-        "latitude": 24.85338,
-        "longitude": 89.56884
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ছোট বালুয়া সরকারীর প্রাথমিক বিদ্যালয়, ছোট বালুয়া, সোনাতলা, বগুড়া।",
-        "male_count": 1086,
-        "female_count": 1106,
-        "hijra_count": 0,
-        "latitude": 25.03783,
-        "longitude": 89.47442
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "জামথল উচ্চ বিদ্যালয়",
-        "male_count": 932,
-        "female_count": 921,
-        "hijra_count": 0,
-        "latitude": 24.92438,
-        "longitude": 89.66668
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "জাহানাবাদ সিনিয়র আলিম মাদ্রাসা, উত্তর দিঘলকান্দি,  সোনাতলা, বগুড়া।",
-        "male_count": 1634,
-        "female_count": 1736,
-        "hijra_count": 0,
-        "latitude": 25.01499,
-        "longitude": 89.46039
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "জোড়গাছা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3222,
-        "hijra_count": 0,
-        "latitude": 24.80167,
-        "longitude": 89.54302
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "জোড়গাছা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3193,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.80167,
-        "longitude": 89.54303
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "টেংরাকুড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1583,
-        "female_count": 1443,
-        "hijra_count": 0,
-        "latitude": 24.93903,
-        "longitude": 89.66337
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ডোমকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1969,
-        "female_count": 2030,
-        "hijra_count": 0,
-        "latitude": 24.83534,
-        "longitude": 89.55362
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "তেকানী চুকাইনগর এ এম উচ্চ বিদ্যালয়, পূর্ব তেকানী, সোনাতলা, বগুড়া।",
-        "male_count": 1671,
-        "female_count": 1672,
-        "hijra_count": 0,
-        "latitude": 25.0117,
-        "longitude": 89.55567
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "তেকানী চুকাইনগর পি এম দাখিল মাদ্রাসা, তেকানী চুকাইনগর. সোনাতলা, বগুড়া।",
-        "male_count": 1199,
-        "female_count": 1254,
-        "hijra_count": 0,
-        "latitude": 25.01166,
-        "longitude": 89.56526
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "তেকানী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1019,
-        "female_count": 997,
-        "hijra_count": 0,
-        "latitude": 25.0087,
-        "longitude": 89.55157
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "দক্ষিণ আটকড়িয়া সরকারী প্রাথমিক বিদ্যালয়, দক্ষিণ আটকড়িয়া, সোনাতলা, বগুড়া।",
-        "male_count": 1356,
-        "female_count": 1381,
-        "hijra_count": 0,
-        "latitude": 25.02168,
-        "longitude": 89.45879
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "দক্ষিন চরমাঝিড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 762,
-        "female_count": 734,
-        "hijra_count": 0,
-        "latitude": 24.76757,
-        "longitude": 89.66024
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "দড়িপাড়া সরকারি প্রাথমিক বিদ্যালয়(সংযুক্ত দড়িপাড়া পাইকরতলী দাখিল মাদ্রাসা)",
-        "male_count": 1932,
-        "female_count": 2031,
-        "hijra_count": 0,
-        "latitude": 24.7592,
-        "longitude": 89.60536
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "দিঘলকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1933,
-        "female_count": 1861,
-        "hijra_count": 0,
-        "latitude": 24.87583,
-        "longitude": 89.57547
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "দিঘলকান্দি সরকারী প্রাথমিক বিদ্যালয়, মধ্যদিঘলকান্দি,  সোনাতলা, বগুড়া।",
-        "male_count": 1776,
-        "female_count": 1832,
-        "hijra_count": 0,
-        "latitude": 24.96523,
-        "longitude": 89.49394
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ধর্মকুল সরকারী প্রাথমিক বিদ্যালয়, ধর্মকুল, সোনাতলা, বগুড়া।",
-        "male_count": 1566,
-        "female_count": 1604,
-        "hijra_count": 0,
-        "latitude": 25.00157,
-        "longitude": 89.47643
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ধলিরকান্দি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1343,
-        "female_count": 1423,
-        "hijra_count": 0,
-        "latitude": 24.83274,
-        "longitude": 89.58873
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ধাপ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1463,
-        "female_count": 1463,
-        "hijra_count": 0,
-        "latitude": 24.89453,
-        "longitude": 89.57538
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ধারাবর্ষা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1463,
-        "female_count": 1422,
-        "hijra_count": 0,
-        "latitude": 24.80614,
-        "longitude": 89.70132
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নওখিলা পি,এন উচ্চ বিদ্যালয়",
-        "male_count": 2046,
-        "female_count": 2266,
-        "hijra_count": 0,
-        "latitude": 24.79318,
-        "longitude": 89.58607
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নওদাবগা সরকারী প্রাথমিক বিদ্যালয়, নওদাবগা, সোনাতলা, বগুড়া।",
-        "male_count": 1408,
-        "female_count": 1366,
-        "hijra_count": 0,
-        "latitude": 24.93957,
-        "longitude": 89.51001
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নান্দিনার চর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1251,
-        "female_count": 1143,
-        "hijra_count": 0,
-        "latitude": 24.84771,
-        "longitude": 89.67038
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নামাজখালী সরকারী প্রাথমিক বিদ্যালয়, নামাজখালী, সোনাতলা, বগুড়া।",
-        "male_count": 806,
-        "female_count": 821,
-        "hijra_count": 0,
-        "latitude": 25.0105,
-        "longitude": 89.52291
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নারচী সরকারী প্রাথমিক বিদ্যালয় এবং নারচী মাজেদা রহমান স্কুল এন্ড কলেজ",
-        "male_count": 1762,
-        "female_count": 1861,
-        "hijra_count": 0,
-        "latitude": 24.91006,
-        "longitude": 89.54204
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নিজতিতপরল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 790,
-        "female_count": 846,
-        "hijra_count": 0,
-        "latitude": 24.90698,
-        "longitude": 89.5747
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নিজবলাইল উচ্চ বিদ্যালয়",
-        "male_count": 2193,
-        "female_count": 2208,
-        "hijra_count": 0,
-        "latitude": 24.94472,
-        "longitude": 89.555
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নিজ বোহাইল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 939,
-        "female_count": 1070,
-        "hijra_count": 0,
-        "latitude": 24.77015,
-        "longitude": 89.60693
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নিজাম উদ্দিন উচ্চ বিদ্যালয় , বড়ইকান্দি, কুতুবপুর ইউপি।",
-        "male_count": 1244,
-        "female_count": 1411,
-        "hijra_count": 0,
-        "latitude": 24.82964,
-        "longitude": 89.58051
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "নুরপুর সরকারী প্রাথমিক বিদ্যালয়, নুরপুর, সোনাতলা, বগুড়া।",
-        "male_count": 1836,
-        "female_count": 1880,
-        "hijra_count": 0,
-        "latitude": 24.98616,
-        "longitude": 89.46364
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পদ্মপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2811,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.98896,
-        "longitude": 89.53845
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পশ্চিম তেকানী মোল্লাপাড়া সরকারী প্রাথমিক বিদ্যালয়,  পশ্চিম তেকানী, সোনাতলা, বগুড়া।",
-        "male_count": 694,
-        "female_count": 770,
-        "hijra_count": 0,
-        "latitude": 24.99635,
-        "longitude": 89.5548
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পাইকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1298,
-        "female_count": 1321,
-        "hijra_count": 1,
-        "latitude": 24.87133,
-        "longitude": 89.56526
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পাকুড়িয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1878,
-        "female_count": 1947,
-        "hijra_count": 0,
-        "latitude": 24.81772,
-        "longitude": 89.5786
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পাকুড়িয়ার চর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1144,
-        "female_count": 1066,
-        "hijra_count": 0,
-        "latitude": 24.89873,
-        "longitude": 89.65593
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পাকুল্লা উচ্চ বিদ্যালয়, পাকুল্লা, সোনাতলা, বগুড়া।",
-        "male_count": 2308,
-        "female_count": 2294,
-        "hijra_count": 0,
-        "latitude": 24.98522,
-        "longitude": 89.55742
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পাকেরদহ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 918,
-        "female_count": 935,
-        "hijra_count": 0,
-        "latitude": 24.95382,
-        "longitude": 89.67833
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পাঠানপাড়া সরকারী প্রাথমিক বিদ্যালয়, পাঠানপাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 1238,
-        "female_count": 1189,
-        "hijra_count": 0,
-        "latitude": 24.99602,
-        "longitude": 89.44594
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "পারতিতপরল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1201,
-        "female_count": 1281,
-        "hijra_count": 0,
-        "latitude": 24.90551,
-        "longitude": 89.57117
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ফুলবাড়ী গমির উদ্দিন স্কুল এন্ড কলেজ (পশ্চিম পাশ্বের চত্তর)",
-        "male_count": 0,
-        "female_count": 2525,
-        "hijra_count": 0,
-        "latitude": 24.87916,
-        "longitude": 89.53044
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ফুলবাড়ী গমির উদ্দিন স্কুল এন্ড কলেজ (পূর্ব পাশ্বের চত্তর)",
-        "male_count": 2420,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.87871,
-        "longitude": 89.52994
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1354,
-        "female_count": 1439,
-        "hijra_count": 0,
-        "latitude": 24.87901,
-        "longitude": 89.53026
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বড়ইকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1272,
-        "female_count": 1284,
-        "hijra_count": 0,
-        "latitude": 24.83146,
-        "longitude": 89.58259
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বয়ড়া কারিগরী স্কুল এন্ড কলেজ, চড়পাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 1795,
-        "female_count": 1866,
-        "hijra_count": 0,
-        "latitude": 24.96132,
-        "longitude": 89.52534
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বয়ড়া সরকারী প্রাথমিক বিদ্যালয়,  উত্তর বয়ড়া, সোনাতলা, বগুড়া।",
-        "male_count": 2068,
-        "female_count": 2047,
-        "hijra_count": 0,
-        "latitude": 24.95915,
-        "longitude": 89.52654
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বরুরবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 851,
-        "female_count": 901,
-        "hijra_count": 0,
-        "latitude": 24.92413,
-        "longitude": 89.56047
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বহুলাডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1137,
-        "female_count": 1215,
-        "hijra_count": 0,
-        "latitude": 25.00049,
-        "longitude": 89.58332
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বাগবাড়ী সরকারী প্রাথমিক বিদ্যালয়, বাগবাড়ী, সোনাতলা, বগুড়া।",
-        "male_count": 2124,
-        "female_count": 2140,
-        "hijra_count": 0,
-        "latitude": 25.04945,
-        "longitude": 89.46068
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বালিয়াডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়, বালিয়াডাঙ্গা, সোনাতলা, বগুড়া।",
-        "male_count": 2081,
-        "female_count": 2057,
-        "hijra_count": 0,
-        "latitude": 25.03448,
-        "longitude": 89.56885
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বালুয়াহাট উচ্চ বিদ্যালয়, বড় বালুয়া, সোনাতলা, বগুড়া।",
-        "male_count": 1668,
-        "female_count": 1751,
-        "hijra_count": 0,
-        "latitude": 25.02698,
-        "longitude": 89.46724
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বাঁশহাটা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 799,
-        "female_count": 734,
-        "hijra_count": 0,
-        "latitude": 24.80792,
-        "longitude": 89.56747
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বিবিরপাড়া জে, ইউ দাখিল মাদ্রাসা",
-        "male_count": 1304,
-        "female_count": 1377,
-        "hijra_count": 0,
-        "latitude": 24.77917,
-        "longitude": 89.58448
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "বিরামের পাঁচগাছি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1243,
-        "female_count": 1407,
-        "hijra_count": 0,
-        "latitude": 24.98089,
-        "longitude": 89.56836
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "ভেলাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 839,
-        "female_count": 870,
-        "hijra_count": 0,
-        "latitude": 24.81231,
-        "longitude": 89.53911
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "মথুরাপাড়া আনিলা জাহান মেমোরিয়াল বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1951,
-        "female_count": 2046,
-        "hijra_count": 0,
-        "latitude": 24.85098,
-        "longitude": 89.58401
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "মথুরাপাড়া সরকারি প্রাথমিক বিদ্যালয়, মথুরাপাড়া ও উত্তর শোনপচা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1500,
-        "female_count": 1651,
-        "hijra_count": 0,
-        "latitude": 24.836,
-        "longitude": 89.58783
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "মধুপুর সরকারী প্রাথমিক বিদ্যালয়, মধুপুর, সোনাতলা, বগুড়া।",
-        "male_count": 1930,
-        "female_count": 1946,
-        "hijra_count": 0,
-        "latitude": 25.03347,
-        "longitude": 89.52849
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "মহিচরণ বহুমুখী উচ্চ বিদ্যালয়, মহিচরণহাট, সোনাতলা, বগুড়া। ",
-        "male_count": 1362,
-        "female_count": 1373,
-        "hijra_count": 0,
-        "latitude": 24.96111,
-        "longitude": 89.46757
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "মহিচরণ সরকারী প্রাথমিক বিদ্যালয়, মহিচরণ, সোনাতলা, বগুড়া।",
-        "male_count": 1313,
-        "female_count": 1286,
-        "hijra_count": 0,
-        "latitude": 24.96111,
-        "longitude": 89.46752
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "মহেশ পাড়া সরকারী প্রাথমিক বিদ্যালয়, মহেশ পাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 1661,
-        "female_count": 1711,
-        "hijra_count": 0,
-        "latitude": 25.02027,
-        "longitude": 89.56631
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "মুলবাড়ী কোয়ালীপাড়া সরকারী প্রাথমিক বিদ্যালয়, মূলবাড়ী, সোনাতলা, বগুড়া।",
-        "male_count": 1273,
-        "female_count": 1234,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "রশিদপুর সরকারী প্রাথমিক বিদ্যালয়, রশিদপুর, সোনাতলা, বগুড়া।",
-        "male_count": 1469,
-        "female_count": 1471,
-        "hijra_count": 0,
-        "latitude": 25.01262,
-        "longitude": 89.48109
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "রানীরপাড়া সরকারী প্রাথমিক বিদ্যালয়, রানীরপাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 1632,
-        "female_count": 1624,
-        "hijra_count": 0,
-        "latitude": 25.01961,
-        "longitude": 89.51278
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "রামচন্দ্রপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3021,
-        "hijra_count": 0,
-        "latitude": 24.86509,
-        "longitude": 89.555
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "রামচন্দ্রপুর স্কুল এন্ড কলেজ",
-        "male_count": 2917,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.86519,
-        "longitude": 89.55347
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1838,
-        "female_count": 1816,
-        "hijra_count": 0,
-        "latitude": 24.88738,
-        "longitude": 89.55475
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "রৌহাদহ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 896,
-        "female_count": 922,
-        "hijra_count": 0,
-        "latitude": 24.78828,
-        "longitude": 89.60177
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "লুৎফর রহমান বালিকা উচ্চ বিদ্যালয়, পদ্মপাড়া, সোনাতলা, বগুড়া। (মহিলা কেন্দ্র) ",
-        "male_count": 0,
-        "female_count": 2755,
-        "hijra_count": 0,
-        "latitude": 24.98874,
-        "longitude": 89.53767
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "লোহাগাড়া সরকারী প্রাথমিক বিদ্যালয়, লোহাগাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 844,
-        "female_count": 836,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "শংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1061,
-        "female_count": 1011,
-        "hijra_count": 0,
-        "latitude": 24.83365,
-        "longitude": 89.67165
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "শালিখা উচ্চ বিদ্যালয়, শালিখা, সোনাতলা, বগুড়া।",
-        "male_count": 1890,
-        "female_count": 1872,
-        "hijra_count": 0,
-        "latitude": 25.03282,
-        "longitude": 89.54401
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "শালুখা সরকারি প্রাথমিক বিদ্যালয়, শালুখা।",
-        "male_count": 0,
-        "female_count": 2394,
-        "hijra_count": 2,
-        "latitude": 24.88899,
-        "longitude": 89.56531
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "শিচারপাড়া সরকারী প্রাথমিক বিদ্যালয়, শিচারপাড়া, সোনাতলা, বগুড়া।",
-        "male_count": 2160,
-        "female_count": 2292,
-        "hijra_count": 0,
-        "latitude": 24.99992,
-        "longitude": 89.50535
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "শিমুলতাইড় সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 743,
-        "female_count": 681,
-        "hijra_count": 0,
-        "latitude": 24.99563,
-        "longitude": 89.58986
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "শোনপচা উচ্চ বিদ্যালয়",
-        "male_count": 1606,
-        "female_count": 1582,
-        "hijra_count": 0,
-        "latitude": 24.87728,
-        "longitude": 89.65703
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "শোলারতাইড় সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1456,
-        "female_count": 1486,
-        "hijra_count": 0,
-        "latitude": 24.80534,
-        "longitude": 89.57236
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "শ্যামপুর সরকারী প্রাথমিক বিদ্যালয়, শ্যামপুর, সোনাতলা, বগুড়া।",
-        "male_count": 1417,
-        "female_count": 1366,
-        "hijra_count": 0,
-        "latitude": 24.9618,
-        "longitude": 89.54273
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "সরকারী নাজির আখতার কলেজ (অনার্স ভবন), গড়ফতেপুর, সোনাতলা, বগুড়া।(পুরুষ কেন্দ্র)।",
-        "male_count": 2520,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 25.04343,
-        "longitude": 89.49751
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "সরকারী নাজির আখতার কলেজ (একাডেমিক ভবন), গড়ফতেপুর, সোনাতলা, বগুড়া।(মহিলা কেন্দ্র)",
-        "male_count": 0,
-        "female_count": 2745,
-        "hijra_count": 0,
-        "latitude": 25.04343,
-        "longitude": 89.49751
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "সারিয়াকান্দি পাইলট উচ্চ বালিকা বিদ্যালয়",
-        "male_count": 1612,
-        "female_count": 1693,
-        "hijra_count": 0,
-        "latitude": 24.88722,
-        "longitude": 89.57281
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "সারিয়াকান্দি সরকারি বালক উচ্চ বিদ্যালয়",
-        "male_count": 1983,
-        "female_count": 2129,
-        "hijra_count": 0,
-        "latitude": 24.88694,
-        "longitude": 89.56997
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "সুখানপুকুর উচ্চ বিদ্যালয়, শিহিপুর, সৈয়দ আহম্মেদ কলেজ, সোনাতলা, বগুড়া।",
-        "male_count": 2201,
-        "female_count": 2292,
-        "hijra_count": 0,
-        "latitude": 24.94022,
-        "longitude": 89.49359
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "সুজাইতপুর সরকারী প্রাথমিক বিদ্যালয়, সুজাইতপুর, সোনাতলা, বগুড়া।",
-        "male_count": 2010,
-        "female_count": 2007,
-        "hijra_count": 0,
-        "latitude": 25.02377,
-        "longitude": 89.49998
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "সুতানারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1428,
-        "female_count": 1468,
-        "hijra_count": 0,
-        "latitude": 24.76566,
-        "longitude": 89.58027
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "সোনাতলা মডেল উচ্চ বিদ্যালয় ও কলেজ, পুরাতন বন্দর, সোনাতলা, বগুড়া।",
-        "male_count": 1636,
-        "female_count": 1707,
-        "hijra_count": 0,
-        "latitude": 25.04393,
-        "longitude": 89.50006
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "হরিখালী সরকারী প্রাথমিক বিদ্যালয়, হাঁসরাজ, সোনাতলা, বগুড়া।",
-        "male_count": 1915,
-        "female_count": 1850,
-        "hijra_count": 0,
-        "latitude": 25.00643,
-        "longitude": 89.53353
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "হরিনা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1965,
-        "female_count": 2020,
-        "hijra_count": 1,
-        "latitude": 24.87131,
-        "longitude": 89.52924
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "হাওড়াখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1040,
-        "female_count": 1034,
-        "hijra_count": 0,
-        "latitude": 24.77114,
-        "longitude": 89.59936
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "হাটশেরপুর উচ্চ বিদ্যালয়",
-        "male_count": 957,
-        "female_count": 971,
-        "hijra_count": 0,
-        "latitude": 24.94648,
-        "longitude": 89.56297
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "হিন্দুকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2297,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.88903,
-        "longitude": 89.56534
-    },
-    {
-        "settings_code": 36,
-        "settings_name": "বগুড়া-১",
-        "center_name": "হুয়াকুয়া দ্বি-মুখী উচ্চ বিদ্যালয়, হুয়াকুয়া, সোনাতলা, বগুড়া।",
-        "male_count": 1482,
-        "female_count": 1447,
-        "hijra_count": 0,
-        "latitude": 24.97612,
-        "longitude": 89.54484
-    }
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "আওলাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 611,
+    "female_count": 758,
+    "hijra_count": 0,
+    "latitude": 24.75442,
+    "longitude": 89.60652
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "আগুনিয়াতাইড় সরকারী প্রাথমিক বিদ্যালয়, আগুনিয়াতাইড় উত্তরপাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 1971,
+    "female_count": 2219,
+    "hijra_count": 0,
+    "latitude": 25.04486,
+    "longitude": 89.48964
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "আচারের পাড়া সরকারী প্রাথমিক বিদ্যালয়, আচারের পাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 1190,
+    "female_count": 1190,
+    "hijra_count": 0,
+    "latitude": 24.96356,
+    "longitude": 89.55314
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "আড়িয়া চকনন্দন সরকারী প্রাথমিক বিদ্যালয়, চকনন্দন, সোনাতলা, বগুড়া।",
+    "male_count": 2121,
+    "female_count": 2147,
+    "hijra_count": 0,
+    "latitude": 25.02938,
+    "longitude": 89.51785
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "উত্তর কালাই হাটা সরকারী প্রাথমিক বিদ্যালয়, উত্তর কালাইহাটা , সোনাতলা, বগুড়া।",
+    "male_count": 1398,
+    "female_count": 1274,
+    "hijra_count": 0,
+    "latitude": 25.03287,
+    "longitude": 89.56448
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "উত্তর টেংরাকুড়া কটাপুর বাজার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1086,
+    "female_count": 1153,
+    "hijra_count": 0,
+    "latitude": 24.94929,
+    "longitude": 89.66462
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "এনায়েত আলী উচ্চ বিদ্যালয়, হলিদাবগা, সোনাতলা, বগুড়া।",
+    "male_count": 2125,
+    "female_count": 2220,
+    "hijra_count": 0,
+    "latitude": 24.98777,
+    "longitude": 89.5094
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কড়িতলা এস এইচ উচ্চ বিদ্যালয়",
+    "male_count": 1219,
+    "female_count": 1268,
+    "hijra_count": 0,
+    "latitude": 24.78617,
+    "longitude": 89.58539
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "করমজা সরকারী প্রাথমিক বিদ্যালয় (টিন সেড, নিচ তলা)",
+    "male_count": 0,
+    "female_count": 2286,
+    "hijra_count": 0,
+    "latitude": 24.93926,
+    "longitude": 89.52111
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "করমজা সরকারী প্রাথমিক বিদ্যালয়( ভবন-১, টিন সেট),  হাটকরমজা, সোনাতলা, বগুড়া। (মহিলা কেন্দ্র)",
+    "male_count": 2238,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.93942,
+    "longitude": 89.52135
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কর্পূর দ্বি-পাক্ষিক উচ্চ বিদ্যালয়",
+    "male_count": 1173,
+    "female_count": 1165,
+    "hijra_count": 0,
+    "latitude": 24.99517,
+    "longitude": 89.46855
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কানুপুর সরকারী প্রাথমিক বিদ্যালয়, কানুপুর, সোনাতলা, বগুড়া।",
+    "male_count": 993,
+    "female_count": 1049,
+    "hijra_count": 0,
+    "latitude": 25.04306,
+    "longitude": 89.47399
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কামারপাড়া সরকারী প্রাথমিক বিদ্যালয়, কামারপাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 1323,
+    "female_count": 1427,
+    "hijra_count": 0,
+    "latitude": 25.03039,
+    "longitude": 89.4869
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কামালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 740,
+    "female_count": 838,
+    "hijra_count": 0,
+    "latitude": 24.77617,
+    "longitude": 89.60903
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কুড়িপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1015,
+    "female_count": 1081,
+    "hijra_count": 0,
+    "latitude": 24.90759,
+    "longitude": 89.59087
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কুতুবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1150,
+    "female_count": 1238,
+    "hijra_count": 0,
+    "latitude": 24.80842,
+    "longitude": 89.58355
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কুপতলা উত্তর পাড়া সরকারী প্রাথমিক বিদ্যালয়,",
+    "male_count": 1690,
+    "female_count": 1654,
+    "hijra_count": 0,
+    "latitude": 24.89743,
+    "longitude": 89.56024
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "কুপতলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1250,
+    "female_count": 1312,
+    "hijra_count": 0,
+    "latitude": 24.89569,
+    "longitude": 89.55752
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "খাটিয়ামারী সরকারী প্রাথমিক বিদ্যালয়, খাটিয়ামারী, সোনাতলা, বগুড়া।",
+    "male_count": 1239,
+    "female_count": 1210,
+    "hijra_count": 0,
+    "latitude": 24.9943,
+    "longitude": 89.55902
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "খোর্দ্দবলাইল সরকারি প্রাথমিক বিদ্যালয়, (খোর্দ্দবলাইল উচ্চ বিদ্যালয় সংযুক্ত)",
+    "male_count": 1749,
+    "female_count": 1724,
+    "hijra_count": 0,
+    "latitude": 24.92956,
+    "longitude": 89.56995
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "গনকপাড়া সরকারি প্রাথমিক বিদ্যালয় ",
+    "male_count": 2062,
+    "female_count": 2139,
+    "hijra_count": 0,
+    "latitude": 24.92991,
+    "longitude": 89.54188
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "গুড়াভাঙ্গা সরকারী প্রাথমিক বিদ্যালয়, সোনাকানিয়া, সোনাতলা, বগুড়া।",
+    "male_count": 1597,
+    "female_count": 1586,
+    "hijra_count": 0,
+    "latitude": 24.97434,
+    "longitude": 89.51892
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "গোদাগাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1355,
+    "female_count": 1409,
+    "hijra_count": 0,
+    "latitude": 24.9172,
+    "longitude": 89.5453
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ঘঘুমারী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1921,
+    "female_count": 2116,
+    "hijra_count": 0,
+    "latitude": 24.79946,
+    "longitude": 89.58628
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "চকরতিনাথ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 639,
+    "female_count": 554,
+    "hijra_count": 0,
+    "latitude": 24.95436,
+    "longitude": 89.56833
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "চমরগাছা সরকারী প্রাথমিক বিদ্যালয়, চমরগাছা, সোনাতলা, বগুড়া।",
+    "male_count": 1620,
+    "female_count": 1715,
+    "hijra_count": 0,
+    "latitude": 25.05294,
+    "longitude": 89.4893
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "চর চালুয়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1201,
+    "female_count": 1131,
+    "hijra_count": 0,
+    "latitude": 24.96686,
+    "longitude": 89.67311
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "চর দলিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 595,
+    "female_count": 490,
+    "hijra_count": 0,
+    "latitude": 24.98601,
+    "longitude": 89.66487
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "চরপাড়া সরকারি প্রাথমিক বিদ্যালয়, দেবডাংগা,কুতুবপুর ইউপি।",
+    "male_count": 912,
+    "female_count": 953,
+    "hijra_count": 0,
+    "latitude": 24.83964,
+    "longitude": 89.58548
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "চরমাঝবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1163,
+    "female_count": 1210,
+    "hijra_count": 0,
+    "latitude": 24.8001,
+    "longitude": 89.64477
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "চাড়ালকান্দি সরকারী প্রাথমিক বিদ্যালয়, চাড়ালকান্দি, সোনাতলা, বগুড়া।",
+    "male_count": 1399,
+    "female_count": 1440,
+    "hijra_count": 0,
+    "latitude": 24.96304,
+    "longitude": 89.48172
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "চান্দিনা নোয়ারপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 755,
+    "female_count": 762,
+    "hijra_count": 0,
+    "latitude": 24.91733,
+    "longitude": 89.56363
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ছাইহাটা কে এম দ্বি মূখী উচ্চ বিদ্যালয় ",
+    "male_count": 1826,
+    "female_count": 1967,
+    "hijra_count": 0,
+    "latitude": 24.81768,
+    "longitude": 89.54593
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ছাগলধরা সরকারি প্রাথমিক বিদ্যালয় ও ছাগলধরা উচ্চ বিদ্যালয়",
+    "male_count": 1650,
+    "female_count": 1720,
+    "hijra_count": 0,
+    "latitude": 24.85338,
+    "longitude": 89.56884
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ছোট বালুয়া সরকারীর প্রাথমিক বিদ্যালয়, ছোট বালুয়া, সোনাতলা, বগুড়া।",
+    "male_count": 1086,
+    "female_count": 1106,
+    "hijra_count": 0,
+    "latitude": 25.03783,
+    "longitude": 89.47442
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "জামথল উচ্চ বিদ্যালয়",
+    "male_count": 932,
+    "female_count": 921,
+    "hijra_count": 0,
+    "latitude": 24.92438,
+    "longitude": 89.66668
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "জাহানাবাদ সিনিয়র আলিম মাদ্রাসা, উত্তর দিঘলকান্দি,  সোনাতলা, বগুড়া।",
+    "male_count": 1634,
+    "female_count": 1736,
+    "hijra_count": 0,
+    "latitude": 25.01499,
+    "longitude": 89.46039
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "জোড়গাছা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3222,
+    "hijra_count": 0,
+    "latitude": 24.80167,
+    "longitude": 89.54302
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "জোড়গাছা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3193,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.80167,
+    "longitude": 89.54303
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "টেংরাকুড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1583,
+    "female_count": 1443,
+    "hijra_count": 0,
+    "latitude": 24.93903,
+    "longitude": 89.66337
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ডোমকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1969,
+    "female_count": 2030,
+    "hijra_count": 0,
+    "latitude": 24.83534,
+    "longitude": 89.55362
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "তেকানী চুকাইনগর এ এম উচ্চ বিদ্যালয়, পূর্ব তেকানী, সোনাতলা, বগুড়া।",
+    "male_count": 1671,
+    "female_count": 1672,
+    "hijra_count": 0,
+    "latitude": 25.0117,
+    "longitude": 89.55567
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "তেকানী চুকাইনগর পি এম দাখিল মাদ্রাসা, তেকানী চুকাইনগর. সোনাতলা, বগুড়া।",
+    "male_count": 1199,
+    "female_count": 1254,
+    "hijra_count": 0,
+    "latitude": 25.01166,
+    "longitude": 89.56526
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "তেকানী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1019,
+    "female_count": 997,
+    "hijra_count": 0,
+    "latitude": 25.0087,
+    "longitude": 89.55157
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "দক্ষিণ আটকড়িয়া সরকারী প্রাথমিক বিদ্যালয়, দক্ষিণ আটকড়িয়া, সোনাতলা, বগুড়া।",
+    "male_count": 1356,
+    "female_count": 1381,
+    "hijra_count": 0,
+    "latitude": 25.02168,
+    "longitude": 89.45879
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "দক্ষিন চরমাঝিড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 762,
+    "female_count": 734,
+    "hijra_count": 0,
+    "latitude": 24.76757,
+    "longitude": 89.66024
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "দড়িপাড়া সরকারি প্রাথমিক বিদ্যালয়(সংযুক্ত দড়িপাড়া পাইকরতলী দাখিল মাদ্রাসা)",
+    "male_count": 1932,
+    "female_count": 2031,
+    "hijra_count": 0,
+    "latitude": 24.7592,
+    "longitude": 89.60536
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "দিঘলকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1933,
+    "female_count": 1861,
+    "hijra_count": 0,
+    "latitude": 24.87583,
+    "longitude": 89.57547
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "দিঘলকান্দি সরকারী প্রাথমিক বিদ্যালয়, মধ্যদিঘলকান্দি,  সোনাতলা, বগুড়া।",
+    "male_count": 1776,
+    "female_count": 1832,
+    "hijra_count": 0,
+    "latitude": 24.96523,
+    "longitude": 89.49394
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ধর্মকুল সরকারী প্রাথমিক বিদ্যালয়, ধর্মকুল, সোনাতলা, বগুড়া।",
+    "male_count": 1566,
+    "female_count": 1604,
+    "hijra_count": 0,
+    "latitude": 25.00157,
+    "longitude": 89.47643
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ধলিরকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1343,
+    "female_count": 1423,
+    "hijra_count": 0,
+    "latitude": 24.83274,
+    "longitude": 89.58873
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ধাপ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1463,
+    "female_count": 1463,
+    "hijra_count": 0,
+    "latitude": 24.89453,
+    "longitude": 89.57538
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ধারাবর্ষা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1463,
+    "female_count": 1422,
+    "hijra_count": 0,
+    "latitude": 24.80614,
+    "longitude": 89.70132
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নওখিলা পি,এন উচ্চ বিদ্যালয়",
+    "male_count": 2046,
+    "female_count": 2266,
+    "hijra_count": 0,
+    "latitude": 24.79318,
+    "longitude": 89.58607
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নওদাবগা সরকারী প্রাথমিক বিদ্যালয়, নওদাবগা, সোনাতলা, বগুড়া।",
+    "male_count": 1408,
+    "female_count": 1366,
+    "hijra_count": 0,
+    "latitude": 24.93957,
+    "longitude": 89.51001
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নান্দিনার চর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1251,
+    "female_count": 1143,
+    "hijra_count": 0,
+    "latitude": 24.84771,
+    "longitude": 89.67038
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নামাজখালী সরকারী প্রাথমিক বিদ্যালয়, নামাজখালী, সোনাতলা, বগুড়া।",
+    "male_count": 806,
+    "female_count": 821,
+    "hijra_count": 0,
+    "latitude": 25.0105,
+    "longitude": 89.52291
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নারচী সরকারী প্রাথমিক বিদ্যালয় এবং নারচী মাজেদা রহমান স্কুল এন্ড কলেজ",
+    "male_count": 1762,
+    "female_count": 1861,
+    "hijra_count": 0,
+    "latitude": 24.91006,
+    "longitude": 89.54204
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নিজতিতপরল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 790,
+    "female_count": 846,
+    "hijra_count": 0,
+    "latitude": 24.90698,
+    "longitude": 89.5747
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নিজবলাইল উচ্চ বিদ্যালয়",
+    "male_count": 2193,
+    "female_count": 2208,
+    "hijra_count": 0,
+    "latitude": 24.94472,
+    "longitude": 89.555
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নিজ বোহাইল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 939,
+    "female_count": 1070,
+    "hijra_count": 0,
+    "latitude": 24.77015,
+    "longitude": 89.60693
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নিজাম উদ্দিন উচ্চ বিদ্যালয় , বড়ইকান্দি, কুতুবপুর ইউপি।",
+    "male_count": 1244,
+    "female_count": 1411,
+    "hijra_count": 0,
+    "latitude": 24.82964,
+    "longitude": 89.58051
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "নুরপুর সরকারী প্রাথমিক বিদ্যালয়, নুরপুর, সোনাতলা, বগুড়া।",
+    "male_count": 1836,
+    "female_count": 1880,
+    "hijra_count": 0,
+    "latitude": 24.98616,
+    "longitude": 89.46364
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পদ্মপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2811,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.98896,
+    "longitude": 89.53845
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পশ্চিম তেকানী মোল্লাপাড়া সরকারী প্রাথমিক বিদ্যালয়,  পশ্চিম তেকানী, সোনাতলা, বগুড়া।",
+    "male_count": 694,
+    "female_count": 770,
+    "hijra_count": 0,
+    "latitude": 24.99635,
+    "longitude": 89.5548
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পাইকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1298,
+    "female_count": 1321,
+    "hijra_count": 1,
+    "latitude": 24.87133,
+    "longitude": 89.56526
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পাকুড়িয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1878,
+    "female_count": 1947,
+    "hijra_count": 0,
+    "latitude": 24.81772,
+    "longitude": 89.5786
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পাকুড়িয়ার চর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1144,
+    "female_count": 1066,
+    "hijra_count": 0,
+    "latitude": 24.89873,
+    "longitude": 89.65593
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পাকুল্লা উচ্চ বিদ্যালয়, পাকুল্লা, সোনাতলা, বগুড়া।",
+    "male_count": 2308,
+    "female_count": 2294,
+    "hijra_count": 0,
+    "latitude": 24.98522,
+    "longitude": 89.55742
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পাকেরদহ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 918,
+    "female_count": 935,
+    "hijra_count": 0,
+    "latitude": 24.95382,
+    "longitude": 89.67833
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পাঠানপাড়া সরকারী প্রাথমিক বিদ্যালয়, পাঠানপাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 1238,
+    "female_count": 1189,
+    "hijra_count": 0,
+    "latitude": 24.99602,
+    "longitude": 89.44594
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "পারতিতপরল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1201,
+    "female_count": 1281,
+    "hijra_count": 0,
+    "latitude": 24.90551,
+    "longitude": 89.57117
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ফুলবাড়ী গমির উদ্দিন স্কুল এন্ড কলেজ (পশ্চিম পাশ্বের চত্তর)",
+    "male_count": 0,
+    "female_count": 2525,
+    "hijra_count": 0,
+    "latitude": 24.87916,
+    "longitude": 89.53044
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ফুলবাড়ী গমির উদ্দিন স্কুল এন্ড কলেজ (পূর্ব পাশ্বের চত্তর)",
+    "male_count": 2420,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.87871,
+    "longitude": 89.52994
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1354,
+    "female_count": 1439,
+    "hijra_count": 0,
+    "latitude": 24.87901,
+    "longitude": 89.53026
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বড়ইকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1272,
+    "female_count": 1284,
+    "hijra_count": 0,
+    "latitude": 24.83146,
+    "longitude": 89.58259
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বয়ড়া কারিগরী স্কুল এন্ড কলেজ, চড়পাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 1795,
+    "female_count": 1866,
+    "hijra_count": 0,
+    "latitude": 24.96132,
+    "longitude": 89.52534
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বয়ড়া সরকারী প্রাথমিক বিদ্যালয়,  উত্তর বয়ড়া, সোনাতলা, বগুড়া।",
+    "male_count": 2068,
+    "female_count": 2047,
+    "hijra_count": 0,
+    "latitude": 24.95915,
+    "longitude": 89.52654
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বরুরবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 851,
+    "female_count": 901,
+    "hijra_count": 0,
+    "latitude": 24.92413,
+    "longitude": 89.56047
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বহুলাডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1137,
+    "female_count": 1215,
+    "hijra_count": 0,
+    "latitude": 25.00049,
+    "longitude": 89.58332
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বাগবাড়ী সরকারী প্রাথমিক বিদ্যালয়, বাগবাড়ী, সোনাতলা, বগুড়া।",
+    "male_count": 2124,
+    "female_count": 2140,
+    "hijra_count": 0,
+    "latitude": 25.04945,
+    "longitude": 89.46068
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বালিয়াডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়, বালিয়াডাঙ্গা, সোনাতলা, বগুড়া।",
+    "male_count": 2081,
+    "female_count": 2057,
+    "hijra_count": 0,
+    "latitude": 25.03448,
+    "longitude": 89.56885
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বালুয়াহাট উচ্চ বিদ্যালয়, বড় বালুয়া, সোনাতলা, বগুড়া।",
+    "male_count": 1668,
+    "female_count": 1751,
+    "hijra_count": 0,
+    "latitude": 25.02698,
+    "longitude": 89.46724
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বাঁশহাটা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 799,
+    "female_count": 734,
+    "hijra_count": 0,
+    "latitude": 24.80792,
+    "longitude": 89.56747
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বিবিরপাড়া জে, ইউ দাখিল মাদ্রাসা",
+    "male_count": 1304,
+    "female_count": 1377,
+    "hijra_count": 0,
+    "latitude": 24.77917,
+    "longitude": 89.58448
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "বিরামের পাঁচগাছি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1243,
+    "female_count": 1407,
+    "hijra_count": 0,
+    "latitude": 24.98089,
+    "longitude": 89.56836
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "ভেলাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 839,
+    "female_count": 870,
+    "hijra_count": 0,
+    "latitude": 24.81231,
+    "longitude": 89.53911
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "মথুরাপাড়া আনিলা জাহান মেমোরিয়াল বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1951,
+    "female_count": 2046,
+    "hijra_count": 0,
+    "latitude": 24.85098,
+    "longitude": 89.58401
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "মথুরাপাড়া সরকারি প্রাথমিক বিদ্যালয়, মথুরাপাড়া ও উত্তর শোনপচা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1500,
+    "female_count": 1651,
+    "hijra_count": 0,
+    "latitude": 24.836,
+    "longitude": 89.58783
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "মধুপুর সরকারী প্রাথমিক বিদ্যালয়, মধুপুর, সোনাতলা, বগুড়া।",
+    "male_count": 1930,
+    "female_count": 1946,
+    "hijra_count": 0,
+    "latitude": 25.03347,
+    "longitude": 89.52849
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "মহিচরণ বহুমুখী উচ্চ বিদ্যালয়, মহিচরণহাট, সোনাতলা, বগুড়া। ",
+    "male_count": 1362,
+    "female_count": 1373,
+    "hijra_count": 0,
+    "latitude": 24.96111,
+    "longitude": 89.46757
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "মহিচরণ সরকারী প্রাথমিক বিদ্যালয়, মহিচরণ, সোনাতলা, বগুড়া।",
+    "male_count": 1313,
+    "female_count": 1286,
+    "hijra_count": 0,
+    "latitude": 24.96111,
+    "longitude": 89.46752
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "মহেশ পাড়া সরকারী প্রাথমিক বিদ্যালয়, মহেশ পাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 1661,
+    "female_count": 1711,
+    "hijra_count": 0,
+    "latitude": 25.02027,
+    "longitude": 89.56631
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "মুলবাড়ী কোয়ালীপাড়া সরকারী প্রাথমিক বিদ্যালয়, মূলবাড়ী, সোনাতলা, বগুড়া।",
+    "male_count": 1273,
+    "female_count": 1234,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "রশিদপুর সরকারী প্রাথমিক বিদ্যালয়, রশিদপুর, সোনাতলা, বগুড়া।",
+    "male_count": 1469,
+    "female_count": 1471,
+    "hijra_count": 0,
+    "latitude": 25.01262,
+    "longitude": 89.48109
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "রানীরপাড়া সরকারী প্রাথমিক বিদ্যালয়, রানীরপাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 1632,
+    "female_count": 1624,
+    "hijra_count": 0,
+    "latitude": 25.01961,
+    "longitude": 89.51278
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "রামচন্দ্রপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3021,
+    "hijra_count": 0,
+    "latitude": 24.86509,
+    "longitude": 89.555
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "রামচন্দ্রপুর স্কুল এন্ড কলেজ",
+    "male_count": 2917,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.86519,
+    "longitude": 89.55347
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1838,
+    "female_count": 1816,
+    "hijra_count": 0,
+    "latitude": 24.88738,
+    "longitude": 89.55475
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "রৌহাদহ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 896,
+    "female_count": 922,
+    "hijra_count": 0,
+    "latitude": 24.78828,
+    "longitude": 89.60177
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "লুৎফর রহমান বালিকা উচ্চ বিদ্যালয়, পদ্মপাড়া, সোনাতলা, বগুড়া। (মহিলা কেন্দ্র) ",
+    "male_count": 0,
+    "female_count": 2755,
+    "hijra_count": 0,
+    "latitude": 24.98874,
+    "longitude": 89.53767
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "লোহাগাড়া সরকারী প্রাথমিক বিদ্যালয়, লোহাগাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 844,
+    "female_count": 836,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "শংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1061,
+    "female_count": 1011,
+    "hijra_count": 0,
+    "latitude": 24.83365,
+    "longitude": 89.67165
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "শালিখা উচ্চ বিদ্যালয়, শালিখা, সোনাতলা, বগুড়া।",
+    "male_count": 1890,
+    "female_count": 1872,
+    "hijra_count": 0,
+    "latitude": 25.03282,
+    "longitude": 89.54401
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "শালুখা সরকারি প্রাথমিক বিদ্যালয়, শালুখা।",
+    "male_count": 0,
+    "female_count": 2394,
+    "hijra_count": 2,
+    "latitude": 24.88899,
+    "longitude": 89.56531
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "শিচারপাড়া সরকারী প্রাথমিক বিদ্যালয়, শিচারপাড়া, সোনাতলা, বগুড়া।",
+    "male_count": 2160,
+    "female_count": 2292,
+    "hijra_count": 0,
+    "latitude": 24.99992,
+    "longitude": 89.50535
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "শিমুলতাইড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 743,
+    "female_count": 681,
+    "hijra_count": 0,
+    "latitude": 24.99563,
+    "longitude": 89.58986
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "শোনপচা উচ্চ বিদ্যালয়",
+    "male_count": 1606,
+    "female_count": 1582,
+    "hijra_count": 0,
+    "latitude": 24.87728,
+    "longitude": 89.65703
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "শোলারতাইড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1456,
+    "female_count": 1486,
+    "hijra_count": 0,
+    "latitude": 24.80534,
+    "longitude": 89.57236
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "শ্যামপুর সরকারী প্রাথমিক বিদ্যালয়, শ্যামপুর, সোনাতলা, বগুড়া।",
+    "male_count": 1417,
+    "female_count": 1366,
+    "hijra_count": 0,
+    "latitude": 24.9618,
+    "longitude": 89.54273
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "সরকারী নাজির আখতার কলেজ (অনার্স ভবন), গড়ফতেপুর, সোনাতলা, বগুড়া।(পুরুষ কেন্দ্র)।",
+    "male_count": 2520,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 25.04343,
+    "longitude": 89.49751
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "সরকারী নাজির আখতার কলেজ (একাডেমিক ভবন), গড়ফতেপুর, সোনাতলা, বগুড়া।(মহিলা কেন্দ্র)",
+    "male_count": 0,
+    "female_count": 2745,
+    "hijra_count": 0,
+    "latitude": 25.04343,
+    "longitude": 89.49751
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "সারিয়াকান্দি পাইলট উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 1612,
+    "female_count": 1693,
+    "hijra_count": 0,
+    "latitude": 24.88722,
+    "longitude": 89.57281
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "সারিয়াকান্দি সরকারি বালক উচ্চ বিদ্যালয়",
+    "male_count": 1983,
+    "female_count": 2129,
+    "hijra_count": 0,
+    "latitude": 24.88694,
+    "longitude": 89.56997
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "সুখানপুকুর উচ্চ বিদ্যালয়, শিহিপুর, সৈয়দ আহম্মেদ কলেজ, সোনাতলা, বগুড়া।",
+    "male_count": 2201,
+    "female_count": 2292,
+    "hijra_count": 0,
+    "latitude": 24.94022,
+    "longitude": 89.49359
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "সুজাইতপুর সরকারী প্রাথমিক বিদ্যালয়, সুজাইতপুর, সোনাতলা, বগুড়া।",
+    "male_count": 2010,
+    "female_count": 2007,
+    "hijra_count": 0,
+    "latitude": 25.02377,
+    "longitude": 89.49998
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "সুতানারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1428,
+    "female_count": 1468,
+    "hijra_count": 0,
+    "latitude": 24.76566,
+    "longitude": 89.58027
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "সোনাতলা মডেল উচ্চ বিদ্যালয় ও কলেজ, পুরাতন বন্দর, সোনাতলা, বগুড়া।",
+    "male_count": 1636,
+    "female_count": 1707,
+    "hijra_count": 0,
+    "latitude": 25.04393,
+    "longitude": 89.50006
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "হরিখালী সরকারী প্রাথমিক বিদ্যালয়, হাঁসরাজ, সোনাতলা, বগুড়া।",
+    "male_count": 1915,
+    "female_count": 1850,
+    "hijra_count": 0,
+    "latitude": 25.00643,
+    "longitude": 89.53353
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "হরিনা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1965,
+    "female_count": 2020,
+    "hijra_count": 1,
+    "latitude": 24.87131,
+    "longitude": 89.52924
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "হাওড়াখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1040,
+    "female_count": 1034,
+    "hijra_count": 0,
+    "latitude": 24.77114,
+    "longitude": 89.59936
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "হাটশেরপুর উচ্চ বিদ্যালয়",
+    "male_count": 957,
+    "female_count": 971,
+    "hijra_count": 0,
+    "latitude": 24.94648,
+    "longitude": 89.56297
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "হিন্দুকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2297,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.88903,
+    "longitude": 89.56534
+  },
+  {
+    "settings_code": 36,
+    "settings_name": "বগুড়া-১",
+    "center_name": "হুয়াকুয়া দ্বি-মুখী উচ্চ বিদ্যালয়, হুয়াকুয়া, সোনাতলা, বগুড়া।",
+    "male_count": 1482,
+    "female_count": 1447,
+    "hijra_count": 0,
+    "latitude": 24.97612,
+    "longitude": 89.54484
+  }
 ]

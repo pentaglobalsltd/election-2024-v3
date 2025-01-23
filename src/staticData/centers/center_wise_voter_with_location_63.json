@@ -1,1442 +1,1442 @@
 [
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১০। নান্দিনা কামালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1175,
-        "female_count": 1158,
-        "hijra_count": 0,
-        "latitude": 24.39789,
-        "longitude": 89.62701
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১১। ঝাটিবেলাই ছাদেক আলী উচ্চ বিদ্যালয়",
-        "male_count": 1160,
-        "female_count": 1168,
-        "hijra_count": 0,
-        "latitude": 24.382,
-        "longitude": 89.61332
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১২। কোনাবাড়ী ইসহাক উচ্চ বিদ্যালয়",
-        "male_count": 1279,
-        "female_count": 1238,
-        "hijra_count": 0,
-        "latitude": 24.40459,
-        "longitude": 89.64722
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১৩। স্বল্প মাহমুদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 561,
-        "female_count": 530,
-        "hijra_count": 0,
-        "latitude": 24.40646,
-        "longitude": 89.62855
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১৪। বড়ধুল আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1979,
-        "female_count": 1927,
-        "hijra_count": 0,
-        "latitude": 24.39248,
-        "longitude": 89.64462
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১৬। চর বড়ধুল দাখিল মাদ্রাসা",
-        "male_count": 1267,
-        "female_count": 1238,
-        "hijra_count": 0,
-        "latitude": 24.37259,
-        "longitude": 89.66502
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১৭। চালা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 987,
-        "female_count": 982,
-        "hijra_count": 0,
-        "latitude": 24.39784,
-        "longitude": 89.6659
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১৮। চক শাহবাজপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 815,
-        "female_count": 789,
-        "hijra_count": 0,
-        "latitude": 24.38972,
-        "longitude": 89.66919
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১৯। এম, ভি ভারাংগা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 971,
-        "female_count": 941,
-        "hijra_count": 0,
-        "latitude": 24.38721,
-        "longitude": 89.68329
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "১। বাজার ভদ্রঘাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1889,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.44455,
-        "longitude": 89.62063
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "২০। ঝাঐল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1714,
-        "female_count": 1658,
-        "hijra_count": 0,
-        "latitude": 24.40203,
-        "longitude": 89.67422
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "২২। আব্দুল জলিল স্মৃতি উচ্চ বিদ্যালয়",
-        "male_count": 2008,
-        "female_count": 1983,
-        "hijra_count": 0,
-        "latitude": 24.40459,
-        "longitude": 89.66286
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "২৪। তেঘরী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1098,
-        "female_count": 1039,
-        "hijra_count": 0,
-        "latitude": 24.42038,
-        "longitude": 89.66319
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "২৬। ইসলাম নগর দারুস সুন্নাত ফাজিল মাদ্রাসা",
-        "male_count": 2892,
-        "female_count": 2833,
-        "hijra_count": 0,
-        "latitude": 24.41645,
-        "longitude": 89.65614
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "২৭। দশশিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1359,
-        "female_count": 1255,
-        "hijra_count": 0,
-        "latitude": 24.36238,
-        "longitude": 89.62639
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "২৮। বড়কুড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1936,
-        "female_count": 1903,
-        "hijra_count": 0,
-        "latitude": 24.37289,
-        "longitude": 89.63364
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "২। ভদ্রঘাট শামছুন মহসীন উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1943,
-        "hijra_count": 0,
-        "latitude": 24.44455,
-        "longitude": 89.62062
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩০। চরকুড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1482,
-        "female_count": 1368,
-        "hijra_count": 0,
-        "latitude": 24.37476,
-        "longitude": 89.63982
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩১। জামতৈল মডেল সরকারি প্রাথমিক বিদ্যালয় (নতুন ভবন)",
-        "male_count": 1444,
-        "female_count": 1466,
-        "hijra_count": 0,
-        "latitude": 24.36179,
-        "longitude": 89.65415
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩২। জামতৈল মডেল সরকারি প্রাথমিক বিদ্যালয় (নজরুল ভবন)",
-        "male_count": 1618,
-        "female_count": 1688,
-        "hijra_count": 0,
-        "latitude": 24.36175,
-        "longitude": 89.65413
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩৩। কর্ণসূতি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1627,
-        "female_count": 1586,
-        "hijra_count": 0,
-        "latitude": 24.3528,
-        "longitude": 89.63954
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩৪। কামারখন্দ সিনিয়র ফাজিল মাদ্রাসা",
-        "male_count": 1036,
-        "female_count": 1058,
-        "hijra_count": 0,
-        "latitude": 24.36449,
-        "longitude": 89.64855
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩৫। পাকুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1172,
-        "female_count": 1113,
-        "hijra_count": 0,
-        "latitude": 24.38414,
-        "longitude": 89.657
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩৬। চরটেংরাইল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2068,
-        "female_count": 2025,
-        "hijra_count": 0,
-        "latitude": 24.35866,
-        "longitude": 89.66947
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩৮। মফিজ উদ্দিন তালুকদার স্মৃতি উচ্চ বিদ্যালয়",
-        "male_count": 824,
-        "female_count": 841,
-        "hijra_count": 0,
-        "latitude": 24.37335,
-        "longitude": 89.67336
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩৯। আলোকদিয়ার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1181,
-        "female_count": 1115,
-        "hijra_count": 0,
-        "latitude": 24.36851,
-        "longitude": 89.67165
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৩। কুটির চর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1462,
-        "female_count": 1475,
-        "hijra_count": 0,
-        "latitude": 24.43358,
-        "longitude": 89.60825
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪০। নান্দিনা মধু সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1681,
-        "female_count": 1597,
-        "hijra_count": 0,
-        "latitude": 24.37196,
-        "longitude": 89.68664
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪১। রসুলপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1522,
-        "female_count": 1425,
-        "hijra_count": 0,
-        "latitude": 24.33365,
-        "longitude": 89.64123
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪৩। বারাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2110,
-        "female_count": 1972,
-        "hijra_count": 0,
-        "latitude": 24.34047,
-        "longitude": 89.65155
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪৪। ডি ডি শাহবাজপুর সরকারি প্রাথমিক",
-        "male_count": 1227,
-        "female_count": 1225,
-        "hijra_count": 0,
-        "latitude": 24.34842,
-        "longitude": 89.626
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪৫। জটিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 711,
-        "female_count": 676,
-        "hijra_count": 0,
-        "latitude": 24.33607,
-        "longitude": 89.62686
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪৬। ধলেশ্বর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1071,
-        "female_count": 1089,
-        "hijra_count": 0,
-        "latitude": 24.34808,
-        "longitude": 89.66131
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪৭। ঠাকুরঝিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 602,
-        "female_count": 550,
-        "hijra_count": 0,
-        "latitude": 24.34838,
-        "longitude": 89.67018
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪৮। হায়দারপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 856,
-        "female_count": 809,
-        "hijra_count": 0,
-        "latitude": 24.35099,
-        "longitude": 89.67501
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৪৯। শ্যামপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 680,
-        "female_count": 660,
-        "hijra_count": 0,
-        "latitude": 24.34055,
-        "longitude": 89.67263
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৫০। কাজিপুরা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 735,
-        "female_count": 798,
-        "hijra_count": 0,
-        "latitude": 24.34152,
-        "longitude": 89.68278
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৫১। বাঁশবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 924,
-        "female_count": 848,
-        "hijra_count": 0,
-        "latitude": 24.34816,
-        "longitude": 89.68526
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৫৩। চৌবাড়ী ইসলামীয়া উচ্চ বিদ্যালয়",
-        "male_count": 1864,
-        "female_count": 1820,
-        "hijra_count": 0,
-        "latitude": 24.31923,
-        "longitude": 89.64907
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৫৪। রায়দৌলতপুর দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1262,
-        "female_count": 1271,
-        "hijra_count": 0,
-        "latitude": 24.31001,
-        "longitude": 89.63913
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৫৫। রায়দৌলতপুর উচ্চ বিদ্যালয়",
-        "male_count": 984,
-        "female_count": 976,
-        "hijra_count": 0,
-        "latitude": 24.32132,
-        "longitude": 89.63119
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৫। চৈরগাঁতী উচ্চ মাধ্যমিক বিদ্যালয়",
-        "male_count": 946,
-        "female_count": 887,
-        "hijra_count": 0,
-        "latitude": 24.41371,
-        "longitude": 89.62178
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৬। মধ্য ভদ্রঘাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1469,
-        "female_count": 1328,
-        "hijra_count": 0,
-        "latitude": 24.41444,
-        "longitude": 89.6134
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৭। উদয়কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1637,
-        "female_count": 1509,
-        "hijra_count": 0,
-        "latitude": 24.41442,
-        "longitude": 89.61177
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৮। মুগবেলাই লুৎফিয়া উচ্চ বিদ্যালয়",
-        "male_count": 1156,
-        "female_count": 1105,
-        "hijra_count": 0,
-        "latitude": 24.39541,
-        "longitude": 89.60823
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "৯। চৌদুয়ার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1011,
-        "female_count": 976,
-        "hijra_count": 0,
-        "latitude": 24.39583,
-        "longitude": 89.62197
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "আজিজিয়া হাফিজিয়া দাখিল মাদ্রাসা",
-        "male_count": 904,
-        "female_count": 899,
-        "hijra_count": 0,
-        "latitude": 24.49952,
-        "longitude": 89.67989
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "আড়িয়া মোহন উচ্চ বিদ্যালয়",
-        "male_count": 713,
-        "female_count": 681,
-        "hijra_count": 0,
-        "latitude": 24.42993,
-        "longitude": 89.67616
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "আব্দুল্লাহ আল মাহমুদ মেমোরিয়াল উচ্চ বিদ্যালয়",
-        "male_count": 2435,
-        "female_count": 2435,
-        "hijra_count": 0,
-        "latitude": 24.44882,
-        "longitude": 89.6676
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "উত্তর সয়াধানগড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2886,
-        "hijra_count": 0,
-        "latitude": 24.45935,
-        "longitude": 89.68928
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "উত্তর সারটিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2075,
-        "female_count": 1990,
-        "hijra_count": 0,
-        "latitude": 24.42887,
-        "longitude": 89.66101
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "একডালা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4418,
-        "hijra_count": 0,
-        "latitude": 24.47018,
-        "longitude": 89.71512
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "এস.বি. রেলওয়ে কলোনী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1423,
-        "female_count": 1503,
-        "hijra_count": 0,
-        "latitude": 24.4497,
-        "longitude": 89.70375
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "কড্ডা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 888,
-        "female_count": 855,
-        "hijra_count": 0,
-        "latitude": 24.39938,
-        "longitude": 89.69062
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "কাওয়াকোলা এবতেদায়ী মাদ্রাসা",
-        "male_count": 561,
-        "female_count": 697,
-        "hijra_count": 0,
-        "latitude": 24.48735,
-        "longitude": 89.69917
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "কান্দাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1911,
-        "female_count": 1869,
-        "hijra_count": 0,
-        "latitude": 24.43064,
-        "longitude": 89.68378
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "কালিয়া কান্দাপাড়া উচ্চ বিদ্যালয়",
-        "male_count": 2138,
-        "female_count": 2286,
-        "hijra_count": 0,
-        "latitude": 24.43114,
-        "longitude": 89.68397
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "কাশিয়াহাটা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 971,
-        "female_count": 855,
-        "hijra_count": 0,
-        "latitude": 24.41017,
-        "longitude": 89.70077
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "কৈগাড়ী দোরতা এবতেদায়ী মাদ্র্রাসা",
-        "male_count": 599,
-        "female_count": 712,
-        "hijra_count": 0,
-        "latitude": 24.47351,
-        "longitude": 89.75426
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "কোবদাসপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1817,
-        "female_count": 1896,
-        "hijra_count": 0,
-        "latitude": 24.47454,
-        "longitude": 89.70777
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "খামার পাইকশা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 688,
-        "female_count": 619,
-        "hijra_count": 0,
-        "latitude": 24.41441,
-        "longitude": 89.64579
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "খোকশাবাড়ী ইউপি ভবন",
-        "male_count": 1313,
-        "female_count": 1286,
-        "hijra_count": 0,
-        "latitude": 24.48513,
-        "longitude": 89.69257
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "খোকশাবাড়ী নিস্তারিনী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1644,
-        "female_count": 1591,
-        "hijra_count": 0,
-        "latitude": 24.48487,
-        "longitude": 89.69086
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "খোর্দ্দ শিয়ালকোল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1161,
-        "female_count": 1142,
-        "hijra_count": 0,
-        "latitude": 24.44236,
-        "longitude": 89.67606
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "গৌরী আরবান উচ্চ বালিকা বিদ্যালয়",
-        "male_count": 1948,
-        "female_count": 2094,
-        "hijra_count": 0,
-        "latitude": 24.46506,
-        "longitude": 89.71487
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "চন্ডিদাসগাঁতী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2072,
-        "female_count": 2040,
-        "hijra_count": 0,
-        "latitude": 24.44861,
-        "longitude": 89.64465
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "চন্দ্রকণা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1416,
-        "female_count": 1353,
-        "hijra_count": 0,
-        "latitude": 24.47251,
-        "longitude": 89.67689
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "চর কল্যাণী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2716,
-        "female_count": 2588,
-        "hijra_count": 0,
-        "latitude": 24.43968,
-        "longitude": 89.68568
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "চরকাটেংগা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1220,
-        "female_count": 1273,
-        "hijra_count": 0,
-        "latitude": 24.52943,
-        "longitude": 89.74368
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "চর রায়পুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1875,
-        "female_count": 1957,
-        "hijra_count": 0,
-        "latitude": 24.43783,
-        "longitude": 89.70527
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "চরহরিপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1183,
-        "female_count": 1035,
-        "hijra_count": 0,
-        "latitude": 24.4217,
-        "longitude": 89.67067
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "চিথুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 385,
-        "female_count": 464,
-        "hijra_count": 0,
-        "latitude": 24.48083,
-        "longitude": 89.69873
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "ছাতিয়ানতলী মোরগ্রাম টেকনিক্যাল স্কুল এন্ড বিএম কলেজ",
-        "male_count": 3148,
-        "female_count": 2801,
-        "hijra_count": 0,
-        "latitude": 24.40873,
-        "longitude": 89.71285
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "জগৎগাঁতী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1063,
-        "female_count": 980,
-        "hijra_count": 0,
-        "latitude": 24.42715,
-        "longitude": 89.64444
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "জামুয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 596,
-        "female_count": 578,
-        "hijra_count": 0,
-        "latitude": 24.42009,
-        "longitude": 89.6333
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "জারিলা মধ্যপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 682,
-        "female_count": 576,
-        "hijra_count": 0,
-        "latitude": 24.37344,
-        "longitude": 89.69966
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "জাহান আরা উচ্চ বিদ্যালয়",
-        "male_count": 1707,
-        "female_count": 1697,
-        "hijra_count": 0,
-        "latitude": 24.45712,
-        "longitude": 89.70739
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "জ্ঞানদায়িনী উচ্চ বিদ্যালয়",
-        "male_count": 2807,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.45815,
-        "longitude": 89.70388
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "টেকনিক্যাল স্কুল এন্ড কলেজ",
-        "male_count": 4334,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.46633,
-        "longitude": 89.71335
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "ডাঃ নওশের আলী মেমোরিয়াল বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3047,
-        "hijra_count": 0,
-        "latitude": 24.4485,
-        "longitude": 89.69825
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "তেতুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1538,
-        "female_count": 1427,
-        "hijra_count": 0,
-        "latitude": 24.40787,
-        "longitude": 89.68164
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "তেলকুপি দারুস সুন্নাহ দাখিল মাদ্রাসা",
-        "male_count": 1312,
-        "female_count": 1309,
-        "hijra_count": 0,
-        "latitude": 24.46887,
-        "longitude": 89.68428
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "দারুল ইসলাম একাডেমী রেজি: প্রাথ: ও  উচ্চ বিদ্যালয়",
-        "male_count": 2693,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.45554,
-        "longitude": 89.68879
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "দিঘলকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1537,
-        "female_count": 1455,
-        "hijra_count": 0,
-        "latitude": 24.42476,
-        "longitude": 89.70653
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "দিয়ার বৈদ্যনাথ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1888,
-        "female_count": 1942,
-        "hijra_count": 0,
-        "latitude": 24.44869,
-        "longitude": 89.68038
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "দোগাছি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1206,
-        "female_count": 1209,
-        "hijra_count": 0,
-        "latitude": 24.41085,
-        "longitude": 89.59703
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "ধানবান্ধি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2022,
-        "female_count": 2210,
-        "hijra_count": 0,
-        "latitude": 24.4597,
-        "longitude": 89.71714
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "ধুকুরিয়া বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 1183,
-        "female_count": 1196,
-        "hijra_count": 0,
-        "latitude": 24.42961,
-        "longitude": 89.62792
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "নতুন ভাঙ্গাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1727,
-        "female_count": 1883,
-        "hijra_count": 0,
-        "latitude": 24.4686,
-        "longitude": 89.69074
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "পাইকপাড়া মডেল হাই স্কুল",
-        "male_count": 2351,
-        "female_count": 2378,
-        "hijra_count": 0,
-        "latitude": 24.42685,
-        "longitude": 89.70472
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "পাঁচিল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1167,
-        "female_count": 1152,
-        "hijra_count": 0,
-        "latitude": 24.5127,
-        "longitude": 89.68097
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "পূর্বদিয়ার পাচিল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1508,
-        "female_count": 1498,
-        "hijra_count": 0,
-        "latitude": 24.50924,
-        "longitude": 89.67949
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "পূর্ব মোহনপুর কমিউনিটি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1548,
-        "female_count": 1309,
-        "hijra_count": 0,
-        "latitude": 24.40315,
-        "longitude": 89.71009
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "পোড়াবাড়ী উচ্চ বিদ্যালয়",
-        "male_count": 1289,
-        "female_count": 1273,
-        "hijra_count": 0,
-        "latitude": 24.39069,
-        "longitude": 89.69494
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "পোড়াবাড়ী দাখিল মাদ্রাসা",
-        "male_count": 1458,
-        "female_count": 1307,
-        "hijra_count": 0,
-        "latitude": 24.38347,
-        "longitude": 89.68933
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "ফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 920,
-        "female_count": 978,
-        "hijra_count": 0,
-        "latitude": 24.46377,
-        "longitude": 89.67971
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বড় কয়ড়া কমিউনিটি ক্লিনিক",
-        "male_count": 869,
-        "female_count": 930,
-        "hijra_count": 0,
-        "latitude": 24.4826,
-        "longitude": 89.74469
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বড় শিমুল পঞ্চসোনা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1619,
-        "female_count": 1501,
-        "hijra_count": 0,
-        "latitude": 24.38795,
-        "longitude": 89.73463
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বনবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2814,
-        "female_count": 2843,
-        "hijra_count": 0,
-        "latitude": 24.42694,
-        "longitude": 89.70472
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বনোয়ারী লাল সরকারী উচ্চ বিদ্যালয়",
-        "male_count": 791,
-        "female_count": 767,
-        "hijra_count": 0,
-        "latitude": 24.4612,
-        "longitude": 89.71972
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বর্ণি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 733,
-        "female_count": 893,
-        "hijra_count": 0,
-        "latitude": 24.4766,
-        "longitude": 89.75045
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বহুতী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1507,
-        "female_count": 1372,
-        "hijra_count": 0,
-        "latitude": 24.44003,
-        "longitude": 89.62886
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বাঐতারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1475,
-        "female_count": 1438,
-        "hijra_count": 0,
-        "latitude": 24.40398,
-        "longitude": 89.70567
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বানিয়াগাঁতী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2051,
-        "female_count": 2009,
-        "hijra_count": 0,
-        "latitude": 24.48367,
-        "longitude": 89.6697
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বীনাপানি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 935,
-        "female_count": 1060,
-        "hijra_count": 0,
-        "latitude": 24.46219,
-        "longitude": 89.69974
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "বৈদ্য-দোগাছি সরকারি প্রাথমিক বিদ্যালয় ",
-        "male_count": 923,
-        "female_count": 918,
-        "hijra_count": 0,
-        "latitude": 24.41085,
-        "longitude": 89.59703
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "ভিক্টোরিয়া উচ্চ বিদ্যালয়",
-        "male_count": 3499,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.46539,
-        "longitude": 89.70721
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মদিনাতুল উলম হাফেজিয়া কওমিয়া কিন্ডারগার্টেন মাদ্রাসা",
-        "male_count": 1016,
-        "female_count": 1139,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মল্লিকা ছানাউল্লাহ আনসারী উচ্চ বিদ্যালয়",
-        "male_count": 915,
-        "female_count": 932,
-        "hijra_count": 0,
-        "latitude": 24.43418,
-        "longitude": 89.71188
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মল্লিকা ছানাউল্লাহ আনসারী উচ্চ বিদ্যালয়, বন্যা আশ্রয়কেন্দ্র",
-        "male_count": 1415,
-        "female_count": 1384,
-        "hijra_count": 0,
-        "latitude": 24.43418,
-        "longitude": 89.71184
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মাছুমপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3017,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.44839,
-        "longitude": 89.69819
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মালশাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1321,
-        "female_count": 1396,
-        "hijra_count": 0,
-        "latitude": 24.45004,
-        "longitude": 89.71207
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মাহমুদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1784,
-        "female_count": 1826,
-        "hijra_count": 1,
-        "latitude": 24.44483,
-        "longitude": 89.70294
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মিরপুর উচ্চ বিদ্যালয়",
-        "male_count": 1333,
-        "female_count": 1411,
-        "hijra_count": 0,
-        "latitude": 24.4446,
-        "longitude": 89.70984
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মিরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1503,
-        "female_count": 1513,
-        "hijra_count": 0,
-        "latitude": 24.44482,
-        "longitude": 89.7098
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "মুলিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1667,
-        "female_count": 1591,
-        "hijra_count": 0,
-        "latitude": 24.39499,
-        "longitude": 89.70466
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "যমুনা ডিগ্রী কলেজ",
-        "male_count": 1866,
-        "female_count": 1731,
-        "hijra_count": 0,
-        "latitude": 24.38468,
-        "longitude": 89.71155
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "যমুনাবালি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 902,
-        "female_count": 716,
-        "hijra_count": 0,
-        "latitude": 24.37362,
-        "longitude": 89.74854
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1906,
-        "female_count": 1838,
-        "hijra_count": 0,
-        "latitude": 24.45081,
-        "longitude": 89.6703
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "রজব আলী বিজ্ঞান মেমোরিয়াল কলেজ",
-        "male_count": 2916,
-        "female_count": 3057,
-        "hijra_count": 0,
-        "latitude": 24.45167,
-        "longitude": 89.69498
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "রহমতগঞ্জ বালিকা উচ্চ বিদ্যালয় বিদ্যালয়",
-        "male_count": 1273,
-        "female_count": 1462,
-        "hijra_count": 0,
-        "latitude": 24.46489,
-        "longitude": 89.69046
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "রাণীগ্রাম বালক সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2239,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.47786,
-        "longitude": 89.7007
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "রাণীগ্রাম বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2107,
-        "hijra_count": 0,
-        "latitude": 24.4774,
-        "longitude": 89.69828
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "রায়পুর কওমি জুট মিল উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2089,
-        "hijra_count": 0,
-        "latitude": 24.44021,
-        "longitude": 89.69533
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "রায়পুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2121,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.4403,
-        "longitude": 89.70087
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "শহীদগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1277,
-        "female_count": 1349,
-        "hijra_count": 0,
-        "latitude": 24.46296,
-        "longitude": 89.69269
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "শালুয়াভিটা আলিম মাদ্রাসা",
-        "male_count": 1421,
-        "female_count": 1429,
-        "hijra_count": 0,
-        "latitude": 24.4961,
-        "longitude": 89.67044
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "শিবনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1096,
-        "female_count": 1072,
-        "hijra_count": 1,
-        "latitude": 24.4278,
-        "longitude": 89.65488
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "শৈলাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1080,
-        "female_count": 1047,
-        "hijra_count": 0,
-        "latitude": 24.49193,
-        "longitude": 89.68426
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সয়দাবাদ উচ্চ বিদ্যালয়",
-        "male_count": 2610,
-        "female_count": 2373,
-        "hijra_count": 0,
-        "latitude": 24.38883,
-        "longitude": 89.71407
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সয়দাবাদ গাছাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1518,
-        "female_count": 1371,
-        "hijra_count": 0,
-        "latitude": 24.38265,
-        "longitude": 89.72046
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সয়াগোবিন্দ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2505,
-        "female_count": 2795,
-        "hijra_count": 0,
-        "latitude": 24.45893,
-        "longitude": 89.69726
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সরকারী রাশিদাজ্জোহা মহিলা কলেজ",
-        "male_count": 0,
-        "female_count": 3610,
-        "hijra_count": 0,
-        "latitude": 24.46464,
-        "longitude": 89.70632
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সরস্বতী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 753,
-        "female_count": 826,
-        "hijra_count": 0,
-        "latitude": 24.46248,
-        "longitude": 89.7157
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সালেহা ইসহাক সরকারি উচ্চ বিদ্যালয়, মুল ভবন",
-        "male_count": 0,
-        "female_count": 2080,
-        "hijra_count": 0,
-        "latitude": 24.45939,
-        "longitude": 89.71066
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সালেহা ইসহাক সরকারি বালিকা উচ্চ বিদ্যালয়, একাডেমিক ভবন",
-        "male_count": 1822,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.45956,
-        "longitude": 89.71053
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সিরাজগঞ্জ কালেক্টরেট স্কুল এন্ড কলেজ",
-        "male_count": 0,
-        "female_count": 2413,
-        "hijra_count": 0,
-        "latitude": 24.45407,
-        "longitude": 89.7025
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "সিরাজগঞ্জ কালেক্টরেট স্কুল এন্ড কলেজ নতুন ভবন স্কুল শাখা",
-        "male_count": 2159,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.45513,
-        "longitude": 89.70243
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "হাজী আহম্মেদ আলী আলীয়া মাদ্রাসা",
-        "male_count": 1157,
-        "female_count": 1217,
-        "hijra_count": 0,
-        "latitude": 24.46434,
-        "longitude": 89.71029
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "হাজী ওমর আলী কওমি মাদ্রাসা",
-        "male_count": 2623,
-        "female_count": 2761,
-        "hijra_count": 0,
-        "latitude": 24.4494,
-        "longitude": 89.71467
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "হাট বয়ড়া ফোরকানিয়া মাদ্রাসা",
-        "male_count": 928,
-        "female_count": 1050,
-        "hijra_count": 0,
-        "latitude": 24.50127,
-        "longitude": 89.73293
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "হাট সারটিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2261,
-        "female_count": 2082,
-        "hijra_count": 0,
-        "latitude": 24.38835,
-        "longitude": 89.70613
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "হৈমবালা বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2809,
-        "hijra_count": 0,
-        "latitude": 24.45815,
-        "longitude": 89.70436
-    },
-    {
-        "settings_code": 63,
-        "settings_name": "সিরাজগঞ্জ-২",
-        "center_name": "হোসেনপুর দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1909,
-        "female_count": 2107,
-        "hijra_count": 0,
-        "latitude": 24.45207,
-        "longitude": 89.7126
-    }
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১০। নান্দিনা কামালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1175,
+    "female_count": 1158,
+    "hijra_count": 0,
+    "latitude": 24.39789,
+    "longitude": 89.62701
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১১। ঝাটিবেলাই ছাদেক আলী উচ্চ বিদ্যালয়",
+    "male_count": 1160,
+    "female_count": 1168,
+    "hijra_count": 0,
+    "latitude": 24.382,
+    "longitude": 89.61332
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১২। কোনাবাড়ী ইসহাক উচ্চ বিদ্যালয়",
+    "male_count": 1279,
+    "female_count": 1238,
+    "hijra_count": 0,
+    "latitude": 24.40459,
+    "longitude": 89.64722
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১৩। স্বল্প মাহমুদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 561,
+    "female_count": 530,
+    "hijra_count": 0,
+    "latitude": 24.40646,
+    "longitude": 89.62855
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১৪। বড়ধুল আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1979,
+    "female_count": 1927,
+    "hijra_count": 0,
+    "latitude": 24.39248,
+    "longitude": 89.64462
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১৬। চর বড়ধুল দাখিল মাদ্রাসা",
+    "male_count": 1267,
+    "female_count": 1238,
+    "hijra_count": 0,
+    "latitude": 24.37259,
+    "longitude": 89.66502
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১৭। চালা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 987,
+    "female_count": 982,
+    "hijra_count": 0,
+    "latitude": 24.39784,
+    "longitude": 89.6659
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১৮। চক শাহবাজপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 815,
+    "female_count": 789,
+    "hijra_count": 0,
+    "latitude": 24.38972,
+    "longitude": 89.66919
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১৯। এম, ভি ভারাংগা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 971,
+    "female_count": 941,
+    "hijra_count": 0,
+    "latitude": 24.38721,
+    "longitude": 89.68329
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "১। বাজার ভদ্রঘাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1889,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.44455,
+    "longitude": 89.62063
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "২০। ঝাঐল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1714,
+    "female_count": 1658,
+    "hijra_count": 0,
+    "latitude": 24.40203,
+    "longitude": 89.67422
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "২২। আব্দুল জলিল স্মৃতি উচ্চ বিদ্যালয়",
+    "male_count": 2008,
+    "female_count": 1983,
+    "hijra_count": 0,
+    "latitude": 24.40459,
+    "longitude": 89.66286
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "২৪। তেঘরী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1098,
+    "female_count": 1039,
+    "hijra_count": 0,
+    "latitude": 24.42038,
+    "longitude": 89.66319
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "২৬। ইসলাম নগর দারুস সুন্নাত ফাজিল মাদ্রাসা",
+    "male_count": 2892,
+    "female_count": 2833,
+    "hijra_count": 0,
+    "latitude": 24.41645,
+    "longitude": 89.65614
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "২৭। দশশিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1359,
+    "female_count": 1255,
+    "hijra_count": 0,
+    "latitude": 24.36238,
+    "longitude": 89.62639
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "২৮। বড়কুড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1936,
+    "female_count": 1903,
+    "hijra_count": 0,
+    "latitude": 24.37289,
+    "longitude": 89.63364
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "২। ভদ্রঘাট শামছুন মহসীন উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1943,
+    "hijra_count": 0,
+    "latitude": 24.44455,
+    "longitude": 89.62062
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩০। চরকুড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1482,
+    "female_count": 1368,
+    "hijra_count": 0,
+    "latitude": 24.37476,
+    "longitude": 89.63982
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩১। জামতৈল মডেল সরকারি প্রাথমিক বিদ্যালয় (নতুন ভবন)",
+    "male_count": 1444,
+    "female_count": 1466,
+    "hijra_count": 0,
+    "latitude": 24.36179,
+    "longitude": 89.65415
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩২। জামতৈল মডেল সরকারি প্রাথমিক বিদ্যালয় (নজরুল ভবন)",
+    "male_count": 1618,
+    "female_count": 1688,
+    "hijra_count": 0,
+    "latitude": 24.36175,
+    "longitude": 89.65413
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩৩। কর্ণসূতি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1627,
+    "female_count": 1586,
+    "hijra_count": 0,
+    "latitude": 24.3528,
+    "longitude": 89.63954
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩৪। কামারখন্দ সিনিয়র ফাজিল মাদ্রাসা",
+    "male_count": 1036,
+    "female_count": 1058,
+    "hijra_count": 0,
+    "latitude": 24.36449,
+    "longitude": 89.64855
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩৫। পাকুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1172,
+    "female_count": 1113,
+    "hijra_count": 0,
+    "latitude": 24.38414,
+    "longitude": 89.657
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩৬। চরটেংরাইল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2068,
+    "female_count": 2025,
+    "hijra_count": 0,
+    "latitude": 24.35866,
+    "longitude": 89.66947
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩৮। মফিজ উদ্দিন তালুকদার স্মৃতি উচ্চ বিদ্যালয়",
+    "male_count": 824,
+    "female_count": 841,
+    "hijra_count": 0,
+    "latitude": 24.37335,
+    "longitude": 89.67336
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩৯। আলোকদিয়ার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1181,
+    "female_count": 1115,
+    "hijra_count": 0,
+    "latitude": 24.36851,
+    "longitude": 89.67165
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৩। কুটির চর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1462,
+    "female_count": 1475,
+    "hijra_count": 0,
+    "latitude": 24.43358,
+    "longitude": 89.60825
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪০। নান্দিনা মধু সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1681,
+    "female_count": 1597,
+    "hijra_count": 0,
+    "latitude": 24.37196,
+    "longitude": 89.68664
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪১। রসুলপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1522,
+    "female_count": 1425,
+    "hijra_count": 0,
+    "latitude": 24.33365,
+    "longitude": 89.64123
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪৩। বারাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2110,
+    "female_count": 1972,
+    "hijra_count": 0,
+    "latitude": 24.34047,
+    "longitude": 89.65155
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪৪। ডি ডি শাহবাজপুর সরকারি প্রাথমিক",
+    "male_count": 1227,
+    "female_count": 1225,
+    "hijra_count": 0,
+    "latitude": 24.34842,
+    "longitude": 89.626
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪৫। জটিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 711,
+    "female_count": 676,
+    "hijra_count": 0,
+    "latitude": 24.33607,
+    "longitude": 89.62686
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪৬। ধলেশ্বর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1071,
+    "female_count": 1089,
+    "hijra_count": 0,
+    "latitude": 24.34808,
+    "longitude": 89.66131
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪৭। ঠাকুরঝিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 602,
+    "female_count": 550,
+    "hijra_count": 0,
+    "latitude": 24.34838,
+    "longitude": 89.67018
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪৮। হায়দারপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 856,
+    "female_count": 809,
+    "hijra_count": 0,
+    "latitude": 24.35099,
+    "longitude": 89.67501
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৪৯। শ্যামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 680,
+    "female_count": 660,
+    "hijra_count": 0,
+    "latitude": 24.34055,
+    "longitude": 89.67263
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৫০। কাজিপুরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 735,
+    "female_count": 798,
+    "hijra_count": 0,
+    "latitude": 24.34152,
+    "longitude": 89.68278
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৫১। বাঁশবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 924,
+    "female_count": 848,
+    "hijra_count": 0,
+    "latitude": 24.34816,
+    "longitude": 89.68526
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৫৩। চৌবাড়ী ইসলামীয়া উচ্চ বিদ্যালয়",
+    "male_count": 1864,
+    "female_count": 1820,
+    "hijra_count": 0,
+    "latitude": 24.31923,
+    "longitude": 89.64907
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৫৪। রায়দৌলতপুর দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1262,
+    "female_count": 1271,
+    "hijra_count": 0,
+    "latitude": 24.31001,
+    "longitude": 89.63913
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৫৫। রায়দৌলতপুর উচ্চ বিদ্যালয়",
+    "male_count": 984,
+    "female_count": 976,
+    "hijra_count": 0,
+    "latitude": 24.32132,
+    "longitude": 89.63119
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৫। চৈরগাঁতী উচ্চ মাধ্যমিক বিদ্যালয়",
+    "male_count": 946,
+    "female_count": 887,
+    "hijra_count": 0,
+    "latitude": 24.41371,
+    "longitude": 89.62178
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৬। মধ্য ভদ্রঘাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1469,
+    "female_count": 1328,
+    "hijra_count": 0,
+    "latitude": 24.41444,
+    "longitude": 89.6134
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৭। উদয়কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1637,
+    "female_count": 1509,
+    "hijra_count": 0,
+    "latitude": 24.41442,
+    "longitude": 89.61177
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৮। মুগবেলাই লুৎফিয়া উচ্চ বিদ্যালয়",
+    "male_count": 1156,
+    "female_count": 1105,
+    "hijra_count": 0,
+    "latitude": 24.39541,
+    "longitude": 89.60823
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "৯। চৌদুয়ার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1011,
+    "female_count": 976,
+    "hijra_count": 0,
+    "latitude": 24.39583,
+    "longitude": 89.62197
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "আজিজিয়া হাফিজিয়া দাখিল মাদ্রাসা",
+    "male_count": 904,
+    "female_count": 899,
+    "hijra_count": 0,
+    "latitude": 24.49952,
+    "longitude": 89.67989
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "আড়িয়া মোহন উচ্চ বিদ্যালয়",
+    "male_count": 713,
+    "female_count": 681,
+    "hijra_count": 0,
+    "latitude": 24.42993,
+    "longitude": 89.67616
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "আব্দুল্লাহ আল মাহমুদ মেমোরিয়াল উচ্চ বিদ্যালয়",
+    "male_count": 2435,
+    "female_count": 2435,
+    "hijra_count": 0,
+    "latitude": 24.44882,
+    "longitude": 89.6676
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "উত্তর সয়াধানগড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2886,
+    "hijra_count": 0,
+    "latitude": 24.45935,
+    "longitude": 89.68928
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "উত্তর সারটিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2075,
+    "female_count": 1990,
+    "hijra_count": 0,
+    "latitude": 24.42887,
+    "longitude": 89.66101
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "একডালা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4418,
+    "hijra_count": 0,
+    "latitude": 24.47018,
+    "longitude": 89.71512
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "এস.বি. রেলওয়ে কলোনী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1423,
+    "female_count": 1503,
+    "hijra_count": 0,
+    "latitude": 24.4497,
+    "longitude": 89.70375
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "কড্ডা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 888,
+    "female_count": 855,
+    "hijra_count": 0,
+    "latitude": 24.39938,
+    "longitude": 89.69062
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "কাওয়াকোলা এবতেদায়ী মাদ্রাসা",
+    "male_count": 561,
+    "female_count": 697,
+    "hijra_count": 0,
+    "latitude": 24.48735,
+    "longitude": 89.69917
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "কান্দাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1911,
+    "female_count": 1869,
+    "hijra_count": 0,
+    "latitude": 24.43064,
+    "longitude": 89.68378
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "কালিয়া কান্দাপাড়া উচ্চ বিদ্যালয়",
+    "male_count": 2138,
+    "female_count": 2286,
+    "hijra_count": 0,
+    "latitude": 24.43114,
+    "longitude": 89.68397
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "কাশিয়াহাটা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 971,
+    "female_count": 855,
+    "hijra_count": 0,
+    "latitude": 24.41017,
+    "longitude": 89.70077
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "কৈগাড়ী দোরতা এবতেদায়ী মাদ্র্রাসা",
+    "male_count": 599,
+    "female_count": 712,
+    "hijra_count": 0,
+    "latitude": 24.47351,
+    "longitude": 89.75426
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "কোবদাসপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1817,
+    "female_count": 1896,
+    "hijra_count": 0,
+    "latitude": 24.47454,
+    "longitude": 89.70777
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "খামার পাইকশা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 688,
+    "female_count": 619,
+    "hijra_count": 0,
+    "latitude": 24.41441,
+    "longitude": 89.64579
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "খোকশাবাড়ী ইউপি ভবন",
+    "male_count": 1313,
+    "female_count": 1286,
+    "hijra_count": 0,
+    "latitude": 24.48513,
+    "longitude": 89.69257
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "খোকশাবাড়ী নিস্তারিনী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1644,
+    "female_count": 1591,
+    "hijra_count": 0,
+    "latitude": 24.48487,
+    "longitude": 89.69086
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "খোর্দ্দ শিয়ালকোল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1161,
+    "female_count": 1142,
+    "hijra_count": 0,
+    "latitude": 24.44236,
+    "longitude": 89.67606
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "গৌরী আরবান উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 1948,
+    "female_count": 2094,
+    "hijra_count": 0,
+    "latitude": 24.46506,
+    "longitude": 89.71487
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "চন্ডিদাসগাঁতী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2072,
+    "female_count": 2040,
+    "hijra_count": 0,
+    "latitude": 24.44861,
+    "longitude": 89.64465
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "চন্দ্রকণা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1416,
+    "female_count": 1353,
+    "hijra_count": 0,
+    "latitude": 24.47251,
+    "longitude": 89.67689
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "চর কল্যাণী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2716,
+    "female_count": 2588,
+    "hijra_count": 0,
+    "latitude": 24.43968,
+    "longitude": 89.68568
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "চরকাটেংগা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1220,
+    "female_count": 1273,
+    "hijra_count": 0,
+    "latitude": 24.52943,
+    "longitude": 89.74368
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "চর রায়পুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1875,
+    "female_count": 1957,
+    "hijra_count": 0,
+    "latitude": 24.43783,
+    "longitude": 89.70527
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "চরহরিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1183,
+    "female_count": 1035,
+    "hijra_count": 0,
+    "latitude": 24.4217,
+    "longitude": 89.67067
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "চিথুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 385,
+    "female_count": 464,
+    "hijra_count": 0,
+    "latitude": 24.48083,
+    "longitude": 89.69873
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "ছাতিয়ানতলী মোরগ্রাম টেকনিক্যাল স্কুল এন্ড বিএম কলেজ",
+    "male_count": 3148,
+    "female_count": 2801,
+    "hijra_count": 0,
+    "latitude": 24.40873,
+    "longitude": 89.71285
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "জগৎগাঁতী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1063,
+    "female_count": 980,
+    "hijra_count": 0,
+    "latitude": 24.42715,
+    "longitude": 89.64444
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "জামুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 596,
+    "female_count": 578,
+    "hijra_count": 0,
+    "latitude": 24.42009,
+    "longitude": 89.6333
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "জারিলা মধ্যপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 682,
+    "female_count": 576,
+    "hijra_count": 0,
+    "latitude": 24.37344,
+    "longitude": 89.69966
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "জাহান আরা উচ্চ বিদ্যালয়",
+    "male_count": 1707,
+    "female_count": 1697,
+    "hijra_count": 0,
+    "latitude": 24.45712,
+    "longitude": 89.70739
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "জ্ঞানদায়িনী উচ্চ বিদ্যালয়",
+    "male_count": 2807,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.45815,
+    "longitude": 89.70388
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "টেকনিক্যাল স্কুল এন্ড কলেজ",
+    "male_count": 4334,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.46633,
+    "longitude": 89.71335
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "ডাঃ নওশের আলী মেমোরিয়াল বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3047,
+    "hijra_count": 0,
+    "latitude": 24.4485,
+    "longitude": 89.69825
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "তেতুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1538,
+    "female_count": 1427,
+    "hijra_count": 0,
+    "latitude": 24.40787,
+    "longitude": 89.68164
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "তেলকুপি দারুস সুন্নাহ দাখিল মাদ্রাসা",
+    "male_count": 1312,
+    "female_count": 1309,
+    "hijra_count": 0,
+    "latitude": 24.46887,
+    "longitude": 89.68428
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "দারুল ইসলাম একাডেমী রেজি: প্রাথ: ও  উচ্চ বিদ্যালয়",
+    "male_count": 2693,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.45554,
+    "longitude": 89.68879
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "দিঘলকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1537,
+    "female_count": 1455,
+    "hijra_count": 0,
+    "latitude": 24.42476,
+    "longitude": 89.70653
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "দিয়ার বৈদ্যনাথ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1888,
+    "female_count": 1942,
+    "hijra_count": 0,
+    "latitude": 24.44869,
+    "longitude": 89.68038
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "দোগাছি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1206,
+    "female_count": 1209,
+    "hijra_count": 0,
+    "latitude": 24.41085,
+    "longitude": 89.59703
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "ধানবান্ধি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2022,
+    "female_count": 2210,
+    "hijra_count": 0,
+    "latitude": 24.4597,
+    "longitude": 89.71714
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "ধুকুরিয়া বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1183,
+    "female_count": 1196,
+    "hijra_count": 0,
+    "latitude": 24.42961,
+    "longitude": 89.62792
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "নতুন ভাঙ্গাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1727,
+    "female_count": 1883,
+    "hijra_count": 0,
+    "latitude": 24.4686,
+    "longitude": 89.69074
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "পাইকপাড়া মডেল হাই স্কুল",
+    "male_count": 2351,
+    "female_count": 2378,
+    "hijra_count": 0,
+    "latitude": 24.42685,
+    "longitude": 89.70472
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "পাঁচিল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1167,
+    "female_count": 1152,
+    "hijra_count": 0,
+    "latitude": 24.5127,
+    "longitude": 89.68097
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "পূর্বদিয়ার পাচিল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1508,
+    "female_count": 1498,
+    "hijra_count": 0,
+    "latitude": 24.50924,
+    "longitude": 89.67949
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "পূর্ব মোহনপুর কমিউনিটি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1548,
+    "female_count": 1309,
+    "hijra_count": 0,
+    "latitude": 24.40315,
+    "longitude": 89.71009
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "পোড়াবাড়ী উচ্চ বিদ্যালয়",
+    "male_count": 1289,
+    "female_count": 1273,
+    "hijra_count": 0,
+    "latitude": 24.39069,
+    "longitude": 89.69494
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "পোড়াবাড়ী দাখিল মাদ্রাসা",
+    "male_count": 1458,
+    "female_count": 1307,
+    "hijra_count": 0,
+    "latitude": 24.38347,
+    "longitude": 89.68933
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "ফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 920,
+    "female_count": 978,
+    "hijra_count": 0,
+    "latitude": 24.46377,
+    "longitude": 89.67971
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বড় কয়ড়া কমিউনিটি ক্লিনিক",
+    "male_count": 869,
+    "female_count": 930,
+    "hijra_count": 0,
+    "latitude": 24.4826,
+    "longitude": 89.74469
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বড় শিমুল পঞ্চসোনা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1619,
+    "female_count": 1501,
+    "hijra_count": 0,
+    "latitude": 24.38795,
+    "longitude": 89.73463
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বনবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2814,
+    "female_count": 2843,
+    "hijra_count": 0,
+    "latitude": 24.42694,
+    "longitude": 89.70472
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বনোয়ারী লাল সরকারী উচ্চ বিদ্যালয়",
+    "male_count": 791,
+    "female_count": 767,
+    "hijra_count": 0,
+    "latitude": 24.4612,
+    "longitude": 89.71972
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বর্ণি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 733,
+    "female_count": 893,
+    "hijra_count": 0,
+    "latitude": 24.4766,
+    "longitude": 89.75045
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বহুতী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1507,
+    "female_count": 1372,
+    "hijra_count": 0,
+    "latitude": 24.44003,
+    "longitude": 89.62886
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বাঐতারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1475,
+    "female_count": 1438,
+    "hijra_count": 0,
+    "latitude": 24.40398,
+    "longitude": 89.70567
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বানিয়াগাঁতী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2051,
+    "female_count": 2009,
+    "hijra_count": 0,
+    "latitude": 24.48367,
+    "longitude": 89.6697
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বীনাপানি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 935,
+    "female_count": 1060,
+    "hijra_count": 0,
+    "latitude": 24.46219,
+    "longitude": 89.69974
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "বৈদ্য-দোগাছি সরকারি প্রাথমিক বিদ্যালয় ",
+    "male_count": 923,
+    "female_count": 918,
+    "hijra_count": 0,
+    "latitude": 24.41085,
+    "longitude": 89.59703
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "ভিক্টোরিয়া উচ্চ বিদ্যালয়",
+    "male_count": 3499,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.46539,
+    "longitude": 89.70721
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মদিনাতুল উলম হাফেজিয়া কওমিয়া কিন্ডারগার্টেন মাদ্রাসা",
+    "male_count": 1016,
+    "female_count": 1139,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মল্লিকা ছানাউল্লাহ আনসারী উচ্চ বিদ্যালয়",
+    "male_count": 915,
+    "female_count": 932,
+    "hijra_count": 0,
+    "latitude": 24.43418,
+    "longitude": 89.71188
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মল্লিকা ছানাউল্লাহ আনসারী উচ্চ বিদ্যালয়, বন্যা আশ্রয়কেন্দ্র",
+    "male_count": 1415,
+    "female_count": 1384,
+    "hijra_count": 0,
+    "latitude": 24.43418,
+    "longitude": 89.71184
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মাছুমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3017,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.44839,
+    "longitude": 89.69819
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মালশাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1321,
+    "female_count": 1396,
+    "hijra_count": 0,
+    "latitude": 24.45004,
+    "longitude": 89.71207
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মাহমুদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1784,
+    "female_count": 1826,
+    "hijra_count": 1,
+    "latitude": 24.44483,
+    "longitude": 89.70294
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মিরপুর উচ্চ বিদ্যালয়",
+    "male_count": 1333,
+    "female_count": 1411,
+    "hijra_count": 0,
+    "latitude": 24.4446,
+    "longitude": 89.70984
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মিরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1503,
+    "female_count": 1513,
+    "hijra_count": 0,
+    "latitude": 24.44482,
+    "longitude": 89.7098
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "মুলিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1667,
+    "female_count": 1591,
+    "hijra_count": 0,
+    "latitude": 24.39499,
+    "longitude": 89.70466
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "যমুনা ডিগ্রী কলেজ",
+    "male_count": 1866,
+    "female_count": 1731,
+    "hijra_count": 0,
+    "latitude": 24.38468,
+    "longitude": 89.71155
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "যমুনাবালি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 902,
+    "female_count": 716,
+    "hijra_count": 0,
+    "latitude": 24.37362,
+    "longitude": 89.74854
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1906,
+    "female_count": 1838,
+    "hijra_count": 0,
+    "latitude": 24.45081,
+    "longitude": 89.6703
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "রজব আলী বিজ্ঞান মেমোরিয়াল কলেজ",
+    "male_count": 2916,
+    "female_count": 3057,
+    "hijra_count": 0,
+    "latitude": 24.45167,
+    "longitude": 89.69498
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "রহমতগঞ্জ বালিকা উচ্চ বিদ্যালয় বিদ্যালয়",
+    "male_count": 1273,
+    "female_count": 1462,
+    "hijra_count": 0,
+    "latitude": 24.46489,
+    "longitude": 89.69046
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "রাণীগ্রাম বালক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2239,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.47786,
+    "longitude": 89.7007
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "রাণীগ্রাম বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2107,
+    "hijra_count": 0,
+    "latitude": 24.4774,
+    "longitude": 89.69828
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "রায়পুর কওমি জুট মিল উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2089,
+    "hijra_count": 0,
+    "latitude": 24.44021,
+    "longitude": 89.69533
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "রায়পুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2121,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.4403,
+    "longitude": 89.70087
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "শহীদগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1277,
+    "female_count": 1349,
+    "hijra_count": 0,
+    "latitude": 24.46296,
+    "longitude": 89.69269
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "শালুয়াভিটা আলিম মাদ্রাসা",
+    "male_count": 1421,
+    "female_count": 1429,
+    "hijra_count": 0,
+    "latitude": 24.4961,
+    "longitude": 89.67044
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "শিবনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1096,
+    "female_count": 1072,
+    "hijra_count": 1,
+    "latitude": 24.4278,
+    "longitude": 89.65488
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "শৈলাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1080,
+    "female_count": 1047,
+    "hijra_count": 0,
+    "latitude": 24.49193,
+    "longitude": 89.68426
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সয়দাবাদ উচ্চ বিদ্যালয়",
+    "male_count": 2610,
+    "female_count": 2373,
+    "hijra_count": 0,
+    "latitude": 24.38883,
+    "longitude": 89.71407
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সয়দাবাদ গাছাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1518,
+    "female_count": 1371,
+    "hijra_count": 0,
+    "latitude": 24.38265,
+    "longitude": 89.72046
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সয়াগোবিন্দ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2505,
+    "female_count": 2795,
+    "hijra_count": 0,
+    "latitude": 24.45893,
+    "longitude": 89.69726
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সরকারী রাশিদাজ্জোহা মহিলা কলেজ",
+    "male_count": 0,
+    "female_count": 3610,
+    "hijra_count": 0,
+    "latitude": 24.46464,
+    "longitude": 89.70632
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সরস্বতী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 753,
+    "female_count": 826,
+    "hijra_count": 0,
+    "latitude": 24.46248,
+    "longitude": 89.7157
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সালেহা ইসহাক সরকারি উচ্চ বিদ্যালয়, মুল ভবন",
+    "male_count": 0,
+    "female_count": 2080,
+    "hijra_count": 0,
+    "latitude": 24.45939,
+    "longitude": 89.71066
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সালেহা ইসহাক সরকারি বালিকা উচ্চ বিদ্যালয়, একাডেমিক ভবন",
+    "male_count": 1822,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.45956,
+    "longitude": 89.71053
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সিরাজগঞ্জ কালেক্টরেট স্কুল এন্ড কলেজ",
+    "male_count": 0,
+    "female_count": 2413,
+    "hijra_count": 0,
+    "latitude": 24.45407,
+    "longitude": 89.7025
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "সিরাজগঞ্জ কালেক্টরেট স্কুল এন্ড কলেজ নতুন ভবন স্কুল শাখা",
+    "male_count": 2159,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.45513,
+    "longitude": 89.70243
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "হাজী আহম্মেদ আলী আলীয়া মাদ্রাসা",
+    "male_count": 1157,
+    "female_count": 1217,
+    "hijra_count": 0,
+    "latitude": 24.46434,
+    "longitude": 89.71029
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "হাজী ওমর আলী কওমি মাদ্রাসা",
+    "male_count": 2623,
+    "female_count": 2761,
+    "hijra_count": 0,
+    "latitude": 24.4494,
+    "longitude": 89.71467
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "হাট বয়ড়া ফোরকানিয়া মাদ্রাসা",
+    "male_count": 928,
+    "female_count": 1050,
+    "hijra_count": 0,
+    "latitude": 24.50127,
+    "longitude": 89.73293
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "হাট সারটিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2261,
+    "female_count": 2082,
+    "hijra_count": 0,
+    "latitude": 24.38835,
+    "longitude": 89.70613
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "হৈমবালা বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2809,
+    "hijra_count": 0,
+    "latitude": 24.45815,
+    "longitude": 89.70436
+  },
+  {
+    "settings_code": 63,
+    "settings_name": "সিরাজগঞ্জ-২",
+    "center_name": "হোসেনপুর দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1909,
+    "female_count": 2107,
+    "hijra_count": 0,
+    "latitude": 24.45207,
+    "longitude": 89.7126
+  }
 ]

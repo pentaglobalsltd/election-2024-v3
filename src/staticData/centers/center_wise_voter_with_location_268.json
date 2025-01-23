@@ -1,1282 +1,1282 @@
 [
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "আইচাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1368,
-        "female_count": 1348,
-        "hijra_count": 0,
-        "latitude": 22.9858,
-        "longitude": 91.02201
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "আবিরপাড়া মাধ্যমিক বিদ্যা নিকেতন",
-        "male_count": 2536,
-        "female_count": 2379,
-        "hijra_count": 0,
-        "latitude": 22.99583,
-        "longitude": 91.00471
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "আমিরাবাদ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1783,
-        "female_count": 1757,
-        "hijra_count": 0,
-        "latitude": 23.01945,
-        "longitude": 91.01414
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "আমিশাপাড়া কৃষক উচ্চ বিদ্যালয়",
-        "male_count": 2842,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.00375,
-        "longitude": 91.03838
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "আমিশাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2771,
-        "hijra_count": 0,
-        "latitude": 23.00375,
-        "longitude": 91.03839
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "আম্বিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1174,
-        "female_count": 1228,
-        "hijra_count": 0,
-        "latitude": 23.04637,
-        "longitude": 90.98413
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ইসলামপুর হোসাইনিয়া দাখিল মাদ্রাসা",
-        "male_count": 1828,
-        "female_count": 1834,
-        "hijra_count": 0,
-        "latitude": 23.11897,
-        "longitude": 90.9652
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "উত্তর সাহাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1754,
-        "female_count": 1652,
-        "hijra_count": 0,
-        "latitude": 23.05793,
-        "longitude": 91.10859
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "উলুপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2254,
-        "female_count": 2144,
-        "hijra_count": 0,
-        "latitude": 23.02868,
-        "longitude": 91.09506
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ওমর আলী উচ্চ বিদ্যালয়",
-        "male_count": 2352,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.08023,
-        "longitude": 91.00561
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ওমর আলী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2335,
-        "hijra_count": 0,
-        "latitude": 23.0803,
-        "longitude": 91.00562
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কড়িহাটি উচ্চ বিদ্যালয়",
-        "male_count": 1666,
-        "female_count": 1681,
-        "hijra_count": 0,
-        "latitude": 23.031,
-        "longitude": 90.99828
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কাজিরখিল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1526,
-        "female_count": 1407,
-        "hijra_count": 0,
-        "latitude": 23.00889,
-        "longitude": 91.00914
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কাঠালী মোহাম্মাদিয়া হাফেজিয়া নূরানী মাদ্রাসা",
-        "male_count": 1748,
-        "female_count": 1705,
-        "hijra_count": 0,
-        "latitude": 23.04411,
-        "longitude": 91.11084
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কাবিলপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 916,
-        "female_count": 924,
-        "hijra_count": 0,
-        "latitude": 23.07097,
-        "longitude": 91.13941
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কামালপুর মোঃ হাশেম উচ্চ বিদ্যালয়",
-        "male_count": 1884,
-        "female_count": 1902,
-        "hijra_count": 0,
-        "latitude": 23.0983,
-        "longitude": 90.98769
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কালিকাপুর উচ্চ বিদ্যালয়",
-        "male_count": 3379,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.02181,
-        "longitude": 91.06712
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কালিকাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3137,
-        "hijra_count": 0,
-        "latitude": 23.02156,
-        "longitude": 91.06666
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কালুয়াই সরকারি প্রাথমিক বিদ্যালয় (উত্তর পার্শ্বের ভবন) ও সংলগ্ন পূর্ব কালুয়াই হাফিজিয়া মাদ্রাসা",
-        "male_count": 2737,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.04837,
-        "longitude": 91.08019
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কালুয়াই সরকারি প্রাথমিক বিদ্যালয় (পশ্চিম পার্শ্বের ভবন)",
-        "male_count": 0,
-        "female_count": 2543,
-        "hijra_count": 0,
-        "latitude": 23.04835,
-        "longitude": 91.08029
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কেঘনা নতুন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2334,
-        "female_count": 2177,
-        "hijra_count": 0,
-        "latitude": 23.02868,
-        "longitude": 91.09507
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "কৌশল্যারবাগ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1449,
-        "female_count": 1371,
-        "hijra_count": 0,
-        "latitude": 23.04766,
-        "longitude": 91.09801
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "খিলপাড়া বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 1182,
-        "female_count": 1101,
-        "hijra_count": 0,
-        "latitude": 23.01359,
-        "longitude": 90.97155
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ঘাটলাবাগ কেশুরবাগ রহমতগঞ্জ আশ্রাফিয়া দাখিল মাদ্রাসা",
-        "male_count": 2019,
-        "female_count": 1964,
-        "hijra_count": 0,
-        "latitude": 23.04554,
-        "longitude": 90.94157
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ঘাসেরখিল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1341,
-        "female_count": 1245,
-        "hijra_count": 0,
-        "latitude": 23.02394,
-        "longitude": 91.00029
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "চাটখিল আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1543,
-        "female_count": 1578,
-        "hijra_count": 0,
-        "latitude": 23.05989,
-        "longitude": 90.96963
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "চাটখিল পাঁচগাঁও সরকারি উচ্চ বিদ্যালয়",
-        "male_count": 1735,
-        "female_count": 1649,
-        "hijra_count": 0,
-        "latitude": 23.06016,
-        "longitude": 90.98419
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ছয়ানী টবগা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1222,
-        "female_count": 1268,
-        "hijra_count": 0,
-        "latitude": 23.04872,
-        "longitude": 90.9696
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ছোবহানপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1047,
-        "female_count": 950,
-        "hijra_count": 0,
-        "latitude": 23.01065,
-        "longitude": 90.92506
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "জগজীবনপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1626,
-        "female_count": 1532,
-        "hijra_count": 0,
-        "latitude": 23.03332,
-        "longitude": 91.0687
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "জয়াগ বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 2084,
-        "female_count": 1960,
-        "hijra_count": 0,
-        "latitude": 23.06317,
-        "longitude": 91.01185
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "জামিয়া আশ্রাফিয়া (গোমাতলী নুরানী মাদ্রাসা)",
-        "male_count": 1159,
-        "female_count": 1044,
-        "hijra_count": 0,
-        "latitude": 23.00019,
-        "longitude": 90.96944
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "জামিয়া দারুস সালাম নূরানী ও হাফিজিয়া মডেল মাদ্রাসা",
-        "male_count": 1097,
-        "female_count": 1007,
-        "hijra_count": 0,
-        "latitude": 22.99844,
-        "longitude": 91.04874
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "জামেয়া ফয়েজিয়া",
-        "male_count": 906,
-        "female_count": 816,
-        "hijra_count": 0,
-        "latitude": 23.0228,
-        "longitude": 90.98053
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "জীবনগর বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2559,
-        "hijra_count": 0,
-        "latitude": 23.02702,
-        "longitude": 90.95199
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "জীবনগর বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 2664,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.02724,
-        "longitude": 90.95215
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "জুনদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2678,
-        "hijra_count": 0,
-        "latitude": 22.42093,
-        "longitude": 89.59737
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "টবগা আজম বালক সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1208,
-        "female_count": 1298,
-        "hijra_count": 0,
-        "latitude": 23.04681,
-        "longitude": 90.97598
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ড: খলিলুর রহমান বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1458,
-        "female_count": 1458,
-        "hijra_count": 0,
-        "latitude": 23.09446,
-        "longitude": 90.98984
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "থানারহাট উচ্চ বিদ্যালয়",
-        "male_count": 942,
-        "female_count": 988,
-        "hijra_count": 0,
-        "latitude": 23.08804,
-        "longitude": 91.02743
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দশঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1989,
-        "female_count": 1853,
-        "hijra_count": 0,
-        "latitude": 23.06697,
-        "longitude": 90.93278
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দশানী টবগা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1539,
-        "female_count": 1556,
-        "hijra_count": 0,
-        "latitude": 23.05562,
-        "longitude": 90.96071
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দারুল ইসলাম বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1328,
-        "female_count": 1306,
-        "hijra_count": 0,
-        "latitude": 23.09249,
-        "longitude": 90.95675
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দেওটি হেমায়াতুল ইসলাম কাওমী মাদ্রাসা",
-        "male_count": 1882,
-        "female_count": 1833,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দেবপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1150,
-        "female_count": 1152,
-        "hijra_count": 0,
-        "latitude": 23.07415,
-        "longitude": 91.05536
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দেলিয়াই বালিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1865,
-        "female_count": 1731,
-        "hijra_count": 0,
-        "latitude": 22.99343,
-        "longitude": 90.97935
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দেলিয়াই বিনোদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1095,
-        "female_count": 1098,
-        "hijra_count": 0,
-        "latitude": 22.98456,
-        "longitude": 90.98103
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দেলিয়াই সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1916,
-        "female_count": 1831,
-        "hijra_count": 0,
-        "latitude": 22.99334,
-        "longitude": 90.99187
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "দৌলতপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 981,
-        "female_count": 1029,
-        "hijra_count": 0,
-        "latitude": 23.07923,
-        "longitude": 90.92547
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ধন্যপুর মহিলা দাখিল মাদ্রাসা",
-        "male_count": 2269,
-        "female_count": 2184,
-        "hijra_count": 0,
-        "latitude": 23.00344,
-        "longitude": 91.05432
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ধর্মপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2212,
-        "female_count": 2061,
-        "hijra_count": 0,
-        "latitude": 23.02265,
-        "longitude": 90.93552
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ধুলিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1014,
-        "female_count": 967,
-        "hijra_count": 0,
-        "latitude": 23.02862,
-        "longitude": 91.09504
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "নজরুল একাডেমী উচ্চ বিদ্যালয়",
-        "male_count": 1174,
-        "female_count": 1090,
-        "hijra_count": 0,
-        "latitude": 22.97619,
-        "longitude": 91.03566
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "নবগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1966,
-        "female_count": 1837,
-        "hijra_count": 0,
-        "latitude": 23.02831,
-        "longitude": 91.0314
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "নান্দিয়াপাড়া বীরশ্রেষ্ঠ শহীদ মোঃ রুহুল আমিন ডিগ্রি কলেজ",
-        "male_count": 1285,
-        "female_count": 1255,
-        "hijra_count": 0,
-        "latitude": 23.03853,
-        "longitude": 91.04162
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "নারায়নপুর আর কে উচ্চ বিদ্যালয়",
-        "male_count": 2031,
-        "female_count": 1943,
-        "hijra_count": 0,
-        "latitude": 23.03533,
-        "longitude": 90.93561
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "নাহারখিল রহমত উল্যাহ কেরানী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1350,
-        "female_count": 1316,
-        "hijra_count": 0,
-        "latitude": 23.00627,
-        "longitude": 90.99803
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "নোয়াখলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1883,
-        "female_count": 1886,
-        "hijra_count": 0,
-        "latitude": 23.03132,
-        "longitude": 90.94709
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "নোয়ারাজারামপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1918,
-        "female_count": 1689,
-        "hijra_count": 0,
-        "latitude": 23.01412,
-        "longitude": 91.02004
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পতিশ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1784,
-        "female_count": 1662,
-        "hijra_count": 0,
-        "latitude": 23.03648,
-        "longitude": 91.00176
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পদিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 985,
-        "female_count": 970,
-        "hijra_count": 0,
-        "latitude": 22.97628,
-        "longitude": 91.03485
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পরকোট দশঘরিয়া ইউনিয়ন উচ্চ বিদ্যালয়",
-        "male_count": 2183,
-        "female_count": 2004,
-        "hijra_count": 0,
-        "latitude": 23.06732,
-        "longitude": 90.9327
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পরকোট বালিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1407,
-        "female_count": 1197,
-        "hijra_count": 0,
-        "latitude": 23.06757,
-        "longitude": 90.95019
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পরানপুর কাকড়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1233,
-        "female_count": 1208,
-        "hijra_count": 0,
-        "latitude": 23.0861,
-        "longitude": 91.01495
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পল্লী মঙ্গল উচ্চ বিদ্যালয়",
-        "male_count": 2717,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.05683,
-        "longitude": 91.03643
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পাঁচগাঁও বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 2064,
-        "female_count": 2069,
-        "hijra_count": 0,
-        "latitude": 23.06047,
-        "longitude": 90.99718
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পাঁচবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1994,
-        "female_count": 1829,
-        "hijra_count": 0,
-        "latitude": 23.06436,
-        "longitude": 91.05846
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পাপুয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1479,
-        "female_count": 1308,
-        "hijra_count": 0,
-        "latitude": 23.03262,
-        "longitude": 91.0876
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পালপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1757,
-        "female_count": 1548,
-        "hijra_count": 0,
-        "latitude": 23.03403,
-        "longitude": 91.04596
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পাল্লা মাহবুব আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2754,
-        "hijra_count": 0,
-        "latitude": 23.07876,
-        "longitude": 90.98527
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পাল্লা মাহবুব আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 3006,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.07877,
-        "longitude": 90.98519
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পিতাম্বরপুর উচ্চ বিদ্যালয়",
-        "male_count": 1576,
-        "female_count": 1502,
-        "hijra_count": 0,
-        "latitude": 23.03245,
-        "longitude": 91.02492
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পুরুষোত্তমপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1963,
-        "female_count": 1867,
-        "hijra_count": 0,
-        "latitude": 23.02197,
-        "longitude": 90.90577
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পূর্ব কাঠালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 667,
-        "female_count": 576,
-        "hijra_count": 0,
-        "latitude": 23.04654,
-        "longitude": 91.1195
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পূর্ব ফতেপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1715,
-        "female_count": 1658,
-        "hijra_count": 0,
-        "latitude": 23.07585,
-        "longitude": 90.96122
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পূর্ব শ্রীনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1307,
-        "female_count": 1416,
-        "hijra_count": 0,
-        "latitude": 23.03031,
-        "longitude": 90.97469
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পূ্র্ব শোশালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1689,
-        "female_count": 1705,
-        "hijra_count": 0,
-        "latitude": 23.06181,
-        "longitude": 90.92417
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "পোরকরা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1815,
-        "female_count": 1563,
-        "hijra_count": 0,
-        "latitude": 23.06947,
-        "longitude": 91.11977
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ফাওড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1250,
-        "female_count": 1250,
-        "hijra_count": 0,
-        "latitude": 23.11018,
-        "longitude": 90.99566
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বদলকোট উচ্চ বিদ্যালয়",
-        "male_count": 2063,
-        "female_count": 2021,
-        "hijra_count": 0,
-        "latitude": 23.08773,
-        "longitude": 90.96102
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বদলকোট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1173,
-        "female_count": 1096,
-        "hijra_count": 0,
-        "latitude": 23.08993,
-        "longitude": 90.9609
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বাইসসিন্দুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1443,
-        "female_count": 1356,
-        "hijra_count": 0,
-        "latitude": 23.07944,
-        "longitude": 90.93841
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বাগপাঁচড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1569,
-        "female_count": 1430,
-        "hijra_count": 0,
-        "latitude": 23.03406,
-        "longitude": 91.04587
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বাটরা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1376,
-        "female_count": 1231,
-        "hijra_count": 0,
-        "latitude": 23.02591,
-        "longitude": 91.10511
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বাদুলী মোল্লাপত্তন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 838,
-        "female_count": 779,
-        "hijra_count": 0,
-        "latitude": 23.01378,
-        "longitude": 90.99433
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বারাহিপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1389,
-        "female_count": 1234,
-        "hijra_count": 0,
-        "latitude": 23.01888,
-        "longitude": 91.08418
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বারাহী নগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1013,
-        "female_count": 1000,
-        "hijra_count": 0,
-        "latitude": 23.00498,
-        "longitude": 91.02925
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বৈকুন্ঠপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1054,
-        "female_count": 1056,
-        "hijra_count": 0,
-        "latitude": 23.00257,
-        "longitude": 90.95947
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "বোরপিট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1749,
-        "female_count": 1582,
-        "hijra_count": 0,
-        "latitude": 23.04663,
-        "longitude": 91.0603
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ভাওরকোট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1827,
-        "female_count": 1664,
-        "hijra_count": 0,
-        "latitude": 23.02868,
-        "longitude": 91.09506
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ভাওর ভীমপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1600,
-        "female_count": 1588,
-        "hijra_count": 0,
-        "latitude": 23.06813,
-        "longitude": 90.9845
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ভানুয়াই দক্ষিণপাড়া নূরানী মাদ্রাসা",
-        "male_count": 1448,
-        "female_count": 1377,
-        "hijra_count": 0,
-        "latitude": 23.03424,
-        "longitude": 91.09551
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "ভীমপুর বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 1599,
-        "female_count": 1523,
-        "hijra_count": 0,
-        "latitude": 23.06201,
-        "longitude": 90.97179
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মধ্য শোশালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1591,
-        "female_count": 1541,
-        "hijra_count": 0,
-        "latitude": 23.06314,
-        "longitude": 90.90504
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মমিনপুর দাখিল মাদ্রাসা",
-        "male_count": 1395,
-        "female_count": 1295,
-        "hijra_count": 0,
-        "latitude": 23.03123,
-        "longitude": 90.89455
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মাদাসা আবু বকর ছিদ্দিক (রাঃ),",
-        "male_count": 823,
-        "female_count": 768,
-        "hijra_count": 0,
-        "latitude": 23.06116,
-        "longitude": 91.08374
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মানিক্যনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 978,
-        "female_count": 908,
-        "hijra_count": 0,
-        "latitude": 22.99615,
-        "longitude": 91.0215
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মাহুতলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1676,
-        "female_count": 1563,
-        "hijra_count": 0,
-        "latitude": 23.08102,
-        "longitude": 91.02282
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মুরাদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1241,
-        "female_count": 1113,
-        "hijra_count": 0,
-        "latitude": 22.99815,
-        "longitude": 91.05772
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মেঘা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1152,
-        "female_count": 1115,
-        "hijra_count": 0,
-        "latitude": 23.10133,
-        "longitude": 90.95559
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মোহাম্মদপুর জনতা উচ্চ বিদ্যালয়",
-        "male_count": 2744,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.09776,
-        "longitude": 91.01945
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "মোহাম্মদপুর জনতা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2521,
-        "hijra_count": 0,
-        "latitude": 23.09735,
-        "longitude": 91.0185
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "রথী গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1612,
-        "female_count": 1487,
-        "hijra_count": 0,
-        "latitude": 23.06391,
-        "longitude": 91.10154
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "রামনারায়নপুর বালক সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2272,
-        "female_count": 2070,
-        "hijra_count": 0,
-        "latitude": 23.00718,
-        "longitude": 90.94782
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "রামনারায়পুর উচ্চ বিদ্যালয়",
-        "male_count": 2612,
-        "female_count": 2487,
-        "hijra_count": 0,
-        "latitude": 23.00991,
-        "longitude": 90.94146
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "রেজ্জাকপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1344,
-        "female_count": 1333,
-        "hijra_count": 0,
-        "latitude": 23.10132,
-        "longitude": 90.978
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "শংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2698,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.0016,
-        "longitude": 90.97764
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "শংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2380,
-        "hijra_count": 0,
-        "latitude": 23.00173,
-        "longitude": 90.97765
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "শাকতলা ছিদ্দিকিয়া ইসলামিয়া আলিম মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 3166,
-        "hijra_count": 0,
-        "latitude": 23.0604,
-        "longitude": 91.07247
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "শাকতলা ছিদ্দিকিয়া ইসলামিয়া আলিম মাদ্রাসা",
-        "male_count": 3564,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.06057,
-        "longitude": 91.07196
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "শাহাপুর বহমুখী উচ্চ বিদ্যালয়",
-        "male_count": 1974,
-        "female_count": 1920,
-        "hijra_count": 0,
-        "latitude": 23.05034,
-        "longitude": 90.91593
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "শিবরামপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1384,
-        "female_count": 1380,
-        "hijra_count": 0,
-        "latitude": 23.03225,
-        "longitude": 90.91649
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "শিমুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1673,
-        "female_count": 1544,
-        "hijra_count": 0,
-        "latitude": 23.04486,
-        "longitude": 91.0939
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "শ্রী রায় মহিলা আলিম মাদ্রাসা",
-        "male_count": 1214,
-        "female_count": 1147,
-        "hijra_count": 0,
-        "latitude": 23.01449,
-        "longitude": 90.95771
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সপ্তগাঁও আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1240,
-        "female_count": 1230,
-        "hijra_count": 0,
-        "latitude": 23.1221,
-        "longitude": 90.97221
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সাধুরখিল এ আই দাখিল মাদ্রাসা",
-        "male_count": 2005,
-        "female_count": 1902,
-        "hijra_count": 0,
-        "latitude": 23.01742,
-        "longitude": 90.9905
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সাহারপাড় সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1585,
-        "female_count": 1549,
-        "hijra_count": 0,
-        "latitude": 23.06672,
-        "longitude": 91.13
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সিংবাহুড়া গার্লস একাডেমী",
-        "male_count": 1599,
-        "female_count": 1593,
-        "hijra_count": 0,
-        "latitude": 23.02988,
-        "longitude": 90.98688
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সুন্দরপুর সরকারি প্রাথমিক বিদ্যালয়, সুন্দরপুর",
-        "male_count": 2089,
-        "female_count": 1974,
-        "hijra_count": 0,
-        "latitude": 23.0653,
-        "longitude": 90.96383
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সোনাইমুড়ী বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 2082,
-        "female_count": 1907,
-        "hijra_count": 0,
-        "latitude": 23.03593,
-        "longitude": 91.09791
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সোনাইমুড়ী হামিদিয়া কামিল মাদ্রাসা",
-        "male_count": 1869,
-        "female_count": 1671,
-        "hijra_count": 0,
-        "latitude": 23.03835,
-        "longitude": 91.09987
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সোনাপুর আলী আকবর উচ্চ বিদ্যালয়",
-        "male_count": 2555,
-        "female_count": 2446,
-        "hijra_count": 0,
-        "latitude": 23.00278,
-        "longitude": 91.06275
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "সোমপাড়া উচ্চ বিদ্যালয়",
-        "male_count": 2123,
-        "female_count": 2125,
-        "hijra_count": 0,
-        "latitude": 23.02236,
-        "longitude": 90.91478
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "হাটগাঁও সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1534,
-        "female_count": 1538,
-        "hijra_count": 0,
-        "latitude": 23.0522,
-        "longitude": 91.04867
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "হাটপুকুরিয়া উচ্চ বিদ্যালয়",
-        "male_count": 1437,
-        "female_count": 1382,
-        "hijra_count": 0,
-        "latitude": 23.04737,
-        "longitude": 90.94757
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "হাসর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1758,
-        "female_count": 1578,
-        "hijra_count": 0,
-        "latitude": 23.10448,
-        "longitude": 91.0286
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "হীরাপুর উচ্চ বিদ্যালয় ও কলেজ",
-        "male_count": 1504,
-        "female_count": 1502,
-        "hijra_count": 0,
-        "latitude": 23.11179,
-        "longitude": 90.9788
-    },
-    {
-        "settings_code": 268,
-        "settings_name": "নোয়াখালী-১",
-        "center_name": "হোসেনপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1732,
-        "female_count": 1759,
-        "hijra_count": 0,
-        "latitude": 23.04648,
-        "longitude": 90.99544
-    }
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "আইচাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1368,
+    "female_count": 1348,
+    "hijra_count": 0,
+    "latitude": 22.9858,
+    "longitude": 91.02201
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "আবিরপাড়া মাধ্যমিক বিদ্যা নিকেতন",
+    "male_count": 2536,
+    "female_count": 2379,
+    "hijra_count": 0,
+    "latitude": 22.99583,
+    "longitude": 91.00471
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "আমিরাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1783,
+    "female_count": 1757,
+    "hijra_count": 0,
+    "latitude": 23.01945,
+    "longitude": 91.01414
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "আমিশাপাড়া কৃষক উচ্চ বিদ্যালয়",
+    "male_count": 2842,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.00375,
+    "longitude": 91.03838
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "আমিশাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2771,
+    "hijra_count": 0,
+    "latitude": 23.00375,
+    "longitude": 91.03839
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "আম্বিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1174,
+    "female_count": 1228,
+    "hijra_count": 0,
+    "latitude": 23.04637,
+    "longitude": 90.98413
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ইসলামপুর হোসাইনিয়া দাখিল মাদ্রাসা",
+    "male_count": 1828,
+    "female_count": 1834,
+    "hijra_count": 0,
+    "latitude": 23.11897,
+    "longitude": 90.9652
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "উত্তর সাহাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1754,
+    "female_count": 1652,
+    "hijra_count": 0,
+    "latitude": 23.05793,
+    "longitude": 91.10859
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "উলুপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2254,
+    "female_count": 2144,
+    "hijra_count": 0,
+    "latitude": 23.02868,
+    "longitude": 91.09506
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ওমর আলী উচ্চ বিদ্যালয়",
+    "male_count": 2352,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.08023,
+    "longitude": 91.00561
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ওমর আলী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2335,
+    "hijra_count": 0,
+    "latitude": 23.0803,
+    "longitude": 91.00562
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কড়িহাটি উচ্চ বিদ্যালয়",
+    "male_count": 1666,
+    "female_count": 1681,
+    "hijra_count": 0,
+    "latitude": 23.031,
+    "longitude": 90.99828
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কাজিরখিল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1526,
+    "female_count": 1407,
+    "hijra_count": 0,
+    "latitude": 23.00889,
+    "longitude": 91.00914
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কাঠালী মোহাম্মাদিয়া হাফেজিয়া নূরানী মাদ্রাসা",
+    "male_count": 1748,
+    "female_count": 1705,
+    "hijra_count": 0,
+    "latitude": 23.04411,
+    "longitude": 91.11084
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কাবিলপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 916,
+    "female_count": 924,
+    "hijra_count": 0,
+    "latitude": 23.07097,
+    "longitude": 91.13941
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কামালপুর মোঃ হাশেম উচ্চ বিদ্যালয়",
+    "male_count": 1884,
+    "female_count": 1902,
+    "hijra_count": 0,
+    "latitude": 23.0983,
+    "longitude": 90.98769
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কালিকাপুর উচ্চ বিদ্যালয়",
+    "male_count": 3379,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.02181,
+    "longitude": 91.06712
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কালিকাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3137,
+    "hijra_count": 0,
+    "latitude": 23.02156,
+    "longitude": 91.06666
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কালুয়াই সরকারি প্রাথমিক বিদ্যালয় (উত্তর পার্শ্বের ভবন) ও সংলগ্ন পূর্ব কালুয়াই হাফিজিয়া মাদ্রাসা",
+    "male_count": 2737,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.04837,
+    "longitude": 91.08019
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কালুয়াই সরকারি প্রাথমিক বিদ্যালয় (পশ্চিম পার্শ্বের ভবন)",
+    "male_count": 0,
+    "female_count": 2543,
+    "hijra_count": 0,
+    "latitude": 23.04835,
+    "longitude": 91.08029
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কেঘনা নতুন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2334,
+    "female_count": 2177,
+    "hijra_count": 0,
+    "latitude": 23.02868,
+    "longitude": 91.09507
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "কৌশল্যারবাগ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1449,
+    "female_count": 1371,
+    "hijra_count": 0,
+    "latitude": 23.04766,
+    "longitude": 91.09801
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "খিলপাড়া বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1182,
+    "female_count": 1101,
+    "hijra_count": 0,
+    "latitude": 23.01359,
+    "longitude": 90.97155
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ঘাটলাবাগ কেশুরবাগ রহমতগঞ্জ আশ্রাফিয়া দাখিল মাদ্রাসা",
+    "male_count": 2019,
+    "female_count": 1964,
+    "hijra_count": 0,
+    "latitude": 23.04554,
+    "longitude": 90.94157
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ঘাসেরখিল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1341,
+    "female_count": 1245,
+    "hijra_count": 0,
+    "latitude": 23.02394,
+    "longitude": 91.00029
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "চাটখিল আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1543,
+    "female_count": 1578,
+    "hijra_count": 0,
+    "latitude": 23.05989,
+    "longitude": 90.96963
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "চাটখিল পাঁচগাঁও সরকারি উচ্চ বিদ্যালয়",
+    "male_count": 1735,
+    "female_count": 1649,
+    "hijra_count": 0,
+    "latitude": 23.06016,
+    "longitude": 90.98419
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ছয়ানী টবগা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1222,
+    "female_count": 1268,
+    "hijra_count": 0,
+    "latitude": 23.04872,
+    "longitude": 90.9696
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ছোবহানপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1047,
+    "female_count": 950,
+    "hijra_count": 0,
+    "latitude": 23.01065,
+    "longitude": 90.92506
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "জগজীবনপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1626,
+    "female_count": 1532,
+    "hijra_count": 0,
+    "latitude": 23.03332,
+    "longitude": 91.0687
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "জয়াগ বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 2084,
+    "female_count": 1960,
+    "hijra_count": 0,
+    "latitude": 23.06317,
+    "longitude": 91.01185
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "জামিয়া আশ্রাফিয়া (গোমাতলী নুরানী মাদ্রাসা)",
+    "male_count": 1159,
+    "female_count": 1044,
+    "hijra_count": 0,
+    "latitude": 23.00019,
+    "longitude": 90.96944
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "জামিয়া দারুস সালাম নূরানী ও হাফিজিয়া মডেল মাদ্রাসা",
+    "male_count": 1097,
+    "female_count": 1007,
+    "hijra_count": 0,
+    "latitude": 22.99844,
+    "longitude": 91.04874
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "জামেয়া ফয়েজিয়া",
+    "male_count": 906,
+    "female_count": 816,
+    "hijra_count": 0,
+    "latitude": 23.0228,
+    "longitude": 90.98053
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "জীবনগর বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2559,
+    "hijra_count": 0,
+    "latitude": 23.02702,
+    "longitude": 90.95199
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "জীবনগর বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 2664,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.02724,
+    "longitude": 90.95215
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "জুনদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2678,
+    "hijra_count": 0,
+    "latitude": 22.42093,
+    "longitude": 89.59737
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "টবগা আজম বালক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1208,
+    "female_count": 1298,
+    "hijra_count": 0,
+    "latitude": 23.04681,
+    "longitude": 90.97598
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ড: খলিলুর রহমান বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1458,
+    "female_count": 1458,
+    "hijra_count": 0,
+    "latitude": 23.09446,
+    "longitude": 90.98984
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "থানারহাট উচ্চ বিদ্যালয়",
+    "male_count": 942,
+    "female_count": 988,
+    "hijra_count": 0,
+    "latitude": 23.08804,
+    "longitude": 91.02743
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দশঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1989,
+    "female_count": 1853,
+    "hijra_count": 0,
+    "latitude": 23.06697,
+    "longitude": 90.93278
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দশানী টবগা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1539,
+    "female_count": 1556,
+    "hijra_count": 0,
+    "latitude": 23.05562,
+    "longitude": 90.96071
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দারুল ইসলাম বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1328,
+    "female_count": 1306,
+    "hijra_count": 0,
+    "latitude": 23.09249,
+    "longitude": 90.95675
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দেওটি হেমায়াতুল ইসলাম কাওমী মাদ্রাসা",
+    "male_count": 1882,
+    "female_count": 1833,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1150,
+    "female_count": 1152,
+    "hijra_count": 0,
+    "latitude": 23.07415,
+    "longitude": 91.05536
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দেলিয়াই বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1865,
+    "female_count": 1731,
+    "hijra_count": 0,
+    "latitude": 22.99343,
+    "longitude": 90.97935
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দেলিয়াই বিনোদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1095,
+    "female_count": 1098,
+    "hijra_count": 0,
+    "latitude": 22.98456,
+    "longitude": 90.98103
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দেলিয়াই সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1916,
+    "female_count": 1831,
+    "hijra_count": 0,
+    "latitude": 22.99334,
+    "longitude": 90.99187
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "দৌলতপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 981,
+    "female_count": 1029,
+    "hijra_count": 0,
+    "latitude": 23.07923,
+    "longitude": 90.92547
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ধন্যপুর মহিলা দাখিল মাদ্রাসা",
+    "male_count": 2269,
+    "female_count": 2184,
+    "hijra_count": 0,
+    "latitude": 23.00344,
+    "longitude": 91.05432
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ধর্মপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2212,
+    "female_count": 2061,
+    "hijra_count": 0,
+    "latitude": 23.02265,
+    "longitude": 90.93552
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ধুলিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1014,
+    "female_count": 967,
+    "hijra_count": 0,
+    "latitude": 23.02862,
+    "longitude": 91.09504
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "নজরুল একাডেমী উচ্চ বিদ্যালয়",
+    "male_count": 1174,
+    "female_count": 1090,
+    "hijra_count": 0,
+    "latitude": 22.97619,
+    "longitude": 91.03566
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "নবগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1966,
+    "female_count": 1837,
+    "hijra_count": 0,
+    "latitude": 23.02831,
+    "longitude": 91.0314
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "নান্দিয়াপাড়া বীরশ্রেষ্ঠ শহীদ মোঃ রুহুল আমিন ডিগ্রি কলেজ",
+    "male_count": 1285,
+    "female_count": 1255,
+    "hijra_count": 0,
+    "latitude": 23.03853,
+    "longitude": 91.04162
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "নারায়নপুর আর কে উচ্চ বিদ্যালয়",
+    "male_count": 2031,
+    "female_count": 1943,
+    "hijra_count": 0,
+    "latitude": 23.03533,
+    "longitude": 90.93561
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "নাহারখিল রহমত উল্যাহ কেরানী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1350,
+    "female_count": 1316,
+    "hijra_count": 0,
+    "latitude": 23.00627,
+    "longitude": 90.99803
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "নোয়াখলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1883,
+    "female_count": 1886,
+    "hijra_count": 0,
+    "latitude": 23.03132,
+    "longitude": 90.94709
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "নোয়ারাজারামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1918,
+    "female_count": 1689,
+    "hijra_count": 0,
+    "latitude": 23.01412,
+    "longitude": 91.02004
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পতিশ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1784,
+    "female_count": 1662,
+    "hijra_count": 0,
+    "latitude": 23.03648,
+    "longitude": 91.00176
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পদিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 985,
+    "female_count": 970,
+    "hijra_count": 0,
+    "latitude": 22.97628,
+    "longitude": 91.03485
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পরকোট দশঘরিয়া ইউনিয়ন উচ্চ বিদ্যালয়",
+    "male_count": 2183,
+    "female_count": 2004,
+    "hijra_count": 0,
+    "latitude": 23.06732,
+    "longitude": 90.9327
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পরকোট বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1407,
+    "female_count": 1197,
+    "hijra_count": 0,
+    "latitude": 23.06757,
+    "longitude": 90.95019
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পরানপুর কাকড়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1233,
+    "female_count": 1208,
+    "hijra_count": 0,
+    "latitude": 23.0861,
+    "longitude": 91.01495
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পল্লী মঙ্গল উচ্চ বিদ্যালয়",
+    "male_count": 2717,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.05683,
+    "longitude": 91.03643
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পাঁচগাঁও বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2064,
+    "female_count": 2069,
+    "hijra_count": 0,
+    "latitude": 23.06047,
+    "longitude": 90.99718
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পাঁচবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1994,
+    "female_count": 1829,
+    "hijra_count": 0,
+    "latitude": 23.06436,
+    "longitude": 91.05846
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পাপুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1479,
+    "female_count": 1308,
+    "hijra_count": 0,
+    "latitude": 23.03262,
+    "longitude": 91.0876
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পালপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1757,
+    "female_count": 1548,
+    "hijra_count": 0,
+    "latitude": 23.03403,
+    "longitude": 91.04596
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পাল্লা মাহবুব আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2754,
+    "hijra_count": 0,
+    "latitude": 23.07876,
+    "longitude": 90.98527
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পাল্লা মাহবুব আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 3006,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.07877,
+    "longitude": 90.98519
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পিতাম্বরপুর উচ্চ বিদ্যালয়",
+    "male_count": 1576,
+    "female_count": 1502,
+    "hijra_count": 0,
+    "latitude": 23.03245,
+    "longitude": 91.02492
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পুরুষোত্তমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1963,
+    "female_count": 1867,
+    "hijra_count": 0,
+    "latitude": 23.02197,
+    "longitude": 90.90577
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পূর্ব কাঠালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 667,
+    "female_count": 576,
+    "hijra_count": 0,
+    "latitude": 23.04654,
+    "longitude": 91.1195
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পূর্ব ফতেপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1715,
+    "female_count": 1658,
+    "hijra_count": 0,
+    "latitude": 23.07585,
+    "longitude": 90.96122
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পূর্ব শ্রীনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1307,
+    "female_count": 1416,
+    "hijra_count": 0,
+    "latitude": 23.03031,
+    "longitude": 90.97469
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পূ্র্ব শোশালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1689,
+    "female_count": 1705,
+    "hijra_count": 0,
+    "latitude": 23.06181,
+    "longitude": 90.92417
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "পোরকরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1815,
+    "female_count": 1563,
+    "hijra_count": 0,
+    "latitude": 23.06947,
+    "longitude": 91.11977
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ফাওড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1250,
+    "female_count": 1250,
+    "hijra_count": 0,
+    "latitude": 23.11018,
+    "longitude": 90.99566
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বদলকোট উচ্চ বিদ্যালয়",
+    "male_count": 2063,
+    "female_count": 2021,
+    "hijra_count": 0,
+    "latitude": 23.08773,
+    "longitude": 90.96102
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বদলকোট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1173,
+    "female_count": 1096,
+    "hijra_count": 0,
+    "latitude": 23.08993,
+    "longitude": 90.9609
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বাইসসিন্দুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1443,
+    "female_count": 1356,
+    "hijra_count": 0,
+    "latitude": 23.07944,
+    "longitude": 90.93841
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বাগপাঁচড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1569,
+    "female_count": 1430,
+    "hijra_count": 0,
+    "latitude": 23.03406,
+    "longitude": 91.04587
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বাটরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1376,
+    "female_count": 1231,
+    "hijra_count": 0,
+    "latitude": 23.02591,
+    "longitude": 91.10511
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বাদুলী মোল্লাপত্তন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 838,
+    "female_count": 779,
+    "hijra_count": 0,
+    "latitude": 23.01378,
+    "longitude": 90.99433
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বারাহিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1389,
+    "female_count": 1234,
+    "hijra_count": 0,
+    "latitude": 23.01888,
+    "longitude": 91.08418
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বারাহী নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1013,
+    "female_count": 1000,
+    "hijra_count": 0,
+    "latitude": 23.00498,
+    "longitude": 91.02925
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বৈকুন্ঠপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1054,
+    "female_count": 1056,
+    "hijra_count": 0,
+    "latitude": 23.00257,
+    "longitude": 90.95947
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "বোরপিট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1749,
+    "female_count": 1582,
+    "hijra_count": 0,
+    "latitude": 23.04663,
+    "longitude": 91.0603
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ভাওরকোট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1827,
+    "female_count": 1664,
+    "hijra_count": 0,
+    "latitude": 23.02868,
+    "longitude": 91.09506
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ভাওর ভীমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1600,
+    "female_count": 1588,
+    "hijra_count": 0,
+    "latitude": 23.06813,
+    "longitude": 90.9845
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ভানুয়াই দক্ষিণপাড়া নূরানী মাদ্রাসা",
+    "male_count": 1448,
+    "female_count": 1377,
+    "hijra_count": 0,
+    "latitude": 23.03424,
+    "longitude": 91.09551
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "ভীমপুর বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1599,
+    "female_count": 1523,
+    "hijra_count": 0,
+    "latitude": 23.06201,
+    "longitude": 90.97179
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মধ্য শোশালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1591,
+    "female_count": 1541,
+    "hijra_count": 0,
+    "latitude": 23.06314,
+    "longitude": 90.90504
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মমিনপুর দাখিল মাদ্রাসা",
+    "male_count": 1395,
+    "female_count": 1295,
+    "hijra_count": 0,
+    "latitude": 23.03123,
+    "longitude": 90.89455
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মাদাসা আবু বকর ছিদ্দিক (রাঃ),",
+    "male_count": 823,
+    "female_count": 768,
+    "hijra_count": 0,
+    "latitude": 23.06116,
+    "longitude": 91.08374
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মানিক্যনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 978,
+    "female_count": 908,
+    "hijra_count": 0,
+    "latitude": 22.99615,
+    "longitude": 91.0215
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মাহুতলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1676,
+    "female_count": 1563,
+    "hijra_count": 0,
+    "latitude": 23.08102,
+    "longitude": 91.02282
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মুরাদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1241,
+    "female_count": 1113,
+    "hijra_count": 0,
+    "latitude": 22.99815,
+    "longitude": 91.05772
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মেঘা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1152,
+    "female_count": 1115,
+    "hijra_count": 0,
+    "latitude": 23.10133,
+    "longitude": 90.95559
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মোহাম্মদপুর জনতা উচ্চ বিদ্যালয়",
+    "male_count": 2744,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.09776,
+    "longitude": 91.01945
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "মোহাম্মদপুর জনতা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2521,
+    "hijra_count": 0,
+    "latitude": 23.09735,
+    "longitude": 91.0185
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "রথী গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1612,
+    "female_count": 1487,
+    "hijra_count": 0,
+    "latitude": 23.06391,
+    "longitude": 91.10154
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "রামনারায়নপুর বালক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2272,
+    "female_count": 2070,
+    "hijra_count": 0,
+    "latitude": 23.00718,
+    "longitude": 90.94782
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "রামনারায়পুর উচ্চ বিদ্যালয়",
+    "male_count": 2612,
+    "female_count": 2487,
+    "hijra_count": 0,
+    "latitude": 23.00991,
+    "longitude": 90.94146
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "রেজ্জাকপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1344,
+    "female_count": 1333,
+    "hijra_count": 0,
+    "latitude": 23.10132,
+    "longitude": 90.978
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "শংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2698,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.0016,
+    "longitude": 90.97764
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "শংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2380,
+    "hijra_count": 0,
+    "latitude": 23.00173,
+    "longitude": 90.97765
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "শাকতলা ছিদ্দিকিয়া ইসলামিয়া আলিম মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 3166,
+    "hijra_count": 0,
+    "latitude": 23.0604,
+    "longitude": 91.07247
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "শাকতলা ছিদ্দিকিয়া ইসলামিয়া আলিম মাদ্রাসা",
+    "male_count": 3564,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.06057,
+    "longitude": 91.07196
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "শাহাপুর বহমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1974,
+    "female_count": 1920,
+    "hijra_count": 0,
+    "latitude": 23.05034,
+    "longitude": 90.91593
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "শিবরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1384,
+    "female_count": 1380,
+    "hijra_count": 0,
+    "latitude": 23.03225,
+    "longitude": 90.91649
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "শিমুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1673,
+    "female_count": 1544,
+    "hijra_count": 0,
+    "latitude": 23.04486,
+    "longitude": 91.0939
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "শ্রী রায় মহিলা আলিম মাদ্রাসা",
+    "male_count": 1214,
+    "female_count": 1147,
+    "hijra_count": 0,
+    "latitude": 23.01449,
+    "longitude": 90.95771
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সপ্তগাঁও আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1240,
+    "female_count": 1230,
+    "hijra_count": 0,
+    "latitude": 23.1221,
+    "longitude": 90.97221
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সাধুরখিল এ আই দাখিল মাদ্রাসা",
+    "male_count": 2005,
+    "female_count": 1902,
+    "hijra_count": 0,
+    "latitude": 23.01742,
+    "longitude": 90.9905
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সাহারপাড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1585,
+    "female_count": 1549,
+    "hijra_count": 0,
+    "latitude": 23.06672,
+    "longitude": 91.13
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সিংবাহুড়া গার্লস একাডেমী",
+    "male_count": 1599,
+    "female_count": 1593,
+    "hijra_count": 0,
+    "latitude": 23.02988,
+    "longitude": 90.98688
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সুন্দরপুর সরকারি প্রাথমিক বিদ্যালয়, সুন্দরপুর",
+    "male_count": 2089,
+    "female_count": 1974,
+    "hijra_count": 0,
+    "latitude": 23.0653,
+    "longitude": 90.96383
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সোনাইমুড়ী বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2082,
+    "female_count": 1907,
+    "hijra_count": 0,
+    "latitude": 23.03593,
+    "longitude": 91.09791
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সোনাইমুড়ী হামিদিয়া কামিল মাদ্রাসা",
+    "male_count": 1869,
+    "female_count": 1671,
+    "hijra_count": 0,
+    "latitude": 23.03835,
+    "longitude": 91.09987
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সোনাপুর আলী আকবর উচ্চ বিদ্যালয়",
+    "male_count": 2555,
+    "female_count": 2446,
+    "hijra_count": 0,
+    "latitude": 23.00278,
+    "longitude": 91.06275
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "সোমপাড়া উচ্চ বিদ্যালয়",
+    "male_count": 2123,
+    "female_count": 2125,
+    "hijra_count": 0,
+    "latitude": 23.02236,
+    "longitude": 90.91478
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "হাটগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1534,
+    "female_count": 1538,
+    "hijra_count": 0,
+    "latitude": 23.0522,
+    "longitude": 91.04867
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "হাটপুকুরিয়া উচ্চ বিদ্যালয়",
+    "male_count": 1437,
+    "female_count": 1382,
+    "hijra_count": 0,
+    "latitude": 23.04737,
+    "longitude": 90.94757
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "হাসর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1758,
+    "female_count": 1578,
+    "hijra_count": 0,
+    "latitude": 23.10448,
+    "longitude": 91.0286
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "হীরাপুর উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 1504,
+    "female_count": 1502,
+    "hijra_count": 0,
+    "latitude": 23.11179,
+    "longitude": 90.9788
+  },
+  {
+    "settings_code": 268,
+    "settings_name": "নোয়াখালী-১",
+    "center_name": "হোসেনপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1732,
+    "female_count": 1759,
+    "hijra_count": 0,
+    "latitude": 23.04648,
+    "longitude": 90.99544
+  }
 ]

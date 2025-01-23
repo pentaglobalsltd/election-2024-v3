@@ -1,832 +1,832 @@
 [
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "০১ নং উত্তর ছোট মাছুয়া সরকারি প্রাথমিক বিদ্যালয়, উত্তর ছোট মাছুয়া",
-        "male_count": 877,
-        "female_count": 875,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "০৩ নং দক্ষিণ তুষখালী সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ তুষখালী",
-        "male_count": 1519,
-        "female_count": 1520,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "০৪ নং দক্ষিণ শাঁখারিকাঠী সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ শাঁখারিকাঠী",
-        "male_count": 580,
-        "female_count": 518,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "০৫ নং মধ্য ছোট মাছুয়া সরকারি প্রাথমিক বিদ্যালয়, মধ্য ছোট মাছুয়া",
-        "male_count": 905,
-        "female_count": 874,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "০৭ নং খেজুরবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়, খেজুরবাড়িয়া",
-        "male_count": 947,
-        "female_count": 938,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "০৯ নং দক্ষিণ বড়মাছুয়া সরকারি প্রাথমিক বিদ্যালয়, দারোগাবাড়ী",
-        "male_count": 1287,
-        "female_count": 1219,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১০১নং মাথাভাংগা সরকারি প্রাথমিক বিদ্যালয়, কবুতরখালী",
-        "male_count": 1091,
-        "female_count": 1164,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১০৪নং লক্ষণা সরকারি প্রাথমিক বিদ্যালয়, লক্ষণা",
-        "male_count": 1469,
-        "female_count": 1456,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১০৫নং টিয়ারখালী সরকারি প্রাথমিক বিদ্যালয়, টিয়ারখালী",
-        "male_count": 962,
-        "female_count": 951,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১০৭নং হলতা সরকারি প্রাথমিক বিদ্যালয়, হলতা",
-        "male_count": 1555,
-        "female_count": 1603,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১১১ নং পূর্ব ঘটিচোরা সরকারি প্রাথমিক বিদ্যালয়, বকসির ঘটিচোরা",
-        "male_count": 982,
-        "female_count": 900,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১৩০ নং দক্ষিণ পূর্ব বাদুরতলী সরকারি প্রাথমিক বিদ্যালয়, বাদুরতলী",
-        "male_count": 1338,
-        "female_count": 1287,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১৩১ নং পশ্চিম বড় মাছুয়া সরকারি প্রাথমিক বিদ্যালয়, তালুকদার বাড়ি",
-        "male_count": 1505,
-        "female_count": 1424,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১৩২ নং উঃ পূঃ মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, উত্তর মিঠাখালী",
-        "male_count": 993,
-        "female_count": 972,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১৫০নং উত্তর পূর্ব খেতাচিড়া সরকারি প্রাথমিক বিদ্যালয়, খেতাচিরা।",
-        "male_count": 1384,
-        "female_count": 1259,
-        "hijra_count": 0,
-        "latitude": 22.17211,
-        "longitude": 89.91568
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১৫১ নং লোদের হাওলা সরকারি প্রাথমিক বিদ্যালয়, লোদের হাওলা, বড় হারজী",
-        "male_count": 792,
-        "female_count": 705,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১৫৬নং দক্ষিণ মিঠাখালী আদর্শ সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ মিঠাখালী সরদার বাড়ী",
-        "male_count": 1072,
-        "female_count": 1023,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১৬নং চিত্রা পাতাকাটা সরকারি প্রাথমিক বিদ্যালয়, পাতাকাটা",
-        "male_count": 1729,
-        "female_count": 1690,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "১৮৪ নং মধ্য গিলাবাদ সরকারি প্রাথমিক বিদ্যালয়, গিলাবাদ",
-        "male_count": 1293,
-        "female_count": 1196,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "২০ নং সাফাহাট সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন মাধ্যমিক বিদ্যালয়, সাফা বন্দর",
-        "male_count": 1571,
-        "female_count": 1536,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "২২ নং উদয়তারা বুড়িরচর সরকারি প্রাথমিক বিদ্যালয়, উদয়তারা বুড়িরচর",
-        "male_count": 1316,
-        "female_count": 1224,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "২৫ নং পূর্ব ফুলঝুড়ি সরকারি প্রাথমিক বিদ্যালয়, পূর্ব ফুলঝুড়ি ফকির বাড়ী",
-        "male_count": 1232,
-        "female_count": 1221,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "২৭ নং দেবীপুর বোর্ড সরকারি প্রাথমিক বিদ্যালয়, দেবীপুর",
-        "male_count": 2008,
-        "female_count": 1899,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৩৪নং বাদুরা সরকারি প্রাথমিক বিদ্যালয়, বাদুরা",
-        "male_count": 1252,
-        "female_count": 1181,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৩৫নং নাগ্রাভাংগা সরকারি প্রাথমিক বিদ্যালয়, নাগ্রাভাংগা",
-        "male_count": 1002,
-        "female_count": 1005,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৩৬নং দক্ষিণ মিরুখালী সরকারি প্রাথমিক বিদ্যালয়, মিরুখালী।",
-        "male_count": 1085,
-        "female_count": 1093,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৩৭নং শৌলা আদর্শ সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন শৌলা আর্দশ মাধ্যমিক বিদ্যালয়",
-        "male_count": 1390,
-        "female_count": 1201,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৪১ নং রাজারহাট সরকারি প্রাথমিক বিদ্যালয় ও রাজারহাট শহীদ বাচ্চু মাধ্যমিক বিদ্যালয়, রাজারহাট বাজার",
-        "male_count": 1389,
-        "female_count": 1379,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৪২ নং চালিতাবুনিয়া সরকারি প্রাথমিক বিদ্যালয়, চালিতাবুনিয়া",
-        "male_count": 1457,
-        "female_count": 1358,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৪৩ নং দেবত্র গিলাবাদ সরকারি প্রাথমিক বিদ্যালয়, দেবত্র গিলাবাদ",
-        "male_count": 841,
-        "female_count": 827,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৪৭ নং পাঠাকাটা সরকারি প্রাথমিক বিদ্যালয়, পাঠাকাটা",
-        "male_count": 942,
-        "female_count": 867,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৪৯ নং উত্তর দাউদখালী সরকারি প্রাথমিক বিদ্যালয়, উত্তর দাউদখালী",
-        "male_count": 1527,
-        "female_count": 1424,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৫২ নং মধ্য মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, মধ্য মিঠাখালী",
-        "male_count": 1647,
-        "female_count": 1580,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৫৪নং মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, উত্তর মিঠাখালী",
-        "male_count": 958,
-        "female_count": 969,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৫৫ নং বড় মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ মিঠাখালী",
-        "male_count": 980,
-        "female_count": 1053,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৫৭ নং আন্ধারমানিক সরকারি প্রাথমিক বিদ্যালয়, আন্ধারমানিক",
-        "male_count": 1675,
-        "female_count": 1692,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৫৮নং ঘটিচোরা সরকারি প্রাথমিক বিদ্যালয়, বকসির ঘটিচোরা হাফিজ মৃধার বাড়ী",
-        "male_count": 1120,
-        "female_count": 1131,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৬৩ নং দক্ষিণ ঘোষের টিকিকাটা সরকারি প্রাথমিক বিদ্যালয়, ভেচকি বাইশকুড়া",
-        "male_count": 2109,
-        "female_count": 1943,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৭১ নং পশ্চিম শিংগা সরকারি প্রাথমিক বিদ্যালয়, শিংগা বয়াতির হাট",
-        "male_count": 1809,
-        "female_count": 1815,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৭২ নং কুমিরমারা সরকারি প্রাথমিক বিদ্যালয়, কুমিরমারা",
-        "male_count": 1767,
-        "female_count": 1715,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৭৩ নং রাজপাড়া সরকারি প্রাথমিক বিদ্যালয়, রাজপাড়া",
-        "male_count": 1558,
-        "female_count": 1486,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৭৪ নং পশ্চিম মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, পশ্চিম মিঠাখালী",
-        "male_count": 1431,
-        "female_count": 1407,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৭৫ নং ঘোপখালী সরকারি প্রাথমিক বিদ্যালয়, ঘোপখালী",
-        "male_count": 1149,
-        "female_count": 1155,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৭৮ নং জানখালী সরকারি প্রাথমিক বিদ্যালয়, জানখালী।",
-        "male_count": 730,
-        "female_count": 694,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৮০নং বিএন হাট সরকারি প্রাথমিক বিদ্যালয়, বেতমোর",
-        "male_count": 2226,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৮১ নং উলুবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়, উলুবাড়ীয়া।",
-        "male_count": 1340,
-        "female_count": 1260,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৮২ নং গোলবুনিয়া সরকারি প্রাথমিক বিদ্যালয়, গোলবুনিয়া",
-        "male_count": 1925,
-        "female_count": 1830,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৮৬ নং পশুরিয়া সরকারি প্রাথমিক বিদ্যালয়, পশুরিয়া",
-        "male_count": 1194,
-        "female_count": 1126,
-        "hijra_count": 0,
-        "latitude": 22.26718,
-        "longitude": 89.93323
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৮৭ নং মধ্য সোনাখালী সরকারি প্রাথমিক বিদ্যালয়, মধ্য সোনাখালী",
-        "male_count": 1844,
-        "female_count": 1846,
-        "hijra_count": 0,
-        "latitude": 22.24685,
-        "longitude": 89.93297
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৮৮ নং উত্তর সোনাখালী সরকারি প্রাথমিক বিদ্যালয়, উত্তর সোনাখালী",
-        "male_count": 1479,
-        "female_count": 1402,
-        "hijra_count": 0,
-        "latitude": 22.24318,
-        "longitude": 89.94931
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৯০নং পশ্চিম সাপলেজা সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন সাপলেজা নেছারিয়া আলিম মাদ্রাসা, ভাইজোড়া",
-        "male_count": 1620,
-        "female_count": 1607,
-        "hijra_count": 0,
-        "latitude": 22.2073,
-        "longitude": 89.90377
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৯১নং কচুবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়, কচুবাড়িয়া",
-        "male_count": 1379,
-        "female_count": 1322,
-        "hijra_count": 0,
-        "latitude": 22.18153,
-        "longitude": 89.90327
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৯৫নং উত্তর নলী সরকারি প্রাথমিক বিদ্যালয়, ও সংলগ্ন বুখাইতলা সম্মলিত (বিবিএস) মাধ্যমিক বিদ্যালয়, বুখাইতলা বান্ধবপাড়া",
-        "male_count": 1376,
-        "female_count": 1373,
-        "hijra_count": 0,
-        "latitude": 22.22454,
-        "longitude": 89.94972
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৯৮ নং ঝাটিবুনিয়া সরকারি প্রাথমিক বিদ্যালয়, পূর্ব সাপলেজা",
-        "male_count": 854,
-        "female_count": 883,
-        "hijra_count": 0,
-        "latitude": 22.20956,
-        "longitude": 89.93311
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "৯৯নং তাফালবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়, তাফালবাড়িয়া।",
-        "male_count": 1556,
-        "female_count": 1488,
-        "hijra_count": 0,
-        "latitude": 22.17624,
-        "longitude": 89.93806
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "আমড়াগাছিয়া মাধ্যমিক বিদ্যালয়",
-        "male_count": 1739,
-        "female_count": 1731,
-        "hijra_count": 0,
-        "latitude": 22.24558,
-        "longitude": 89.91315
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "আলগী পাতাকাটা মাধ্যমিক বিদ্যালয়, আলগী",
-        "male_count": 1393,
-        "female_count": 1396,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "উত্তর টিকিকাটা মাধ্যমিক বিদ্যালয়, তেতুলতলা বাজার",
-        "male_count": 1755,
-        "female_count": 1654,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "কে, এম ইউসুফ আলী মাধ্যমিক বিদ্যালয়, হারজী নলবুনিয়া",
-        "male_count": 1469,
-        "female_count": 1450,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "কে, এম লতিফ ইনষ্টিটিউশন",
-        "male_count": 1926,
-        "female_count": 2080,
-        "hijra_count": 0,
-        "latitude": 22.28793,
-        "longitude": 89.96022
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "গুদিঘাটা সরোজনী আদর্শ মাধ্যমিক বিদ্যালয়, গুদিঘাটা",
-        "male_count": 1516,
-        "female_count": 1474,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "গুলিশাখালী জি,কে ইউনিয়ন মাধ্যমিক বিদ্যালয়, গুলিশাখালী",
-        "male_count": 1543,
-        "female_count": 1560,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "ছোট হারজী আলীম সিনিয়র মাদ্রাসা ও সংলগ্ন ৩১নং ছোট হারজী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1248,
-        "female_count": 1214,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "টিকিকাটা নুরিয়া ফাজিল মাদ্রাসা, পশ্চিম সেনের টিকিকাটা",
-        "male_count": 1580,
-        "female_count": 1620,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "তুষখালী আদর্শ মাধ্যমিক বালিকা বিদ্যালয়, তুষখালী",
-        "male_count": 1521,
-        "female_count": 1592,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "তুষখালী ইউনিয়ন তোফেল আকন মেমোরিয়াল মাধ্যমিক বিদ্যালয়, জানখালী",
-        "male_count": 2058,
-        "female_count": 1856,
-        "hijra_count": 1,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "তুষখালী মাধ্যমিক বিদ্যালয়, উদয়তারা বুড়িরচর",
-        "male_count": 1366,
-        "female_count": 1273,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "নলী চড়কগাছিয়া তমিজিয়া মাধ্যমিক বিদ্যালয়, চরকগাছিয়া",
-        "male_count": 1489,
-        "female_count": 1546,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "নলী ভীমচন্দ্র মাধ্যমিক বিদ্যালয়, নলী",
-        "male_count": 1482,
-        "female_count": 1423,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "বড় মাছুয়া ইউনাইটেড হাই ইনস্টিটিউশন, উত্তর বড় মাছুয়া",
-        "male_count": 1648,
-        "female_count": 1561,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "বেতমোর রাজপাড়া ইউনিয়ন আদর্শ মাধ্যমিক বিদ্যালয় (নতুন ভবন), বেতমোর",
-        "male_count": 0,
-        "female_count": 2295,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "ভগীরথপুর মাধ্যমিক বিদ্যালয়, ছোট শৌলা",
-        "male_count": 1680,
-        "female_count": 1549,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "মঠবাড়ীয়া টিকিকাটা আঃ ওহাব বালিকা দাখিল মাদ্রাসা, দক্ষিণ মিঠাখালী",
-        "male_count": 1219,
-        "female_count": 1308,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "মঠবাড়ীয়া মোমেনিয়া দাখিল মাদ্রাসা, দক্ষিণ মিঠাখালী",
-        "male_count": 843,
-        "female_count": 891,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "মঠবাড়ীয়া সরকারি কলেজ",
-        "male_count": 1565,
-        "female_count": 1703,
-        "hijra_count": 0,
-        "latitude": 22.29256,
-        "longitude": 89.96002
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "মহিউদ্দিন আহমেদ ডিগ্রী কলেজ, দক্ষিণ বন্দর",
-        "male_count": 1063,
-        "female_count": 1097,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "মিরুখালী স্কুল এন্ড কলেজ, ওয়াহেদাবাদ (নাপিতখালী)",
-        "male_count": 991,
-        "female_count": 998,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "সাপলেজা মডেল হাই স্কুল, সাপলেজা বাজার",
-        "male_count": 966,
-        "female_count": 1008,
-        "hijra_count": 0,
-        "latitude": 22.21593,
-        "longitude": 89.91377
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "সাফা ডিগ্রী কলেজ, ধানীসাফা",
-        "male_count": 1676,
-        "female_count": 1603,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "সূর্যমনি হাসানিয়া দাখিল মাদ্রাসা, সূর্যমনি সেনের টিকিকাটা",
-        "male_count": 1910,
-        "female_count": 1928,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "হাতেম আলী বালিকা মাধ্যমিক বিদ্যালয়, উপজেলা পরিষদ",
-        "male_count": 1779,
-        "female_count": 1657,
-        "hijra_count": 0,
-        "latitude": 22.29032,
-        "longitude": 89.95766
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "হোগলপাতি নেছারিয়া ইসলামিয়া সিনিয়র (ফাজিল) মাদ্রাসা,  হোগলপাতি",
-        "male_count": 1295,
-        "female_count": 1220,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 129,
-        "settings_name": "পিরোজপুর-৩",
-        "center_name": "হোতখালী আদর্শ নিম্ন মাধ্যমিক বিদ্যালয়, হোতখালী।",
-        "male_count": 1229,
-        "female_count": 1221,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    }
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "০১ নং উত্তর ছোট মাছুয়া সরকারি প্রাথমিক বিদ্যালয়, উত্তর ছোট মাছুয়া",
+    "male_count": 877,
+    "female_count": 875,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "০৩ নং দক্ষিণ তুষখালী সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ তুষখালী",
+    "male_count": 1519,
+    "female_count": 1520,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "০৪ নং দক্ষিণ শাঁখারিকাঠী সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ শাঁখারিকাঠী",
+    "male_count": 580,
+    "female_count": 518,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "০৫ নং মধ্য ছোট মাছুয়া সরকারি প্রাথমিক বিদ্যালয়, মধ্য ছোট মাছুয়া",
+    "male_count": 905,
+    "female_count": 874,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "০৭ নং খেজুরবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়, খেজুরবাড়িয়া",
+    "male_count": 947,
+    "female_count": 938,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "০৯ নং দক্ষিণ বড়মাছুয়া সরকারি প্রাথমিক বিদ্যালয়, দারোগাবাড়ী",
+    "male_count": 1287,
+    "female_count": 1219,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১০১নং মাথাভাংগা সরকারি প্রাথমিক বিদ্যালয়, কবুতরখালী",
+    "male_count": 1091,
+    "female_count": 1164,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১০৪নং লক্ষণা সরকারি প্রাথমিক বিদ্যালয়, লক্ষণা",
+    "male_count": 1469,
+    "female_count": 1456,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১০৫নং টিয়ারখালী সরকারি প্রাথমিক বিদ্যালয়, টিয়ারখালী",
+    "male_count": 962,
+    "female_count": 951,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১০৭নং হলতা সরকারি প্রাথমিক বিদ্যালয়, হলতা",
+    "male_count": 1555,
+    "female_count": 1603,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১১১ নং পূর্ব ঘটিচোরা সরকারি প্রাথমিক বিদ্যালয়, বকসির ঘটিচোরা",
+    "male_count": 982,
+    "female_count": 900,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১৩০ নং দক্ষিণ পূর্ব বাদুরতলী সরকারি প্রাথমিক বিদ্যালয়, বাদুরতলী",
+    "male_count": 1338,
+    "female_count": 1287,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১৩১ নং পশ্চিম বড় মাছুয়া সরকারি প্রাথমিক বিদ্যালয়, তালুকদার বাড়ি",
+    "male_count": 1505,
+    "female_count": 1424,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১৩২ নং উঃ পূঃ মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, উত্তর মিঠাখালী",
+    "male_count": 993,
+    "female_count": 972,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১৫০নং উত্তর পূর্ব খেতাচিড়া সরকারি প্রাথমিক বিদ্যালয়, খেতাচিরা।",
+    "male_count": 1384,
+    "female_count": 1259,
+    "hijra_count": 0,
+    "latitude": 22.17211,
+    "longitude": 89.91568
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১৫১ নং লোদের হাওলা সরকারি প্রাথমিক বিদ্যালয়, লোদের হাওলা, বড় হারজী",
+    "male_count": 792,
+    "female_count": 705,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১৫৬নং দক্ষিণ মিঠাখালী আদর্শ সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ মিঠাখালী সরদার বাড়ী",
+    "male_count": 1072,
+    "female_count": 1023,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১৬নং চিত্রা পাতাকাটা সরকারি প্রাথমিক বিদ্যালয়, পাতাকাটা",
+    "male_count": 1729,
+    "female_count": 1690,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "১৮৪ নং মধ্য গিলাবাদ সরকারি প্রাথমিক বিদ্যালয়, গিলাবাদ",
+    "male_count": 1293,
+    "female_count": 1196,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "২০ নং সাফাহাট সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন মাধ্যমিক বিদ্যালয়, সাফা বন্দর",
+    "male_count": 1571,
+    "female_count": 1536,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "২২ নং উদয়তারা বুড়িরচর সরকারি প্রাথমিক বিদ্যালয়, উদয়তারা বুড়িরচর",
+    "male_count": 1316,
+    "female_count": 1224,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "২৫ নং পূর্ব ফুলঝুড়ি সরকারি প্রাথমিক বিদ্যালয়, পূর্ব ফুলঝুড়ি ফকির বাড়ী",
+    "male_count": 1232,
+    "female_count": 1221,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "২৭ নং দেবীপুর বোর্ড সরকারি প্রাথমিক বিদ্যালয়, দেবীপুর",
+    "male_count": 2008,
+    "female_count": 1899,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৩৪নং বাদুরা সরকারি প্রাথমিক বিদ্যালয়, বাদুরা",
+    "male_count": 1252,
+    "female_count": 1181,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৩৫নং নাগ্রাভাংগা সরকারি প্রাথমিক বিদ্যালয়, নাগ্রাভাংগা",
+    "male_count": 1002,
+    "female_count": 1005,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৩৬নং দক্ষিণ মিরুখালী সরকারি প্রাথমিক বিদ্যালয়, মিরুখালী।",
+    "male_count": 1085,
+    "female_count": 1093,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৩৭নং শৌলা আদর্শ সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন শৌলা আর্দশ মাধ্যমিক বিদ্যালয়",
+    "male_count": 1390,
+    "female_count": 1201,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৪১ নং রাজারহাট সরকারি প্রাথমিক বিদ্যালয় ও রাজারহাট শহীদ বাচ্চু মাধ্যমিক বিদ্যালয়, রাজারহাট বাজার",
+    "male_count": 1389,
+    "female_count": 1379,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৪২ নং চালিতাবুনিয়া সরকারি প্রাথমিক বিদ্যালয়, চালিতাবুনিয়া",
+    "male_count": 1457,
+    "female_count": 1358,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৪৩ নং দেবত্র গিলাবাদ সরকারি প্রাথমিক বিদ্যালয়, দেবত্র গিলাবাদ",
+    "male_count": 841,
+    "female_count": 827,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৪৭ নং পাঠাকাটা সরকারি প্রাথমিক বিদ্যালয়, পাঠাকাটা",
+    "male_count": 942,
+    "female_count": 867,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৪৯ নং উত্তর দাউদখালী সরকারি প্রাথমিক বিদ্যালয়, উত্তর দাউদখালী",
+    "male_count": 1527,
+    "female_count": 1424,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৫২ নং মধ্য মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, মধ্য মিঠাখালী",
+    "male_count": 1647,
+    "female_count": 1580,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৫৪নং মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, উত্তর মিঠাখালী",
+    "male_count": 958,
+    "female_count": 969,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৫৫ নং বড় মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ মিঠাখালী",
+    "male_count": 980,
+    "female_count": 1053,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৫৭ নং আন্ধারমানিক সরকারি প্রাথমিক বিদ্যালয়, আন্ধারমানিক",
+    "male_count": 1675,
+    "female_count": 1692,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৫৮নং ঘটিচোরা সরকারি প্রাথমিক বিদ্যালয়, বকসির ঘটিচোরা হাফিজ মৃধার বাড়ী",
+    "male_count": 1120,
+    "female_count": 1131,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৬৩ নং দক্ষিণ ঘোষের টিকিকাটা সরকারি প্রাথমিক বিদ্যালয়, ভেচকি বাইশকুড়া",
+    "male_count": 2109,
+    "female_count": 1943,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৭১ নং পশ্চিম শিংগা সরকারি প্রাথমিক বিদ্যালয়, শিংগা বয়াতির হাট",
+    "male_count": 1809,
+    "female_count": 1815,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৭২ নং কুমিরমারা সরকারি প্রাথমিক বিদ্যালয়, কুমিরমারা",
+    "male_count": 1767,
+    "female_count": 1715,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৭৩ নং রাজপাড়া সরকারি প্রাথমিক বিদ্যালয়, রাজপাড়া",
+    "male_count": 1558,
+    "female_count": 1486,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৭৪ নং পশ্চিম মিঠাখালী সরকারি প্রাথমিক বিদ্যালয়, পশ্চিম মিঠাখালী",
+    "male_count": 1431,
+    "female_count": 1407,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৭৫ নং ঘোপখালী সরকারি প্রাথমিক বিদ্যালয়, ঘোপখালী",
+    "male_count": 1149,
+    "female_count": 1155,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৭৮ নং জানখালী সরকারি প্রাথমিক বিদ্যালয়, জানখালী।",
+    "male_count": 730,
+    "female_count": 694,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৮০নং বিএন হাট সরকারি প্রাথমিক বিদ্যালয়, বেতমোর",
+    "male_count": 2226,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৮১ নং উলুবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়, উলুবাড়ীয়া।",
+    "male_count": 1340,
+    "female_count": 1260,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৮২ নং গোলবুনিয়া সরকারি প্রাথমিক বিদ্যালয়, গোলবুনিয়া",
+    "male_count": 1925,
+    "female_count": 1830,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৮৬ নং পশুরিয়া সরকারি প্রাথমিক বিদ্যালয়, পশুরিয়া",
+    "male_count": 1194,
+    "female_count": 1126,
+    "hijra_count": 0,
+    "latitude": 22.26718,
+    "longitude": 89.93323
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৮৭ নং মধ্য সোনাখালী সরকারি প্রাথমিক বিদ্যালয়, মধ্য সোনাখালী",
+    "male_count": 1844,
+    "female_count": 1846,
+    "hijra_count": 0,
+    "latitude": 22.24685,
+    "longitude": 89.93297
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৮৮ নং উত্তর সোনাখালী সরকারি প্রাথমিক বিদ্যালয়, উত্তর সোনাখালী",
+    "male_count": 1479,
+    "female_count": 1402,
+    "hijra_count": 0,
+    "latitude": 22.24318,
+    "longitude": 89.94931
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৯০নং পশ্চিম সাপলেজা সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন সাপলেজা নেছারিয়া আলিম মাদ্রাসা, ভাইজোড়া",
+    "male_count": 1620,
+    "female_count": 1607,
+    "hijra_count": 0,
+    "latitude": 22.2073,
+    "longitude": 89.90377
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৯১নং কচুবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়, কচুবাড়িয়া",
+    "male_count": 1379,
+    "female_count": 1322,
+    "hijra_count": 0,
+    "latitude": 22.18153,
+    "longitude": 89.90327
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৯৫নং উত্তর নলী সরকারি প্রাথমিক বিদ্যালয়, ও সংলগ্ন বুখাইতলা সম্মলিত (বিবিএস) মাধ্যমিক বিদ্যালয়, বুখাইতলা বান্ধবপাড়া",
+    "male_count": 1376,
+    "female_count": 1373,
+    "hijra_count": 0,
+    "latitude": 22.22454,
+    "longitude": 89.94972
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৯৮ নং ঝাটিবুনিয়া সরকারি প্রাথমিক বিদ্যালয়, পূর্ব সাপলেজা",
+    "male_count": 854,
+    "female_count": 883,
+    "hijra_count": 0,
+    "latitude": 22.20956,
+    "longitude": 89.93311
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "৯৯নং তাফালবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়, তাফালবাড়িয়া।",
+    "male_count": 1556,
+    "female_count": 1488,
+    "hijra_count": 0,
+    "latitude": 22.17624,
+    "longitude": 89.93806
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "আমড়াগাছিয়া মাধ্যমিক বিদ্যালয়",
+    "male_count": 1739,
+    "female_count": 1731,
+    "hijra_count": 0,
+    "latitude": 22.24558,
+    "longitude": 89.91315
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "আলগী পাতাকাটা মাধ্যমিক বিদ্যালয়, আলগী",
+    "male_count": 1393,
+    "female_count": 1396,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "উত্তর টিকিকাটা মাধ্যমিক বিদ্যালয়, তেতুলতলা বাজার",
+    "male_count": 1755,
+    "female_count": 1654,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "কে, এম ইউসুফ আলী মাধ্যমিক বিদ্যালয়, হারজী নলবুনিয়া",
+    "male_count": 1469,
+    "female_count": 1450,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "কে, এম লতিফ ইনষ্টিটিউশন",
+    "male_count": 1926,
+    "female_count": 2080,
+    "hijra_count": 0,
+    "latitude": 22.28793,
+    "longitude": 89.96022
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "গুদিঘাটা সরোজনী আদর্শ মাধ্যমিক বিদ্যালয়, গুদিঘাটা",
+    "male_count": 1516,
+    "female_count": 1474,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "গুলিশাখালী জি,কে ইউনিয়ন মাধ্যমিক বিদ্যালয়, গুলিশাখালী",
+    "male_count": 1543,
+    "female_count": 1560,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "ছোট হারজী আলীম সিনিয়র মাদ্রাসা ও সংলগ্ন ৩১নং ছোট হারজী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1248,
+    "female_count": 1214,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "টিকিকাটা নুরিয়া ফাজিল মাদ্রাসা, পশ্চিম সেনের টিকিকাটা",
+    "male_count": 1580,
+    "female_count": 1620,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "তুষখালী আদর্শ মাধ্যমিক বালিকা বিদ্যালয়, তুষখালী",
+    "male_count": 1521,
+    "female_count": 1592,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "তুষখালী ইউনিয়ন তোফেল আকন মেমোরিয়াল মাধ্যমিক বিদ্যালয়, জানখালী",
+    "male_count": 2058,
+    "female_count": 1856,
+    "hijra_count": 1,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "তুষখালী মাধ্যমিক বিদ্যালয়, উদয়তারা বুড়িরচর",
+    "male_count": 1366,
+    "female_count": 1273,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "নলী চড়কগাছিয়া তমিজিয়া মাধ্যমিক বিদ্যালয়, চরকগাছিয়া",
+    "male_count": 1489,
+    "female_count": 1546,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "নলী ভীমচন্দ্র মাধ্যমিক বিদ্যালয়, নলী",
+    "male_count": 1482,
+    "female_count": 1423,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "বড় মাছুয়া ইউনাইটেড হাই ইনস্টিটিউশন, উত্তর বড় মাছুয়া",
+    "male_count": 1648,
+    "female_count": 1561,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "বেতমোর রাজপাড়া ইউনিয়ন আদর্শ মাধ্যমিক বিদ্যালয় (নতুন ভবন), বেতমোর",
+    "male_count": 0,
+    "female_count": 2295,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "ভগীরথপুর মাধ্যমিক বিদ্যালয়, ছোট শৌলা",
+    "male_count": 1680,
+    "female_count": 1549,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "মঠবাড়ীয়া টিকিকাটা আঃ ওহাব বালিকা দাখিল মাদ্রাসা, দক্ষিণ মিঠাখালী",
+    "male_count": 1219,
+    "female_count": 1308,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "মঠবাড়ীয়া মোমেনিয়া দাখিল মাদ্রাসা, দক্ষিণ মিঠাখালী",
+    "male_count": 843,
+    "female_count": 891,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "মঠবাড়ীয়া সরকারি কলেজ",
+    "male_count": 1565,
+    "female_count": 1703,
+    "hijra_count": 0,
+    "latitude": 22.29256,
+    "longitude": 89.96002
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "মহিউদ্দিন আহমেদ ডিগ্রী কলেজ, দক্ষিণ বন্দর",
+    "male_count": 1063,
+    "female_count": 1097,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "মিরুখালী স্কুল এন্ড কলেজ, ওয়াহেদাবাদ (নাপিতখালী)",
+    "male_count": 991,
+    "female_count": 998,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "সাপলেজা মডেল হাই স্কুল, সাপলেজা বাজার",
+    "male_count": 966,
+    "female_count": 1008,
+    "hijra_count": 0,
+    "latitude": 22.21593,
+    "longitude": 89.91377
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "সাফা ডিগ্রী কলেজ, ধানীসাফা",
+    "male_count": 1676,
+    "female_count": 1603,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "সূর্যমনি হাসানিয়া দাখিল মাদ্রাসা, সূর্যমনি সেনের টিকিকাটা",
+    "male_count": 1910,
+    "female_count": 1928,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "হাতেম আলী বালিকা মাধ্যমিক বিদ্যালয়, উপজেলা পরিষদ",
+    "male_count": 1779,
+    "female_count": 1657,
+    "hijra_count": 0,
+    "latitude": 22.29032,
+    "longitude": 89.95766
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "হোগলপাতি নেছারিয়া ইসলামিয়া সিনিয়র (ফাজিল) মাদ্রাসা,  হোগলপাতি",
+    "male_count": 1295,
+    "female_count": 1220,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 129,
+    "settings_name": "পিরোজপুর-৩",
+    "center_name": "হোতখালী আদর্শ নিম্ন মাধ্যমিক বিদ্যালয়, হোতখালী।",
+    "male_count": 1229,
+    "female_count": 1221,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  }
 ]

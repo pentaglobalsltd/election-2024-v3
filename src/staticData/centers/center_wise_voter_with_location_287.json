@@ -1,932 +1,932 @@
 [
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "অংকুর সোসাইটি গার্লস হাই স্কুল",
-        "male_count": 2105,
-        "female_count": 1679,
-        "hijra_count": 0,
-        "latitude": 22.36596,
-        "longitude": 91.82797
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আগ্রাবাদ টিএন্ডটি কলোনী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 4179,
-        "female_count": 4106,
-        "hijra_count": 0,
-        "latitude": 22.32777,
-        "longitude": 91.80827
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আনন্দিপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1335,
-        "female_count": 1305,
-        "hijra_count": 0,
-        "latitude": 22.34018,
-        "longitude": 91.79038
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আব্দুর পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3990,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34537,
-        "longitude": 91.78047
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আলজাবের ইনস্টিটিউট",
-        "male_count": 4090,
-        "female_count": 3977,
-        "hijra_count": 0,
-        "latitude": 22.33361,
-        "longitude": 91.80408
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আল-রহমান আইডিয়াল স্কুল এন্ড কলেজ",
-        "male_count": 1636,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33345,
-        "longitude": 91.79742
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আলহাজ্ব ইউনুছ মিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 4159,
-        "female_count": 4348,
-        "hijra_count": 1,
-        "latitude": 22.34777,
-        "longitude": 91.79331
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আলহাজ্ব এয়াকুব আলী উচ্চ বালিকা বিদ্যালয় ও কলেজ",
-        "male_count": 4679,
-        "female_count": 4744,
-        "hijra_count": 0,
-        "latitude": 22.34471,
-        "longitude": 91.79877
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আলোর ঝুটি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4216,
-        "hijra_count": 1,
-        "latitude": 22.34407,
-        "longitude": 91.77719
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আশরাফিয়া ওসমানিয়া হানাফিয়া সুন্নিয়া মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 3412,
-        "hijra_count": 0,
-        "latitude": 22.33833,
-        "longitude": 91.77773
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "আহম্মদ মিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2467,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.36459,
-        "longitude": 91.83532
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ইউসেফ আমবাগান টেকনিক্যাল স্কুল",
-        "male_count": 1792,
-        "female_count": 1855,
-        "hijra_count": 0,
-        "latitude": 22.3525,
-        "longitude": 91.80739
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ইউসেফ পাহাড়তলী টেকনিক্যাল স্কুল",
-        "male_count": 1709,
-        "female_count": 1422,
-        "hijra_count": 0,
-        "latitude": 22.35337,
-        "longitude": 91.79564
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ইউসেফ মতিঝর্ণা টেকনিক্যাল স্কুল",
-        "male_count": 5660,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34811,
-        "longitude": 91.81158
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ইমাম প্রশিক্ষণ একাডেমী",
-        "male_count": 2708,
-        "female_count": 1827,
-        "hijra_count": 0,
-        "latitude": 22.35518,
-        "longitude": 91.79051
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ইসলামিক ফাউন্ডেশন ভবন",
-        "male_count": 2260,
-        "female_count": 2034,
-        "hijra_count": 0,
-        "latitude": 22.35511,
-        "longitude": 91.79049
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ঈদগাহ বালক সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 6086,
-        "female_count": 1828,
-        "hijra_count": 2,
-        "latitude": 22.34394,
-        "longitude": 91.8024
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ঈদগাহ মুসলিম সরকারী প্রাথমিক বালিকা বিদ্যালয়",
-        "male_count": 4831,
-        "female_count": 5227,
-        "hijra_count": 0,
-        "latitude": 22.34191,
-        "longitude": 91.80238
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "উত্তর আগ্রাবাদ হাজী আবদুর রহমান সিটি কর্পোরেশন কিন্ডারগার্টেন",
-        "male_count": 3590,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33286,
-        "longitude": 91.80854
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "উত্তর লালখান বাজার শেখ রাসেল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 4601,
-        "female_count": 395,
-        "hijra_count": 0,
-        "latitude": 22.35773,
-        "longitude": 91.81865
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "উত্তর হালিশহর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1326,
-        "female_count": 1232,
-        "hijra_count": 0,
-        "latitude": 22.32675,
-        "longitude": 91.77327
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "উত্তর হালিশহর হাউজিং এস্টেট উচ্চ বিদ্যালয়",
-        "male_count": 6283,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33621,
-        "longitude": 91.77564
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "উঃ হাঃ আব্বাস পাড়া আলহাজ্ব আবু সিদ্দিক চৌধুরী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1347,
-        "female_count": 1268,
-        "hijra_count": 0,
-        "latitude": 22.33439,
-        "longitude": 91.77516
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "এশিয়ান প্রি-ক্যাডেট স্কুল এন্ড কলেজ",
-        "male_count": 2219,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33091,
-        "longitude": 91.80165
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ওমরগনি এম.ই.এস বিশ্ববিদ্যালয় কলেজ",
-        "male_count": 4770,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.36071,
-        "longitude": 91.81631
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ওমরগনি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4513,
-        "hijra_count": 0,
-        "latitude": 22.36062,
-        "longitude": 91.81752
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ওয়ার্লেস ঝাউতলা কলোনী উচ্চ বিদ্যালয়",
-        "male_count": 4751,
-        "female_count": 4608,
-        "hijra_count": 0,
-        "latitude": 22.35816,
-        "longitude": 91.80428
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "খানসাহেব আব্দুল হাকিম উচ্চ বিদ্যালয়",
-        "male_count": 4960,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "খানসাহেব আব্দুল হাকিম প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4899,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "গোল্ডেনলাইফ স্কুল এন্ড কলেজ",
-        "male_count": 0,
-        "female_count": 2502,
-        "hijra_count": 0,
-        "latitude": 22.33075,
-        "longitude": 91.80212
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "চট্টগ্রাম পলিটেকনিক ইনষ্টিটিউট",
-        "male_count": 5905,
-        "female_count": 4273,
-        "hijra_count": 0,
-        "latitude": 22.3694,
-        "longitude": 91.8119
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "চট্টগ্রাম রেসিডেন্সিয়াল স্কুল এন্ড কলেজ",
-        "male_count": 3955,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33649,
-        "longitude": 91.7862
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "চট্টগ্রাম সরকারী মহিলা কলেজ",
-        "male_count": 3808,
-        "female_count": 3381,
-        "hijra_count": 0,
-        "latitude": 22.36185,
-        "longitude": 91.81517
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "চিটাগাং লিবার্টি স্কুল এন্ড কলেজ",
-        "male_count": 2020,
-        "female_count": 2182,
-        "hijra_count": 0,
-        "latitude": 22.34303,
-        "longitude": 91.79878
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "জামেয়াতুল উলুমআল ইসলামিয়া মাদ্রাসা",
-        "male_count": 2344,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35461,
-        "longitude": 91.8161
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "জামেয়া মোহাম্মদীয়া ইসলামিয়া দাখিল মাদ্রাসা ও ইসলামিক কিন্ডার গার্টেন",
-        "male_count": 2264,
-        "female_count": 1952,
-        "hijra_count": 0,
-        "latitude": 22.34406,
-        "longitude": 91.78557
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "জাস কিন্ডার গার্টেন এন্ড এ্যালিমেন্টারী স্কুল",
-        "male_count": 0,
-        "female_count": 3730,
-        "hijra_count": 0,
-        "latitude": 22.33227,
-        "longitude": 91.80674
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "টাইগারপাস বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 4106,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34688,
-        "longitude": 91.80923
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "টি এন্ড টি উচ্চ বিদ্যালয়",
-        "male_count": 3829,
-        "female_count": 3628,
-        "hijra_count": 0,
-        "latitude": 22.32788,
-        "longitude": 91.80838
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "টিকেট প্রিন্টিং প্রেস কলোনী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1151,
-        "female_count": 1133,
-        "hijra_count": 0,
-        "latitude": 22.35428,
-        "longitude": 91.80601
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ডা: ফজলুল-হাজেরা ডিগ্রী কলেজ",
-        "male_count": 3118,
-        "female_count": 3040,
-        "hijra_count": 0,
-        "latitude": 22.34606,
-        "longitude": 91.77429
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ডিউপয়েন্ট স্কুল",
-        "male_count": 0,
-        "female_count": 4004,
-        "hijra_count": 0,
-        "latitude": 22.3359,
-        "longitude": 91.78626
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "দক্ষিণ কাট্টলী প্রাণহরি মডেল সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2777,
-        "female_count": 2668,
-        "hijra_count": 0,
-        "latitude": 22.34471,
-        "longitude": 91.77499
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "দক্ষিণ কাট্টলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2661,
-        "female_count": 2780,
-        "hijra_count": 0,
-        "latitude": 22.34878,
-        "longitude": 91.77765
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "দক্ষিণ পাহাড়তলী ঝর্ণা পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4357,
-        "hijra_count": 19,
-        "latitude": 22.34879,
-        "longitude": 91.80147
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "দক্ষিন কাট্টলী বাসন্তী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4821,
-        "hijra_count": 0,
-        "latitude": 22.35062,
-        "longitude": 91.77062
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "দারুচ্ছালাম আল ইসলামিয়া মাদ্রাসা",
-        "male_count": 1532,
-        "female_count": 1502,
-        "hijra_count": 0,
-        "latitude": 22.33534,
-        "longitude": 91.77414
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "দেওয়ানহাট সি.এস.ডি কলোনী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 873,
-        "female_count": 743,
-        "hijra_count": 0,
-        "latitude": 22.33918,
-        "longitude": 91.80952
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "নতুন কুঁড়ি আইডিয়াল স্কুল ক্যাম্পাস ১",
-        "male_count": 2742,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.36519,
-        "longitude": 91.84192
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "নাসিরাবাদ কলোনী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2315,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.3638,
-        "longitude": 91.81986
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "নাসিরাবাদ সরকারী বালক উচ্চ বিদ্যালয়",
-        "male_count": 5653,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.36163,
-        "longitude": 91.82725
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "নাসিরাবাদ সরকারী বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 7516,
-        "hijra_count": 0,
-        "latitude": 22.36454,
-        "longitude": 91.81616
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "নিউ ঝাউতলা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3453,
-        "female_count": 3084,
-        "hijra_count": 0,
-        "latitude": 22.36194,
-        "longitude": 91.80892
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "নিউ টাইগারপাস সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2301,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34214,
-        "longitude": 91.81389
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "পাহাড়তলী বিশ্ববিদ্যালয় কলেজ",
-        "male_count": 5770,
-        "female_count": 5383,
-        "hijra_count": 0,
-        "latitude": 22.35991,
-        "longitude": 91.80491
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "পাহাড়তলী রেলওয়ে হাসপাতাল কলোনী প্রাথমিক বিদ্যালয়",
-        "male_count": 1696,
-        "female_count": 1449,
-        "hijra_count": 0,
-        "latitude": 22.35493,
-        "longitude": 91.79723
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "পূর্ব টাইগারপাস সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2211,
-        "hijra_count": 0,
-        "latitude": 22.34346,
-        "longitude": 91.81179
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "পূর্ব নাসিরাবাদ আব্দুল জলিল সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2193,
-        "female_count": 3093,
-        "hijra_count": 0,
-        "latitude": 22.36963,
-        "longitude": 91.81864
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "প্রবর্তক স্কুল ও কলেজ",
-        "male_count": 7456,
-        "female_count": 5074,
-        "hijra_count": 1,
-        "latitude": 22.36178,
-        "longitude": 91.82903
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "প্রাণহরি আমীন একাডেমী",
-        "male_count": 4760,
-        "female_count": 4909,
-        "hijra_count": 0,
-        "latitude": 22.34464,
-        "longitude": 91.77496
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ফুল চৌধুরী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2306,
-        "female_count": 2344,
-        "hijra_count": 0,
-        "latitude": 22.33713,
-        "longitude": 91.77146
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "বঙ্গবন্ধু বাংলা বিদ্যাপীঠ",
-        "male_count": 3355,
-        "female_count": 2982,
-        "hijra_count": 0,
-        "latitude": 22.35754,
-        "longitude": 91.80824
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "বনগবেষণাগার উচ্চ বিদ্যালয়",
-        "male_count": 3915,
-        "female_count": 3350,
-        "hijra_count": 0,
-        "latitude": 22.37026,
-        "longitude": 91.82931
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "বাডস কিন্ডারগার্টেন",
-        "male_count": 281,
-        "female_count": 2993,
-        "hijra_count": 0,
-        "latitude": 22.35063,
-        "longitude": 91.81864
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "বাংলাদেশ-কোরিয়া টেকনিক্যাল ট্রেনিং সেন্টার",
-        "male_count": 4499,
-        "female_count": 4213,
-        "hijra_count": 0,
-        "latitude": 22.36855,
-        "longitude": 91.81349
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "বাংলাদেশ রেলওয়ে সরকারী উচ্চ বিদ্যালয়",
-        "male_count": 1722,
-        "female_count": 1600,
-        "hijra_count": 0,
-        "latitude": 22.35549,
-        "longitude": 91.79844
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "বাসন্তী বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 4670,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35151,
-        "longitude": 91.7729
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "বিদ্যুৎ উন্নয়ন বোর্ড উচ্চ বিদ্যালয়",
-        "male_count": 8883,
-        "female_count": 9008,
-        "hijra_count": 0,
-        "latitude": 22.34213,
-        "longitude": 91.80418
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ব্রাইট ফিউচার স্কুল",
-        "male_count": 0,
-        "female_count": 4061,
-        "hijra_count": 0,
-        "latitude": 22.33274,
-        "longitude": 91.79767
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ব্লু-বার্ড প্রি-ক্যাডেট স্কুল এন্ড কলেজ\t",
-        "male_count": 2408,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "ভেলুয়ার দিঘী সরকারী প্রাঃ বিদ্যালয়",
-        "male_count": 2938,
-        "female_count": 2798,
-        "hijra_count": 0,
-        "latitude": 22.35272,
-        "longitude": 91.79277
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "মুরাদপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2892,
-        "hijra_count": 0,
-        "latitude": 22.36776,
-        "longitude": 91.83071
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "মেট্টোপলিটন রেসিডেন্সিয়াল স্কুল এন্ড কলেজ",
-        "male_count": 2561,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.36769,
-        "longitude": 91.83732
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "রংগীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4065,
-        "hijra_count": 0,
-        "latitude": 22.33553,
-        "longitude": 91.79983
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "রাবেয়া বসরী বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 3524,
-        "female_count": 3396,
-        "hijra_count": 0,
-        "latitude": 22.34069,
-        "longitude": 91.78234
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "রামপুর নতুন বাজার সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 4176,
-        "female_count": 3951,
-        "hijra_count": 0,
-        "latitude": 22.34412,
-        "longitude": 91.78916
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "রেনেসাঁ স্কুল এন্ড কলেজ",
-        "male_count": 0,
-        "female_count": 3696,
-        "hijra_count": 0,
-        "latitude": 22.36231,
-        "longitude": 91.84298
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "রেলওয়ে এমপ্লয়িজ গার্লস হাই স্কুল",
-        "male_count": 1128,
-        "female_count": 5130,
-        "hijra_count": 2,
-        "latitude": 22.34606,
-        "longitude": 91.81147
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "লালখান বাজার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 5885,
-        "hijra_count": 0,
-        "latitude": 22.34785,
-        "longitude": 91.81802
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "শহীদনগর সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 3184,
-        "female_count": 5235,
-        "hijra_count": 0,
-        "latitude": 22.34787,
-        "longitude": 91.81865
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "শহীদ লে: জি: এম. মুশফিক বীর উত্তম উচ্চ বিদ্যালয়",
-        "male_count": 3754,
-        "female_count": 2838,
-        "hijra_count": 0,
-        "latitude": 22.33152,
-        "longitude": 91.78431
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "শাইনিং আওয়ার স্কুল",
-        "male_count": 1637,
-        "female_count": 1575,
-        "hijra_count": 0,
-        "latitude": 22.35059,
-        "longitude": 91.81847
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "শামীম মোর্শেদ স্মৃতি একাডেমী",
-        "male_count": 1665,
-        "female_count": 1575,
-        "hijra_count": 0,
-        "latitude": 22.33047,
-        "longitude": 91.80292
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "সরাইপাড়া সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
-        "male_count": 4034,
-        "female_count": 3975,
-        "hijra_count": 0,
-        "latitude": 22.35064,
-        "longitude": 91.78983
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "সরাইপাড়া সিটি কর্পোরেশন ডিগ্রী কলেজ",
-        "male_count": 3134,
-        "female_count": 3157,
-        "hijra_count": 0,
-        "latitude": 22.35056,
-        "longitude": 91.79067
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "সরাইপাড়া হাজী আব্দুল আলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 4176,
-        "female_count": 3980,
-        "hijra_count": 0,
-        "latitude": 22.35436,
-        "longitude": 91.78311
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "সালাম-নুর আদর্শ মহিলা মাদ্রাসা ও ইসলামিক কিন্ডারগার্টেন",
-        "male_count": 4173,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33478,
-        "longitude": 91.80203
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "সিলভার বেলস কিন্ডার গার্টেন এন্ড গার্লস হাইস্কুল\t",
-        "male_count": 0,
-        "female_count": 5036,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "সুচয়ন বিদ্যাপীঠ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3862,
-        "hijra_count": 0,
-        "latitude": 22.36744,
-        "longitude": 91.83798
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "হাউজিং এন্ড সেটেলমেন্ট পাবলিক স্কুল",
-        "male_count": 5086,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33109,
-        "longitude": 91.79182
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "হালিশহর আবুলিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2878,
-        "female_count": 2668,
-        "hijra_count": 0,
-        "latitude": 22.32697,
-        "longitude": 91.78709
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "হালিশহর আলহাজ্ব মহব্বত আলী সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
-        "male_count": 1097,
-        "female_count": 1032,
-        "hijra_count": 0,
-        "latitude": 22.32517,
-        "longitude": 91.77689
-    },
-    {
-        "settings_code": 287,
-        "settings_name": "চট্রগ্রাম-১০",
-        "center_name": "হালিশহর বি-ব্লক প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2769,
-        "hijra_count": 0,
-        "latitude": 22.33759,
-        "longitude": 91.77693
-    }
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "অংকুর সোসাইটি গার্লস হাই স্কুল",
+    "male_count": 2105,
+    "female_count": 1679,
+    "hijra_count": 0,
+    "latitude": 22.36596,
+    "longitude": 91.82797
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আগ্রাবাদ টিএন্ডটি কলোনী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 4179,
+    "female_count": 4106,
+    "hijra_count": 0,
+    "latitude": 22.32777,
+    "longitude": 91.80827
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আনন্দিপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1335,
+    "female_count": 1305,
+    "hijra_count": 0,
+    "latitude": 22.34018,
+    "longitude": 91.79038
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আব্দুর পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3990,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34537,
+    "longitude": 91.78047
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আলজাবের ইনস্টিটিউট",
+    "male_count": 4090,
+    "female_count": 3977,
+    "hijra_count": 0,
+    "latitude": 22.33361,
+    "longitude": 91.80408
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আল-রহমান আইডিয়াল স্কুল এন্ড কলেজ",
+    "male_count": 1636,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33345,
+    "longitude": 91.79742
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আলহাজ্ব ইউনুছ মিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 4159,
+    "female_count": 4348,
+    "hijra_count": 1,
+    "latitude": 22.34777,
+    "longitude": 91.79331
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আলহাজ্ব এয়াকুব আলী উচ্চ বালিকা বিদ্যালয় ও কলেজ",
+    "male_count": 4679,
+    "female_count": 4744,
+    "hijra_count": 0,
+    "latitude": 22.34471,
+    "longitude": 91.79877
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আলোর ঝুটি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4216,
+    "hijra_count": 1,
+    "latitude": 22.34407,
+    "longitude": 91.77719
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আশরাফিয়া ওসমানিয়া হানাফিয়া সুন্নিয়া মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 3412,
+    "hijra_count": 0,
+    "latitude": 22.33833,
+    "longitude": 91.77773
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "আহম্মদ মিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2467,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.36459,
+    "longitude": 91.83532
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ইউসেফ আমবাগান টেকনিক্যাল স্কুল",
+    "male_count": 1792,
+    "female_count": 1855,
+    "hijra_count": 0,
+    "latitude": 22.3525,
+    "longitude": 91.80739
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ইউসেফ পাহাড়তলী টেকনিক্যাল স্কুল",
+    "male_count": 1709,
+    "female_count": 1422,
+    "hijra_count": 0,
+    "latitude": 22.35337,
+    "longitude": 91.79564
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ইউসেফ মতিঝর্ণা টেকনিক্যাল স্কুল",
+    "male_count": 5660,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34811,
+    "longitude": 91.81158
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ইমাম প্রশিক্ষণ একাডেমী",
+    "male_count": 2708,
+    "female_count": 1827,
+    "hijra_count": 0,
+    "latitude": 22.35518,
+    "longitude": 91.79051
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ইসলামিক ফাউন্ডেশন ভবন",
+    "male_count": 2260,
+    "female_count": 2034,
+    "hijra_count": 0,
+    "latitude": 22.35511,
+    "longitude": 91.79049
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ঈদগাহ বালক সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 6086,
+    "female_count": 1828,
+    "hijra_count": 2,
+    "latitude": 22.34394,
+    "longitude": 91.8024
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ঈদগাহ মুসলিম সরকারী প্রাথমিক বালিকা বিদ্যালয়",
+    "male_count": 4831,
+    "female_count": 5227,
+    "hijra_count": 0,
+    "latitude": 22.34191,
+    "longitude": 91.80238
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "উত্তর আগ্রাবাদ হাজী আবদুর রহমান সিটি কর্পোরেশন কিন্ডারগার্টেন",
+    "male_count": 3590,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33286,
+    "longitude": 91.80854
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "উত্তর লালখান বাজার শেখ রাসেল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 4601,
+    "female_count": 395,
+    "hijra_count": 0,
+    "latitude": 22.35773,
+    "longitude": 91.81865
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "উত্তর হালিশহর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1326,
+    "female_count": 1232,
+    "hijra_count": 0,
+    "latitude": 22.32675,
+    "longitude": 91.77327
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "উত্তর হালিশহর হাউজিং এস্টেট উচ্চ বিদ্যালয়",
+    "male_count": 6283,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33621,
+    "longitude": 91.77564
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "উঃ হাঃ আব্বাস পাড়া আলহাজ্ব আবু সিদ্দিক চৌধুরী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1347,
+    "female_count": 1268,
+    "hijra_count": 0,
+    "latitude": 22.33439,
+    "longitude": 91.77516
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "এশিয়ান প্রি-ক্যাডেট স্কুল এন্ড কলেজ",
+    "male_count": 2219,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33091,
+    "longitude": 91.80165
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ওমরগনি এম.ই.এস বিশ্ববিদ্যালয় কলেজ",
+    "male_count": 4770,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.36071,
+    "longitude": 91.81631
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ওমরগনি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4513,
+    "hijra_count": 0,
+    "latitude": 22.36062,
+    "longitude": 91.81752
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ওয়ার্লেস ঝাউতলা কলোনী উচ্চ বিদ্যালয়",
+    "male_count": 4751,
+    "female_count": 4608,
+    "hijra_count": 0,
+    "latitude": 22.35816,
+    "longitude": 91.80428
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "খানসাহেব আব্দুল হাকিম উচ্চ বিদ্যালয়",
+    "male_count": 4960,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "খানসাহেব আব্দুল হাকিম প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4899,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "গোল্ডেনলাইফ স্কুল এন্ড কলেজ",
+    "male_count": 0,
+    "female_count": 2502,
+    "hijra_count": 0,
+    "latitude": 22.33075,
+    "longitude": 91.80212
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "চট্টগ্রাম পলিটেকনিক ইনষ্টিটিউট",
+    "male_count": 5905,
+    "female_count": 4273,
+    "hijra_count": 0,
+    "latitude": 22.3694,
+    "longitude": 91.8119
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "চট্টগ্রাম রেসিডেন্সিয়াল স্কুল এন্ড কলেজ",
+    "male_count": 3955,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33649,
+    "longitude": 91.7862
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "চট্টগ্রাম সরকারী মহিলা কলেজ",
+    "male_count": 3808,
+    "female_count": 3381,
+    "hijra_count": 0,
+    "latitude": 22.36185,
+    "longitude": 91.81517
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "চিটাগাং লিবার্টি স্কুল এন্ড কলেজ",
+    "male_count": 2020,
+    "female_count": 2182,
+    "hijra_count": 0,
+    "latitude": 22.34303,
+    "longitude": 91.79878
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "জামেয়াতুল উলুমআল ইসলামিয়া মাদ্রাসা",
+    "male_count": 2344,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35461,
+    "longitude": 91.8161
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "জামেয়া মোহাম্মদীয়া ইসলামিয়া দাখিল মাদ্রাসা ও ইসলামিক কিন্ডার গার্টেন",
+    "male_count": 2264,
+    "female_count": 1952,
+    "hijra_count": 0,
+    "latitude": 22.34406,
+    "longitude": 91.78557
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "জাস কিন্ডার গার্টেন এন্ড এ্যালিমেন্টারী স্কুল",
+    "male_count": 0,
+    "female_count": 3730,
+    "hijra_count": 0,
+    "latitude": 22.33227,
+    "longitude": 91.80674
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "টাইগারপাস বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 4106,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34688,
+    "longitude": 91.80923
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "টি এন্ড টি উচ্চ বিদ্যালয়",
+    "male_count": 3829,
+    "female_count": 3628,
+    "hijra_count": 0,
+    "latitude": 22.32788,
+    "longitude": 91.80838
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "টিকেট প্রিন্টিং প্রেস কলোনী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1151,
+    "female_count": 1133,
+    "hijra_count": 0,
+    "latitude": 22.35428,
+    "longitude": 91.80601
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ডা: ফজলুল-হাজেরা ডিগ্রী কলেজ",
+    "male_count": 3118,
+    "female_count": 3040,
+    "hijra_count": 0,
+    "latitude": 22.34606,
+    "longitude": 91.77429
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ডিউপয়েন্ট স্কুল",
+    "male_count": 0,
+    "female_count": 4004,
+    "hijra_count": 0,
+    "latitude": 22.3359,
+    "longitude": 91.78626
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "দক্ষিণ কাট্টলী প্রাণহরি মডেল সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2777,
+    "female_count": 2668,
+    "hijra_count": 0,
+    "latitude": 22.34471,
+    "longitude": 91.77499
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "দক্ষিণ কাট্টলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2661,
+    "female_count": 2780,
+    "hijra_count": 0,
+    "latitude": 22.34878,
+    "longitude": 91.77765
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "দক্ষিণ পাহাড়তলী ঝর্ণা পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4357,
+    "hijra_count": 19,
+    "latitude": 22.34879,
+    "longitude": 91.80147
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "দক্ষিন কাট্টলী বাসন্তী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4821,
+    "hijra_count": 0,
+    "latitude": 22.35062,
+    "longitude": 91.77062
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "দারুচ্ছালাম আল ইসলামিয়া মাদ্রাসা",
+    "male_count": 1532,
+    "female_count": 1502,
+    "hijra_count": 0,
+    "latitude": 22.33534,
+    "longitude": 91.77414
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "দেওয়ানহাট সি.এস.ডি কলোনী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 873,
+    "female_count": 743,
+    "hijra_count": 0,
+    "latitude": 22.33918,
+    "longitude": 91.80952
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "নতুন কুঁড়ি আইডিয়াল স্কুল ক্যাম্পাস ১",
+    "male_count": 2742,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.36519,
+    "longitude": 91.84192
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "নাসিরাবাদ কলোনী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2315,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.3638,
+    "longitude": 91.81986
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "নাসিরাবাদ সরকারী বালক উচ্চ বিদ্যালয়",
+    "male_count": 5653,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.36163,
+    "longitude": 91.82725
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "নাসিরাবাদ সরকারী বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 7516,
+    "hijra_count": 0,
+    "latitude": 22.36454,
+    "longitude": 91.81616
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "নিউ ঝাউতলা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3453,
+    "female_count": 3084,
+    "hijra_count": 0,
+    "latitude": 22.36194,
+    "longitude": 91.80892
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "নিউ টাইগারপাস সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2301,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34214,
+    "longitude": 91.81389
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "পাহাড়তলী বিশ্ববিদ্যালয় কলেজ",
+    "male_count": 5770,
+    "female_count": 5383,
+    "hijra_count": 0,
+    "latitude": 22.35991,
+    "longitude": 91.80491
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "পাহাড়তলী রেলওয়ে হাসপাতাল কলোনী প্রাথমিক বিদ্যালয়",
+    "male_count": 1696,
+    "female_count": 1449,
+    "hijra_count": 0,
+    "latitude": 22.35493,
+    "longitude": 91.79723
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "পূর্ব টাইগারপাস সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2211,
+    "hijra_count": 0,
+    "latitude": 22.34346,
+    "longitude": 91.81179
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "পূর্ব নাসিরাবাদ আব্দুল জলিল সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2193,
+    "female_count": 3093,
+    "hijra_count": 0,
+    "latitude": 22.36963,
+    "longitude": 91.81864
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "প্রবর্তক স্কুল ও কলেজ",
+    "male_count": 7456,
+    "female_count": 5074,
+    "hijra_count": 1,
+    "latitude": 22.36178,
+    "longitude": 91.82903
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "প্রাণহরি আমীন একাডেমী",
+    "male_count": 4760,
+    "female_count": 4909,
+    "hijra_count": 0,
+    "latitude": 22.34464,
+    "longitude": 91.77496
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ফুল চৌধুরী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2306,
+    "female_count": 2344,
+    "hijra_count": 0,
+    "latitude": 22.33713,
+    "longitude": 91.77146
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "বঙ্গবন্ধু বাংলা বিদ্যাপীঠ",
+    "male_count": 3355,
+    "female_count": 2982,
+    "hijra_count": 0,
+    "latitude": 22.35754,
+    "longitude": 91.80824
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "বনগবেষণাগার উচ্চ বিদ্যালয়",
+    "male_count": 3915,
+    "female_count": 3350,
+    "hijra_count": 0,
+    "latitude": 22.37026,
+    "longitude": 91.82931
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "বাডস কিন্ডারগার্টেন",
+    "male_count": 281,
+    "female_count": 2993,
+    "hijra_count": 0,
+    "latitude": 22.35063,
+    "longitude": 91.81864
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "বাংলাদেশ-কোরিয়া টেকনিক্যাল ট্রেনিং সেন্টার",
+    "male_count": 4499,
+    "female_count": 4213,
+    "hijra_count": 0,
+    "latitude": 22.36855,
+    "longitude": 91.81349
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "বাংলাদেশ রেলওয়ে সরকারী উচ্চ বিদ্যালয়",
+    "male_count": 1722,
+    "female_count": 1600,
+    "hijra_count": 0,
+    "latitude": 22.35549,
+    "longitude": 91.79844
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "বাসন্তী বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 4670,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35151,
+    "longitude": 91.7729
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "বিদ্যুৎ উন্নয়ন বোর্ড উচ্চ বিদ্যালয়",
+    "male_count": 8883,
+    "female_count": 9008,
+    "hijra_count": 0,
+    "latitude": 22.34213,
+    "longitude": 91.80418
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ব্রাইট ফিউচার স্কুল",
+    "male_count": 0,
+    "female_count": 4061,
+    "hijra_count": 0,
+    "latitude": 22.33274,
+    "longitude": 91.79767
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ব্লু-বার্ড প্রি-ক্যাডেট স্কুল এন্ড কলেজ\t",
+    "male_count": 2408,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "ভেলুয়ার দিঘী সরকারী প্রাঃ বিদ্যালয়",
+    "male_count": 2938,
+    "female_count": 2798,
+    "hijra_count": 0,
+    "latitude": 22.35272,
+    "longitude": 91.79277
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "মুরাদপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2892,
+    "hijra_count": 0,
+    "latitude": 22.36776,
+    "longitude": 91.83071
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "মেট্টোপলিটন রেসিডেন্সিয়াল স্কুল এন্ড কলেজ",
+    "male_count": 2561,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.36769,
+    "longitude": 91.83732
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "রংগীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4065,
+    "hijra_count": 0,
+    "latitude": 22.33553,
+    "longitude": 91.79983
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "রাবেয়া বসরী বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 3524,
+    "female_count": 3396,
+    "hijra_count": 0,
+    "latitude": 22.34069,
+    "longitude": 91.78234
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "রামপুর নতুন বাজার সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 4176,
+    "female_count": 3951,
+    "hijra_count": 0,
+    "latitude": 22.34412,
+    "longitude": 91.78916
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "রেনেসাঁ স্কুল এন্ড কলেজ",
+    "male_count": 0,
+    "female_count": 3696,
+    "hijra_count": 0,
+    "latitude": 22.36231,
+    "longitude": 91.84298
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "রেলওয়ে এমপ্লয়িজ গার্লস হাই স্কুল",
+    "male_count": 1128,
+    "female_count": 5130,
+    "hijra_count": 2,
+    "latitude": 22.34606,
+    "longitude": 91.81147
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "লালখান বাজার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 5885,
+    "hijra_count": 0,
+    "latitude": 22.34785,
+    "longitude": 91.81802
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "শহীদনগর সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 3184,
+    "female_count": 5235,
+    "hijra_count": 0,
+    "latitude": 22.34787,
+    "longitude": 91.81865
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "শহীদ লে: জি: এম. মুশফিক বীর উত্তম উচ্চ বিদ্যালয়",
+    "male_count": 3754,
+    "female_count": 2838,
+    "hijra_count": 0,
+    "latitude": 22.33152,
+    "longitude": 91.78431
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "শাইনিং আওয়ার স্কুল",
+    "male_count": 1637,
+    "female_count": 1575,
+    "hijra_count": 0,
+    "latitude": 22.35059,
+    "longitude": 91.81847
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "শামীম মোর্শেদ স্মৃতি একাডেমী",
+    "male_count": 1665,
+    "female_count": 1575,
+    "hijra_count": 0,
+    "latitude": 22.33047,
+    "longitude": 91.80292
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "সরাইপাড়া সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
+    "male_count": 4034,
+    "female_count": 3975,
+    "hijra_count": 0,
+    "latitude": 22.35064,
+    "longitude": 91.78983
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "সরাইপাড়া সিটি কর্পোরেশন ডিগ্রী কলেজ",
+    "male_count": 3134,
+    "female_count": 3157,
+    "hijra_count": 0,
+    "latitude": 22.35056,
+    "longitude": 91.79067
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "সরাইপাড়া হাজী আব্দুল আলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 4176,
+    "female_count": 3980,
+    "hijra_count": 0,
+    "latitude": 22.35436,
+    "longitude": 91.78311
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "সালাম-নুর আদর্শ মহিলা মাদ্রাসা ও ইসলামিক কিন্ডারগার্টেন",
+    "male_count": 4173,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33478,
+    "longitude": 91.80203
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "সিলভার বেলস কিন্ডার গার্টেন এন্ড গার্লস হাইস্কুল\t",
+    "male_count": 0,
+    "female_count": 5036,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "সুচয়ন বিদ্যাপীঠ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3862,
+    "hijra_count": 0,
+    "latitude": 22.36744,
+    "longitude": 91.83798
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "হাউজিং এন্ড সেটেলমেন্ট পাবলিক স্কুল",
+    "male_count": 5086,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33109,
+    "longitude": 91.79182
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "হালিশহর আবুলিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2878,
+    "female_count": 2668,
+    "hijra_count": 0,
+    "latitude": 22.32697,
+    "longitude": 91.78709
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "হালিশহর আলহাজ্ব মহব্বত আলী সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
+    "male_count": 1097,
+    "female_count": 1032,
+    "hijra_count": 0,
+    "latitude": 22.32517,
+    "longitude": 91.77689
+  },
+  {
+    "settings_code": 287,
+    "settings_name": "চট্রগ্রাম-১০",
+    "center_name": "হালিশহর বি-ব্লক প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2769,
+    "hijra_count": 0,
+    "latitude": 22.33759,
+    "longitude": 91.77693
+  }
 ]

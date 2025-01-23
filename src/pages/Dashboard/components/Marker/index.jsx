@@ -1,31 +1,46 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { TileLayer as LeafletTileLayer } from 'react-leaflet';
 import MarkerClusterGroup from 'react-leaflet-cluster';
+import { useSelector } from 'react-redux';
 
 import CustomMarker from './CustomMarker';
 
-import readJsonFile from '../../../../staticData/centers/getDataFRomFile';
+const generateUrl = (number) =>
+  `../../../../staticData/centers/center_wise_voter_with_location_${number}.json`;
 
 export const MarkerLayer = () => {
+  const [jsonData, setJsonData] = useState(null);
+  const _selectedConstituency = useSelector((state) => state.constituency);
+  const { selectedConstituency } = _selectedConstituency || {};
+
+  const loadJsonFile = async (number) => {
+    try {
+      const jsonModule = await import(generateUrl(number));
+
+      setJsonData(jsonModule.default);
+    } catch (error) {
+      console.error(`Error loading data_${number}.json:`, error);
+      setJsonData(null);
+    }
+  };
+
+  useEffect(() => {
+    if (selectedConstituency?.code) loadJsonFile(selectedConstituency.code);
+  }, [selectedConstituency]);
+
   return (
     <>
       <MarkerClusterGroup chunkedLoading spiderfyDistanceMultiplier={2}>
-        {readJsonFile(1)
-          .filter((center) => center.settings_code === 111)
-          .map((data, index) => {
-            return data?.latitude && data?.longitude ? (
-              <CustomMarker
-                key={index}
-                data={{
-                  lat: data.latitude,
-                  lng: data.longitude,
-                  pavillion_name: data.center_name,
-                }}
-                isActive={false}
-                isNews={true}
-              />
-            ) : null;
-          })}
+        {jsonData?.map((data, index) => {
+          return data?.latitude !== 'NaN' && data?.longitude !== 'NaN' ? (
+            <CustomMarker
+              key={index}
+              data={data}
+              isActive={false}
+              isNews={true}
+            />
+          ) : null;
+        })}
       </MarkerClusterGroup>
     </>
   );

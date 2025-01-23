@@ -1,2132 +1,2132 @@
 [
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০১. শিজকমুখ উচ্চ বিদ্যালয়, শিজকমুখ",
-        "male_count": 1669,
-        "female_count": 1394,
-        "hijra_count": 1,
-        "latitude": 23.11406,
-        "longitude": 92.2311
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০২. খাগড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়, খাগড়াছড়ি ",
-        "male_count": 1569,
-        "female_count": 1533,
-        "hijra_count": 0,
-        "latitude": 23.08714,
-        "longitude": 92.23096
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০৩. নব পেরাছড়া সরকারি প্রাথমিক বিদ্যালয়, পেরাছড়া ",
-        "male_count": 1352,
-        "female_count": 1249,
-        "hijra_count": 0,
-        "latitude": 23.06512,
-        "longitude": 92.2652
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০৪. উলুছড়ি সরকারি প্রাথমিক বিদ্যালয়, উলুছড়ি ",
-        "male_count": 1450,
-        "female_count": 1460,
-        "hijra_count": 0,
-        "latitude": 23.11728,
-        "longitude": 92.21013
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০৫. খেদারমারা সরকারি  প্রাথমিক বিদ্যালয়, খেদারমারা ",
-        "male_count": 1848,
-        "female_count": 1591,
-        "hijra_count": 0,
-        "latitude": 23.0935,
-        "longitude": 92.21789
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০৬. পাবলাখালী সরকারি প্রাথমিক বিদ্যালয়, পাবলাখালী ",
-        "male_count": 1305,
-        "female_count": 1334,
-        "hijra_count": 0,
-        "latitude": 23.07167,
-        "longitude": 92.22004
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০৭. বাঘাইছড়ি আদর্শ সরকারি প্রাথমিক বিদ্যালয়, তালূকদারপাড়া ",
-        "male_count": 970,
-        "female_count": 975,
-        "hijra_count": 0,
-        "latitude": 23.16454,
-        "longitude": 92.20635
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০৮. নিউ লাল্যাঘোনা সরকারি প্রাথমিক বিদ্যালয়, নিউ লাল্যাঘোনা, উগলছড়ি",
-        "male_count": 1541,
-        "female_count": 1520,
-        "hijra_count": 0,
-        "latitude": 23.13904,
-        "longitude": 92.22023
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "০৯. মোরঘোনাছড়া সরকারি প্রাথমিক বিদ্যালয়, মোরঘোনাছড়া ",
-        "male_count": 748,
-        "female_count": 688,
-        "hijra_count": 0,
-        "latitude": 23.13948,
-        "longitude": 92.24294
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১০. শিজক দজর নিম্ন মাধ্যমিক বিদ্যালয়, দোসর, বাঘাইছড়ি (হেলিসর্টি)",
-        "male_count": 753,
-        "female_count": 660,
-        "hijra_count": 0,
-        "latitude": 23.16067,
-        "longitude": 92.19228
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১১. রূপালী সরকারি প্রাথমিক বিদ্যালয়, রূপকারী ",
-        "male_count": 614,
-        "female_count": 579,
-        "hijra_count": 0,
-        "latitude": 23.20791,
-        "longitude": 92.18825
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১২. পশ্চিম বড়াদম সরকারি প্রাথমিক বিদ্যালয়, বড়াদম ",
-        "male_count": 1004,
-        "female_count": 991,
-        "hijra_count": 0,
-        "latitude": 23.19328,
-        "longitude": 92.18205
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১৩. পাগয্যাছড়ি সরকারি প্রাথমিক বিদ্যালয়, পাগয্যাছড়ি ",
-        "male_count": 513,
-        "female_count": 505,
-        "hijra_count": 0,
-        "latitude": 23.1561,
-        "longitude": 92.18086
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১৪. বঙ্গলতলী সরকারি প্রাথমিক বিদ্যালয়, বঙ্গলতলী ",
-        "male_count": 1651,
-        "female_count": 1541,
-        "hijra_count": 0,
-        "latitude": 23.24001,
-        "longitude": 92.18079
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১৫. করেঙ্গাতলী সরকারি প্রাথমিক বিদ্যালয়, করেঙ্গাতলী ",
-        "male_count": 1480,
-        "female_count": 1393,
-        "hijra_count": 0,
-        "latitude": 23.22516,
-        "longitude": 92.18873
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১৬. বিটি উচ্চ বিদ্যালয়, করনাতলী ",
-        "male_count": 789,
-        "female_count": 727,
-        "hijra_count": 0,
-        "latitude": 23.22326,
-        "longitude": 92.18621
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১৭. নবনালন্দা সরকারি প্রাথমিক বিদ্যালয়, বংগলতলী ",
-        "male_count": 697,
-        "female_count": 660,
-        "hijra_count": 0,
-        "latitude": 23.21496,
-        "longitude": 92.19165
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১৮. কদমতলী সরকারি প্রাথমিক বিদ্যালয়, কদমতলী ",
-        "male_count": 676,
-        "female_count": 595,
-        "hijra_count": 0,
-        "latitude": 23.20067,
-        "longitude": 92.20136
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১৯. তুলাবান সরকারি প্রাথমিক বিদ্যালয়, তুলাবান ",
-        "male_count": 756,
-        "female_count": 747,
-        "hijra_count": 0,
-        "latitude": 23.18306,
-        "longitude": 92.20057
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "১নং চন্দ্রঘোনা ইউনিয়ন পরিষদ (পেপার মিলের মেইন গেইটের পাশে)",
-        "male_count": 1906,
-        "female_count": 1893,
-        "hijra_count": 0,
-        "latitude": 22.49185,
-        "longitude": 92.13481
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২০. তুলাবান উচ্চ বিদ্যালয়, তুলাবান ",
-        "male_count": 808,
-        "female_count": 835,
-        "hijra_count": 0,
-        "latitude": 23.18344,
-        "longitude": 92.20059
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২১. নিউলংকর সরকারি প্রাথমিক বিদ্যালয়, নিউলংকর (হেলিসর্টি)",
-        "male_count": 1341,
-        "female_count": 1166,
-        "hijra_count": 0,
-        "latitude": 23.16067,
-        "longitude": 92.19228
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২২. বাঘাইহাট সরকারি প্রাথমিক বিদ্যালয়, বাঘাইহাট (পুরুষ ভোটকেন্দ্র)",
-        "male_count": 2851,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.27988,
-        "longitude": 92.15166
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২৩. বাঘাইহাট উচ্চ বিদ্যালয়, বাঘাইহাট (মহিলা ভোটকেন্দ্র)",
-        "male_count": 0,
-        "female_count": 2302,
-        "hijra_count": 0,
-        "latitude": 23.27912,
-        "longitude": 92.14817
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২৪. মাচালং মিলনপাড়া সরকারি প্রাথমিক বিদ্যালয়, বাঘাইহাট ",
-        "male_count": 1563,
-        "female_count": 1220,
-        "hijra_count": 0,
-        "latitude": 23.36274,
-        "longitude": 92.20363
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২৫. ভাইবোনছড়া সরকারি  প্রাথমিক বিদ্যালয়, ভাইবোন ছড়া (হেলিসর্টি)",
-        "male_count": 1177,
-        "female_count": 965,
-        "hijra_count": 0,
-        "latitude": 23.16068,
-        "longitude": 92.19229
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২৬. কংলাক সরকারি প্রাথমিক বিদ্যালয়, কংলাক ",
-        "male_count": 966,
-        "female_count": 861,
-        "hijra_count": 0,
-        "latitude": 23.40482,
-        "longitude": 92.27887
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২৭. তুইচুই সরকারি  প্রাথমিক বিদ্যালয়, তুইচুই।  (হেলিসর্টি)",
-        "male_count": 1079,
-        "female_count": 869,
-        "hijra_count": 0,
-        "latitude": 23.16068,
-        "longitude": 92.19229
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২৮. বেটলিং সরকারি  প্রাথমিক বিদ্যালয়, বেটলিং (হেলিসর্টি)",
-        "male_count": 361,
-        "female_count": 222,
-        "hijra_count": 0,
-        "latitude": 23.16067,
-        "longitude": 92.19228
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "২৯. শিয়ালদাইলুই সরকারি  প্রাথমিক বিদ্যালয়, শিয়ালদাই লুই (হেলিসর্টি)",
-        "male_count": 856,
-        "female_count": 728,
-        "hijra_count": 0,
-        "latitude": 23.16068,
-        "longitude": 92.1923
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩০. কিশলয় সরকারি  প্রাথমিক বিদ্যালয়, বাঘাইছড়ি",
-        "male_count": 1629,
-        "female_count": 1579,
-        "hijra_count": 0,
-        "latitude": 23.16224,
-        "longitude": 92.19185
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩১. মুসলিম ব্লক সরকারি প্রাথমিক বিদ্যালয়, মুসলিম ব্লক।",
-        "male_count": 1224,
-        "female_count": 1050,
-        "hijra_count": 0,
-        "latitude": 23.17568,
-        "longitude": 92.20365
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩২. কাচালং মডেল সরকারি  প্রাথমিক বিদ্যালয়, কাচালং বাজার ",
-        "male_count": 769,
-        "female_count": 689,
-        "hijra_count": 0,
-        "latitude": 23.77814,
-        "longitude": 90.37452
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩৩. বটতলী সরকারি  প্রাথমিক বিদ্যালয়, বটতলী ",
-        "male_count": 811,
-        "female_count": 747,
-        "hijra_count": 0,
-        "latitude": 23.13863,
-        "longitude": 92.19607
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩৪. বাঘাইছড়ি সরকারি প্রাথমিক বিদ্যালয়, বাঘাইছড়ি ",
-        "male_count": 557,
-        "female_count": 556,
-        "hijra_count": 0,
-        "latitude": 23.14453,
-        "longitude": 92.19547
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩৫. জীবঙ্গছড়া (বাবুপাড়া) কমিউনিটি সেন্টার, বাবুপাড়া",
-        "male_count": 513,
-        "female_count": 552,
-        "hijra_count": 0,
-        "latitude": 23.16504,
-        "longitude": 92.19715
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩৬. বাঘাইছড়ি উচ্চ বিদ্যালয়, বাঘাইছড়ি ",
-        "male_count": 489,
-        "female_count": 456,
-        "hijra_count": 0,
-        "latitude": 23.15282,
-        "longitude": 92.20841
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩৭. পাবলাখালী (আমতলী) সরকারি প্রাথমিক বিদ্যালয়, আমতলী",
-        "male_count": 453,
-        "female_count": 456,
-        "hijra_count": 0,
-        "latitude": 23.06217,
-        "longitude": 92.24375
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩৮. পূর্ব আমতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 558,
-        "female_count": 547,
-        "hijra_count": 0,
-        "latitude": 23.05312,
-        "longitude": 92.24541
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩৯. মাহিল্যা সরকারি প্রাথমিক বিদ্যালয়, মাহিল্যা ",
-        "male_count": 527,
-        "female_count": 523,
-        "hijra_count": 0,
-        "latitude": 23.03383,
-        "longitude": 92.24045
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "৩নং চিৎমরম ইউনিয়ন পরিষদ (চিৎমরম মন্দিরের পাশে)",
-        "male_count": 845,
-        "female_count": 930,
-        "hijra_count": 0,
-        "latitude": 22.49621,
-        "longitude": 92.19658
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "আইডিয়াল কে.জি স্কুল",
-        "male_count": 1864,
-        "female_count": 1731,
-        "hijra_count": 0,
-        "latitude": 22.63124,
-        "longitude": 92.03977
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "আর টি এম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1660,
-        "female_count": 1632,
-        "hijra_count": 0,
-        "latitude": 22.6096,
-        "longitude": 92.09585
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "আসামবস্তি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1914,
-        "female_count": 1815,
-        "hijra_count": 0,
-        "latitude": 22.63609,
-        "longitude": 92.17282
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 853,
-        "female_count": 840,
-        "hijra_count": 0,
-        "latitude": 23.0202,
-        "longitude": 92.20979
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়, ইসলামপুর ।  ইসলামপুর",
-        "male_count": 287,
-        "female_count": 249,
-        "hijra_count": 0,
-        "latitude": 22.34178,
-        "longitude": 92.19777
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "উগলছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1428,
-        "female_count": 1302,
-        "hijra_count": 0,
-        "latitude": 22.95586,
-        "longitude": 92.24043
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "এরাবুনিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1494,
-        "female_count": 1376,
-        "hijra_count": 0,
-        "latitude": 22.72366,
-        "longitude": 92.38128
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ওড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 666,
-        "female_count": 637,
-        "hijra_count": 0,
-        "latitude": 22.49802,
-        "longitude": 92.3385
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ওয়াগ্গা উচ্চ বিদ্যালয় (সাপছড়ি)",
-        "male_count": 1271,
-        "female_count": 1251,
-        "hijra_count": 0,
-        "latitude": 23.06222,
-        "longitude": 91.71229
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ওয়াপদা রেষ্ট হাউস-১",
-        "male_count": 0,
-        "female_count": 2565,
-        "hijra_count": 0,
-        "latitude": 22.65275,
-        "longitude": 92.17565
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ওয়াপদা রেষ্ট হাউস-২",
-        "male_count": 2572,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.65267,
-        "longitude": 92.17536
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "করল্যাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2317,
-        "female_count": 2153,
-        "hijra_count": 0,
-        "latitude": 23.02611,
-        "longitude": 92.14301
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কর্ণফুলী পেপার মিলস স্কুল এন্ড কলেজ (কেপিএম উচ্চ বিদ্যালয়) (কেপিএম এলাকা)",
-        "male_count": 1230,
-        "female_count": 1097,
-        "hijra_count": 0,
-        "latitude": 22.48014,
-        "longitude": 92.13421
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কর্ণফুলী রেয়ন এন্ড কেমিক্যাল উচ্চ বিদ্যালয় (কে আর সি উচ্চ বিদ্যালয়) (কে.পিিএম এলাকা)",
-        "male_count": 1176,
-        "female_count": 1068,
-        "hijra_count": 0,
-        "latitude": 22.48541,
-        "longitude": 92.13643
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাকড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়, কাকড়াছড়ি পাড়া ।   কাকড়াছড়ি পাড়া ",
-        "male_count": 622,
-        "female_count": 637,
-        "hijra_count": 0,
-        "latitude": 22.38408,
-        "longitude": 92.16488
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাকপাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 727,
-        "female_count": 753,
-        "hijra_count": 0,
-        "latitude": 22.98245,
-        "longitude": 92.25458
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাটাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 715,
-        "female_count": 696,
-        "hijra_count": 0,
-        "latitude": 22.67942,
-        "longitude": 92.15277
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাট্টলী উচ্চ বিদ্যালয়",
-        "male_count": 1589,
-        "female_count": 1530,
-        "hijra_count": 0,
-        "latitude": 22.96725,
-        "longitude": 92.19739
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাঠালতলী পাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1181,
-        "female_count": 1083,
-        "hijra_count": 0,
-        "latitude": 22.81137,
-        "longitude": 92.1283
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাঠালতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2731,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.65194,
-        "longitude": 92.17996
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাঠালতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2287,
-        "hijra_count": 0,
-        "latitude": 22.65197,
-        "longitude": 92.17999
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাপ্তাই উচ্চ বিদ্যালয় (কাপ্তাই রোডের পাশে)",
-        "male_count": 1802,
-        "female_count": 1466,
-        "hijra_count": 0,
-        "latitude": 22.50355,
-        "longitude": 92.21223
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাপ্তাই বিদ্যুৎ উন্নয়ন বোর্ড উচ্চ বিদ্যালয় (পিডিবি উচ্চ বিদ্যালয়) (বিউবো প্রকল্প এলাকা)",
-        "male_count": 1238,
-        "female_count": 1114,
-        "hijra_count": 0,
-        "latitude": 22.48852,
-        "longitude": 92.22753
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কালাপাকুজ্যা সেনামৈত্রী আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1123,
-        "female_count": 1063,
-        "hijra_count": 0,
-        "latitude": 23.03951,
-        "longitude": 92.21017
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাঁশখালী উচ্চ বিদ্যালয়",
-        "male_count": 1468,
-        "female_count": 1311,
-        "hijra_count": 0,
-        "latitude": 22.54177,
-        "longitude": 92.00389
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কাশখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1177,
-        "female_count": 1078,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কিচিং আদম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 929,
-        "female_count": 893,
-        "hijra_count": 0,
-        "latitude": 22.71507,
-        "longitude": 92.21518
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কিল্লামুড়া নিম্ন মাধ্যমিক বিদ্যালয়",
-        "male_count": 1330,
-        "female_count": 1286,
-        "hijra_count": 0,
-        "latitude": 22.632,
-        "longitude": 92.24815
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কেংড়াছড়ি পুনর্বাসন জোন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 560,
-        "female_count": 619,
-        "hijra_count": 0,
-        "latitude": 22.51907,
-        "longitude": 92.29312
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কেংড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1345,
-        "female_count": 1270,
-        "hijra_count": 0,
-        "latitude": 22.52449,
-        "longitude": 92.31167
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কেরনছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 648,
-        "female_count": 697,
-        "hijra_count": 0,
-        "latitude": 22.50762,
-        "longitude": 92.329
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "কোলাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 661,
-        "female_count": 611,
-        "hijra_count": 0,
-        "latitude": 22.61504,
-        "longitude": 91.98197
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "খাগড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 956,
-        "female_count": 845,
-        "hijra_count": 0,
-        "latitude": 22.89844,
-        "longitude": 92.26251
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "খারিক্ষ্যং সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1416,
-        "female_count": 1423,
-        "hijra_count": 0,
-        "latitude": 22.74408,
-        "longitude": 92.16506
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "খুব্বাং সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1371,
-        "female_count": 1171,
-        "hijra_count": 0,
-        "latitude": 22.72548,
-        "longitude": 92.37611
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "গাথাঁছড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2089,
-        "female_count": 1933,
-        "hijra_count": 0,
-        "latitude": 22.9895,
-        "longitude": 92.21333
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "গুইছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 716,
-        "female_count": 701,
-        "hijra_count": 0,
-        "latitude": 22.6957,
-        "longitude": 92.1534
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "গুলশাখালী মডেল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1173,
-        "female_count": 1174,
-        "hijra_count": 0,
-        "latitude": 22.98931,
-        "longitude": 92.24191
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "গোধূলী আমানতবাগ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1406,
-        "female_count": 961,
-        "hijra_count": 0,
-        "latitude": 22.65962,
-        "longitude": 92.15924
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ঘনমোড় সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 863,
-        "female_count": 693,
-        "hijra_count": 0,
-        "latitude": 22.89754,
-        "longitude": 92.26195
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ঘাগড়া (বহুমুখী) উচ্চ বিদ্যালয়",
-        "male_count": 1568,
-        "female_count": 1372,
-        "hijra_count": 0,
-        "latitude": 22.61111,
-        "longitude": 92.10347
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ঘিলাছড়ি উচ্চ বিদ্যালয়",
-        "male_count": 2265,
-        "female_count": 2167,
-        "hijra_count": 0,
-        "latitude": 22.77186,
-        "longitude": 92.03648
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ঘিলাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 910,
-        "female_count": 871,
-        "hijra_count": 0,
-        "latitude": 21.82884,
-        "longitude": 91.85389
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ঘিলাতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 749,
-        "female_count": 736,
-        "hijra_count": 0,
-        "latitude": 22.61909,
-        "longitude": 92.36565
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "চকপতিঘাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 415,
-        "female_count": 433,
-        "hijra_count": 0,
-        "latitude": 22.65534,
-        "longitude": 92.35654
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "চাইল্যাতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 982,
-        "female_count": 953,
-        "hijra_count": 0,
-        "latitude": 22.91687,
-        "longitude": 92.26059
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "চাকুয়া পাড়া সরকারী প্রাথমিক বিদ্যালয় (চাকুয়া পাড়া)",
-        "male_count": 579,
-        "female_count": 545,
-        "hijra_count": 0,
-        "latitude": 22.45201,
-        "longitude": 92.20896
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "চিৎমরম উচ্চ বিদ্যালয় (চিৎমরম বাজারের পাশে)",
-        "male_count": 697,
-        "female_count": 643,
-        "hijra_count": 0,
-        "latitude": 22.49388,
-        "longitude": 92.19243
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "চুশাকপাড়া সরকারি প্রাথমিক বিদ্যালয়, ৩২৭- চিংখ্যং মৌজা।  চুশাকপাড়া",
-        "male_count": 613,
-        "female_count": 588,
-        "hijra_count": 0,
-        "latitude": 22.36634,
-        "longitude": 92.25503
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "চৌধুরীছড়া সরকারী প্রাথমিক বিদ্যালয় (বিউবো প্রকল্প এলাকা)",
-        "male_count": 1452,
-        "female_count": 741,
-        "hijra_count": 0,
-        "latitude": 22.49297,
-        "longitude": 92.22027
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ছোট হরিণা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1706,
-        "female_count": 1272,
-        "hijra_count": 0,
-        "latitude": 22.72353,
-        "longitude": 92.3823
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "জগন্নাথছড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1134,
-        "female_count": 1084,
-        "hijra_count": 0,
-        "latitude": 22.72533,
-        "longitude": 92.37606
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "জাহানাতলী উচ্চ বিদ্যালয়",
-        "male_count": 1453,
-        "female_count": 1362,
-        "hijra_count": 0,
-        "latitude": 22.90678,
-        "longitude": 92.06987
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "জীবতলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 608,
-        "female_count": 556,
-        "hijra_count": 0,
-        "latitude": 22.5353,
-        "longitude": 92.24482
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ডংনালা সরকারি প্রাথমিক বিদ্যালয় (ডংনালা বাজার)",
-        "male_count": 795,
-        "female_count": 721,
-        "hijra_count": 0,
-        "latitude": 22.4096,
-        "longitude": 92.12044
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ডানে লংগদু নিম্ন মাধ্যমিক বিদ্যালয়",
-        "male_count": 1419,
-        "female_count": 1321,
-        "hijra_count": 0,
-        "latitude": 22.97407,
-        "longitude": 92.15142
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ডাবুয়া হেডম্যান পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 888,
-        "female_count": 928,
-        "hijra_count": 0,
-        "latitude": 22.60885,
-        "longitude": 91.94745
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ডুলুছড়ি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 834,
-        "female_count": 751,
-        "hijra_count": 0,
-        "latitude": 22.72521,
-        "longitude": 92.37646
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ডেবাছড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1077,
-        "female_count": 1114,
-        "hijra_count": 0,
-        "latitude": 22.65971,
-        "longitude": 92.3977
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "তক্তানালা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1189,
-        "female_count": 1021,
-        "hijra_count": 0,
-        "latitude": 22.49803,
-        "longitude": 92.33842
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "তাইতং পাড়া সরকারি প্রাথমিক বিদ্যালয়, ৩২৭ চিংখ্যং মৌজা।  তাইতং পাড়া",
-        "male_count": 473,
-        "female_count": 474,
-        "hijra_count": 0,
-        "latitude": 22.35927,
-        "longitude": 92.25706
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "তারাছড়ি বেসরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1109,
-        "female_count": 988,
-        "hijra_count": 0,
-        "latitude": 22.49809,
-        "longitude": 92.33867
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "তারাবনিয়া সরকারী প্রাথমিক",
-        "male_count": 1884,
-        "female_count": 1865,
-        "hijra_count": 0,
-        "latitude": 22.57853,
-        "longitude": 92.01438
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "তালুকদার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 507,
-        "female_count": 520,
-        "hijra_count": 0,
-        "latitude": 22.38449,
-        "longitude": 92.25146
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "তৈ-চাকমা হেডম্যান পাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 539,
-        "female_count": 517,
-        "hijra_count": 0,
-        "latitude": 22.84443,
-        "longitude": 92.05258
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "তৈমিদুং জুনিয়র উচ্চ বিদ্যালয়",
-        "male_count": 1292,
-        "female_count": 1291,
-        "hijra_count": 0,
-        "latitude": 22.7254,
-        "longitude": 92.13143
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "তৈয়্যবিয়া সুন্নিয়া দাখিল মাদ্রাসা",
-        "male_count": 1293,
-        "female_count": 880,
-        "hijra_count": 0,
-        "latitude": 22.47337,
-        "longitude": 92.13806
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "দক্ষিণ কুতুকছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 707,
-        "female_count": 761,
-        "hijra_count": 0,
-        "latitude": 22.70921,
-        "longitude": 92.09992
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "দক্ষিণ কেংগালছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 980,
-        "female_count": 968,
-        "hijra_count": 0,
-        "latitude": 22.89206,
-        "longitude": 92.01847
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "দীঘলছড়ি আবাসিক সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1041,
-        "female_count": 947,
-        "hijra_count": 0,
-        "latitude": 22.4887,
-        "longitude": 92.33815
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ধামাইছড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1832,
-        "female_count": 1586,
-        "hijra_count": 0,
-        "latitude": 22.71331,
-        "longitude": 92.26686
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ধামাই পাড়া দয়ামোহন স্মৃতি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 960,
-        "female_count": 1000,
-        "hijra_count": 0,
-        "latitude": 22.6725,
-        "longitude": 92.38011
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নতুন পাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1209,
-        "female_count": 1127,
-        "hijra_count": 0,
-        "latitude": 23.04867,
-        "longitude": 91.88832
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নাগারগিরি সরকারী উচ্চ বিদ্যালয় (নারানগিরি কৃষি ফার্ম এর পাশে)",
-        "male_count": 1354,
-        "female_count": 1361,
-        "hijra_count": 0,
-        "latitude": 22.46898,
-        "longitude": 92.14157
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নাড়াইছড়ি সরকারি প্রাথমিক বিদ্যালয়, নাড়াইছড়ি পাড়া, (৩২৯ নং কাপ্তাই মৌজা)",
-        "male_count": 427,
-        "female_count": 443,
-        "hijra_count": 0,
-        "latitude": 22.35805,
-        "longitude": 92.28823
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নানিয়ারচর পুনর্বাসন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1271,
-        "female_count": 1265,
-        "hijra_count": 0,
-        "latitude": 22.82133,
-        "longitude": 92.07403
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নানিয়ারচর সরকারি মডেল উচ্চ বিদ্যালয়",
-        "male_count": 1813,
-        "female_count": 1729,
-        "hijra_count": 0,
-        "latitude": 22.84418,
-        "longitude": 92.10231
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নাভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 391,
-        "female_count": 384,
-        "hijra_count": 0,
-        "latitude": 22.69998,
-        "longitude": 91.98815
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নিকসেন্দ্রা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 746,
-        "female_count": 754,
-        "hijra_count": 0,
-        "latitude": 22.72381,
-        "longitude": 92.38072
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নিম্নকচুখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1642,
-        "female_count": 1631,
-        "hijra_count": 0,
-        "latitude": 22.6315,
-        "longitude": 92.04933
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "নোয়াদম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1226,
-        "female_count": 1245,
-        "hijra_count": 0,
-        "latitude": 22.72468,
-        "longitude": 92.18054
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "পাংখোপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1113,
-        "female_count": 1012,
-        "hijra_count": 0,
-        "latitude": 22.43331,
-        "longitude": 92.34027
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "পাতাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1435,
-        "female_count": 1282,
-        "hijra_count": 0,
-        "latitude": 22.85995,
-        "longitude": 92.11272
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "পানছড়ি উচ্চ বিদ্যালয়",
-        "male_count": 1054,
-        "female_count": 972,
-        "hijra_count": 0,
-        "latitude": 22.67714,
-        "longitude": 92.05017
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "পুরানপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1697,
-        "female_count": 1564,
-        "hijra_count": 0,
-        "latitude": 22.66076,
-        "longitude": 92.19293
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "পূর্ব শিয়ালবুক্কা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1004,
-        "female_count": 1005,
-        "hijra_count": 0,
-        "latitude": 22.55047,
-        "longitude": 92.01413
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "পোয়াপাড়া সরকারী মডেল উচ্চ বিদ্যালয়",
-        "male_count": 2195,
-        "female_count": 2143,
-        "hijra_count": 0,
-        "latitude": 22.6268,
-        "longitude": 92.03685
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "প্রাংজাং বেসরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 353,
-        "female_count": 358,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ফকিরাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 713,
-        "female_count": 628,
-        "hijra_count": 0,
-        "latitude": 22.66872,
-        "longitude": 92.38468
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ফরেস্ট ভিলেজার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 446,
-        "female_count": 416,
-        "hijra_count": 0,
-        "latitude": 22.66873,
-        "longitude": 92.3847
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ফারুয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1792,
-        "female_count": 1538,
-        "hijra_count": 0,
-        "latitude": 22.498,
-        "longitude": 92.33855
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বগাখালী নিম্ন মাধ্যমিক বিদ্যালয়",
-        "male_count": 698,
-        "female_count": 533,
-        "hijra_count": 0,
-        "latitude": 22.66874,
-        "longitude": 92.38438
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বগাছড়ি পুনর্বাসন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1333,
-        "female_count": 1317,
-        "hijra_count": 0,
-        "latitude": 22.81577,
-        "longitude": 92.04202
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বড়ইছড়ি সরকারী প্রাথমিক বিদ্যালয় (বড়িইছড়ি সদর)",
-        "male_count": 790,
-        "female_count": 668,
-        "hijra_count": 0,
-        "latitude": 22.50324,
-        "longitude": 92.13911
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বড় কুড়াদিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1273,
-        "female_count": 1195,
-        "hijra_count": 0,
-        "latitude": 22.72425,
-        "longitude": 92.37889
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বড়থলি বেসরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 367,
-        "female_count": 356,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বড় বিলি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 841,
-        "female_count": 828,
-        "hijra_count": 0,
-        "latitude": 22.53206,
-        "longitude": 92.01164
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বড় মহাপুরম উচ্চ বিদ্যালয়",
-        "male_count": 833,
-        "female_count": 797,
-        "hijra_count": 0,
-        "latitude": 22.72472,
-        "longitude": 92.08234
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বড়াদম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1231,
-        "female_count": 1184,
-        "hijra_count": 0,
-        "latitude": 22.56331,
-        "longitude": 92.1701
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বনযোগীছড়া উচ্চ বিদ্যালয়",
-        "male_count": 943,
-        "female_count": 800,
-        "hijra_count": 0,
-        "latitude": 22.67232,
-        "longitude": 92.34721
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বনরুপা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2107,
-        "female_count": 1467,
-        "hijra_count": 0,
-        "latitude": 22.64985,
-        "longitude": 92.17845
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বরকল আদর্শ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1113,
-        "female_count": 962,
-        "hijra_count": 0,
-        "latitude": 22.72432,
-        "longitude": 92.38061
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বরকলক সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 640,
-        "female_count": 598,
-        "hijra_count": 0,
-        "latitude": 22.66894,
-        "longitude": 92.38536
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বরুনাছড়ি জোন সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1838,
-        "female_count": 1822,
-        "hijra_count": 0,
-        "latitude": 22.72442,
-        "longitude": 92.37808
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বর্মাছড়ি বাজার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 854,
-        "female_count": 811,
-        "hijra_count": 0,
-        "latitude": 22.68753,
-        "longitude": 91.93666
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বলিপাড়া সরকারি প্রাথমিক বিদ্যালয়, বলিপাড়া, (৩২৯ নং কাপ্তাই মৌজা)",
-        "male_count": 700,
-        "female_count": 646,
-        "hijra_count": 0,
-        "latitude": 22.36613,
-        "longitude": 92.25497
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বসন্ত নিম্ন মাধ্যমিক বিদ্যালয়",
-        "male_count": 1877,
-        "female_count": 1787,
-        "hijra_count": 0,
-        "latitude": 22.65844,
-        "longitude": 92.26703
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বাঙ্গালহালিয়া সরকারি প্রাথমিক বিদ্যালয়, বাঙ্গালহালিয়া ।   বাঙ্গালহালিয়া বাজার",
-        "male_count": 2197,
-        "female_count": 2037,
-        "hijra_count": 0,
-        "latitude": 22.374,
-        "longitude": 92.14421
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বামের মহালছড়ি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 665,
-        "female_count": 533,
-        "hijra_count": 0,
-        "latitude": 22.72365,
-        "longitude": 92.38148
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2215,
-        "hijra_count": 0,
-        "latitude": 22.65719,
-        "longitude": 92.15454
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বাংলাদেশ নৌবাহিনী স্কুল এন্ড কলেজ",
-        "male_count": 711,
-        "female_count": 304,
-        "hijra_count": 0,
-        "latitude": 22.52165,
-        "longitude": 92.22469
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বালুখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 428,
-        "female_count": 369,
-        "hijra_count": 0,
-        "latitude": 22.60875,
-        "longitude": 92.236
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বি.এফ.আই.ডি.সি সরকারী প্রাথমিক বিদ্যালয় (সুইডিশ পলিটেকনিক্যাল এর পাশে)",
-        "male_count": 1375,
-        "female_count": 1163,
-        "hijra_count": 0,
-        "latitude": 22.50686,
-        "longitude": 92.21102
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বিলছড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1098,
-        "female_count": 970,
-        "hijra_count": 0,
-        "latitude": 22.72384,
-        "longitude": 92.38067
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বিলাইছড়ি উচ্চ বিদ্যালয়",
-        "male_count": 1438,
-        "female_count": 1318,
-        "hijra_count": 0,
-        "latitude": 22.4982,
-        "longitude": 92.33866
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বুড়ীঘাট পুনর্বাসন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1975,
-        "female_count": 1868,
-        "hijra_count": 0,
-        "latitude": 22.78685,
-        "longitude": 92.09048
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বেগেনাছড়ি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 597,
-        "female_count": 591,
-        "hijra_count": 0,
-        "latitude": 22.72426,
-        "longitude": 92.37904
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বেতছড়ি জেনারেল ওসমানি উচ্চ বিদ্যালয়",
-        "male_count": 1610,
-        "female_count": 1457,
-        "hijra_count": 0,
-        "latitude": 22.87141,
-        "longitude": 92.03393
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "বেতবুনিয়া উচ্চ বিদ্যালয়",
-        "male_count": 1766,
-        "female_count": 1650,
-        "hijra_count": 0,
-        "latitude": 22.54559,
-        "longitude": 92.00223
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ভাইবোনছড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1772,
-        "female_count": 1558,
-        "hijra_count": 0,
-        "latitude": 22.9691,
-        "longitude": 92.198
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ভাংগামুড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1492,
-        "female_count": 1406,
-        "hijra_count": 0,
-        "latitude": 23.03401,
-        "longitude": 92.19169
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ভালুকিয়া নিম্ন মাধ্যমিক বিদ্যালয় (ভালুক্যা)",
-        "male_count": 1735,
-        "female_count": 1788,
-        "hijra_count": 0,
-        "latitude": 22.41853,
-        "longitude": 92.1686
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ভূবনজয় সরকারি উচ্চ বিদ্যালয়",
-        "male_count": 960,
-        "female_count": 904,
-        "hijra_count": 0,
-        "latitude": 22.66877,
-        "longitude": 92.3848
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ভূয়াতলীছড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 652,
-        "female_count": 589,
-        "hijra_count": 0,
-        "latitude": 22.66872,
-        "longitude": 92.3847
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ভূষণছড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 810,
-        "female_count": 732,
-        "hijra_count": 0,
-        "latitude": 22.7239,
-        "longitude": 92.38027
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "ভেদভেদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2525,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.65507,
-        "longitude": 92.15449
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "মরাচেঙ্গীমুখ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1441,
-        "female_count": 1365,
-        "hijra_count": 0,
-        "latitude": 22.86993,
-        "longitude": 92.08675
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "মাইচছড়ি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1744,
-        "female_count": 1686,
-        "hijra_count": 0,
-        "latitude": 22.71906,
-        "longitude": 92.31442
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "মাঝিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1501,
-        "female_count": 1447,
-        "hijra_count": 0,
-        "latitude": 22.59924,
-        "longitude": 92.00561
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "মারিশ্যাচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1837,
-        "female_count": 1605,
-        "hijra_count": 0,
-        "latitude": 22.93708,
-        "longitude": 92.24433
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "মুরালী পাড়া সরকারী প্রাথমিক বিদ্যালয় (সাক্রাছড়ি)",
-        "male_count": 567,
-        "female_count": 553,
-        "hijra_count": 0,
-        "latitude": 22.59789,
-        "longitude": 92.09487
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "যগোনাছড়ি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1003,
-        "female_count": 927,
-        "hijra_count": 0,
-        "latitude": 22.54602,
-        "longitude": 92.2294
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "যোগেন্দ্র দেওয়ান পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1362,
-        "female_count": 1254,
-        "hijra_count": 0,
-        "latitude": 22.64456,
-        "longitude": 92.16252
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রত্নসিংহ কার্বারী পাড়া স্বল্প ব্যয়ী প্রাথমিক বিদ্যালয়",
-        "male_count": 589,
-        "female_count": 528,
-        "hijra_count": 0,
-        "latitude": 22.87214,
-        "longitude": 92.06574
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রশিদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 700,
-        "female_count": 692,
-        "hijra_count": 0,
-        "latitude": 23.00643,
-        "longitude": 92.20401
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাইখালী রিফিউজি পাড়া সরকারী প্রাথমিক বিদ্যালয় (রিফিউজি পাড়া)",
-        "male_count": 1164,
-        "female_count": 1172,
-        "hijra_count": 0,
-        "latitude": 22.45959,
-        "longitude": 92.13541
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাইখালী সরকারী প্রাথমিক বিদ্যালয় (বড়খোলা পাড়া)",
-        "male_count": 2143,
-        "female_count": 1977,
-        "hijra_count": 0,
-        "latitude": 22.44285,
-        "longitude": 92.14116
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাইমংছড়া পাড়া বে-সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 377,
-        "female_count": 358,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাংগীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1563,
-        "female_count": 1462,
-        "hijra_count": 0,
-        "latitude": 22.96959,
-        "longitude": 92.24857
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাঙ্গামাটি শিশু নিকেতন, রাঙ্গামাটি",
-        "male_count": 0,
-        "female_count": 3026,
-        "hijra_count": 1,
-        "latitude": 22.64872,
-        "longitude": 92.19589
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাঙ্গামাটি সরকারি উচ্চ বিদ্যালয়",
-        "male_count": 1679,
-        "female_count": 1425,
-        "hijra_count": 0,
-        "latitude": 22.64305,
-        "longitude": 92.19775
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাঙ্গামাটি সরকারি কলেজ",
-        "male_count": 0,
-        "female_count": 1888,
-        "hijra_count": 0,
-        "latitude": 22.66286,
-        "longitude": 92.16229
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাঙ্গামাটি সরকারি কলেজ",
-        "male_count": 2098,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.66376,
-        "longitude": 92.16202
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাঙ্গামাটি সরকারি বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 4453,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.63662,
-        "longitude": 92.18546
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাঙ্গামাটি সিনিয়র মাদ্রাসা",
-        "male_count": 4002,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.6484,
-        "longitude": 92.19563
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাজনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1596,
-        "female_count": 1503,
-        "hijra_count": 0,
-        "latitude": 22.99532,
-        "longitude": 92.257
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাজস্থলী তাইতংপাড়া সরকারী উচ্চ বিদ্যালয়",
-        "male_count": 1377,
-        "female_count": 1366,
-        "hijra_count": 0,
-        "latitude": 22.36621,
-        "longitude": 92.25659
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাজস্থলী বাজার মডেল সরকারি প্রাথমিক বিদ্যালয়, রাজস্থলী বাজার, (৩২৯ নং কাপ্তাই মৌজা)",
-        "male_count": 1540,
-        "female_count": 1502,
-        "hijra_count": 0,
-        "latitude": 22.36914,
-        "longitude": 92.25731
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাণী দয়াময়ী উচচ বিদ্যালয়",
-        "male_count": 3149,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.65889,
-        "longitude": 92.17053
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাণী দয়াময়ী উচচ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2866,
-        "hijra_count": 0,
-        "latitude": 22.65941,
-        "longitude": 92.17026
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "রাবেতা মডেল উচ্চ বিদ্যালয়",
-        "male_count": 2262,
-        "female_count": 1825,
-        "hijra_count": 0,
-        "latitude": 22.98469,
-        "longitude": 92.20557
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "লংগদু পাড়া সরকারি প্রাথমিক বিদ্যালয়, লংগদু পাড়া । ৩৩১নং গাইন্দ্যা মৌজা লংগদু পাড়া",
-        "male_count": 903,
-        "female_count": 919,
-        "hijra_count": 0,
-        "latitude": 22.35209,
-        "longitude": 92.21215
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "লংগদু সরকারি উচ্চ বিদ্যালয়",
-        "male_count": 1475,
-        "female_count": 1413,
-        "hijra_count": 0,
-        "latitude": 22.97136,
-        "longitude": 92.19545
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "লালমোহন কার্বারী পাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 711,
-        "female_count": 686,
-        "hijra_count": 0,
-        "latitude": 22.60726,
-        "longitude": 92.14351
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "লেমুছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 962,
-        "female_count": 954,
-        "hijra_count": 0,
-        "latitude": 22.96725,
-        "longitude": 92.19739
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শফিপুর সরকারি প্রাথমিক বিদ্যালয়, শফিপুর ।  শফিপুর",
-        "male_count": 770,
-        "female_count": 759,
-        "hijra_count": 0,
-        "latitude": 22.36281,
-        "longitude": 92.16456
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শহীদ আব্দুল আলী একাডেমী",
-        "male_count": 1788,
-        "female_count": 1357,
-        "hijra_count": 0,
-        "latitude": 22.65048,
-        "longitude": 92.19617
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শাহ্ বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 1162,
-        "female_count": 1199,
-        "hijra_count": 0,
-        "latitude": 22.6411,
-        "longitude": 92.18409
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শিলছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1252,
-        "female_count": 1156,
-        "hijra_count": 0,
-        "latitude": 22.60439,
-        "longitude": 92.37051
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শিলছড়ি সরকারী প্রাথমিক বিদ্যালয় (শিলছড়ি)",
-        "male_count": 703,
-        "female_count": 659,
-        "hijra_count": 0,
-        "latitude": 22.50682,
-        "longitude": 92.1561
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শীলছড়ি এসইএসডিপি মডেল উচ্চ বিদ্যালয়",
-        "male_count": 944,
-        "female_count": 950,
-        "hijra_count": 0,
-        "latitude": 22.5617,
-        "longitude": 91.98965
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শুকনাছড়ি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 734,
-        "female_count": 656,
-        "hijra_count": 0,
-        "latitude": 22.72372,
-        "longitude": 92.38113
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শুকরছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 537,
-        "female_count": 521,
-        "hijra_count": 0,
-        "latitude": 22.68185,
-        "longitude": 92.12065
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "শৈয়ালপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 628,
-        "female_count": 571,
-        "hijra_count": 0,
-        "latitude": 22.66879,
-        "longitude": 92.38483
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "সাক্রাছড়ি উচ্চ বিদ্যালয় (সাক্রাছড়ি)",
-        "male_count": 631,
-        "female_count": 628,
-        "hijra_count": 0,
-        "latitude": 22.59245,
-        "longitude": 92.10002
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "সাপছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1455,
-        "female_count": 1331,
-        "hijra_count": 0,
-        "latitude": 22.66147,
-        "longitude": 92.13297
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "সি,এম, পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1312,
-        "female_count": 1036,
-        "hijra_count": 0,
-        "latitude": 22.72548,
-        "longitude": 92.37611
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "স্বর্ণটিলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3784,
-        "hijra_count": 0,
-        "latitude": 22.63583,
-        "longitude": 92.18417
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "হরিণছড়া মুখ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 867,
-        "female_count": 826,
-        "hijra_count": 0,
-        "latitude": 22.49756,
-        "longitude": 92.28183
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "হাজাছড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2148,
-        "female_count": 1954,
-        "hijra_count": 0,
-        "latitude": 22.99661,
-        "longitude": 92.17235
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "হাজাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1466,
-        "female_count": 1450,
-        "hijra_count": 0,
-        "latitude": 22.7352,
-        "longitude": 92.0654
-    },
-    {
-        "settings_code": 299,
-        "settings_name": "রাঙ্গামাটি",
-        "center_name": "হাজার মানিক নিম্ন-মাধ্যমিক বিদ্যালয়",
-        "male_count": 510,
-        "female_count": 445,
-        "hijra_count": 0,
-        "latitude": 22.52165,
-        "longitude": 92.28059
-    }
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০১. শিজকমুখ উচ্চ বিদ্যালয়, শিজকমুখ",
+    "male_count": 1669,
+    "female_count": 1394,
+    "hijra_count": 1,
+    "latitude": 23.11406,
+    "longitude": 92.2311
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০২. খাগড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়, খাগড়াছড়ি ",
+    "male_count": 1569,
+    "female_count": 1533,
+    "hijra_count": 0,
+    "latitude": 23.08714,
+    "longitude": 92.23096
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০৩. নব পেরাছড়া সরকারি প্রাথমিক বিদ্যালয়, পেরাছড়া ",
+    "male_count": 1352,
+    "female_count": 1249,
+    "hijra_count": 0,
+    "latitude": 23.06512,
+    "longitude": 92.2652
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০৪. উলুছড়ি সরকারি প্রাথমিক বিদ্যালয়, উলুছড়ি ",
+    "male_count": 1450,
+    "female_count": 1460,
+    "hijra_count": 0,
+    "latitude": 23.11728,
+    "longitude": 92.21013
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০৫. খেদারমারা সরকারি  প্রাথমিক বিদ্যালয়, খেদারমারা ",
+    "male_count": 1848,
+    "female_count": 1591,
+    "hijra_count": 0,
+    "latitude": 23.0935,
+    "longitude": 92.21789
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০৬. পাবলাখালী সরকারি প্রাথমিক বিদ্যালয়, পাবলাখালী ",
+    "male_count": 1305,
+    "female_count": 1334,
+    "hijra_count": 0,
+    "latitude": 23.07167,
+    "longitude": 92.22004
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০৭. বাঘাইছড়ি আদর্শ সরকারি প্রাথমিক বিদ্যালয়, তালূকদারপাড়া ",
+    "male_count": 970,
+    "female_count": 975,
+    "hijra_count": 0,
+    "latitude": 23.16454,
+    "longitude": 92.20635
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০৮. নিউ লাল্যাঘোনা সরকারি প্রাথমিক বিদ্যালয়, নিউ লাল্যাঘোনা, উগলছড়ি",
+    "male_count": 1541,
+    "female_count": 1520,
+    "hijra_count": 0,
+    "latitude": 23.13904,
+    "longitude": 92.22023
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "০৯. মোরঘোনাছড়া সরকারি প্রাথমিক বিদ্যালয়, মোরঘোনাছড়া ",
+    "male_count": 748,
+    "female_count": 688,
+    "hijra_count": 0,
+    "latitude": 23.13948,
+    "longitude": 92.24294
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১০. শিজক দজর নিম্ন মাধ্যমিক বিদ্যালয়, দোসর, বাঘাইছড়ি (হেলিসর্টি)",
+    "male_count": 753,
+    "female_count": 660,
+    "hijra_count": 0,
+    "latitude": 23.16067,
+    "longitude": 92.19228
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১১. রূপালী সরকারি প্রাথমিক বিদ্যালয়, রূপকারী ",
+    "male_count": 614,
+    "female_count": 579,
+    "hijra_count": 0,
+    "latitude": 23.20791,
+    "longitude": 92.18825
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১২. পশ্চিম বড়াদম সরকারি প্রাথমিক বিদ্যালয়, বড়াদম ",
+    "male_count": 1004,
+    "female_count": 991,
+    "hijra_count": 0,
+    "latitude": 23.19328,
+    "longitude": 92.18205
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১৩. পাগয্যাছড়ি সরকারি প্রাথমিক বিদ্যালয়, পাগয্যাছড়ি ",
+    "male_count": 513,
+    "female_count": 505,
+    "hijra_count": 0,
+    "latitude": 23.1561,
+    "longitude": 92.18086
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১৪. বঙ্গলতলী সরকারি প্রাথমিক বিদ্যালয়, বঙ্গলতলী ",
+    "male_count": 1651,
+    "female_count": 1541,
+    "hijra_count": 0,
+    "latitude": 23.24001,
+    "longitude": 92.18079
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১৫. করেঙ্গাতলী সরকারি প্রাথমিক বিদ্যালয়, করেঙ্গাতলী ",
+    "male_count": 1480,
+    "female_count": 1393,
+    "hijra_count": 0,
+    "latitude": 23.22516,
+    "longitude": 92.18873
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১৬. বিটি উচ্চ বিদ্যালয়, করনাতলী ",
+    "male_count": 789,
+    "female_count": 727,
+    "hijra_count": 0,
+    "latitude": 23.22326,
+    "longitude": 92.18621
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১৭. নবনালন্দা সরকারি প্রাথমিক বিদ্যালয়, বংগলতলী ",
+    "male_count": 697,
+    "female_count": 660,
+    "hijra_count": 0,
+    "latitude": 23.21496,
+    "longitude": 92.19165
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১৮. কদমতলী সরকারি প্রাথমিক বিদ্যালয়, কদমতলী ",
+    "male_count": 676,
+    "female_count": 595,
+    "hijra_count": 0,
+    "latitude": 23.20067,
+    "longitude": 92.20136
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১৯. তুলাবান সরকারি প্রাথমিক বিদ্যালয়, তুলাবান ",
+    "male_count": 756,
+    "female_count": 747,
+    "hijra_count": 0,
+    "latitude": 23.18306,
+    "longitude": 92.20057
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "১নং চন্দ্রঘোনা ইউনিয়ন পরিষদ (পেপার মিলের মেইন গেইটের পাশে)",
+    "male_count": 1906,
+    "female_count": 1893,
+    "hijra_count": 0,
+    "latitude": 22.49185,
+    "longitude": 92.13481
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২০. তুলাবান উচ্চ বিদ্যালয়, তুলাবান ",
+    "male_count": 808,
+    "female_count": 835,
+    "hijra_count": 0,
+    "latitude": 23.18344,
+    "longitude": 92.20059
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২১. নিউলংকর সরকারি প্রাথমিক বিদ্যালয়, নিউলংকর (হেলিসর্টি)",
+    "male_count": 1341,
+    "female_count": 1166,
+    "hijra_count": 0,
+    "latitude": 23.16067,
+    "longitude": 92.19228
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২২. বাঘাইহাট সরকারি প্রাথমিক বিদ্যালয়, বাঘাইহাট (পুরুষ ভোটকেন্দ্র)",
+    "male_count": 2851,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.27988,
+    "longitude": 92.15166
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২৩. বাঘাইহাট উচ্চ বিদ্যালয়, বাঘাইহাট (মহিলা ভোটকেন্দ্র)",
+    "male_count": 0,
+    "female_count": 2302,
+    "hijra_count": 0,
+    "latitude": 23.27912,
+    "longitude": 92.14817
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২৪. মাচালং মিলনপাড়া সরকারি প্রাথমিক বিদ্যালয়, বাঘাইহাট ",
+    "male_count": 1563,
+    "female_count": 1220,
+    "hijra_count": 0,
+    "latitude": 23.36274,
+    "longitude": 92.20363
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২৫. ভাইবোনছড়া সরকারি  প্রাথমিক বিদ্যালয়, ভাইবোন ছড়া (হেলিসর্টি)",
+    "male_count": 1177,
+    "female_count": 965,
+    "hijra_count": 0,
+    "latitude": 23.16068,
+    "longitude": 92.19229
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২৬. কংলাক সরকারি প্রাথমিক বিদ্যালয়, কংলাক ",
+    "male_count": 966,
+    "female_count": 861,
+    "hijra_count": 0,
+    "latitude": 23.40482,
+    "longitude": 92.27887
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২৭. তুইচুই সরকারি  প্রাথমিক বিদ্যালয়, তুইচুই।  (হেলিসর্টি)",
+    "male_count": 1079,
+    "female_count": 869,
+    "hijra_count": 0,
+    "latitude": 23.16068,
+    "longitude": 92.19229
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২৮. বেটলিং সরকারি  প্রাথমিক বিদ্যালয়, বেটলিং (হেলিসর্টি)",
+    "male_count": 361,
+    "female_count": 222,
+    "hijra_count": 0,
+    "latitude": 23.16067,
+    "longitude": 92.19228
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "২৯. শিয়ালদাইলুই সরকারি  প্রাথমিক বিদ্যালয়, শিয়ালদাই লুই (হেলিসর্টি)",
+    "male_count": 856,
+    "female_count": 728,
+    "hijra_count": 0,
+    "latitude": 23.16068,
+    "longitude": 92.1923
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩০. কিশলয় সরকারি  প্রাথমিক বিদ্যালয়, বাঘাইছড়ি",
+    "male_count": 1629,
+    "female_count": 1579,
+    "hijra_count": 0,
+    "latitude": 23.16224,
+    "longitude": 92.19185
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩১. মুসলিম ব্লক সরকারি প্রাথমিক বিদ্যালয়, মুসলিম ব্লক।",
+    "male_count": 1224,
+    "female_count": 1050,
+    "hijra_count": 0,
+    "latitude": 23.17568,
+    "longitude": 92.20365
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩২. কাচালং মডেল সরকারি  প্রাথমিক বিদ্যালয়, কাচালং বাজার ",
+    "male_count": 769,
+    "female_count": 689,
+    "hijra_count": 0,
+    "latitude": 23.77814,
+    "longitude": 90.37452
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩৩. বটতলী সরকারি  প্রাথমিক বিদ্যালয়, বটতলী ",
+    "male_count": 811,
+    "female_count": 747,
+    "hijra_count": 0,
+    "latitude": 23.13863,
+    "longitude": 92.19607
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩৪. বাঘাইছড়ি সরকারি প্রাথমিক বিদ্যালয়, বাঘাইছড়ি ",
+    "male_count": 557,
+    "female_count": 556,
+    "hijra_count": 0,
+    "latitude": 23.14453,
+    "longitude": 92.19547
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩৫. জীবঙ্গছড়া (বাবুপাড়া) কমিউনিটি সেন্টার, বাবুপাড়া",
+    "male_count": 513,
+    "female_count": 552,
+    "hijra_count": 0,
+    "latitude": 23.16504,
+    "longitude": 92.19715
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩৬. বাঘাইছড়ি উচ্চ বিদ্যালয়, বাঘাইছড়ি ",
+    "male_count": 489,
+    "female_count": 456,
+    "hijra_count": 0,
+    "latitude": 23.15282,
+    "longitude": 92.20841
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩৭. পাবলাখালী (আমতলী) সরকারি প্রাথমিক বিদ্যালয়, আমতলী",
+    "male_count": 453,
+    "female_count": 456,
+    "hijra_count": 0,
+    "latitude": 23.06217,
+    "longitude": 92.24375
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩৮. পূর্ব আমতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 558,
+    "female_count": 547,
+    "hijra_count": 0,
+    "latitude": 23.05312,
+    "longitude": 92.24541
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩৯. মাহিল্যা সরকারি প্রাথমিক বিদ্যালয়, মাহিল্যা ",
+    "male_count": 527,
+    "female_count": 523,
+    "hijra_count": 0,
+    "latitude": 23.03383,
+    "longitude": 92.24045
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "৩নং চিৎমরম ইউনিয়ন পরিষদ (চিৎমরম মন্দিরের পাশে)",
+    "male_count": 845,
+    "female_count": 930,
+    "hijra_count": 0,
+    "latitude": 22.49621,
+    "longitude": 92.19658
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "আইডিয়াল কে.জি স্কুল",
+    "male_count": 1864,
+    "female_count": 1731,
+    "hijra_count": 0,
+    "latitude": 22.63124,
+    "longitude": 92.03977
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "আর টি এম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1660,
+    "female_count": 1632,
+    "hijra_count": 0,
+    "latitude": 22.6096,
+    "longitude": 92.09585
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "আসামবস্তি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1914,
+    "female_count": 1815,
+    "hijra_count": 0,
+    "latitude": 22.63609,
+    "longitude": 92.17282
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 853,
+    "female_count": 840,
+    "hijra_count": 0,
+    "latitude": 23.0202,
+    "longitude": 92.20979
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়, ইসলামপুর ।  ইসলামপুর",
+    "male_count": 287,
+    "female_count": 249,
+    "hijra_count": 0,
+    "latitude": 22.34178,
+    "longitude": 92.19777
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "উগলছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1428,
+    "female_count": 1302,
+    "hijra_count": 0,
+    "latitude": 22.95586,
+    "longitude": 92.24043
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "এরাবুনিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1494,
+    "female_count": 1376,
+    "hijra_count": 0,
+    "latitude": 22.72366,
+    "longitude": 92.38128
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ওড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 666,
+    "female_count": 637,
+    "hijra_count": 0,
+    "latitude": 22.49802,
+    "longitude": 92.3385
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ওয়াগ্গা উচ্চ বিদ্যালয় (সাপছড়ি)",
+    "male_count": 1271,
+    "female_count": 1251,
+    "hijra_count": 0,
+    "latitude": 23.06222,
+    "longitude": 91.71229
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ওয়াপদা রেষ্ট হাউস-১",
+    "male_count": 0,
+    "female_count": 2565,
+    "hijra_count": 0,
+    "latitude": 22.65275,
+    "longitude": 92.17565
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ওয়াপদা রেষ্ট হাউস-২",
+    "male_count": 2572,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.65267,
+    "longitude": 92.17536
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "করল্যাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2317,
+    "female_count": 2153,
+    "hijra_count": 0,
+    "latitude": 23.02611,
+    "longitude": 92.14301
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কর্ণফুলী পেপার মিলস স্কুল এন্ড কলেজ (কেপিএম উচ্চ বিদ্যালয়) (কেপিএম এলাকা)",
+    "male_count": 1230,
+    "female_count": 1097,
+    "hijra_count": 0,
+    "latitude": 22.48014,
+    "longitude": 92.13421
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কর্ণফুলী রেয়ন এন্ড কেমিক্যাল উচ্চ বিদ্যালয় (কে আর সি উচ্চ বিদ্যালয়) (কে.পিিএম এলাকা)",
+    "male_count": 1176,
+    "female_count": 1068,
+    "hijra_count": 0,
+    "latitude": 22.48541,
+    "longitude": 92.13643
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাকড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়, কাকড়াছড়ি পাড়া ।   কাকড়াছড়ি পাড়া ",
+    "male_count": 622,
+    "female_count": 637,
+    "hijra_count": 0,
+    "latitude": 22.38408,
+    "longitude": 92.16488
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাকপাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 727,
+    "female_count": 753,
+    "hijra_count": 0,
+    "latitude": 22.98245,
+    "longitude": 92.25458
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাটাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 715,
+    "female_count": 696,
+    "hijra_count": 0,
+    "latitude": 22.67942,
+    "longitude": 92.15277
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাট্টলী উচ্চ বিদ্যালয়",
+    "male_count": 1589,
+    "female_count": 1530,
+    "hijra_count": 0,
+    "latitude": 22.96725,
+    "longitude": 92.19739
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাঠালতলী পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1181,
+    "female_count": 1083,
+    "hijra_count": 0,
+    "latitude": 22.81137,
+    "longitude": 92.1283
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাঠালতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2731,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.65194,
+    "longitude": 92.17996
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাঠালতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2287,
+    "hijra_count": 0,
+    "latitude": 22.65197,
+    "longitude": 92.17999
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাপ্তাই উচ্চ বিদ্যালয় (কাপ্তাই রোডের পাশে)",
+    "male_count": 1802,
+    "female_count": 1466,
+    "hijra_count": 0,
+    "latitude": 22.50355,
+    "longitude": 92.21223
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাপ্তাই বিদ্যুৎ উন্নয়ন বোর্ড উচ্চ বিদ্যালয় (পিডিবি উচ্চ বিদ্যালয়) (বিউবো প্রকল্প এলাকা)",
+    "male_count": 1238,
+    "female_count": 1114,
+    "hijra_count": 0,
+    "latitude": 22.48852,
+    "longitude": 92.22753
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কালাপাকুজ্যা সেনামৈত্রী আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1123,
+    "female_count": 1063,
+    "hijra_count": 0,
+    "latitude": 23.03951,
+    "longitude": 92.21017
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাঁশখালী উচ্চ বিদ্যালয়",
+    "male_count": 1468,
+    "female_count": 1311,
+    "hijra_count": 0,
+    "latitude": 22.54177,
+    "longitude": 92.00389
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কাশখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1177,
+    "female_count": 1078,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কিচিং আদম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 929,
+    "female_count": 893,
+    "hijra_count": 0,
+    "latitude": 22.71507,
+    "longitude": 92.21518
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কিল্লামুড়া নিম্ন মাধ্যমিক বিদ্যালয়",
+    "male_count": 1330,
+    "female_count": 1286,
+    "hijra_count": 0,
+    "latitude": 22.632,
+    "longitude": 92.24815
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কেংড়াছড়ি পুনর্বাসন জোন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 560,
+    "female_count": 619,
+    "hijra_count": 0,
+    "latitude": 22.51907,
+    "longitude": 92.29312
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কেংড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1345,
+    "female_count": 1270,
+    "hijra_count": 0,
+    "latitude": 22.52449,
+    "longitude": 92.31167
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কেরনছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 648,
+    "female_count": 697,
+    "hijra_count": 0,
+    "latitude": 22.50762,
+    "longitude": 92.329
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "কোলাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 661,
+    "female_count": 611,
+    "hijra_count": 0,
+    "latitude": 22.61504,
+    "longitude": 91.98197
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "খাগড়াছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 956,
+    "female_count": 845,
+    "hijra_count": 0,
+    "latitude": 22.89844,
+    "longitude": 92.26251
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "খারিক্ষ্যং সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1416,
+    "female_count": 1423,
+    "hijra_count": 0,
+    "latitude": 22.74408,
+    "longitude": 92.16506
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "খুব্বাং সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1371,
+    "female_count": 1171,
+    "hijra_count": 0,
+    "latitude": 22.72548,
+    "longitude": 92.37611
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "গাথাঁছড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2089,
+    "female_count": 1933,
+    "hijra_count": 0,
+    "latitude": 22.9895,
+    "longitude": 92.21333
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "গুইছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 716,
+    "female_count": 701,
+    "hijra_count": 0,
+    "latitude": 22.6957,
+    "longitude": 92.1534
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "গুলশাখালী মডেল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1173,
+    "female_count": 1174,
+    "hijra_count": 0,
+    "latitude": 22.98931,
+    "longitude": 92.24191
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "গোধূলী আমানতবাগ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1406,
+    "female_count": 961,
+    "hijra_count": 0,
+    "latitude": 22.65962,
+    "longitude": 92.15924
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ঘনমোড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 863,
+    "female_count": 693,
+    "hijra_count": 0,
+    "latitude": 22.89754,
+    "longitude": 92.26195
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ঘাগড়া (বহুমুখী) উচ্চ বিদ্যালয়",
+    "male_count": 1568,
+    "female_count": 1372,
+    "hijra_count": 0,
+    "latitude": 22.61111,
+    "longitude": 92.10347
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ঘিলাছড়ি উচ্চ বিদ্যালয়",
+    "male_count": 2265,
+    "female_count": 2167,
+    "hijra_count": 0,
+    "latitude": 22.77186,
+    "longitude": 92.03648
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ঘিলাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 910,
+    "female_count": 871,
+    "hijra_count": 0,
+    "latitude": 21.82884,
+    "longitude": 91.85389
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ঘিলাতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 749,
+    "female_count": 736,
+    "hijra_count": 0,
+    "latitude": 22.61909,
+    "longitude": 92.36565
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "চকপতিঘাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 415,
+    "female_count": 433,
+    "hijra_count": 0,
+    "latitude": 22.65534,
+    "longitude": 92.35654
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "চাইল্যাতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 982,
+    "female_count": 953,
+    "hijra_count": 0,
+    "latitude": 22.91687,
+    "longitude": 92.26059
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "চাকুয়া পাড়া সরকারী প্রাথমিক বিদ্যালয় (চাকুয়া পাড়া)",
+    "male_count": 579,
+    "female_count": 545,
+    "hijra_count": 0,
+    "latitude": 22.45201,
+    "longitude": 92.20896
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "চিৎমরম উচ্চ বিদ্যালয় (চিৎমরম বাজারের পাশে)",
+    "male_count": 697,
+    "female_count": 643,
+    "hijra_count": 0,
+    "latitude": 22.49388,
+    "longitude": 92.19243
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "চুশাকপাড়া সরকারি প্রাথমিক বিদ্যালয়, ৩২৭- চিংখ্যং মৌজা।  চুশাকপাড়া",
+    "male_count": 613,
+    "female_count": 588,
+    "hijra_count": 0,
+    "latitude": 22.36634,
+    "longitude": 92.25503
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "চৌধুরীছড়া সরকারী প্রাথমিক বিদ্যালয় (বিউবো প্রকল্প এলাকা)",
+    "male_count": 1452,
+    "female_count": 741,
+    "hijra_count": 0,
+    "latitude": 22.49297,
+    "longitude": 92.22027
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ছোট হরিণা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1706,
+    "female_count": 1272,
+    "hijra_count": 0,
+    "latitude": 22.72353,
+    "longitude": 92.3823
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "জগন্নাথছড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1134,
+    "female_count": 1084,
+    "hijra_count": 0,
+    "latitude": 22.72533,
+    "longitude": 92.37606
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "জাহানাতলী উচ্চ বিদ্যালয়",
+    "male_count": 1453,
+    "female_count": 1362,
+    "hijra_count": 0,
+    "latitude": 22.90678,
+    "longitude": 92.06987
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "জীবতলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 608,
+    "female_count": 556,
+    "hijra_count": 0,
+    "latitude": 22.5353,
+    "longitude": 92.24482
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ডংনালা সরকারি প্রাথমিক বিদ্যালয় (ডংনালা বাজার)",
+    "male_count": 795,
+    "female_count": 721,
+    "hijra_count": 0,
+    "latitude": 22.4096,
+    "longitude": 92.12044
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ডানে লংগদু নিম্ন মাধ্যমিক বিদ্যালয়",
+    "male_count": 1419,
+    "female_count": 1321,
+    "hijra_count": 0,
+    "latitude": 22.97407,
+    "longitude": 92.15142
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ডাবুয়া হেডম্যান পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 888,
+    "female_count": 928,
+    "hijra_count": 0,
+    "latitude": 22.60885,
+    "longitude": 91.94745
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ডুলুছড়ি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 834,
+    "female_count": 751,
+    "hijra_count": 0,
+    "latitude": 22.72521,
+    "longitude": 92.37646
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ডেবাছড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1077,
+    "female_count": 1114,
+    "hijra_count": 0,
+    "latitude": 22.65971,
+    "longitude": 92.3977
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "তক্তানালা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1189,
+    "female_count": 1021,
+    "hijra_count": 0,
+    "latitude": 22.49803,
+    "longitude": 92.33842
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "তাইতং পাড়া সরকারি প্রাথমিক বিদ্যালয়, ৩২৭ চিংখ্যং মৌজা।  তাইতং পাড়া",
+    "male_count": 473,
+    "female_count": 474,
+    "hijra_count": 0,
+    "latitude": 22.35927,
+    "longitude": 92.25706
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "তারাছড়ি বেসরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1109,
+    "female_count": 988,
+    "hijra_count": 0,
+    "latitude": 22.49809,
+    "longitude": 92.33867
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "তারাবনিয়া সরকারী প্রাথমিক",
+    "male_count": 1884,
+    "female_count": 1865,
+    "hijra_count": 0,
+    "latitude": 22.57853,
+    "longitude": 92.01438
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "তালুকদার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 507,
+    "female_count": 520,
+    "hijra_count": 0,
+    "latitude": 22.38449,
+    "longitude": 92.25146
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "তৈ-চাকমা হেডম্যান পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 539,
+    "female_count": 517,
+    "hijra_count": 0,
+    "latitude": 22.84443,
+    "longitude": 92.05258
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "তৈমিদুং জুনিয়র উচ্চ বিদ্যালয়",
+    "male_count": 1292,
+    "female_count": 1291,
+    "hijra_count": 0,
+    "latitude": 22.7254,
+    "longitude": 92.13143
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "তৈয়্যবিয়া সুন্নিয়া দাখিল মাদ্রাসা",
+    "male_count": 1293,
+    "female_count": 880,
+    "hijra_count": 0,
+    "latitude": 22.47337,
+    "longitude": 92.13806
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "দক্ষিণ কুতুকছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 707,
+    "female_count": 761,
+    "hijra_count": 0,
+    "latitude": 22.70921,
+    "longitude": 92.09992
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "দক্ষিণ কেংগালছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 980,
+    "female_count": 968,
+    "hijra_count": 0,
+    "latitude": 22.89206,
+    "longitude": 92.01847
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "দীঘলছড়ি আবাসিক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1041,
+    "female_count": 947,
+    "hijra_count": 0,
+    "latitude": 22.4887,
+    "longitude": 92.33815
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ধামাইছড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1832,
+    "female_count": 1586,
+    "hijra_count": 0,
+    "latitude": 22.71331,
+    "longitude": 92.26686
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ধামাই পাড়া দয়ামোহন স্মৃতি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 960,
+    "female_count": 1000,
+    "hijra_count": 0,
+    "latitude": 22.6725,
+    "longitude": 92.38011
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নতুন পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1209,
+    "female_count": 1127,
+    "hijra_count": 0,
+    "latitude": 23.04867,
+    "longitude": 91.88832
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নাগারগিরি সরকারী উচ্চ বিদ্যালয় (নারানগিরি কৃষি ফার্ম এর পাশে)",
+    "male_count": 1354,
+    "female_count": 1361,
+    "hijra_count": 0,
+    "latitude": 22.46898,
+    "longitude": 92.14157
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নাড়াইছড়ি সরকারি প্রাথমিক বিদ্যালয়, নাড়াইছড়ি পাড়া, (৩২৯ নং কাপ্তাই মৌজা)",
+    "male_count": 427,
+    "female_count": 443,
+    "hijra_count": 0,
+    "latitude": 22.35805,
+    "longitude": 92.28823
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নানিয়ারচর পুনর্বাসন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1271,
+    "female_count": 1265,
+    "hijra_count": 0,
+    "latitude": 22.82133,
+    "longitude": 92.07403
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নানিয়ারচর সরকারি মডেল উচ্চ বিদ্যালয়",
+    "male_count": 1813,
+    "female_count": 1729,
+    "hijra_count": 0,
+    "latitude": 22.84418,
+    "longitude": 92.10231
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নাভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 391,
+    "female_count": 384,
+    "hijra_count": 0,
+    "latitude": 22.69998,
+    "longitude": 91.98815
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নিকসেন্দ্রা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 746,
+    "female_count": 754,
+    "hijra_count": 0,
+    "latitude": 22.72381,
+    "longitude": 92.38072
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নিম্নকচুখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1642,
+    "female_count": 1631,
+    "hijra_count": 0,
+    "latitude": 22.6315,
+    "longitude": 92.04933
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "নোয়াদম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1226,
+    "female_count": 1245,
+    "hijra_count": 0,
+    "latitude": 22.72468,
+    "longitude": 92.18054
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "পাংখোপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1113,
+    "female_count": 1012,
+    "hijra_count": 0,
+    "latitude": 22.43331,
+    "longitude": 92.34027
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "পাতাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1435,
+    "female_count": 1282,
+    "hijra_count": 0,
+    "latitude": 22.85995,
+    "longitude": 92.11272
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "পানছড়ি উচ্চ বিদ্যালয়",
+    "male_count": 1054,
+    "female_count": 972,
+    "hijra_count": 0,
+    "latitude": 22.67714,
+    "longitude": 92.05017
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "পুরানপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1697,
+    "female_count": 1564,
+    "hijra_count": 0,
+    "latitude": 22.66076,
+    "longitude": 92.19293
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "পূর্ব শিয়ালবুক্কা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1004,
+    "female_count": 1005,
+    "hijra_count": 0,
+    "latitude": 22.55047,
+    "longitude": 92.01413
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "পোয়াপাড়া সরকারী মডেল উচ্চ বিদ্যালয়",
+    "male_count": 2195,
+    "female_count": 2143,
+    "hijra_count": 0,
+    "latitude": 22.6268,
+    "longitude": 92.03685
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "প্রাংজাং বেসরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 353,
+    "female_count": 358,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ফকিরাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 713,
+    "female_count": 628,
+    "hijra_count": 0,
+    "latitude": 22.66872,
+    "longitude": 92.38468
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ফরেস্ট ভিলেজার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 446,
+    "female_count": 416,
+    "hijra_count": 0,
+    "latitude": 22.66873,
+    "longitude": 92.3847
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ফারুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1792,
+    "female_count": 1538,
+    "hijra_count": 0,
+    "latitude": 22.498,
+    "longitude": 92.33855
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বগাখালী নিম্ন মাধ্যমিক বিদ্যালয়",
+    "male_count": 698,
+    "female_count": 533,
+    "hijra_count": 0,
+    "latitude": 22.66874,
+    "longitude": 92.38438
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বগাছড়ি পুনর্বাসন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1333,
+    "female_count": 1317,
+    "hijra_count": 0,
+    "latitude": 22.81577,
+    "longitude": 92.04202
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বড়ইছড়ি সরকারী প্রাথমিক বিদ্যালয় (বড়িইছড়ি সদর)",
+    "male_count": 790,
+    "female_count": 668,
+    "hijra_count": 0,
+    "latitude": 22.50324,
+    "longitude": 92.13911
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বড় কুড়াদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1273,
+    "female_count": 1195,
+    "hijra_count": 0,
+    "latitude": 22.72425,
+    "longitude": 92.37889
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বড়থলি বেসরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 367,
+    "female_count": 356,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বড় বিলি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 841,
+    "female_count": 828,
+    "hijra_count": 0,
+    "latitude": 22.53206,
+    "longitude": 92.01164
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বড় মহাপুরম উচ্চ বিদ্যালয়",
+    "male_count": 833,
+    "female_count": 797,
+    "hijra_count": 0,
+    "latitude": 22.72472,
+    "longitude": 92.08234
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বড়াদম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1231,
+    "female_count": 1184,
+    "hijra_count": 0,
+    "latitude": 22.56331,
+    "longitude": 92.1701
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বনযোগীছড়া উচ্চ বিদ্যালয়",
+    "male_count": 943,
+    "female_count": 800,
+    "hijra_count": 0,
+    "latitude": 22.67232,
+    "longitude": 92.34721
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বনরুপা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2107,
+    "female_count": 1467,
+    "hijra_count": 0,
+    "latitude": 22.64985,
+    "longitude": 92.17845
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বরকল আদর্শ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1113,
+    "female_count": 962,
+    "hijra_count": 0,
+    "latitude": 22.72432,
+    "longitude": 92.38061
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বরকলক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 640,
+    "female_count": 598,
+    "hijra_count": 0,
+    "latitude": 22.66894,
+    "longitude": 92.38536
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বরুনাছড়ি জোন সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1838,
+    "female_count": 1822,
+    "hijra_count": 0,
+    "latitude": 22.72442,
+    "longitude": 92.37808
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বর্মাছড়ি বাজার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 854,
+    "female_count": 811,
+    "hijra_count": 0,
+    "latitude": 22.68753,
+    "longitude": 91.93666
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বলিপাড়া সরকারি প্রাথমিক বিদ্যালয়, বলিপাড়া, (৩২৯ নং কাপ্তাই মৌজা)",
+    "male_count": 700,
+    "female_count": 646,
+    "hijra_count": 0,
+    "latitude": 22.36613,
+    "longitude": 92.25497
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বসন্ত নিম্ন মাধ্যমিক বিদ্যালয়",
+    "male_count": 1877,
+    "female_count": 1787,
+    "hijra_count": 0,
+    "latitude": 22.65844,
+    "longitude": 92.26703
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বাঙ্গালহালিয়া সরকারি প্রাথমিক বিদ্যালয়, বাঙ্গালহালিয়া ।   বাঙ্গালহালিয়া বাজার",
+    "male_count": 2197,
+    "female_count": 2037,
+    "hijra_count": 0,
+    "latitude": 22.374,
+    "longitude": 92.14421
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বামের মহালছড়ি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 665,
+    "female_count": 533,
+    "hijra_count": 0,
+    "latitude": 22.72365,
+    "longitude": 92.38148
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2215,
+    "hijra_count": 0,
+    "latitude": 22.65719,
+    "longitude": 92.15454
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বাংলাদেশ নৌবাহিনী স্কুল এন্ড কলেজ",
+    "male_count": 711,
+    "female_count": 304,
+    "hijra_count": 0,
+    "latitude": 22.52165,
+    "longitude": 92.22469
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বালুখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 428,
+    "female_count": 369,
+    "hijra_count": 0,
+    "latitude": 22.60875,
+    "longitude": 92.236
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বি.এফ.আই.ডি.সি সরকারী প্রাথমিক বিদ্যালয় (সুইডিশ পলিটেকনিক্যাল এর পাশে)",
+    "male_count": 1375,
+    "female_count": 1163,
+    "hijra_count": 0,
+    "latitude": 22.50686,
+    "longitude": 92.21102
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বিলছড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1098,
+    "female_count": 970,
+    "hijra_count": 0,
+    "latitude": 22.72384,
+    "longitude": 92.38067
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বিলাইছড়ি উচ্চ বিদ্যালয়",
+    "male_count": 1438,
+    "female_count": 1318,
+    "hijra_count": 0,
+    "latitude": 22.4982,
+    "longitude": 92.33866
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বুড়ীঘাট পুনর্বাসন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1975,
+    "female_count": 1868,
+    "hijra_count": 0,
+    "latitude": 22.78685,
+    "longitude": 92.09048
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বেগেনাছড়ি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 597,
+    "female_count": 591,
+    "hijra_count": 0,
+    "latitude": 22.72426,
+    "longitude": 92.37904
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বেতছড়ি জেনারেল ওসমানি উচ্চ বিদ্যালয়",
+    "male_count": 1610,
+    "female_count": 1457,
+    "hijra_count": 0,
+    "latitude": 22.87141,
+    "longitude": 92.03393
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "বেতবুনিয়া উচ্চ বিদ্যালয়",
+    "male_count": 1766,
+    "female_count": 1650,
+    "hijra_count": 0,
+    "latitude": 22.54559,
+    "longitude": 92.00223
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ভাইবোনছড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1772,
+    "female_count": 1558,
+    "hijra_count": 0,
+    "latitude": 22.9691,
+    "longitude": 92.198
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ভাংগামুড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1492,
+    "female_count": 1406,
+    "hijra_count": 0,
+    "latitude": 23.03401,
+    "longitude": 92.19169
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ভালুকিয়া নিম্ন মাধ্যমিক বিদ্যালয় (ভালুক্যা)",
+    "male_count": 1735,
+    "female_count": 1788,
+    "hijra_count": 0,
+    "latitude": 22.41853,
+    "longitude": 92.1686
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ভূবনজয় সরকারি উচ্চ বিদ্যালয়",
+    "male_count": 960,
+    "female_count": 904,
+    "hijra_count": 0,
+    "latitude": 22.66877,
+    "longitude": 92.3848
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ভূয়াতলীছড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 652,
+    "female_count": 589,
+    "hijra_count": 0,
+    "latitude": 22.66872,
+    "longitude": 92.3847
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ভূষণছড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 810,
+    "female_count": 732,
+    "hijra_count": 0,
+    "latitude": 22.7239,
+    "longitude": 92.38027
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "ভেদভেদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2525,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.65507,
+    "longitude": 92.15449
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "মরাচেঙ্গীমুখ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1441,
+    "female_count": 1365,
+    "hijra_count": 0,
+    "latitude": 22.86993,
+    "longitude": 92.08675
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "মাইচছড়ি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1744,
+    "female_count": 1686,
+    "hijra_count": 0,
+    "latitude": 22.71906,
+    "longitude": 92.31442
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "মাঝিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1501,
+    "female_count": 1447,
+    "hijra_count": 0,
+    "latitude": 22.59924,
+    "longitude": 92.00561
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "মারিশ্যাচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1837,
+    "female_count": 1605,
+    "hijra_count": 0,
+    "latitude": 22.93708,
+    "longitude": 92.24433
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "মুরালী পাড়া সরকারী প্রাথমিক বিদ্যালয় (সাক্রাছড়ি)",
+    "male_count": 567,
+    "female_count": 553,
+    "hijra_count": 0,
+    "latitude": 22.59789,
+    "longitude": 92.09487
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "যগোনাছড়ি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1003,
+    "female_count": 927,
+    "hijra_count": 0,
+    "latitude": 22.54602,
+    "longitude": 92.2294
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "যোগেন্দ্র দেওয়ান পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1362,
+    "female_count": 1254,
+    "hijra_count": 0,
+    "latitude": 22.64456,
+    "longitude": 92.16252
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রত্নসিংহ কার্বারী পাড়া স্বল্প ব্যয়ী প্রাথমিক বিদ্যালয়",
+    "male_count": 589,
+    "female_count": 528,
+    "hijra_count": 0,
+    "latitude": 22.87214,
+    "longitude": 92.06574
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রশিদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 700,
+    "female_count": 692,
+    "hijra_count": 0,
+    "latitude": 23.00643,
+    "longitude": 92.20401
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাইখালী রিফিউজি পাড়া সরকারী প্রাথমিক বিদ্যালয় (রিফিউজি পাড়া)",
+    "male_count": 1164,
+    "female_count": 1172,
+    "hijra_count": 0,
+    "latitude": 22.45959,
+    "longitude": 92.13541
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাইখালী সরকারী প্রাথমিক বিদ্যালয় (বড়খোলা পাড়া)",
+    "male_count": 2143,
+    "female_count": 1977,
+    "hijra_count": 0,
+    "latitude": 22.44285,
+    "longitude": 92.14116
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাইমংছড়া পাড়া বে-সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 377,
+    "female_count": 358,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাংগীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1563,
+    "female_count": 1462,
+    "hijra_count": 0,
+    "latitude": 22.96959,
+    "longitude": 92.24857
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাঙ্গামাটি শিশু নিকেতন, রাঙ্গামাটি",
+    "male_count": 0,
+    "female_count": 3026,
+    "hijra_count": 1,
+    "latitude": 22.64872,
+    "longitude": 92.19589
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাঙ্গামাটি সরকারি উচ্চ বিদ্যালয়",
+    "male_count": 1679,
+    "female_count": 1425,
+    "hijra_count": 0,
+    "latitude": 22.64305,
+    "longitude": 92.19775
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাঙ্গামাটি সরকারি কলেজ",
+    "male_count": 0,
+    "female_count": 1888,
+    "hijra_count": 0,
+    "latitude": 22.66286,
+    "longitude": 92.16229
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাঙ্গামাটি সরকারি কলেজ",
+    "male_count": 2098,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.66376,
+    "longitude": 92.16202
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাঙ্গামাটি সরকারি বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 4453,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.63662,
+    "longitude": 92.18546
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাঙ্গামাটি সিনিয়র মাদ্রাসা",
+    "male_count": 4002,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.6484,
+    "longitude": 92.19563
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাজনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1596,
+    "female_count": 1503,
+    "hijra_count": 0,
+    "latitude": 22.99532,
+    "longitude": 92.257
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাজস্থলী তাইতংপাড়া সরকারী উচ্চ বিদ্যালয়",
+    "male_count": 1377,
+    "female_count": 1366,
+    "hijra_count": 0,
+    "latitude": 22.36621,
+    "longitude": 92.25659
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাজস্থলী বাজার মডেল সরকারি প্রাথমিক বিদ্যালয়, রাজস্থলী বাজার, (৩২৯ নং কাপ্তাই মৌজা)",
+    "male_count": 1540,
+    "female_count": 1502,
+    "hijra_count": 0,
+    "latitude": 22.36914,
+    "longitude": 92.25731
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাণী দয়াময়ী উচচ বিদ্যালয়",
+    "male_count": 3149,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.65889,
+    "longitude": 92.17053
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাণী দয়াময়ী উচচ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2866,
+    "hijra_count": 0,
+    "latitude": 22.65941,
+    "longitude": 92.17026
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "রাবেতা মডেল উচ্চ বিদ্যালয়",
+    "male_count": 2262,
+    "female_count": 1825,
+    "hijra_count": 0,
+    "latitude": 22.98469,
+    "longitude": 92.20557
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "লংগদু পাড়া সরকারি প্রাথমিক বিদ্যালয়, লংগদু পাড়া । ৩৩১নং গাইন্দ্যা মৌজা লংগদু পাড়া",
+    "male_count": 903,
+    "female_count": 919,
+    "hijra_count": 0,
+    "latitude": 22.35209,
+    "longitude": 92.21215
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "লংগদু সরকারি উচ্চ বিদ্যালয়",
+    "male_count": 1475,
+    "female_count": 1413,
+    "hijra_count": 0,
+    "latitude": 22.97136,
+    "longitude": 92.19545
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "লালমোহন কার্বারী পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 711,
+    "female_count": 686,
+    "hijra_count": 0,
+    "latitude": 22.60726,
+    "longitude": 92.14351
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "লেমুছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 962,
+    "female_count": 954,
+    "hijra_count": 0,
+    "latitude": 22.96725,
+    "longitude": 92.19739
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শফিপুর সরকারি প্রাথমিক বিদ্যালয়, শফিপুর ।  শফিপুর",
+    "male_count": 770,
+    "female_count": 759,
+    "hijra_count": 0,
+    "latitude": 22.36281,
+    "longitude": 92.16456
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শহীদ আব্দুল আলী একাডেমী",
+    "male_count": 1788,
+    "female_count": 1357,
+    "hijra_count": 0,
+    "latitude": 22.65048,
+    "longitude": 92.19617
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শাহ্ বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1162,
+    "female_count": 1199,
+    "hijra_count": 0,
+    "latitude": 22.6411,
+    "longitude": 92.18409
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শিলছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1252,
+    "female_count": 1156,
+    "hijra_count": 0,
+    "latitude": 22.60439,
+    "longitude": 92.37051
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শিলছড়ি সরকারী প্রাথমিক বিদ্যালয় (শিলছড়ি)",
+    "male_count": 703,
+    "female_count": 659,
+    "hijra_count": 0,
+    "latitude": 22.50682,
+    "longitude": 92.1561
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শীলছড়ি এসইএসডিপি মডেল উচ্চ বিদ্যালয়",
+    "male_count": 944,
+    "female_count": 950,
+    "hijra_count": 0,
+    "latitude": 22.5617,
+    "longitude": 91.98965
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শুকনাছড়ি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 734,
+    "female_count": 656,
+    "hijra_count": 0,
+    "latitude": 22.72372,
+    "longitude": 92.38113
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শুকরছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 537,
+    "female_count": 521,
+    "hijra_count": 0,
+    "latitude": 22.68185,
+    "longitude": 92.12065
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "শৈয়ালপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 628,
+    "female_count": 571,
+    "hijra_count": 0,
+    "latitude": 22.66879,
+    "longitude": 92.38483
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "সাক্রাছড়ি উচ্চ বিদ্যালয় (সাক্রাছড়ি)",
+    "male_count": 631,
+    "female_count": 628,
+    "hijra_count": 0,
+    "latitude": 22.59245,
+    "longitude": 92.10002
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "সাপছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1455,
+    "female_count": 1331,
+    "hijra_count": 0,
+    "latitude": 22.66147,
+    "longitude": 92.13297
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "সি,এম, পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1312,
+    "female_count": 1036,
+    "hijra_count": 0,
+    "latitude": 22.72548,
+    "longitude": 92.37611
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "স্বর্ণটিলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3784,
+    "hijra_count": 0,
+    "latitude": 22.63583,
+    "longitude": 92.18417
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "হরিণছড়া মুখ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 867,
+    "female_count": 826,
+    "hijra_count": 0,
+    "latitude": 22.49756,
+    "longitude": 92.28183
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "হাজাছড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2148,
+    "female_count": 1954,
+    "hijra_count": 0,
+    "latitude": 22.99661,
+    "longitude": 92.17235
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "হাজাছড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1466,
+    "female_count": 1450,
+    "hijra_count": 0,
+    "latitude": 22.7352,
+    "longitude": 92.0654
+  },
+  {
+    "settings_code": 299,
+    "settings_name": "রাঙ্গামাটি",
+    "center_name": "হাজার মানিক নিম্ন-মাধ্যমিক বিদ্যালয়",
+    "male_count": 510,
+    "female_count": 445,
+    "hijra_count": 0,
+    "latitude": 22.52165,
+    "longitude": 92.28059
+  }
 ]

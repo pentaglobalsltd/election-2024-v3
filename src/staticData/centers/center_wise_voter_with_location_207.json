@@ -1,1472 +1,1472 @@
 [
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০০নং বাতান পাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3265,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.68669,
-        "longitude": 90.50894
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০১নং মিজমিজি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3403,
-        "female_count": 3569,
-        "hijra_count": 0,
-        "latitude": 23.6858,
-        "longitude": 90.49953
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০২ নং শিমরাইল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2777,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.70225,
-        "longitude": 90.50795
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০৩নং উত্তর গোপালনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 782,
-        "female_count": 683,
-        "hijra_count": 0,
-        "latitude": 23.61815,
-        "longitude": 90.44882
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০৪ নং পাঠানটুলি আইলপাড়া প্রাথমিক বিদ্যালয়",
-        "male_count": 1946,
-        "female_count": 1856,
-        "hijra_count": 0,
-        "latitude": 23.63951,
-        "longitude": 90.5102
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০৬ নং মধ্য নরসিংপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1469,
-        "female_count": 1365,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০৭নং গঙ্গানগর প্রাথমিক বিদ্যালয়",
-        "male_count": 882,
-        "female_count": 772,
-        "hijra_count": 0,
-        "latitude": 23.59373,
-        "longitude": 90.46245
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০৮ নং কাশীপুর কদম আলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 5090,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১০৯নং শাহী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2849,
-        "female_count": 2794,
-        "hijra_count": 0,
-        "latitude": 23.67155,
-        "longitude": 90.46147
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১১০নং লামাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2892,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.64878,
-        "longitude": 90.4962
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১১১ নং পল্লী উন্নয়ন সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3888,
-        "hijra_count": 0,
-        "latitude": 23.61532,
-        "longitude": 90.49024
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১১৫ নং মধ্য ধর্মগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2820,
-        "female_count": 2913,
-        "hijra_count": 1,
-        "latitude": 23.62864,
-        "longitude": 90.46611
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১১৭নং পূর্ব গোপালনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1741,
-        "female_count": 1664,
-        "hijra_count": 0,
-        "latitude": 23.61486,
-        "longitude": 90.46499
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "১১৯নং কুতুবপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2519,
-        "hijra_count": 0,
-        "latitude": 23.6451,
-        "longitude": 90.50251
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "২৪ নং শিশু কল্যাণ প্রাথমিক বিদ্যালয়-২৪",
-        "male_count": 0,
-        "female_count": 3015,
-        "hijra_count": 0,
-        "latitude": 23.64512,
-        "longitude": 90.47115
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৫০নং পশ্চিম চরগড়কুল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1914,
-        "female_count": 1613,
-        "hijra_count": 0,
-        "latitude": 23.56561,
-        "longitude": 90.44634
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৫২নং ছমির নগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 880,
-        "female_count": 717,
-        "hijra_count": 0,
-        "latitude": 23.57179,
-        "longitude": 90.46059
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৫৩নং প্রসন্ননগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1081,
-        "female_count": 932,
-        "hijra_count": 0,
-        "latitude": 23.58456,
-        "longitude": 90.45243
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৫৬নং লক্ষীনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1690,
-        "female_count": 1549,
-        "hijra_count": 0,
-        "latitude": 23.59642,
-        "longitude": 90.45745
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৫৭ নং রাজাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1080,
-        "female_count": 1022,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৫৯নং গোপালনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2056,
-        "female_count": 1878,
-        "hijra_count": 0,
-        "latitude": 23.60579,
-        "longitude": 90.45658
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬০নং গোয়ালবন্দ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3456,
-        "female_count": 3567,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬১নং কাশীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2951,
-        "female_count": 2879,
-        "hijra_count": 0,
-        "latitude": 23.60242,
-        "longitude": 90.48615
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬২ নং ভোলাইল সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 5382,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬৩ নং নরসিংপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3284,
-        "hijra_count": 0,
-        "latitude": 23.61403,
-        "longitude": 90.46766
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬৪নং দেওভোগ বাংলা বাজার সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2483,
-        "hijra_count": 0,
-        "latitude": 23.61013,
-        "longitude": 90.48671
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬৫ নং মুসলিমনগর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3874,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬৬ নং শাসনগাঁও সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3300,
-        "female_count": 2661,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬৮ নং হরিহর পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3752,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৬৯ নং পশ্চিম মাসদাইর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2248,
-        "female_count": 2027,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৭১ নং উত্তর মাসদাইর (গাবতলী) সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3851,
-        "female_count": 3730,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৭২নং ইসদাইর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 6738,
-        "hijra_count": 0,
-        "latitude": 23.62889,
-        "longitude": 90.49403
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৭৪ নং কুতুব আইল মডেল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1628,
-        "female_count": 1526,
-        "hijra_count": 0,
-        "latitude": 23.64423,
-        "longitude": 90.49412
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৭৭নং রামারবাগ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2973,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.64803,
-        "longitude": 90.48838
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৭৯নং আলীগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 5137,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.6561,
-        "longitude": 90.46224
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৮০নং পাগলা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2365,
-        "female_count": 2161,
-        "hijra_count": 0,
-        "latitude": 23.66555,
-        "longitude": 90.46067
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৮১নং নন্দলালপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3766,
-        "hijra_count": 0,
-        "latitude": 23.66339,
-        "longitude": 90.47226
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৮২নং দেলপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3200,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.66771,
-        "longitude": 90.47535
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৮৩ নং ভুইগড় জনকল্যাণ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4511,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৮৫নং মামুদপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1473,
-        "female_count": 4222,
-        "hijra_count": 0,
-        "latitude": 23.68315,
-        "longitude": 90.48714
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৮৬, ৮৭ গোদনাইল উত্তর বালক বালিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1546,
-        "female_count": 1414,
-        "hijra_count": 0,
-        "latitude": 23.65479,
-        "longitude": 90.51579
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৮৮ নং গোদনাইল দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3134,
-        "hijra_count": 0,
-        "latitude": 23.64383,
-        "longitude": 90.51541
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৮৯নং তাঁতখানা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3870,
-        "hijra_count": 0,
-        "latitude": 23.65087,
-        "longitude": 90.51165
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৯০ নং জালকুড়ি পূর্ব সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2056,
-        "female_count": 2050,
-        "hijra_count": 0,
-        "latitude": 23.66506,
-        "longitude": 90.49627
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৯১নং জালকুড়ি পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2300,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.66225,
-        "longitude": 90.491
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৯৩নং সুমিলপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1259,
-        "female_count": 1291,
-        "hijra_count": 0,
-        "latitude": 23.66858,
-        "longitude": 90.52305
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৯৪নং চর সুমিল পাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1458,
-        "female_count": 1475,
-        "hijra_count": 0,
-        "latitude": 23.67364,
-        "longitude": 90.51872
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৯৫ নং আদমজী নগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3478,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.6749,
-        "longitude": 90.51716
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৯৭নং সিদ্ধিরগঞ্জ উত্তর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1721,
-        "female_count": 1797,
-        "hijra_count": 0,
-        "latitude": 23.69146,
-        "longitude": 90.5204
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "৯৯ নং সানারপাড় সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3679,
-        "hijra_count": 0,
-        "latitude": 23.70057,
-        "longitude": 90.49419
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "অর্নিবাণ আদর্শ বিদ্যাপীঠ",
-        "male_count": 0,
-        "female_count": 3152,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আদমজী এ্যাকটিভ হাই স্কুল",
-        "male_count": 0,
-        "female_count": 2446,
-        "hijra_count": 0,
-        "latitude": 23.67523,
-        "longitude": 90.51827
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আনন্দলোক উচ্চ বিদ্যালয়",
-        "male_count": 3765,
-        "female_count": 3459,
-        "hijra_count": 0,
-        "latitude": 23.69219,
-        "longitude": 90.48908
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আব্দুল আজিজ বিদ্যানিকেতন",
-        "male_count": 0,
-        "female_count": 3746,
-        "hijra_count": 0,
-        "latitude": 23.64654,
-        "longitude": 90.5086
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আল-বালাগ আদর্শ একাডেমী",
-        "male_count": 3573,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.69203,
-        "longitude": 90.50601
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আলহাজ্ব আঃ মান্নান ফায়েজে আম নুরানী হাফিজিয়া মাদরাসা",
-        "male_count": 4318,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.64062,
-        "longitude": 90.48434
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আল হিকমাহ আইডিয়াল একাডেমী",
-        "male_count": 2565,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.65509,
-        "longitude": 90.48015
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আলী আকবর মডেল হাই স্কুল এন্ড কলেজ",
-        "male_count": 2185,
-        "female_count": 2170,
-        "hijra_count": 0,
-        "latitude": 23.70094,
-        "longitude": 90.50488
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আলীগঞ্জ উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4968,
-        "hijra_count": 0,
-        "latitude": 23.65431,
-        "longitude": 90.46295
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "আহসান উদ্দিন উচ্চ বিদ্যালয়",
-        "male_count": 5327,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.67977,
-        "longitude": 90.46664
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "ইসদাইর রাবেয়া হোসেন উচ্চ বিদ্যালয়",
-        "male_count": 10251,
-        "female_count": 3370,
-        "hijra_count": 0,
-        "latitude": 23.62992,
-        "longitude": 90.49349
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "এ ওয়ান ইন্টারন্যাশনাল স্কুল",
-        "male_count": 3300,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.66901,
-        "longitude": 90.45903
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "এনায়েতনগর কিন্ডার গার্টেন এন্ড হাইস্কুল",
-        "male_count": 3923,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.64517,
-        "longitude": 90.50653
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "এশায়াতুস সুন্নাহ ক্বওমী মাদ্রাসা",
-        "male_count": 1287,
-        "female_count": 1263,
-        "hijra_count": 0,
-        "latitude": 23.61702,
-        "longitude": 90.47133
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "এস.কে মডেল কিন্ডার গার্টেন ",
-        "male_count": 0,
-        "female_count": 1950,
-        "hijra_count": 0,
-        "latitude": 23.63778,
-        "longitude": 90.48836
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "এ্যাকটিভ প্রি- ক্যাডেট এন্ড হাইস্কুল",
-        "male_count": 5558,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "কমর আলী উচ্চ বিদ্যালয়এন্ড কলেজ",
-        "male_count": 5883,
-        "female_count": 5738,
-        "hijra_count": 0,
-        "latitude": 23.64185,
-        "longitude": 90.49167
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "কানন প্রি-ক্যাডেট এন্ড হাইস্কুল",
-        "male_count": 2228,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.63904,
-        "longitude": 90.47713
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "কানাইনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1933,
-        "female_count": 1743,
-        "hijra_count": 0,
-        "latitude": 23.59322,
-        "longitude": 90.45077
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "কাশিপুর আদর্শ উচ্চ বালিকা বিদ্যালয়",
-        "male_count": 5368,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.60544,
-        "longitude": 90.48341
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "কুমিল্লা সমিতি মডেল স্কুল",
-        "male_count": 3187,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.67145,
-        "longitude": 90.46133
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "ক্যালিক্স প্রি-ক্যাডেট স্কুল",
-        "male_count": 5418,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.65067,
-        "longitude": 90.47669
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "গোদনাইল উচ্চ বিদ্যালয়",
-        "male_count": 1976,
-        "female_count": 1949,
-        "hijra_count": 0,
-        "latitude": 23.65488,
-        "longitude": 90.51607
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "জামি'আ আরাবিয়া দারুল উলুম দেওভোগ",
-        "male_count": 3946,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.61516,
-        "longitude": 90.48889
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "জালকুড়ি হাই স্কুল এন্ড কলেজ",
-        "male_count": 2369,
-        "female_count": 4517,
-        "hijra_count": 0,
-        "latitude": 23.66231,
-        "longitude": 90.49112
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "তল্লা বালক ও বালিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3029,
-        "female_count": 3181,
-        "hijra_count": 0,
-        "latitude": 23.63327,
-        "longitude": 90.5068
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "দাপা আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 5568,
-        "hijra_count": 0,
-        "latitude": 23.65358,
-        "longitude": 90.47498
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "দারুচ্ছুন্নাহ কামিল (এম.এ) মাদ্রাসা",
-        "male_count": 3701,
-        "female_count": 3781,
-        "hijra_count": 0,
-        "latitude": 23.60681,
-        "longitude": 90.48902
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "দেওভোগ হাজী উজির আলী উচ্চ বিদ্যালয়",
-        "male_count": 5104,
-        "female_count": 2500,
-        "hijra_count": 0,
-        "latitude": 23.61014,
-        "longitude": 90.48705
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "দেলপাড়া উচ্চ বিদ্যালয়",
-        "male_count": 9667,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.66749,
-        "longitude": 90.47572
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "ধনকুন্ডা পপুলার হাইস্কুল",
-        "male_count": 4230,
-        "female_count": 4187,
-        "hijra_count": 0,
-        "latitude": 23.65932,
-        "longitude": 90.5118
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "ধর্মগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 7621,
-        "hijra_count": 0,
-        "latitude": 23.62864,
-        "longitude": 90.46611
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "নবীনগর শাহ্‌ওয়ার আলী উচ্চ বিদ্যালয়",
-        "male_count": 1329,
-        "female_count": 1244,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "নাবা স্কুল",
-        "male_count": 0,
-        "female_count": 3185,
-        "hijra_count": 0,
-        "latitude": 23.63392,
-        "longitude": 90.50575
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "নারায়ণগঞ্জ সরকারী বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 9215,
-        "female_count": 8913,
-        "hijra_count": 0,
-        "latitude": 23.62576,
-        "longitude": 90.49012
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "নিউ মডেল কিন্ডার গার্টেন",
-        "male_count": 3320,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.67162,
-        "longitude": 90.45916
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "নূরে মদিনা বাদশা মেম্বার হাফিজিয়া মাদরাসা",
-        "male_count": 808,
-        "female_count": 903,
-        "hijra_count": 0,
-        "latitude": 23.67105,
-        "longitude": 90.52211
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "পাগলা উচ্চ বিদ্যালয়",
-        "male_count": 4135,
-        "female_count": 3979,
-        "hijra_count": 0,
-        "latitude": 23.66578,
-        "longitude": 90.46135
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "পানি উন্নয়ন বোর্ড উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3573,
-        "hijra_count": 0,
-        "latitude": 23.69924,
-        "longitude": 90.51614
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "পিটিআই একাডেমিক ও প্রশাসনিক ভবনের তৃতীয় তলা",
-        "male_count": 3311,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.65073,
-        "longitude": 90.48312
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "পিটিআই একাডেমিক ও প্রশাসনিক ভবনের নীচতলা ও দ্বিতীয় তলা",
-        "male_count": 0,
-        "female_count": 3400,
-        "hijra_count": 0,
-        "latitude": 23.65106,
-        "longitude": 90.48297
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "পিটিআই সংলগ্ন পরীক্ষণ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3297,
-        "hijra_count": 0,
-        "latitude": 23.65074,
-        "longitude": 90.48314
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "পিটিআই হোস্টেল",
-        "male_count": 3300,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.65068,
-        "longitude": 90.48308
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "পিলকুনি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1930,
-        "female_count": 4607,
-        "hijra_count": 0,
-        "latitude": 23.65474,
-        "longitude": 90.47643
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "পূর্ব জালকুড়ি আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 3124,
-        "female_count": 3160,
-        "hijra_count": 0,
-        "latitude": 23.66509,
-        "longitude": 90.49626
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "ফতুল্লা পাইলট উচ্চ বিদ্যালয়",
-        "male_count": 5886,
-        "female_count": 6346,
-        "hijra_count": 0,
-        "latitude": 23.64727,
-        "longitude": 90.47512
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "ফতুল্লা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2233,
-        "female_count": 4148,
-        "hijra_count": 0,
-        "latitude": 23.63921,
-        "longitude": 90.47371
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "ফোরকানিয়া হাফিজিয়া মাদরাসা ও লিল্লাহ বোডিং",
-        "male_count": 1557,
-        "female_count": 1623,
-        "hijra_count": 1,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "বদরুন্নেছা আইডিয়েল স্কুল এন্ড কলেজ",
-        "male_count": 4759,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.69876,
-        "longitude": 90.50161
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "ভুইগড় দারুচ্ছুন্নাহ ইসলামিয়া কামিল মাদ্রাসা",
-        "male_count": 4653,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মধ্যনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2047,
-        "female_count": 1896,
-        "hijra_count": 0,
-        "latitude": 23.6095,
-        "longitude": 90.44378
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মামুদপুর হাজী মোহাম্মদ আলী আইডিয়াল স্কুল",
-        "male_count": 3028,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.68252,
-        "longitude": 90.48828
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মার্চেন্ট ওয়ার্কারস (এম.ডব্লিউ) উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3556,
-        "hijra_count": 0,
-        "latitude": 23.67479,
-        "longitude": 90.51732
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মিজমিজি পশ্চিমপাড়া উচ্চ বিদ্যালয়",
-        "male_count": 4293,
-        "female_count": 4119,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মিজমিজি পাইনাদি ফাযিল (ডিগ্রী) মাদরাসা",
-        "male_count": 0,
-        "female_count": 6750,
-        "hijra_count": 0,
-        "latitude": 23.68656,
-        "longitude": 90.50885
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মিজমিজি পাইনাদী রেকমত আলী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 10910,
-        "hijra_count": 2,
-        "latitude": 23.68946,
-        "longitude": 90.50667
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মিসবাহুল মিল্লাত মাদরাসা",
-        "male_count": 1225,
-        "female_count": 1104,
-        "hijra_count": 0,
-        "latitude": 23.60782,
-        "longitude": 90.47509
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মুক্তিযোদ্ধা স্মৃতি বিদ্যানিকেতন",
-        "male_count": 4851,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.63967,
-        "longitude": 90.5078
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মুসলিমনগর বায়তুল আমান সরকারী শিশু পরিবার (বালক)",
-        "male_count": 4066,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.6222,
-        "longitude": 90.46587
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "মেরাজ স্কুল",
-        "male_count": 0,
-        "female_count": 2626,
-        "hijra_count": 0,
-        "latitude": 23.64806,
-        "longitude": 90.48866
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "রওজাতুল সালেহীন ফাজিল মাদ্রাসা",
-        "male_count": 5998,
-        "female_count": 5517,
-        "hijra_count": 1,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "রয়েল একাডেমী",
-        "male_count": 0,
-        "female_count": 1938,
-        "hijra_count": 0,
-        "latitude": 23.6381,
-        "longitude": 90.48872
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "রসুলপুর প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3200,
-        "hijra_count": 0,
-        "latitude": 23.67352,
-        "longitude": 90.45649
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "রাধানগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1475,
-        "female_count": 1332,
-        "hijra_count": 0,
-        "latitude": 23.58584,
-        "longitude": 90.45632
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "রেনেসা কিন্ডার গার্টেন এন্ড হাই স্কুল",
-        "male_count": 3000,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.6323,
-        "longitude": 90.50745
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "লক্ষী নারায়ণ কটন মিলস উচ্চ বিদ্যালয়",
-        "male_count": 3398,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.64675,
-        "longitude": 90.5169
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "শহীদ তিতুমীর একাডেমী নারায়নগঞ্জ প্রাথমিক ও উচ্চ বিদ্যালয়",
-        "male_count": 2282,
-        "female_count": 4183,
-        "hijra_count": 0,
-        "latitude": 23.63859,
-        "longitude": 90.50145
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "শাহী মহল্লা মোহাম্মদিয়া আলিম মাদ্রাসা",
-        "male_count": 3420,
-        "female_count": 6620,
-        "hijra_count": 1,
-        "latitude": 23.67069,
-        "longitude": 90.46177
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "শাহ্ ফতেহ্ উল্লাহ্ ইসলামিয়া দাখিল মাদরাসা",
-        "male_count": 2894,
-        "female_count": 2848,
-        "hijra_count": 0,
-        "latitude": 23.63884,
-        "longitude": 90.47398
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "শিমরাইল দারুসুন্নাহ নেছারিয়া ছালেহিয়া আলিম মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 2494,
-        "hijra_count": 0,
-        "latitude": 23.70492,
-        "longitude": 90.51192
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "শিশু কল্যান কারিগরি প্রশিক্ষন কেন্দ্র-২",
-        "male_count": 2845,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.64472,
-        "longitude": 90.47038
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সফর আলী ভুঁইয়া উচ্চ বিদ্যালয়",
-        "male_count": 2431,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.67376,
-        "longitude": 90.51888
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সফুরা খাতুন পাইলট বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 2853,
-        "female_count": 2833,
-        "hijra_count": 0,
-        "latitude": 23.66082,
-        "longitude": 90.51299
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সরকারি আদমজী নগর মার্চেন্ট ওয়ার্কারস (এম.ডব্লিউ)কলেজ",
-        "male_count": 3973,
-        "female_count": 3985,
-        "hijra_count": 0,
-        "latitude": 23.67474,
-        "longitude": 90.51611
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সানারপাড় রওশান আরা ডিগ্রি কলেজ",
-        "male_count": 3530,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.70038,
-        "longitude": 90.49419
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সানারপাড় শেখ মোরতোজা আলী উচ্চ বিদ্যালয়",
-        "male_count": 3856,
-        "female_count": 3646,
-        "hijra_count": 0,
-        "latitude": 23.7006,
-        "longitude": 90.49421
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সাহারা জাগরণী মেমোরিয়াল স্কুল",
-        "male_count": 3752,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.63025,
-        "longitude": 90.46435
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সিদ্ধিরগঞ্জ দক্ষিণ সরকরি প্রাথমিক বিদ্যালয়",
-        "male_count": 1887,
-        "female_count": 2020,
-        "hijra_count": 0,
-        "latitude": 23.68737,
-        "longitude": 90.52163
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সিদ্ধিরগঞ্জ বিদ্যুৎ উন্নয়ন বোর্ড মাধ্যমিক বিদ্যালয়।",
-        "male_count": 968,
-        "female_count": 978,
-        "hijra_count": 0,
-        "latitude": 23.68182,
-        "longitude": 90.51705
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সিদ্ধিরগঞ্জ রেবতী মোহন পাইলট স্কুল এন্ড কলেজ",
-        "male_count": 4254,
-        "female_count": 4295,
-        "hijra_count": 0,
-        "latitude": 23.68759,
-        "longitude": 90.52165
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "সোনার বাংলা সংসদ এর মাঠ প্রাঙ্গন",
-        "male_count": 4214,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.62726,
-        "longitude": 90.45876
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হরিহরপাড়া উচ্চ বিদ্যালয়",
-        "male_count": 3250,
-        "female_count": 6867,
-        "hijra_count": 0,
-        "latitude": 23.6319,
-        "longitude": 90.47156
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হলি উইলস মডার্ন স্কুল",
-        "male_count": 2013,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.6405,
-        "longitude": 90.49706
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হলি উইলস মডেল স্কুল",
-        "male_count": 1655,
-        "female_count": 1609,
-        "hijra_count": 0,
-        "latitude": 23.65328,
-        "longitude": 90.51158
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হলি উইলস স্কুল",
-        "male_count": 863,
-        "female_count": 927,
-        "hijra_count": 0,
-        "latitude": 23.65992,
-        "longitude": 90.51278
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হলি কোরআন প্রি-ক্যাডেট মাদ্রাসা",
-        "male_count": 3918,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.64895,
-        "longitude": 90.50852
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাজী আওলাদ হোসেন উচ্চ বিদ্যালয়",
-        "male_count": 4052,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.66315,
-        "longitude": 90.47262
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাজীগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4637,
-        "hijra_count": 0,
-        "latitude": 23.64011,
-        "longitude": 90.50388
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাজী পান্দে আলী উচ্চ বিদ্যালয়",
-        "male_count": 5185,
-        "female_count": 4892,
-        "hijra_count": 0,
-        "latitude": 23.67826,
-        "longitude": 90.48354
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাজী ফজলুল হক মডেল হাই স্কুল",
-        "male_count": 3432,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.69474,
-        "longitude": 90.51303
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাজী মিছির আলী বিশ্ববিদ্যালয় কলেজ",
-        "male_count": 0,
-        "female_count": 12854,
-        "hijra_count": 0,
-        "latitude": 23.66691,
-        "longitude": 90.47402
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাজী শরিয়ত উল্লাহ আল কোরআনুল কারিম মাদরাসা",
-        "male_count": 3454,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাজী শামসুদ্দিন উচ্চ বিদ্যালয়",
-        "male_count": 7133,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.69409,
-        "longitude": 90.50473
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাটখোলা উচ্চ বিদ্যালয়",
-        "male_count": 2340,
-        "female_count": 2237,
-        "hijra_count": 0,
-        "latitude": 23.60126,
-        "longitude": 90.48971
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হাদিকাতুল কোরআন হাফিজী মাদ্রাসা",
-        "male_count": 1711,
-        "female_count": 1833,
-        "hijra_count": 0,
-        "latitude": 23.63589,
-        "longitude": 90.50279
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হীরাঝিল আইডিয়াল হাই স্কুল",
-        "male_count": 3300,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.68506,
-        "longitude": 90.50838
-    },
-    {
-        "settings_code": 207,
-        "settings_name": "নারায়ণগঞ্জ-৪",
-        "center_name": "হৃদয় মনি ক্রিয়েটিভ স্কুল",
-        "male_count": 1095,
-        "female_count": 1109,
-        "hijra_count": 0,
-        "latitude": 23.66658,
-        "longitude": 90.51173
-    }
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০০নং বাতান পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3265,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.68669,
+    "longitude": 90.50894
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০১নং মিজমিজি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3403,
+    "female_count": 3569,
+    "hijra_count": 0,
+    "latitude": 23.6858,
+    "longitude": 90.49953
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০২ নং শিমরাইল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2777,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.70225,
+    "longitude": 90.50795
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০৩নং উত্তর গোপালনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 782,
+    "female_count": 683,
+    "hijra_count": 0,
+    "latitude": 23.61815,
+    "longitude": 90.44882
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০৪ নং পাঠানটুলি আইলপাড়া প্রাথমিক বিদ্যালয়",
+    "male_count": 1946,
+    "female_count": 1856,
+    "hijra_count": 0,
+    "latitude": 23.63951,
+    "longitude": 90.5102
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০৬ নং মধ্য নরসিংপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1469,
+    "female_count": 1365,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০৭নং গঙ্গানগর প্রাথমিক বিদ্যালয়",
+    "male_count": 882,
+    "female_count": 772,
+    "hijra_count": 0,
+    "latitude": 23.59373,
+    "longitude": 90.46245
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০৮ নং কাশীপুর কদম আলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 5090,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১০৯নং শাহী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2849,
+    "female_count": 2794,
+    "hijra_count": 0,
+    "latitude": 23.67155,
+    "longitude": 90.46147
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১১০নং লামাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2892,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.64878,
+    "longitude": 90.4962
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১১১ নং পল্লী উন্নয়ন সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3888,
+    "hijra_count": 0,
+    "latitude": 23.61532,
+    "longitude": 90.49024
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১১৫ নং মধ্য ধর্মগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2820,
+    "female_count": 2913,
+    "hijra_count": 1,
+    "latitude": 23.62864,
+    "longitude": 90.46611
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১১৭নং পূর্ব গোপালনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1741,
+    "female_count": 1664,
+    "hijra_count": 0,
+    "latitude": 23.61486,
+    "longitude": 90.46499
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "১১৯নং কুতুবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2519,
+    "hijra_count": 0,
+    "latitude": 23.6451,
+    "longitude": 90.50251
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "২৪ নং শিশু কল্যাণ প্রাথমিক বিদ্যালয়-২৪",
+    "male_count": 0,
+    "female_count": 3015,
+    "hijra_count": 0,
+    "latitude": 23.64512,
+    "longitude": 90.47115
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৫০নং পশ্চিম চরগড়কুল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1914,
+    "female_count": 1613,
+    "hijra_count": 0,
+    "latitude": 23.56561,
+    "longitude": 90.44634
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৫২নং ছমির নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 880,
+    "female_count": 717,
+    "hijra_count": 0,
+    "latitude": 23.57179,
+    "longitude": 90.46059
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৫৩নং প্রসন্ননগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1081,
+    "female_count": 932,
+    "hijra_count": 0,
+    "latitude": 23.58456,
+    "longitude": 90.45243
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৫৬নং লক্ষীনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1690,
+    "female_count": 1549,
+    "hijra_count": 0,
+    "latitude": 23.59642,
+    "longitude": 90.45745
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৫৭ নং রাজাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1080,
+    "female_count": 1022,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৫৯নং গোপালনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2056,
+    "female_count": 1878,
+    "hijra_count": 0,
+    "latitude": 23.60579,
+    "longitude": 90.45658
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬০নং গোয়ালবন্দ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3456,
+    "female_count": 3567,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬১নং কাশীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2951,
+    "female_count": 2879,
+    "hijra_count": 0,
+    "latitude": 23.60242,
+    "longitude": 90.48615
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬২ নং ভোলাইল সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 5382,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬৩ নং নরসিংপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3284,
+    "hijra_count": 0,
+    "latitude": 23.61403,
+    "longitude": 90.46766
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬৪নং দেওভোগ বাংলা বাজার সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2483,
+    "hijra_count": 0,
+    "latitude": 23.61013,
+    "longitude": 90.48671
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬৫ নং মুসলিমনগর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3874,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬৬ নং শাসনগাঁও সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3300,
+    "female_count": 2661,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬৮ নং হরিহর পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3752,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৬৯ নং পশ্চিম মাসদাইর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2248,
+    "female_count": 2027,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৭১ নং উত্তর মাসদাইর (গাবতলী) সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3851,
+    "female_count": 3730,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৭২নং ইসদাইর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 6738,
+    "hijra_count": 0,
+    "latitude": 23.62889,
+    "longitude": 90.49403
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৭৪ নং কুতুব আইল মডেল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1628,
+    "female_count": 1526,
+    "hijra_count": 0,
+    "latitude": 23.64423,
+    "longitude": 90.49412
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৭৭নং রামারবাগ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2973,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.64803,
+    "longitude": 90.48838
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৭৯নং আলীগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 5137,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.6561,
+    "longitude": 90.46224
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৮০নং পাগলা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2365,
+    "female_count": 2161,
+    "hijra_count": 0,
+    "latitude": 23.66555,
+    "longitude": 90.46067
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৮১নং নন্দলালপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3766,
+    "hijra_count": 0,
+    "latitude": 23.66339,
+    "longitude": 90.47226
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৮২নং দেলপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3200,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.66771,
+    "longitude": 90.47535
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৮৩ নং ভুইগড় জনকল্যাণ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4511,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৮৫নং মামুদপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1473,
+    "female_count": 4222,
+    "hijra_count": 0,
+    "latitude": 23.68315,
+    "longitude": 90.48714
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৮৬, ৮৭ গোদনাইল উত্তর বালক বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1546,
+    "female_count": 1414,
+    "hijra_count": 0,
+    "latitude": 23.65479,
+    "longitude": 90.51579
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৮৮ নং গোদনাইল দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3134,
+    "hijra_count": 0,
+    "latitude": 23.64383,
+    "longitude": 90.51541
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৮৯নং তাঁতখানা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3870,
+    "hijra_count": 0,
+    "latitude": 23.65087,
+    "longitude": 90.51165
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৯০ নং জালকুড়ি পূর্ব সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2056,
+    "female_count": 2050,
+    "hijra_count": 0,
+    "latitude": 23.66506,
+    "longitude": 90.49627
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৯১নং জালকুড়ি পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2300,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.66225,
+    "longitude": 90.491
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৯৩নং সুমিলপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1259,
+    "female_count": 1291,
+    "hijra_count": 0,
+    "latitude": 23.66858,
+    "longitude": 90.52305
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৯৪নং চর সুমিল পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1458,
+    "female_count": 1475,
+    "hijra_count": 0,
+    "latitude": 23.67364,
+    "longitude": 90.51872
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৯৫ নং আদমজী নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3478,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.6749,
+    "longitude": 90.51716
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৯৭নং সিদ্ধিরগঞ্জ উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1721,
+    "female_count": 1797,
+    "hijra_count": 0,
+    "latitude": 23.69146,
+    "longitude": 90.5204
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "৯৯ নং সানারপাড় সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3679,
+    "hijra_count": 0,
+    "latitude": 23.70057,
+    "longitude": 90.49419
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "অর্নিবাণ আদর্শ বিদ্যাপীঠ",
+    "male_count": 0,
+    "female_count": 3152,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আদমজী এ্যাকটিভ হাই স্কুল",
+    "male_count": 0,
+    "female_count": 2446,
+    "hijra_count": 0,
+    "latitude": 23.67523,
+    "longitude": 90.51827
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আনন্দলোক উচ্চ বিদ্যালয়",
+    "male_count": 3765,
+    "female_count": 3459,
+    "hijra_count": 0,
+    "latitude": 23.69219,
+    "longitude": 90.48908
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আব্দুল আজিজ বিদ্যানিকেতন",
+    "male_count": 0,
+    "female_count": 3746,
+    "hijra_count": 0,
+    "latitude": 23.64654,
+    "longitude": 90.5086
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আল-বালাগ আদর্শ একাডেমী",
+    "male_count": 3573,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.69203,
+    "longitude": 90.50601
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আলহাজ্ব আঃ মান্নান ফায়েজে আম নুরানী হাফিজিয়া মাদরাসা",
+    "male_count": 4318,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.64062,
+    "longitude": 90.48434
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আল হিকমাহ আইডিয়াল একাডেমী",
+    "male_count": 2565,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.65509,
+    "longitude": 90.48015
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আলী আকবর মডেল হাই স্কুল এন্ড কলেজ",
+    "male_count": 2185,
+    "female_count": 2170,
+    "hijra_count": 0,
+    "latitude": 23.70094,
+    "longitude": 90.50488
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আলীগঞ্জ উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4968,
+    "hijra_count": 0,
+    "latitude": 23.65431,
+    "longitude": 90.46295
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "আহসান উদ্দিন উচ্চ বিদ্যালয়",
+    "male_count": 5327,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.67977,
+    "longitude": 90.46664
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "ইসদাইর রাবেয়া হোসেন উচ্চ বিদ্যালয়",
+    "male_count": 10251,
+    "female_count": 3370,
+    "hijra_count": 0,
+    "latitude": 23.62992,
+    "longitude": 90.49349
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "এ ওয়ান ইন্টারন্যাশনাল স্কুল",
+    "male_count": 3300,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.66901,
+    "longitude": 90.45903
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "এনায়েতনগর কিন্ডার গার্টেন এন্ড হাইস্কুল",
+    "male_count": 3923,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.64517,
+    "longitude": 90.50653
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "এশায়াতুস সুন্নাহ ক্বওমী মাদ্রাসা",
+    "male_count": 1287,
+    "female_count": 1263,
+    "hijra_count": 0,
+    "latitude": 23.61702,
+    "longitude": 90.47133
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "এস.কে মডেল কিন্ডার গার্টেন ",
+    "male_count": 0,
+    "female_count": 1950,
+    "hijra_count": 0,
+    "latitude": 23.63778,
+    "longitude": 90.48836
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "এ্যাকটিভ প্রি- ক্যাডেট এন্ড হাইস্কুল",
+    "male_count": 5558,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "কমর আলী উচ্চ বিদ্যালয়এন্ড কলেজ",
+    "male_count": 5883,
+    "female_count": 5738,
+    "hijra_count": 0,
+    "latitude": 23.64185,
+    "longitude": 90.49167
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "কানন প্রি-ক্যাডেট এন্ড হাইস্কুল",
+    "male_count": 2228,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.63904,
+    "longitude": 90.47713
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "কানাইনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1933,
+    "female_count": 1743,
+    "hijra_count": 0,
+    "latitude": 23.59322,
+    "longitude": 90.45077
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "কাশিপুর আদর্শ উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 5368,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.60544,
+    "longitude": 90.48341
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "কুমিল্লা সমিতি মডেল স্কুল",
+    "male_count": 3187,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.67145,
+    "longitude": 90.46133
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "ক্যালিক্স প্রি-ক্যাডেট স্কুল",
+    "male_count": 5418,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.65067,
+    "longitude": 90.47669
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "গোদনাইল উচ্চ বিদ্যালয়",
+    "male_count": 1976,
+    "female_count": 1949,
+    "hijra_count": 0,
+    "latitude": 23.65488,
+    "longitude": 90.51607
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "জামি'আ আরাবিয়া দারুল উলুম দেওভোগ",
+    "male_count": 3946,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.61516,
+    "longitude": 90.48889
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "জালকুড়ি হাই স্কুল এন্ড কলেজ",
+    "male_count": 2369,
+    "female_count": 4517,
+    "hijra_count": 0,
+    "latitude": 23.66231,
+    "longitude": 90.49112
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "তল্লা বালক ও বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3029,
+    "female_count": 3181,
+    "hijra_count": 0,
+    "latitude": 23.63327,
+    "longitude": 90.5068
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "দাপা আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 5568,
+    "hijra_count": 0,
+    "latitude": 23.65358,
+    "longitude": 90.47498
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "দারুচ্ছুন্নাহ কামিল (এম.এ) মাদ্রাসা",
+    "male_count": 3701,
+    "female_count": 3781,
+    "hijra_count": 0,
+    "latitude": 23.60681,
+    "longitude": 90.48902
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "দেওভোগ হাজী উজির আলী উচ্চ বিদ্যালয়",
+    "male_count": 5104,
+    "female_count": 2500,
+    "hijra_count": 0,
+    "latitude": 23.61014,
+    "longitude": 90.48705
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "দেলপাড়া উচ্চ বিদ্যালয়",
+    "male_count": 9667,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.66749,
+    "longitude": 90.47572
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "ধনকুন্ডা পপুলার হাইস্কুল",
+    "male_count": 4230,
+    "female_count": 4187,
+    "hijra_count": 0,
+    "latitude": 23.65932,
+    "longitude": 90.5118
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "ধর্মগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 7621,
+    "hijra_count": 0,
+    "latitude": 23.62864,
+    "longitude": 90.46611
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "নবীনগর শাহ্‌ওয়ার আলী উচ্চ বিদ্যালয়",
+    "male_count": 1329,
+    "female_count": 1244,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "নাবা স্কুল",
+    "male_count": 0,
+    "female_count": 3185,
+    "hijra_count": 0,
+    "latitude": 23.63392,
+    "longitude": 90.50575
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "নারায়ণগঞ্জ সরকারী বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 9215,
+    "female_count": 8913,
+    "hijra_count": 0,
+    "latitude": 23.62576,
+    "longitude": 90.49012
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "নিউ মডেল কিন্ডার গার্টেন",
+    "male_count": 3320,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.67162,
+    "longitude": 90.45916
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "নূরে মদিনা বাদশা মেম্বার হাফিজিয়া মাদরাসা",
+    "male_count": 808,
+    "female_count": 903,
+    "hijra_count": 0,
+    "latitude": 23.67105,
+    "longitude": 90.52211
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "পাগলা উচ্চ বিদ্যালয়",
+    "male_count": 4135,
+    "female_count": 3979,
+    "hijra_count": 0,
+    "latitude": 23.66578,
+    "longitude": 90.46135
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "পানি উন্নয়ন বোর্ড উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3573,
+    "hijra_count": 0,
+    "latitude": 23.69924,
+    "longitude": 90.51614
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "পিটিআই একাডেমিক ও প্রশাসনিক ভবনের তৃতীয় তলা",
+    "male_count": 3311,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.65073,
+    "longitude": 90.48312
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "পিটিআই একাডেমিক ও প্রশাসনিক ভবনের নীচতলা ও দ্বিতীয় তলা",
+    "male_count": 0,
+    "female_count": 3400,
+    "hijra_count": 0,
+    "latitude": 23.65106,
+    "longitude": 90.48297
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "পিটিআই সংলগ্ন পরীক্ষণ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3297,
+    "hijra_count": 0,
+    "latitude": 23.65074,
+    "longitude": 90.48314
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "পিটিআই হোস্টেল",
+    "male_count": 3300,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.65068,
+    "longitude": 90.48308
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "পিলকুনি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1930,
+    "female_count": 4607,
+    "hijra_count": 0,
+    "latitude": 23.65474,
+    "longitude": 90.47643
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "পূর্ব জালকুড়ি আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 3124,
+    "female_count": 3160,
+    "hijra_count": 0,
+    "latitude": 23.66509,
+    "longitude": 90.49626
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "ফতুল্লা পাইলট উচ্চ বিদ্যালয়",
+    "male_count": 5886,
+    "female_count": 6346,
+    "hijra_count": 0,
+    "latitude": 23.64727,
+    "longitude": 90.47512
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "ফতুল্লা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2233,
+    "female_count": 4148,
+    "hijra_count": 0,
+    "latitude": 23.63921,
+    "longitude": 90.47371
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "ফোরকানিয়া হাফিজিয়া মাদরাসা ও লিল্লাহ বোডিং",
+    "male_count": 1557,
+    "female_count": 1623,
+    "hijra_count": 1,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "বদরুন্নেছা আইডিয়েল স্কুল এন্ড কলেজ",
+    "male_count": 4759,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.69876,
+    "longitude": 90.50161
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "ভুইগড় দারুচ্ছুন্নাহ ইসলামিয়া কামিল মাদ্রাসা",
+    "male_count": 4653,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মধ্যনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2047,
+    "female_count": 1896,
+    "hijra_count": 0,
+    "latitude": 23.6095,
+    "longitude": 90.44378
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মামুদপুর হাজী মোহাম্মদ আলী আইডিয়াল স্কুল",
+    "male_count": 3028,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.68252,
+    "longitude": 90.48828
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মার্চেন্ট ওয়ার্কারস (এম.ডব্লিউ) উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3556,
+    "hijra_count": 0,
+    "latitude": 23.67479,
+    "longitude": 90.51732
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মিজমিজি পশ্চিমপাড়া উচ্চ বিদ্যালয়",
+    "male_count": 4293,
+    "female_count": 4119,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মিজমিজি পাইনাদি ফাযিল (ডিগ্রী) মাদরাসা",
+    "male_count": 0,
+    "female_count": 6750,
+    "hijra_count": 0,
+    "latitude": 23.68656,
+    "longitude": 90.50885
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মিজমিজি পাইনাদী রেকমত আলী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 10910,
+    "hijra_count": 2,
+    "latitude": 23.68946,
+    "longitude": 90.50667
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মিসবাহুল মিল্লাত মাদরাসা",
+    "male_count": 1225,
+    "female_count": 1104,
+    "hijra_count": 0,
+    "latitude": 23.60782,
+    "longitude": 90.47509
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মুক্তিযোদ্ধা স্মৃতি বিদ্যানিকেতন",
+    "male_count": 4851,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.63967,
+    "longitude": 90.5078
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মুসলিমনগর বায়তুল আমান সরকারী শিশু পরিবার (বালক)",
+    "male_count": 4066,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.6222,
+    "longitude": 90.46587
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "মেরাজ স্কুল",
+    "male_count": 0,
+    "female_count": 2626,
+    "hijra_count": 0,
+    "latitude": 23.64806,
+    "longitude": 90.48866
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "রওজাতুল সালেহীন ফাজিল মাদ্রাসা",
+    "male_count": 5998,
+    "female_count": 5517,
+    "hijra_count": 1,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "রয়েল একাডেমী",
+    "male_count": 0,
+    "female_count": 1938,
+    "hijra_count": 0,
+    "latitude": 23.6381,
+    "longitude": 90.48872
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "রসুলপুর প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3200,
+    "hijra_count": 0,
+    "latitude": 23.67352,
+    "longitude": 90.45649
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "রাধানগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1475,
+    "female_count": 1332,
+    "hijra_count": 0,
+    "latitude": 23.58584,
+    "longitude": 90.45632
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "রেনেসা কিন্ডার গার্টেন এন্ড হাই স্কুল",
+    "male_count": 3000,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.6323,
+    "longitude": 90.50745
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "লক্ষী নারায়ণ কটন মিলস উচ্চ বিদ্যালয়",
+    "male_count": 3398,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.64675,
+    "longitude": 90.5169
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "শহীদ তিতুমীর একাডেমী নারায়নগঞ্জ প্রাথমিক ও উচ্চ বিদ্যালয়",
+    "male_count": 2282,
+    "female_count": 4183,
+    "hijra_count": 0,
+    "latitude": 23.63859,
+    "longitude": 90.50145
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "শাহী মহল্লা মোহাম্মদিয়া আলিম মাদ্রাসা",
+    "male_count": 3420,
+    "female_count": 6620,
+    "hijra_count": 1,
+    "latitude": 23.67069,
+    "longitude": 90.46177
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "শাহ্ ফতেহ্ উল্লাহ্ ইসলামিয়া দাখিল মাদরাসা",
+    "male_count": 2894,
+    "female_count": 2848,
+    "hijra_count": 0,
+    "latitude": 23.63884,
+    "longitude": 90.47398
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "শিমরাইল দারুসুন্নাহ নেছারিয়া ছালেহিয়া আলিম মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 2494,
+    "hijra_count": 0,
+    "latitude": 23.70492,
+    "longitude": 90.51192
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "শিশু কল্যান কারিগরি প্রশিক্ষন কেন্দ্র-২",
+    "male_count": 2845,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.64472,
+    "longitude": 90.47038
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সফর আলী ভুঁইয়া উচ্চ বিদ্যালয়",
+    "male_count": 2431,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.67376,
+    "longitude": 90.51888
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সফুরা খাতুন পাইলট বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2853,
+    "female_count": 2833,
+    "hijra_count": 0,
+    "latitude": 23.66082,
+    "longitude": 90.51299
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সরকারি আদমজী নগর মার্চেন্ট ওয়ার্কারস (এম.ডব্লিউ)কলেজ",
+    "male_count": 3973,
+    "female_count": 3985,
+    "hijra_count": 0,
+    "latitude": 23.67474,
+    "longitude": 90.51611
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সানারপাড় রওশান আরা ডিগ্রি কলেজ",
+    "male_count": 3530,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.70038,
+    "longitude": 90.49419
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সানারপাড় শেখ মোরতোজা আলী উচ্চ বিদ্যালয়",
+    "male_count": 3856,
+    "female_count": 3646,
+    "hijra_count": 0,
+    "latitude": 23.7006,
+    "longitude": 90.49421
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সাহারা জাগরণী মেমোরিয়াল স্কুল",
+    "male_count": 3752,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.63025,
+    "longitude": 90.46435
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সিদ্ধিরগঞ্জ দক্ষিণ সরকরি প্রাথমিক বিদ্যালয়",
+    "male_count": 1887,
+    "female_count": 2020,
+    "hijra_count": 0,
+    "latitude": 23.68737,
+    "longitude": 90.52163
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সিদ্ধিরগঞ্জ বিদ্যুৎ উন্নয়ন বোর্ড মাধ্যমিক বিদ্যালয়।",
+    "male_count": 968,
+    "female_count": 978,
+    "hijra_count": 0,
+    "latitude": 23.68182,
+    "longitude": 90.51705
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সিদ্ধিরগঞ্জ রেবতী মোহন পাইলট স্কুল এন্ড কলেজ",
+    "male_count": 4254,
+    "female_count": 4295,
+    "hijra_count": 0,
+    "latitude": 23.68759,
+    "longitude": 90.52165
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "সোনার বাংলা সংসদ এর মাঠ প্রাঙ্গন",
+    "male_count": 4214,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.62726,
+    "longitude": 90.45876
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হরিহরপাড়া উচ্চ বিদ্যালয়",
+    "male_count": 3250,
+    "female_count": 6867,
+    "hijra_count": 0,
+    "latitude": 23.6319,
+    "longitude": 90.47156
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হলি উইলস মডার্ন স্কুল",
+    "male_count": 2013,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.6405,
+    "longitude": 90.49706
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হলি উইলস মডেল স্কুল",
+    "male_count": 1655,
+    "female_count": 1609,
+    "hijra_count": 0,
+    "latitude": 23.65328,
+    "longitude": 90.51158
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হলি উইলস স্কুল",
+    "male_count": 863,
+    "female_count": 927,
+    "hijra_count": 0,
+    "latitude": 23.65992,
+    "longitude": 90.51278
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হলি কোরআন প্রি-ক্যাডেট মাদ্রাসা",
+    "male_count": 3918,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.64895,
+    "longitude": 90.50852
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাজী আওলাদ হোসেন উচ্চ বিদ্যালয়",
+    "male_count": 4052,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.66315,
+    "longitude": 90.47262
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাজীগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4637,
+    "hijra_count": 0,
+    "latitude": 23.64011,
+    "longitude": 90.50388
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাজী পান্দে আলী উচ্চ বিদ্যালয়",
+    "male_count": 5185,
+    "female_count": 4892,
+    "hijra_count": 0,
+    "latitude": 23.67826,
+    "longitude": 90.48354
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাজী ফজলুল হক মডেল হাই স্কুল",
+    "male_count": 3432,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.69474,
+    "longitude": 90.51303
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাজী মিছির আলী বিশ্ববিদ্যালয় কলেজ",
+    "male_count": 0,
+    "female_count": 12854,
+    "hijra_count": 0,
+    "latitude": 23.66691,
+    "longitude": 90.47402
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাজী শরিয়ত উল্লাহ আল কোরআনুল কারিম মাদরাসা",
+    "male_count": 3454,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাজী শামসুদ্দিন উচ্চ বিদ্যালয়",
+    "male_count": 7133,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.69409,
+    "longitude": 90.50473
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাটখোলা উচ্চ বিদ্যালয়",
+    "male_count": 2340,
+    "female_count": 2237,
+    "hijra_count": 0,
+    "latitude": 23.60126,
+    "longitude": 90.48971
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হাদিকাতুল কোরআন হাফিজী মাদ্রাসা",
+    "male_count": 1711,
+    "female_count": 1833,
+    "hijra_count": 0,
+    "latitude": 23.63589,
+    "longitude": 90.50279
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হীরাঝিল আইডিয়াল হাই স্কুল",
+    "male_count": 3300,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.68506,
+    "longitude": 90.50838
+  },
+  {
+    "settings_code": 207,
+    "settings_name": "নারায়ণগঞ্জ-৪",
+    "center_name": "হৃদয় মনি ক্রিয়েটিভ স্কুল",
+    "male_count": 1095,
+    "female_count": 1109,
+    "hijra_count": 0,
+    "latitude": 23.66658,
+    "longitude": 90.51173
+  }
 ]

@@ -1,1022 +1,1022 @@
 [
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "অগ্রভূলাট হাসানিয়া স্বতন্ত্র এবতেদায়ী মাদ্রাসা, অগ্রভূলাট",
-        "male_count": 1352,
-        "female_count": 1331,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "আমলাই সরকারি প্রাথমিক বিদ্যালয়, আমলাই।",
-        "male_count": 2057,
-        "female_count": 1983,
-        "hijra_count": 0,
-        "latitude": 22.95933,
-        "longitude": 88.89617
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "আলমগীর সরকারি প্রাথমিক বিদ্যালয়, বারীপোতা।",
-        "male_count": 1487,
-        "female_count": 1480,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "আলহাজ্ব শামছুর রহমান সরকারি প্রাথমিক বিদ্যালয়, খড়িডাঙ্গা।",
-        "male_count": 973,
-        "female_count": 963,
-        "hijra_count": 0,
-        "latitude": 23.02126,
-        "longitude": 88.90534
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "ইছাপুর সরকারি প্রাথমিক বিদ্যালয়, ইছাপুর।",
-        "male_count": 1619,
-        "female_count": 1586,
-        "hijra_count": 0,
-        "latitude": 23.27045,
-        "longitude": 89.03559
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "উত্তর কাগজপুকুর স্বতন্ত্র এবতেদায়ী মাদ্রাসা, কাগজপুকুর।",
-        "male_count": 1634,
-        "female_count": 1565,
-        "hijra_count": 0,
-        "latitude": 23.06183,
-        "longitude": 88.91937
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "উলাশী মাধ্যমিক বিদ্যালয়, উলাশী।",
-        "male_count": 2397,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.03208,
-        "longitude": 88.99947
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "উলাশী সরকারি প্রাথমিক বিদ্যালয়, উলাশী",
-        "male_count": 0,
-        "female_count": 2486,
-        "hijra_count": 0,
-        "latitude": 23.05568,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কন্দর্পপুর সরকারি প্রাথমকি বিদ্যালয়, কন্দর্পপুর।",
-        "male_count": 1110,
-        "female_count": 1087,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কন্যাদাহ সরকারি প্রাথমিক বিদ্যালয়, কন্যাদাহ।",
-        "male_count": 1742,
-        "female_count": 1691,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কাগজপুকুর সরকারি প্রাথমিক বিদ্যালয়, কাগজপুকুর।",
-        "male_count": 1699,
-        "female_count": 1678,
-        "hijra_count": 0,
-        "latitude": 23.05568,
-        "longitude": 88.95204
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কায়বা বাইকোলা মাধ্যমিক বিদ্যালয়, বাইকোলা।",
-        "male_count": 1427,
-        "female_count": 1525,
-        "hijra_count": 0,
-        "latitude": 22.94183,
-        "longitude": 88.93704
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কায়বা সরকারি প্রাথমিক  বিদ্যালয়, পাড়ের কায়বা।",
-        "male_count": 1344,
-        "female_count": 1361,
-        "hijra_count": 0,
-        "latitude": 22.90593,
-        "longitude": 88.94363
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কাশিপুর সরকারি প্রাথমিক বিদ্যালয়, কাশিপুর।",
-        "male_count": 1954,
-        "female_count": 1924,
-        "hijra_count": 0,
-        "latitude": 23.17205,
-        "longitude": 88.96849
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কুদলারহাট মাধ্যমিক বিদ্যালয়, মানকিয়া।",
-        "male_count": 1298,
-        "female_count": 1235,
-        "hijra_count": 0,
-        "latitude": 23.06909,
-        "longitude": 88.89146
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কুলপালা সরকারি প্রাথমিক বিদ্যালয়, গাতীপাড়া।",
-        "male_count": 1459,
-        "female_count": 1405,
-        "hijra_count": 0,
-        "latitude": 23.08236,
-        "longitude": 88.99083
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়, কৃষ্ণপুর।",
-        "male_count": 1099,
-        "female_count": 1092,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কেরালখালী পাড়িয়ারঘোপ মাধ্যমিক বিদ্যালয়, কেরালখালী।",
-        "male_count": 0,
-        "female_count": 2903,
-        "hijra_count": 0,
-        "latitude": 23.05569,
-        "longitude": 88.95202
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "কেরালখালী সরকারি প্রাথমিক বিদ্যালয়, কেরালখালী",
-        "male_count": 3013,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.10658,
-        "longitude": 88.99469
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "খলশী সরকারি প্রাথমিক বিদ্যালয়, খলশী।",
-        "male_count": 822,
-        "female_count": 822,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "গয়ড়া সরকারি প্রাথমিক বিদ্যালয়, গয়ড়া।",
-        "male_count": 1884,
-        "female_count": 1834,
-        "hijra_count": 0,
-        "latitude": 23.21782,
-        "longitude": 88.95755
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "গোগা কালিয়ানী মাধ্যমিক বিদ্যালয়, গোগা পশ্চিম।",
-        "male_count": 1696,
-        "female_count": 1831,
-        "hijra_count": 0,
-        "latitude": 23.05581,
-        "longitude": 88.952
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "গোগা কালিয়ানী সরকারি প্রাথমিক বিদ্যালয়, কালিয়ানী।",
-        "male_count": 1378,
-        "female_count": 1401,
-        "hijra_count": 0,
-        "latitude": 22.95932,
-        "longitude": 88.89623
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "গোগা সরকারি প্রাথমিক বিদ্যালয়, গোগা পূর্ব।",
-        "male_count": 1363,
-        "female_count": 1372,
-        "hijra_count": 0,
-        "latitude": 22.94843,
-        "longitude": 88.90391
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "গোড়পাড়া মাধ্যমিক বিদ্যালয়, গোড়পাড়া।",
-        "male_count": 1244,
-        "female_count": 1242,
-        "hijra_count": 0,
-        "latitude": 23.12817,
-        "longitude": 88.97062
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "গোড়পাড়া সরকারি প্রাথমিক বিদ্যালয়, গোড়পাড়া।",
-        "male_count": 1412,
-        "female_count": 1399,
-        "hijra_count": 0,
-        "latitude": 23.05572,
-        "longitude": 88.95204
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "ঘিবা সরকারি প্রাথমিক বিদ্যালয়, ঘিবা উত্তর।",
-        "male_count": 2123,
-        "female_count": 1964,
-        "hijra_count": 0,
-        "latitude": 23.07535,
-        "longitude": 88.89482
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "চালিতাবাড়ীয়া আর ডি বহুমুখী মাধ্যমিক  বিদ্যালয় (নতুন ভবন), চালিতাবাড়ীয়া।",
-        "male_count": 0,
-        "female_count": 2307,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "চালিতাবাড়ীয়া আর ডি বহুমুখী মাধ্যমিক বিদ্যালয় (মুল ভবন), চালিতাবাড়ীয়া।",
-        "male_count": 2265,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "ডি,এস,টি, মাধ্যমিক বিদ্যালয়, টেংরা।",
-        "male_count": 1901,
-        "female_count": 1870,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95202
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "ডিহি সরকারি প্রাথমিক বিদ্যালয়, ডিহি।",
-        "male_count": 1296,
-        "female_count": 1252,
-        "hijra_count": 0,
-        "latitude": 23.15005,
-        "longitude": 88.95428
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "তবিবর রহমান সরদার (টি,আর,এস) মাধ্যমিক বিদ্যালয়, ধলদাহ।",
-        "male_count": 1426,
-        "female_count": 1448,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "দৌলতপুর দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়, দৌলতপুর।",
-        "male_count": 800,
-        "female_count": 814,
-        "hijra_count": 0,
-        "latitude": 23.01598,
-        "longitude": 88.87707
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "ধানতাড়া কোটা সরকারি প্রাথমিক বিদ্যালয়, ধান্যতাড়া।",
-        "male_count": 2063,
-        "female_count": 1986,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "ধান্যখোলা মাধ্যমিক বিদ্যালয়, ধান্যখোলা।",
-        "male_count": 1913,
-        "female_count": 1883,
-        "hijra_count": 0,
-        "latitude": 23.09373,
-        "longitude": 88.89443
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "নটাদিঘা ডুবপাড়া সরকারি প্রাথমিক বিদ্যালয়, নটাদিঘা।",
-        "male_count": 1214,
-        "female_count": 1078,
-        "hijra_count": 0,
-        "latitude": 23.07537,
-        "longitude": 88.92488
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "নাভারণ রেলবাজার সরকারি প্রাথমিক বিদ্যালয়, নাভারণ।",
-        "male_count": 0,
-        "female_count": 2979,
-        "hijra_count": 0,
-        "latitude": 23.05805,
-        "longitude": 88.99717
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "নারিকেলবাড়ীয়া ফুলসর সরকারি প্রাথমিক বিদ্যালয়, নারিকেলবাড়ীয়া।",
-        "male_count": 1045,
-        "female_count": 948,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "নিজামপুর মাধ্যমিক বিদ্যালয়, নিজামপুর।",
-        "male_count": 1701,
-        "female_count": 1663,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95202
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "পাকশিয়া মাধ্যমিক বিদ্যালয়, পাকশিয়া।",
-        "male_count": 2046,
-        "female_count": 1893,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "পারুইখুপী সরকারি প্রাথমিক বিদ্যালয়, পারুইখুপী।",
-        "male_count": 942,
-        "female_count": 860,
-        "hijra_count": 0,
-        "latitude": 23.11319,
-        "longitude": 88.94995
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "পি.কে. রাজগঞ্জ সরকারি  প্রাথমিক বিদ্যালয়, পাঁচ ভূলাট।",
-        "male_count": 1485,
-        "female_count": 1437,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "পুটখালী মাধ্যমিক বিদ্যালয়, পুটখালী।",
-        "male_count": 0,
-        "female_count": 2260,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95202
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "পুটখালী সরকারি প্রাথমিক বিদ্যালয়, পুটখালী।",
-        "male_count": 2200,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.05568,
-        "longitude": 88.95203
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "পোড়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়, পোড়াবাড়ী।",
-        "male_count": 1865,
-        "female_count": 1956,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বড় আঁচড়া সরকারি প্রাথমিক বিদ্যালয়, বড় আঁচড়া।",
-        "male_count": 1448,
-        "female_count": 1394,
-        "hijra_count": 0,
-        "latitude": 23.03925,
-        "longitude": 88.8867
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বড় আঁচড়া হযরত আবু বকর সিদ্দিক (রাঃ) দাখিল মাদ্রাসা, বড় আঁচড়া।",
-        "male_count": 1284,
-        "female_count": 1379,
-        "hijra_count": 0,
-        "latitude": 23.03524,
-        "longitude": 88.88727
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বড়বাড়িয়া সরকারি প্রাথমিক বিদ্যালয়, বড়বাড়িয়া।",
-        "male_count": 1141,
-        "female_count": 1179,
-        "hijra_count": 0,
-        "latitude": 23.01218,
-        "longitude": 88.98792
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বসতপুর কলোনী সরকারি প্রাথমিক বিদ্যালয়, বসতপুর ১নং কলোনী।",
-        "male_count": 1242,
-        "female_count": 1262,
-        "hijra_count": 0,
-        "latitude": 23.0558,
-        "longitude": 88.952
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বসতপুর সরকারি প্রাথমিক বিদ্যালয়, বসতপুর।",
-        "male_count": 2495,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.96588,
-        "longitude": 88.95865
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বসতপুর হোসাইনিয়া সিনিয়র মাদ্রাসা, বসতপুর।",
-        "male_count": 0,
-        "female_count": 2517,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বহিলাপোতা সরকারি প্রাথমিক বিদ্যালয়, বহিলাপোতা।",
-        "male_count": 1824,
-        "female_count": 1632,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বাগআঁচড়া ইউনাইটেড মাধ্যমিক বিদ্যালয়, বাগআঁচড়া।",
-        "male_count": 1687,
-        "female_count": 1862,
-        "hijra_count": 0,
-        "latitude": 22.9554,
-        "longitude": 88.98451
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বাগআঁচড়া বালিকা আলিম মাদ্রাসা, সাতমাইল।",
-        "male_count": 2002,
-        "female_count": 2145,
-        "hijra_count": 0,
-        "latitude": 23.05569,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বাগআঁচড়া মাঠপাড়া সরকারি প্রাথমিক বিদ্যালয়, বাগআঁচড়া উত্তর পাড়া।",
-        "male_count": 1561,
-        "female_count": 1608,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বাগুড়ী সরকারি প্রাথমিক বিদ্যালয়, বাগুড়ী।",
-        "male_count": 1520,
-        "female_count": 1605,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বামুনিয়া-সোনাতনকাটি মাধ্যমিক বালিকা বিদ্যালয়, সোনাতনকাটি।",
-        "male_count": 1186,
-        "female_count": 1187,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বারপোতা ইউনাইটেড মাধ্যমিক বিদ্যালয়, বারপোতা।",
-        "male_count": 2069,
-        "female_count": 2082,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বারপোতা ছিদ্দিকীয়া দাখিল মাদ্রাসা, বারপোতা",
-        "male_count": 944,
-        "female_count": 978,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বালুন্ডা মাধ্যমিক বিদ্যালয়, বালুন্ডা।",
-        "male_count": 0,
-        "female_count": 2376,
-        "hijra_count": 0,
-        "latitude": 22.99164,
-        "longitude": 88.92654
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বালুন্ডা সরকারি প্রাথমিক বিদ্যালয়, বালুন্ডা।",
-        "male_count": 2398,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.99171,
-        "longitude": 88.92646
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বাহাদুরপুর মাধ্যমিক বিদ্যালয়, বাহাদুরপুর।",
-        "male_count": 1255,
-        "female_count": 1286,
-        "hijra_count": 0,
-        "latitude": 23.05581,
-        "longitude": 88.952
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বুরুজবাগান উচ্চ বালিকা বিদ্যালয়, নাভারণ।",
-        "male_count": 2744,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.05569,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বুরুজবাগান মাধ্যমিক বিদ্যালয় (মূল ভবন), নাভারণ।",
-        "male_count": 2885,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95202
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বুরুজবাগান মাধ্যমিক বিদ্যালয় (সম্প্রসারিত ভবন), নাভারণ।\t",
-        "male_count": 0,
-        "female_count": 3195,
-        "hijra_count": 0,
-        "latitude": 23.05917,
-        "longitude": 88.99333
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বেড়ী নারায়নপুর সরকারি প্রাথমিক বিদ্যাঃ, নারায়নপুর।",
-        "male_count": 1574,
-        "female_count": 1522,
-        "hijra_count": 0,
-        "latitude": 23.07006,
-        "longitude": 88.97647
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বেনাপোল বাজার সরকারি প্রাথমিক বিদ্যালয়, দিঘিরপাড়।",
-        "male_count": 1154,
-        "female_count": 1259,
-        "hijra_count": 0,
-        "latitude": 23.05467,
-        "longitude": 88.91912
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বেনাপোল মদিনাতুল উলুম ফাযিল মাদ্রাসা, বেনাপোল।",
-        "male_count": 1836,
-        "female_count": 1845,
-        "hijra_count": 1,
-        "latitude": 23.05568,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বেনাপোল মহিলা সিনিয়র মাদ্রাসা (একাডেমিক ভবন-১), বেনাপোল। ",
-        "male_count": 2189,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.05357,
-        "longitude": 88.90296
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বেনাপোল মহিলা সিনিয়র মাদ্রাসা (একাডেমিক ভবন-২), বেনাপোল।",
-        "male_count": 0,
-        "female_count": 2253,
-        "hijra_count": 0,
-        "latitude": 23.05357,
-        "longitude": 88.90296
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বেনাপোল মাধ্যমিক বিদ্যালয়, (দ্বিতল নতুন ভবন), বেনাপোল।",
-        "male_count": 0,
-        "female_count": 2581,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বেনাপোল মাধ্যমিক বিদ্যালয় (শাপলা ভবন), বেনাপোল।",
-        "male_count": 2368,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বেনাপোল সরকারি প্রাথমিক বিদ্যালয়, বেনাপোল।",
-        "male_count": 1338,
-        "female_count": 1333,
-        "hijra_count": 1,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "বোয়ালিয়া-মানিক সরকারি প্রাথমিক বিদ্যালয়, মানকিয়া।",
-        "male_count": 1406,
-        "female_count": 1321,
-        "hijra_count": 0,
-        "latitude": 23.07097,
-        "longitude": 88.89385
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়, ভবানীপুর।",
-        "male_count": 1292,
-        "female_count": 1217,
-        "hijra_count": 0,
-        "latitude": 22.9144,
-        "longitude": 88.92244
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "মরিয়ম মেমোরিয়াল বালিকা বিদ্যালয়, বেনাপোল।",
-        "male_count": 1346,
-        "female_count": 1363,
-        "hijra_count": 0,
-        "latitude": 23.0444,
-        "longitude": 88.89916
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "মহিষাকুড়া সরকারি প্রাথমিক বিদ্যালয়, মহিষাকুড়া।",
-        "male_count": 1094,
-        "female_count": 1061,
-        "hijra_count": 0,
-        "latitude": 22.99135,
-        "longitude": 88.93683
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "মাটিপুকুরিয়া সরকারি প্রাথমিক বিদ্যালয়, মাটিপুকুরিয়া।",
-        "male_count": 1709,
-        "female_count": 1610,
-        "hijra_count": 0,
-        "latitude": 23.03313,
-        "longitude": 88.96691
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "যদুনাথপুর সরকারি প্রাথমিক বিদ্যালয়, যদুনাথপুর।",
-        "male_count": 1533,
-        "female_count": 1561,
-        "hijra_count": 0,
-        "latitude": 23.00251,
-        "longitude": 88.99684
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়, রঘুনাথপুর।",
-        "male_count": 1506,
-        "female_count": 1442,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "রহিমপুর আলিম মাদ্রাসা,  রহিমপুর।",
-        "male_count": 1865,
-        "female_count": 1789,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "রাজনগর সরকারি প্রাথমিক বিদ্যালয়, রাজনগর।",
-        "male_count": 1029,
-        "female_count": 1042,
-        "hijra_count": 0,
-        "latitude": 23.05931,
-        "longitude": 88.96992
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "রাজাপুর সরকারি প্রাথমিক বিদ্যালয়, রাজাপুর।",
-        "male_count": 1448,
-        "female_count": 1336,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "রাড়ীপুকুর সরকারি প্রাথমিক বিদ্যালয়, রাড়ীপুকুর।",
-        "male_count": 1962,
-        "female_count": 1937,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95202
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "রামপুর সরকারি প্রাথমিক বিদ্যালয়, রামপুর।",
-        "male_count": 1076,
-        "female_count": 1106,
-        "hijra_count": 0,
-        "latitude": 23.01391,
-        "longitude": 88.94662
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "রুদ্রপুর সরকারি প্রাথমিক বিদ্যালয়, রুদ্রপুর।",
-        "male_count": 1648,
-        "female_count": 1690,
-        "hijra_count": 0,
-        "latitude": 23.40365,
-        "longitude": 90.15173
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "লক্ষণপুর সরকারি প্রাথমিক বিদ্যালয়, লক্ষণপুর।",
-        "male_count": 1555,
-        "female_count": 1559,
-        "hijra_count": 0,
-        "latitude": 23.13277,
-        "longitude": 88.95602
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "লক্ষণপুর স্কুল এন্ড কলেজ,  লক্ষণপুর।",
-        "male_count": 1746,
-        "female_count": 1656,
-        "hijra_count": 0,
-        "latitude": 23.05577,
-        "longitude": 88.95199
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "লাউতাড়া সরকারি প্রাথমিক বিদ্যালয়, লাউতাড়া।",
-        "male_count": 1324,
-        "female_count": 1328,
-        "hijra_count": 0,
-        "latitude": 23.035,
-        "longitude": 88.95063
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "শাঁখারীপোতা সরকারি প্রাথমিক বিদ্যালয়, শাঁখারীপোতা।",
-        "male_count": 1660,
-        "female_count": 1716,
-        "hijra_count": 0,
-        "latitude": 23.09866,
-        "longitude": 88.91001
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "শাড়াতলা মাধ্যমিক বিদ্যালয়, শাড়াতলা",
-        "male_count": 1741,
-        "female_count": 1685,
-        "hijra_count": 0,
-        "latitude": 23.15356,
-        "longitude": 88.97052
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "শার্শা মডেল সরকারি প্রাথমিক বিদ্যালয়।",
-        "male_count": 1633,
-        "female_count": 1605,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95202
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "শার্শা সরকারি পাইলট মডেল মাধ্যমিক বিদ্যালয়, শার্শা।",
-        "male_count": 1974,
-        "female_count": 2117,
-        "hijra_count": 0,
-        "latitude": 23.05594,
-        "longitude": 88.95051
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "শিকারপুর সরকারি প্রাথমিক বিদ্যালয়, শিকারপুর।",
-        "male_count": 1136,
-        "female_count": 1060,
-        "hijra_count": 0,
-        "latitude": 23.16874,
-        "longitude": 88.94673
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "শিববাস শালকোনা সরকারি প্রাথমিক বিদ্যালয়, শালকোনা।",
-        "male_count": 1560,
-        "female_count": 1505,
-        "hijra_count": 0,
-        "latitude": 23.24359,
-        "longitude": 89.01894
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "শ্যামলাগাছি সরকারি প্রাথমিক বিদ্যালয়, শ্যামলাগাছি।",
-        "male_count": 1628,
-        "female_count": 1645,
-        "hijra_count": 0,
-        "latitude": 23.05571,
-        "longitude": 88.95202
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "সম্বন্ধকাটি সরকারি প্রাথমিক বিদ্যালয়, সম্বন্ধকাটি।",
-        "male_count": 2023,
-        "female_count": 1935,
-        "hijra_count": 0,
-        "latitude": 23.03757,
-        "longitude": 88.99115
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "সাদীপুর সরকারি প্রাথমিক বিদ্যালয়, সাদীপুর।",
-        "male_count": 1705,
-        "female_count": 1643,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "সামটা টেংরা সরকারি প্রাথমিক বিদ্যালয়, সামটা।",
-        "male_count": 1730,
-        "female_count": 1703,
-        "hijra_count": 0,
-        "latitude": 22.99328,
-        "longitude": 88.97716
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "সূবর্ণখালী সরকারি প্রাথমিক বিদ্যালয়, সূবর্ণখালী।",
-        "male_count": 813,
-        "female_count": 757,
-        "hijra_count": 0,
-        "latitude": 23.09112,
-        "longitude": 88.96661
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "সোনানদীয়া গাতিপাড়া  দারুস সুন্না দাখিল মাদ্রাসা, গাতীপাড়া।",
-        "male_count": 1179,
-        "female_count": 1093,
-        "hijra_count": 0,
-        "latitude": 23.0557,
-        "longitude": 88.95201
-    },
-    {
-        "settings_code": 85,
-        "settings_name": "যশোর-১",
-        "center_name": "স্বরুপদহ সরকারি প্রাথমিক বিদ্যালয়, স্বরুপদহ।",
-        "male_count": 1363,
-        "female_count": 1358,
-        "hijra_count": 0,
-        "latitude": 23.07166,
-        "longitude": 88.95328
-    }
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "অগ্রভূলাট হাসানিয়া স্বতন্ত্র এবতেদায়ী মাদ্রাসা, অগ্রভূলাট",
+    "male_count": 1352,
+    "female_count": 1331,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "আমলাই সরকারি প্রাথমিক বিদ্যালয়, আমলাই।",
+    "male_count": 2057,
+    "female_count": 1983,
+    "hijra_count": 0,
+    "latitude": 22.95933,
+    "longitude": 88.89617
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "আলমগীর সরকারি প্রাথমিক বিদ্যালয়, বারীপোতা।",
+    "male_count": 1487,
+    "female_count": 1480,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "আলহাজ্ব শামছুর রহমান সরকারি প্রাথমিক বিদ্যালয়, খড়িডাঙ্গা।",
+    "male_count": 973,
+    "female_count": 963,
+    "hijra_count": 0,
+    "latitude": 23.02126,
+    "longitude": 88.90534
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "ইছাপুর সরকারি প্রাথমিক বিদ্যালয়, ইছাপুর।",
+    "male_count": 1619,
+    "female_count": 1586,
+    "hijra_count": 0,
+    "latitude": 23.27045,
+    "longitude": 89.03559
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "উত্তর কাগজপুকুর স্বতন্ত্র এবতেদায়ী মাদ্রাসা, কাগজপুকুর।",
+    "male_count": 1634,
+    "female_count": 1565,
+    "hijra_count": 0,
+    "latitude": 23.06183,
+    "longitude": 88.91937
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "উলাশী মাধ্যমিক বিদ্যালয়, উলাশী।",
+    "male_count": 2397,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.03208,
+    "longitude": 88.99947
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "উলাশী সরকারি প্রাথমিক বিদ্যালয়, উলাশী",
+    "male_count": 0,
+    "female_count": 2486,
+    "hijra_count": 0,
+    "latitude": 23.05568,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কন্দর্পপুর সরকারি প্রাথমকি বিদ্যালয়, কন্দর্পপুর।",
+    "male_count": 1110,
+    "female_count": 1087,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কন্যাদাহ সরকারি প্রাথমিক বিদ্যালয়, কন্যাদাহ।",
+    "male_count": 1742,
+    "female_count": 1691,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কাগজপুকুর সরকারি প্রাথমিক বিদ্যালয়, কাগজপুকুর।",
+    "male_count": 1699,
+    "female_count": 1678,
+    "hijra_count": 0,
+    "latitude": 23.05568,
+    "longitude": 88.95204
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কায়বা বাইকোলা মাধ্যমিক বিদ্যালয়, বাইকোলা।",
+    "male_count": 1427,
+    "female_count": 1525,
+    "hijra_count": 0,
+    "latitude": 22.94183,
+    "longitude": 88.93704
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কায়বা সরকারি প্রাথমিক  বিদ্যালয়, পাড়ের কায়বা।",
+    "male_count": 1344,
+    "female_count": 1361,
+    "hijra_count": 0,
+    "latitude": 22.90593,
+    "longitude": 88.94363
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কাশিপুর সরকারি প্রাথমিক বিদ্যালয়, কাশিপুর।",
+    "male_count": 1954,
+    "female_count": 1924,
+    "hijra_count": 0,
+    "latitude": 23.17205,
+    "longitude": 88.96849
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কুদলারহাট মাধ্যমিক বিদ্যালয়, মানকিয়া।",
+    "male_count": 1298,
+    "female_count": 1235,
+    "hijra_count": 0,
+    "latitude": 23.06909,
+    "longitude": 88.89146
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কুলপালা সরকারি প্রাথমিক বিদ্যালয়, গাতীপাড়া।",
+    "male_count": 1459,
+    "female_count": 1405,
+    "hijra_count": 0,
+    "latitude": 23.08236,
+    "longitude": 88.99083
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়, কৃষ্ণপুর।",
+    "male_count": 1099,
+    "female_count": 1092,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কেরালখালী পাড়িয়ারঘোপ মাধ্যমিক বিদ্যালয়, কেরালখালী।",
+    "male_count": 0,
+    "female_count": 2903,
+    "hijra_count": 0,
+    "latitude": 23.05569,
+    "longitude": 88.95202
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "কেরালখালী সরকারি প্রাথমিক বিদ্যালয়, কেরালখালী",
+    "male_count": 3013,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.10658,
+    "longitude": 88.99469
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "খলশী সরকারি প্রাথমিক বিদ্যালয়, খলশী।",
+    "male_count": 822,
+    "female_count": 822,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "গয়ড়া সরকারি প্রাথমিক বিদ্যালয়, গয়ড়া।",
+    "male_count": 1884,
+    "female_count": 1834,
+    "hijra_count": 0,
+    "latitude": 23.21782,
+    "longitude": 88.95755
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "গোগা কালিয়ানী মাধ্যমিক বিদ্যালয়, গোগা পশ্চিম।",
+    "male_count": 1696,
+    "female_count": 1831,
+    "hijra_count": 0,
+    "latitude": 23.05581,
+    "longitude": 88.952
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "গোগা কালিয়ানী সরকারি প্রাথমিক বিদ্যালয়, কালিয়ানী।",
+    "male_count": 1378,
+    "female_count": 1401,
+    "hijra_count": 0,
+    "latitude": 22.95932,
+    "longitude": 88.89623
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "গোগা সরকারি প্রাথমিক বিদ্যালয়, গোগা পূর্ব।",
+    "male_count": 1363,
+    "female_count": 1372,
+    "hijra_count": 0,
+    "latitude": 22.94843,
+    "longitude": 88.90391
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "গোড়পাড়া মাধ্যমিক বিদ্যালয়, গোড়পাড়া।",
+    "male_count": 1244,
+    "female_count": 1242,
+    "hijra_count": 0,
+    "latitude": 23.12817,
+    "longitude": 88.97062
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "গোড়পাড়া সরকারি প্রাথমিক বিদ্যালয়, গোড়পাড়া।",
+    "male_count": 1412,
+    "female_count": 1399,
+    "hijra_count": 0,
+    "latitude": 23.05572,
+    "longitude": 88.95204
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "ঘিবা সরকারি প্রাথমিক বিদ্যালয়, ঘিবা উত্তর।",
+    "male_count": 2123,
+    "female_count": 1964,
+    "hijra_count": 0,
+    "latitude": 23.07535,
+    "longitude": 88.89482
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "চালিতাবাড়ীয়া আর ডি বহুমুখী মাধ্যমিক  বিদ্যালয় (নতুন ভবন), চালিতাবাড়ীয়া।",
+    "male_count": 0,
+    "female_count": 2307,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "চালিতাবাড়ীয়া আর ডি বহুমুখী মাধ্যমিক বিদ্যালয় (মুল ভবন), চালিতাবাড়ীয়া।",
+    "male_count": 2265,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "ডি,এস,টি, মাধ্যমিক বিদ্যালয়, টেংরা।",
+    "male_count": 1901,
+    "female_count": 1870,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95202
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "ডিহি সরকারি প্রাথমিক বিদ্যালয়, ডিহি।",
+    "male_count": 1296,
+    "female_count": 1252,
+    "hijra_count": 0,
+    "latitude": 23.15005,
+    "longitude": 88.95428
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "তবিবর রহমান সরদার (টি,আর,এস) মাধ্যমিক বিদ্যালয়, ধলদাহ।",
+    "male_count": 1426,
+    "female_count": 1448,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "দৌলতপুর দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়, দৌলতপুর।",
+    "male_count": 800,
+    "female_count": 814,
+    "hijra_count": 0,
+    "latitude": 23.01598,
+    "longitude": 88.87707
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "ধানতাড়া কোটা সরকারি প্রাথমিক বিদ্যালয়, ধান্যতাড়া।",
+    "male_count": 2063,
+    "female_count": 1986,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "ধান্যখোলা মাধ্যমিক বিদ্যালয়, ধান্যখোলা।",
+    "male_count": 1913,
+    "female_count": 1883,
+    "hijra_count": 0,
+    "latitude": 23.09373,
+    "longitude": 88.89443
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "নটাদিঘা ডুবপাড়া সরকারি প্রাথমিক বিদ্যালয়, নটাদিঘা।",
+    "male_count": 1214,
+    "female_count": 1078,
+    "hijra_count": 0,
+    "latitude": 23.07537,
+    "longitude": 88.92488
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "নাভারণ রেলবাজার সরকারি প্রাথমিক বিদ্যালয়, নাভারণ।",
+    "male_count": 0,
+    "female_count": 2979,
+    "hijra_count": 0,
+    "latitude": 23.05805,
+    "longitude": 88.99717
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "নারিকেলবাড়ীয়া ফুলসর সরকারি প্রাথমিক বিদ্যালয়, নারিকেলবাড়ীয়া।",
+    "male_count": 1045,
+    "female_count": 948,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "নিজামপুর মাধ্যমিক বিদ্যালয়, নিজামপুর।",
+    "male_count": 1701,
+    "female_count": 1663,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95202
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "পাকশিয়া মাধ্যমিক বিদ্যালয়, পাকশিয়া।",
+    "male_count": 2046,
+    "female_count": 1893,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "পারুইখুপী সরকারি প্রাথমিক বিদ্যালয়, পারুইখুপী।",
+    "male_count": 942,
+    "female_count": 860,
+    "hijra_count": 0,
+    "latitude": 23.11319,
+    "longitude": 88.94995
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "পি.কে. রাজগঞ্জ সরকারি  প্রাথমিক বিদ্যালয়, পাঁচ ভূলাট।",
+    "male_count": 1485,
+    "female_count": 1437,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "পুটখালী মাধ্যমিক বিদ্যালয়, পুটখালী।",
+    "male_count": 0,
+    "female_count": 2260,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95202
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "পুটখালী সরকারি প্রাথমিক বিদ্যালয়, পুটখালী।",
+    "male_count": 2200,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.05568,
+    "longitude": 88.95203
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "পোড়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়, পোড়াবাড়ী।",
+    "male_count": 1865,
+    "female_count": 1956,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বড় আঁচড়া সরকারি প্রাথমিক বিদ্যালয়, বড় আঁচড়া।",
+    "male_count": 1448,
+    "female_count": 1394,
+    "hijra_count": 0,
+    "latitude": 23.03925,
+    "longitude": 88.8867
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বড় আঁচড়া হযরত আবু বকর সিদ্দিক (রাঃ) দাখিল মাদ্রাসা, বড় আঁচড়া।",
+    "male_count": 1284,
+    "female_count": 1379,
+    "hijra_count": 0,
+    "latitude": 23.03524,
+    "longitude": 88.88727
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বড়বাড়িয়া সরকারি প্রাথমিক বিদ্যালয়, বড়বাড়িয়া।",
+    "male_count": 1141,
+    "female_count": 1179,
+    "hijra_count": 0,
+    "latitude": 23.01218,
+    "longitude": 88.98792
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বসতপুর কলোনী সরকারি প্রাথমিক বিদ্যালয়, বসতপুর ১নং কলোনী।",
+    "male_count": 1242,
+    "female_count": 1262,
+    "hijra_count": 0,
+    "latitude": 23.0558,
+    "longitude": 88.952
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বসতপুর সরকারি প্রাথমিক বিদ্যালয়, বসতপুর।",
+    "male_count": 2495,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.96588,
+    "longitude": 88.95865
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বসতপুর হোসাইনিয়া সিনিয়র মাদ্রাসা, বসতপুর।",
+    "male_count": 0,
+    "female_count": 2517,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বহিলাপোতা সরকারি প্রাথমিক বিদ্যালয়, বহিলাপোতা।",
+    "male_count": 1824,
+    "female_count": 1632,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বাগআঁচড়া ইউনাইটেড মাধ্যমিক বিদ্যালয়, বাগআঁচড়া।",
+    "male_count": 1687,
+    "female_count": 1862,
+    "hijra_count": 0,
+    "latitude": 22.9554,
+    "longitude": 88.98451
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বাগআঁচড়া বালিকা আলিম মাদ্রাসা, সাতমাইল।",
+    "male_count": 2002,
+    "female_count": 2145,
+    "hijra_count": 0,
+    "latitude": 23.05569,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বাগআঁচড়া মাঠপাড়া সরকারি প্রাথমিক বিদ্যালয়, বাগআঁচড়া উত্তর পাড়া।",
+    "male_count": 1561,
+    "female_count": 1608,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বাগুড়ী সরকারি প্রাথমিক বিদ্যালয়, বাগুড়ী।",
+    "male_count": 1520,
+    "female_count": 1605,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বামুনিয়া-সোনাতনকাটি মাধ্যমিক বালিকা বিদ্যালয়, সোনাতনকাটি।",
+    "male_count": 1186,
+    "female_count": 1187,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বারপোতা ইউনাইটেড মাধ্যমিক বিদ্যালয়, বারপোতা।",
+    "male_count": 2069,
+    "female_count": 2082,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বারপোতা ছিদ্দিকীয়া দাখিল মাদ্রাসা, বারপোতা",
+    "male_count": 944,
+    "female_count": 978,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বালুন্ডা মাধ্যমিক বিদ্যালয়, বালুন্ডা।",
+    "male_count": 0,
+    "female_count": 2376,
+    "hijra_count": 0,
+    "latitude": 22.99164,
+    "longitude": 88.92654
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বালুন্ডা সরকারি প্রাথমিক বিদ্যালয়, বালুন্ডা।",
+    "male_count": 2398,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.99171,
+    "longitude": 88.92646
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বাহাদুরপুর মাধ্যমিক বিদ্যালয়, বাহাদুরপুর।",
+    "male_count": 1255,
+    "female_count": 1286,
+    "hijra_count": 0,
+    "latitude": 23.05581,
+    "longitude": 88.952
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বুরুজবাগান উচ্চ বালিকা বিদ্যালয়, নাভারণ।",
+    "male_count": 2744,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.05569,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বুরুজবাগান মাধ্যমিক বিদ্যালয় (মূল ভবন), নাভারণ।",
+    "male_count": 2885,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95202
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বুরুজবাগান মাধ্যমিক বিদ্যালয় (সম্প্রসারিত ভবন), নাভারণ।\t",
+    "male_count": 0,
+    "female_count": 3195,
+    "hijra_count": 0,
+    "latitude": 23.05917,
+    "longitude": 88.99333
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বেড়ী নারায়নপুর সরকারি প্রাথমিক বিদ্যাঃ, নারায়নপুর।",
+    "male_count": 1574,
+    "female_count": 1522,
+    "hijra_count": 0,
+    "latitude": 23.07006,
+    "longitude": 88.97647
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বেনাপোল বাজার সরকারি প্রাথমিক বিদ্যালয়, দিঘিরপাড়।",
+    "male_count": 1154,
+    "female_count": 1259,
+    "hijra_count": 0,
+    "latitude": 23.05467,
+    "longitude": 88.91912
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বেনাপোল মদিনাতুল উলুম ফাযিল মাদ্রাসা, বেনাপোল।",
+    "male_count": 1836,
+    "female_count": 1845,
+    "hijra_count": 1,
+    "latitude": 23.05568,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বেনাপোল মহিলা সিনিয়র মাদ্রাসা (একাডেমিক ভবন-১), বেনাপোল। ",
+    "male_count": 2189,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.05357,
+    "longitude": 88.90296
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বেনাপোল মহিলা সিনিয়র মাদ্রাসা (একাডেমিক ভবন-২), বেনাপোল।",
+    "male_count": 0,
+    "female_count": 2253,
+    "hijra_count": 0,
+    "latitude": 23.05357,
+    "longitude": 88.90296
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বেনাপোল মাধ্যমিক বিদ্যালয়, (দ্বিতল নতুন ভবন), বেনাপোল।",
+    "male_count": 0,
+    "female_count": 2581,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বেনাপোল মাধ্যমিক বিদ্যালয় (শাপলা ভবন), বেনাপোল।",
+    "male_count": 2368,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বেনাপোল সরকারি প্রাথমিক বিদ্যালয়, বেনাপোল।",
+    "male_count": 1338,
+    "female_count": 1333,
+    "hijra_count": 1,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "বোয়ালিয়া-মানিক সরকারি প্রাথমিক বিদ্যালয়, মানকিয়া।",
+    "male_count": 1406,
+    "female_count": 1321,
+    "hijra_count": 0,
+    "latitude": 23.07097,
+    "longitude": 88.89385
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়, ভবানীপুর।",
+    "male_count": 1292,
+    "female_count": 1217,
+    "hijra_count": 0,
+    "latitude": 22.9144,
+    "longitude": 88.92244
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "মরিয়ম মেমোরিয়াল বালিকা বিদ্যালয়, বেনাপোল।",
+    "male_count": 1346,
+    "female_count": 1363,
+    "hijra_count": 0,
+    "latitude": 23.0444,
+    "longitude": 88.89916
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "মহিষাকুড়া সরকারি প্রাথমিক বিদ্যালয়, মহিষাকুড়া।",
+    "male_count": 1094,
+    "female_count": 1061,
+    "hijra_count": 0,
+    "latitude": 22.99135,
+    "longitude": 88.93683
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "মাটিপুকুরিয়া সরকারি প্রাথমিক বিদ্যালয়, মাটিপুকুরিয়া।",
+    "male_count": 1709,
+    "female_count": 1610,
+    "hijra_count": 0,
+    "latitude": 23.03313,
+    "longitude": 88.96691
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "যদুনাথপুর সরকারি প্রাথমিক বিদ্যালয়, যদুনাথপুর।",
+    "male_count": 1533,
+    "female_count": 1561,
+    "hijra_count": 0,
+    "latitude": 23.00251,
+    "longitude": 88.99684
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়, রঘুনাথপুর।",
+    "male_count": 1506,
+    "female_count": 1442,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "রহিমপুর আলিম মাদ্রাসা,  রহিমপুর।",
+    "male_count": 1865,
+    "female_count": 1789,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "রাজনগর সরকারি প্রাথমিক বিদ্যালয়, রাজনগর।",
+    "male_count": 1029,
+    "female_count": 1042,
+    "hijra_count": 0,
+    "latitude": 23.05931,
+    "longitude": 88.96992
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "রাজাপুর সরকারি প্রাথমিক বিদ্যালয়, রাজাপুর।",
+    "male_count": 1448,
+    "female_count": 1336,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "রাড়ীপুকুর সরকারি প্রাথমিক বিদ্যালয়, রাড়ীপুকুর।",
+    "male_count": 1962,
+    "female_count": 1937,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95202
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "রামপুর সরকারি প্রাথমিক বিদ্যালয়, রামপুর।",
+    "male_count": 1076,
+    "female_count": 1106,
+    "hijra_count": 0,
+    "latitude": 23.01391,
+    "longitude": 88.94662
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "রুদ্রপুর সরকারি প্রাথমিক বিদ্যালয়, রুদ্রপুর।",
+    "male_count": 1648,
+    "female_count": 1690,
+    "hijra_count": 0,
+    "latitude": 23.40365,
+    "longitude": 90.15173
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "লক্ষণপুর সরকারি প্রাথমিক বিদ্যালয়, লক্ষণপুর।",
+    "male_count": 1555,
+    "female_count": 1559,
+    "hijra_count": 0,
+    "latitude": 23.13277,
+    "longitude": 88.95602
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "লক্ষণপুর স্কুল এন্ড কলেজ,  লক্ষণপুর।",
+    "male_count": 1746,
+    "female_count": 1656,
+    "hijra_count": 0,
+    "latitude": 23.05577,
+    "longitude": 88.95199
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "লাউতাড়া সরকারি প্রাথমিক বিদ্যালয়, লাউতাড়া।",
+    "male_count": 1324,
+    "female_count": 1328,
+    "hijra_count": 0,
+    "latitude": 23.035,
+    "longitude": 88.95063
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "শাঁখারীপোতা সরকারি প্রাথমিক বিদ্যালয়, শাঁখারীপোতা।",
+    "male_count": 1660,
+    "female_count": 1716,
+    "hijra_count": 0,
+    "latitude": 23.09866,
+    "longitude": 88.91001
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "শাড়াতলা মাধ্যমিক বিদ্যালয়, শাড়াতলা",
+    "male_count": 1741,
+    "female_count": 1685,
+    "hijra_count": 0,
+    "latitude": 23.15356,
+    "longitude": 88.97052
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "শার্শা মডেল সরকারি প্রাথমিক বিদ্যালয়।",
+    "male_count": 1633,
+    "female_count": 1605,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95202
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "শার্শা সরকারি পাইলট মডেল মাধ্যমিক বিদ্যালয়, শার্শা।",
+    "male_count": 1974,
+    "female_count": 2117,
+    "hijra_count": 0,
+    "latitude": 23.05594,
+    "longitude": 88.95051
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "শিকারপুর সরকারি প্রাথমিক বিদ্যালয়, শিকারপুর।",
+    "male_count": 1136,
+    "female_count": 1060,
+    "hijra_count": 0,
+    "latitude": 23.16874,
+    "longitude": 88.94673
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "শিববাস শালকোনা সরকারি প্রাথমিক বিদ্যালয়, শালকোনা।",
+    "male_count": 1560,
+    "female_count": 1505,
+    "hijra_count": 0,
+    "latitude": 23.24359,
+    "longitude": 89.01894
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "শ্যামলাগাছি সরকারি প্রাথমিক বিদ্যালয়, শ্যামলাগাছি।",
+    "male_count": 1628,
+    "female_count": 1645,
+    "hijra_count": 0,
+    "latitude": 23.05571,
+    "longitude": 88.95202
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "সম্বন্ধকাটি সরকারি প্রাথমিক বিদ্যালয়, সম্বন্ধকাটি।",
+    "male_count": 2023,
+    "female_count": 1935,
+    "hijra_count": 0,
+    "latitude": 23.03757,
+    "longitude": 88.99115
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "সাদীপুর সরকারি প্রাথমিক বিদ্যালয়, সাদীপুর।",
+    "male_count": 1705,
+    "female_count": 1643,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "সামটা টেংরা সরকারি প্রাথমিক বিদ্যালয়, সামটা।",
+    "male_count": 1730,
+    "female_count": 1703,
+    "hijra_count": 0,
+    "latitude": 22.99328,
+    "longitude": 88.97716
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "সূবর্ণখালী সরকারি প্রাথমিক বিদ্যালয়, সূবর্ণখালী।",
+    "male_count": 813,
+    "female_count": 757,
+    "hijra_count": 0,
+    "latitude": 23.09112,
+    "longitude": 88.96661
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "সোনানদীয়া গাতিপাড়া  দারুস সুন্না দাখিল মাদ্রাসা, গাতীপাড়া।",
+    "male_count": 1179,
+    "female_count": 1093,
+    "hijra_count": 0,
+    "latitude": 23.0557,
+    "longitude": 88.95201
+  },
+  {
+    "settings_code": 85,
+    "settings_name": "যশোর-১",
+    "center_name": "স্বরুপদহ সরকারি প্রাথমিক বিদ্যালয়, স্বরুপদহ।",
+    "male_count": 1363,
+    "female_count": 1358,
+    "hijra_count": 0,
+    "latitude": 23.07166,
+    "longitude": 88.95328
+  }
 ]

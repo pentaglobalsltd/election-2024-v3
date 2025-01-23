@@ -1,1162 +1,1162 @@
 [
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আদর্শ মাধ্যমিক বিদ্যালয়",
-        "male_count": 1893,
-        "female_count": 1909,
-        "hijra_count": 0,
-        "latitude": 23.67333,
-        "longitude": 88.61558
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আনন্দবাস মিয়া মুনসুর একাডেমী",
-        "male_count": 4277,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.63242,
-        "longitude": 88.61216
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আনন্দবাস সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4254,
-        "hijra_count": 0,
-        "latitude": 23.63182,
-        "longitude": 88.61222
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আমঝুপি উত্তরপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1255,
-        "female_count": 1294,
-        "hijra_count": 0,
-        "latitude": 23.7613,
-        "longitude": 88.68517
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আমঝুপি মাধ্যমিক বালিকা বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2522,
-        "hijra_count": 0,
-        "latitude": 23.74616,
-        "longitude": 88.68411
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আমঝুপি মাধ্যমিক বিদ্যালয়",
-        "male_count": 2430,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.74635,
-        "longitude": 88.68445
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আমঝুপি সরকারী বালিকা প্রাথমিক বিদ্যালয়",
-        "male_count": 1290,
-        "female_count": 1360,
-        "hijra_count": 0,
-        "latitude": 23.74845,
-        "longitude": 88.67991
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আমদহ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1550,
-        "female_count": 1580,
-        "hijra_count": 0,
-        "latitude": 23.73669,
-        "longitude": 88.63241
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আলমপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 882,
-        "female_count": 879,
-        "hijra_count": 0,
-        "latitude": 23.79805,
-        "longitude": 88.69009
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আশরাফপুর পশ্চিমপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1426,
-        "female_count": 1407,
-        "hijra_count": 0,
-        "latitude": 23.70806,
-        "longitude": 88.64113
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "আশরাফপুর পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1277,
-        "female_count": 1340,
-        "hijra_count": 0,
-        "latitude": 23.70645,
-        "longitude": 88.64635
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "ইছাখালী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1470,
-        "female_count": 1436,
-        "hijra_count": 0,
-        "latitude": 23.80346,
-        "longitude": 88.59918
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "ইসলামনগর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1162,
-        "female_count": 1018,
-        "hijra_count": 0,
-        "latitude": 23.76058,
-        "longitude": 88.70457
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "ইসলামপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1375,
-        "female_count": 1320,
-        "hijra_count": 0,
-        "latitude": 23.68647,
-        "longitude": 88.66878
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "উজলপুর মাধ্যমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2648,
-        "hijra_count": 0,
-        "latitude": 23.81462,
-        "longitude": 88.62601
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "উজলপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2641,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.81748,
-        "longitude": 88.62735
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "উত্তর শালিকা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1118,
-        "female_count": 1006,
-        "hijra_count": 0,
-        "latitude": 23.82723,
-        "longitude": 88.67106
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "এস, এম সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1831,
-        "female_count": 2005,
-        "hijra_count": 0,
-        "latitude": 23.77902,
-        "longitude": 88.628
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কলাইডাংগা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1124,
-        "female_count": 1102,
-        "hijra_count": 0,
-        "latitude": 23.71957,
-        "longitude": 88.73216
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কাঁঠালপোতা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1457,
-        "female_count": 1413,
-        "hijra_count": 0,
-        "latitude": 23.68924,
-        "longitude": 88.70987
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কালাচাঁদপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 729,
-        "female_count": 743,
-        "hijra_count": 0,
-        "latitude": 23.80006,
-        "longitude": 88.61743
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কালীগাংনী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1472,
-        "female_count": 1429,
-        "hijra_count": 0,
-        "latitude": 23.84402,
-        "longitude": 88.69112
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কুতুবপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1442,
-        "female_count": 1485,
-        "hijra_count": 0,
-        "latitude": 23.86287,
-        "longitude": 88.63828
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কুলবাড়ীয়া মাধ্যমিক বিদ্যালয়",
-        "male_count": 1638,
-        "female_count": 1599,
-        "hijra_count": 0,
-        "latitude": 23.83296,
-        "longitude": 88.64028
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কেদারগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 936,
-        "female_count": 968,
-        "hijra_count": 0,
-        "latitude": 23.65459,
-        "longitude": 88.59961
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কোমরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1801,
-        "female_count": 1822,
-        "hijra_count": 0,
-        "latitude": 23.68333,
-        "longitude": 88.6753
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "কোলা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1702,
-        "female_count": 1719,
-        "hijra_count": 0,
-        "latitude": 23.72837,
-        "longitude": 88.66485
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "খন্দকার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1079,
-        "female_count": 1130,
-        "hijra_count": 0,
-        "latitude": 23.75478,
-        "longitude": 88.64715
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "খোকসা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1516,
-        "female_count": 1486,
-        "hijra_count": 0,
-        "latitude": 23.77489,
-        "longitude": 88.69077
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "গহরপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 807,
-        "female_count": 808,
-        "hijra_count": 0,
-        "latitude": 23.70498,
-        "longitude": 88.71812
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1558,
-        "female_count": 1567,
-        "hijra_count": 0,
-        "latitude": 23.67994,
-        "longitude": 88.68302
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "গোপালপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1203,
-        "female_count": 1216,
-        "hijra_count": 0,
-        "latitude": 23.78251,
-        "longitude": 88.66448
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "গোভীপুর মাধ্যমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2692,
-        "hijra_count": 0,
-        "latitude": 23.77996,
-        "longitude": 88.62279
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "গোভীপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2644,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.78069,
-        "longitude": 88.62203
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "গৌরীনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1758,
-        "female_count": 1786,
-        "hijra_count": 0,
-        "latitude": 23.69133,
-        "longitude": 88.60948
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "গ্লোরিয়াস প্রি-ক্যাডেট একাডেমি",
-        "male_count": 1202,
-        "female_count": 1334,
-        "hijra_count": 0,
-        "latitude": 23.76922,
-        "longitude": 88.62813
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "চকশ্যামনগর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1328,
-        "female_count": 1306,
-        "hijra_count": 0,
-        "latitude": 23.73711,
-        "longitude": 88.62238
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "চাঁদপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1432,
-        "female_count": 1416,
-        "hijra_count": 0,
-        "latitude": 23.84355,
-        "longitude": 88.64466
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "চাঁদবিল, ময়ামারী, কোলা (সি, এম, সি) মাধ্যমিক বিদ্যালয়",
-        "male_count": 1590,
-        "female_count": 1628,
-        "hijra_count": 0,
-        "latitude": 23.75298,
-        "longitude": 88.67106
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "জয়পুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1457,
-        "female_count": 1376,
-        "hijra_count": 0,
-        "latitude": 23.62415,
-        "longitude": 88.62846
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "ঝাউবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 846,
-        "female_count": 856,
-        "hijra_count": 0,
-        "latitude": 23.80271,
-        "longitude": 88.64145
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "টেংরামারী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1172,
-        "female_count": 1169,
-        "hijra_count": 0,
-        "latitude": 23.67819,
-        "longitude": 88.64922
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "তাঁতীপাড়া মহিলা দাখিল মাদ্রাসা",
-        "male_count": 1478,
-        "female_count": 1593,
-        "hijra_count": 0,
-        "latitude": 23.78072,
-        "longitude": 88.62845
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "তারানগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 971,
-        "female_count": 989,
-        "hijra_count": 0,
-        "latitude": 23.62235,
-        "longitude": 88.62688
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "তেরঘরিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1200,
-        "female_count": 1184,
-        "hijra_count": 0,
-        "latitude": 23.83828,
-        "longitude": 88.61021
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "দফরপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 941,
-        "female_count": 887,
-        "hijra_count": 0,
-        "latitude": 23.73733,
-        "longitude": 88.66581
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "দারিয়াপুর গাওছিয়া দাখিল মাদরাসা",
-        "male_count": 2188,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.70065,
-        "longitude": 88.60385
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "দারিয়াপুর মাধ্যমিক বিদ্যালয়",
-        "male_count": 1641,
-        "female_count": 1664,
-        "hijra_count": 0,
-        "latitude": 23.7096,
-        "longitude": 88.60964
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "দারিয়াপুর সরকারি বালক প্রাথমিক বিদ্যালয়",
-        "male_count": 1024,
-        "female_count": 1014,
-        "hijra_count": 0,
-        "latitude": 23.70972,
-        "longitude": 88.60944
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "নতুন দরবেশপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1164,
-        "female_count": 1103,
-        "hijra_count": 0,
-        "latitude": 23.71123,
-        "longitude": 88.77361
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "নাজিরাকোনা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 816,
-        "female_count": 801,
-        "hijra_count": 0,
-        "latitude": 23.65458,
-        "longitude": 88.5996
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "পাটকেলপোতা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1126,
-        "female_count": 1072,
-        "hijra_count": 0,
-        "latitude": 23.72457,
-        "longitude": 88.74509
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "পিরোজপুর দাখিল মাদ্রাসা",
-        "male_count": 1172,
-        "female_count": 1131,
-        "hijra_count": 0,
-        "latitude": 23.70673,
-        "longitude": 88.68564
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "পিরোজপুর মাধ্যমিক বিদ্যালয়",
-        "male_count": 1301,
-        "female_count": 1189,
-        "hijra_count": 0,
-        "latitude": 23.70501,
-        "longitude": 88.67847
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "পিরোজপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2477,
-        "female_count": 2453,
-        "hijra_count": 0,
-        "latitude": 23.70496,
-        "longitude": 88.68771
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "পুরন্দরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2225,
-        "hijra_count": 0,
-        "latitude": 23.70064,
-        "longitude": 88.60384
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "পুরাতন মদনাডাংগা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 783,
-        "female_count": 762,
-        "hijra_count": 0,
-        "latitude": 23.77781,
-        "longitude": 88.67606
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "পৌর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1361,
-        "female_count": 1539,
-        "hijra_count": 0,
-        "latitude": 23.77514,
-        "longitude": 88.63344
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "ফতেপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 896,
-        "female_count": 942,
-        "hijra_count": 0,
-        "latitude": 23.80817,
-        "longitude": 88.61509
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বড় বাজার সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1713,
-        "female_count": 1824,
-        "hijra_count": 0,
-        "latitude": 23.77906,
-        "longitude": 88.63118
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বলিয়ারপুর পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 934,
-        "female_count": 948,
-        "hijra_count": 0,
-        "latitude": 23.69731,
-        "longitude": 88.73924
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বলিয়ারপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 969,
-        "female_count": 946,
-        "hijra_count": 0,
-        "latitude": 23.69913,
-        "longitude": 88.72948
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বল্লভপুর সরকারি প্রাথমিক বিদ্যালয়, বল্লভপুর ও সংলগ্ন মিশন মাধ্যমিক বিদ্যালয়",
-        "male_count": 1292,
-        "female_count": 1379,
-        "hijra_count": 0,
-        "latitude": 23.66094,
-        "longitude": 88.61663
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বাগোয়ান মাধ্যমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2105,
-        "hijra_count": 0,
-        "latitude": 23.64452,
-        "longitude": 88.62482
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বাগোয়ান সরকারি প্রাথমিক বিদ্যালয়, বাগোয়ান",
-        "male_count": 2111,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.6446,
-        "longitude": 88.62479
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বাড়ীবাঁকা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1170,
-        "female_count": 1165,
-        "hijra_count": 0,
-        "latitude": 23.75945,
-        "longitude": 88.59288
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বাবুপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 851,
-        "female_count": 852,
-        "hijra_count": 0,
-        "latitude": 23.65191,
-        "longitude": 88.66591
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বামনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1782,
-        "female_count": 1763,
-        "hijra_count": 0,
-        "latitude": 23.75252,
-        "longitude": 88.62999
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বিশ্বনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 824,
-        "female_count": 820,
-        "hijra_count": 0,
-        "latitude": 23.67647,
-        "longitude": 88.61557
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বুড়িপোতা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1890,
-        "female_count": 1818,
-        "hijra_count": 0,
-        "latitude": 23.76641,
-        "longitude": 88.58202
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "বেলেগাড়ীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1015,
-        "female_count": 997,
-        "hijra_count": 0,
-        "latitude": 23.77814,
-        "longitude": 88.65346
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1124,
-        "female_count": 1179,
-        "hijra_count": 0,
-        "latitude": 23.66841,
-        "longitude": 88.61796
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "ময়ামারী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 812,
-        "female_count": 787,
-        "hijra_count": 0,
-        "latitude": 23.76347,
-        "longitude": 88.67244
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মহাজনপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1889,
-        "female_count": 1894,
-        "hijra_count": 0,
-        "latitude": 23.65406,
-        "longitude": 88.67322
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মিশন প্রাথমিক বিদ্যালয়",
-        "male_count": 1233,
-        "female_count": 1378,
-        "hijra_count": 0,
-        "latitude": 23.76258,
-        "longitude": 88.63142
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মুজিবনগর সরকারি ডিগ্রী কলেজ",
-        "male_count": 1856,
-        "female_count": 1864,
-        "hijra_count": 0,
-        "latitude": 23.70781,
-        "longitude": 88.60949
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মেহেরপুর দারুল উলুম আহমদিয়া ফাজিল মাদ্রাসা",
-        "male_count": 1877,
-        "female_count": 2058,
-        "hijra_count": 0,
-        "latitude": 23.76368,
-        "longitude": 88.63356
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মেহেরপুর মাধ্যমিক বালিকা বিদ্যালয় ও কলেজ",
-        "male_count": 1504,
-        "female_count": 1650,
-        "hijra_count": 0,
-        "latitude": 23.77127,
-        "longitude": 88.63542
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মেহেরপুর সরকারী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2762,
-        "hijra_count": 0,
-        "latitude": 23.76696,
-        "longitude": 88.63336
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মেহেরপুর সরকারী বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1743,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.77613,
-        "longitude": 88.63137
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মোনাখালী মাধ্যমিক বিদ্যালয়",
-        "male_count": 992,
-        "female_count": 999,
-        "hijra_count": 0,
-        "latitude": 23.71338,
-        "longitude": 88.61297
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মোনাখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1784,
-        "female_count": 1813,
-        "hijra_count": 0,
-        "latitude": 23.7104,
-        "longitude": 88.61327
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "মোমিনপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1207,
-        "female_count": 1165,
-        "hijra_count": 0,
-        "latitude": 23.72328,
-        "longitude": 88.73341
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "যতারপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2000,
-        "female_count": 1968,
-        "hijra_count": 0,
-        "latitude": 23.7004,
-        "longitude": 88.68172
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "যাদবপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 623,
-        "female_count": 648,
-        "hijra_count": 0,
-        "latitude": 23.76744,
-        "longitude": 88.62649
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "যুগিন্দা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1388,
-        "female_count": 1330,
-        "hijra_count": 0,
-        "latitude": 23.74946,
-        "longitude": 88.73802
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রঘুনাথপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1028,
-        "female_count": 971,
-        "hijra_count": 0,
-        "latitude": 23.73148,
-        "longitude": 88.69261
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রতনপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1276,
-        "female_count": 1280,
-        "hijra_count": 0,
-        "latitude": 23.65,
-        "longitude": 88.64722
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রশিকপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 868,
-        "female_count": 855,
-        "hijra_count": 0,
-        "latitude": 23.66833,
-        "longitude": 88.61816
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রাজনগর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 953,
-        "female_count": 926,
-        "hijra_count": 0,
-        "latitude": 23.73454,
-        "longitude": 88.7137
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রাজাপুর বারাকপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1599,
-        "female_count": 1571,
-        "hijra_count": 0,
-        "latitude": 23.75734,
-        "longitude": 88.61865
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রাধাকান্তপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1447,
-        "female_count": 1430,
-        "hijra_count": 0,
-        "latitude": 23.74866,
-        "longitude": 88.6174
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রামদাসপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 770,
-        "female_count": 762,
-        "hijra_count": 0,
-        "latitude": 23.85113,
-        "longitude": 88.63119
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1074,
-        "female_count": 1082,
-        "hijra_count": 0,
-        "latitude": 23.67514,
-        "longitude": 88.61347
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রায়পুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1578,
-        "female_count": 1594,
-        "hijra_count": 0,
-        "latitude": 23.74981,
-        "longitude": 88.64544
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "রুদ্রনগর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 591,
-        "female_count": 582,
-        "hijra_count": 0,
-        "latitude": 23.83739,
-        "longitude": 88.58929
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "শালিকা মাধ্যমিক বিদ্যালয়",
-        "male_count": 2612,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.74839,
-        "longitude": 88.59163
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "শালিকা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2507,
-        "hijra_count": 0,
-        "latitude": 23.74164,
-        "longitude": 88.59065
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "শুভরাজপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1038,
-        "female_count": 1088,
-        "hijra_count": 0,
-        "latitude": 23.86581,
-        "longitude": 88.62216
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "শোলমারী মাধ্যমিক বিদ্যালয়",
-        "male_count": 2766,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.85549,
-        "longitude": 88.60809
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "শোলমারী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2750,
-        "hijra_count": 0,
-        "latitude": 23.85547,
-        "longitude": 88.60772
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "শ্যামপুর বালিকা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1227,
-        "female_count": 1233,
-        "hijra_count": 0,
-        "latitude": 23.82807,
-        "longitude": 88.68805
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "শ্যামপুর শালিকা মাধ্যমিক বালিকা বিদ্যালয়",
-        "male_count": 1073,
-        "female_count": 1052,
-        "hijra_count": 0,
-        "latitude": 23.82488,
-        "longitude": 88.68266
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "শ্যামপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 872,
-        "female_count": 888,
-        "hijra_count": 0,
-        "latitude": 23.82499,
-        "longitude": 88.68381
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "সরকারী উচ্চ বালক বিদ্যালয়",
-        "male_count": 2558,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.77419,
-        "longitude": 88.63427
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "সরকারী উচ্চ বালিকা বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1948,
-        "hijra_count": 0,
-        "latitude": 23.77639,
-        "longitude": 88.63134
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "সিংহাটি পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 879,
-        "female_count": 885,
-        "hijra_count": 0,
-        "latitude": 23.72322,
-        "longitude": 88.76923
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "সিংহাটি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1044,
-        "female_count": 958,
-        "hijra_count": 0,
-        "latitude": 23.7232,
-        "longitude": 88.75611
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "সুবিদপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1767,
-        "female_count": 1800,
-        "hijra_count": 0,
-        "latitude": 23.81429,
-        "longitude": 88.65502
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "সেন্ট জেভিয়ার জুনিয়র হাই স্কুল",
-        "male_count": 1927,
-        "female_count": 2087,
-        "hijra_count": 0,
-        "latitude": 23.653,
-        "longitude": 88.59107
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "সোনাপুর পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1006,
-        "female_count": 930,
-        "hijra_count": 0,
-        "latitude": 23.69241,
-        "longitude": 88.71637
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "সোনাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1737,
-        "female_count": 1714,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "হরিরামপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1535,
-        "female_count": 1448,
-        "hijra_count": 0,
-        "latitude": 23.78699,
-        "longitude": 88.59665
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "হান্নানগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1057,
-        "female_count": 1062,
-        "hijra_count": 0,
-        "latitude": 23.78846,
-        "longitude": 88.67504
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "হাসানাবাদ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1290,
-        "female_count": 1288,
-        "hijra_count": 0,
-        "latitude": 23.73909,
-        "longitude": 88.74197
-    },
-    {
-        "settings_code": 73,
-        "settings_name": "মেহেরপুর-১",
-        "center_name": "হিজুলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1092,
-        "female_count": 1102,
-        "hijra_count": 0,
-        "latitude": 23.7505,
-        "longitude": 88.71741
-    }
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আদর্শ মাধ্যমিক বিদ্যালয়",
+    "male_count": 1893,
+    "female_count": 1909,
+    "hijra_count": 0,
+    "latitude": 23.67333,
+    "longitude": 88.61558
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আনন্দবাস মিয়া মুনসুর একাডেমী",
+    "male_count": 4277,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.63242,
+    "longitude": 88.61216
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আনন্দবাস সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4254,
+    "hijra_count": 0,
+    "latitude": 23.63182,
+    "longitude": 88.61222
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আমঝুপি উত্তরপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1255,
+    "female_count": 1294,
+    "hijra_count": 0,
+    "latitude": 23.7613,
+    "longitude": 88.68517
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আমঝুপি মাধ্যমিক বালিকা বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2522,
+    "hijra_count": 0,
+    "latitude": 23.74616,
+    "longitude": 88.68411
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আমঝুপি মাধ্যমিক বিদ্যালয়",
+    "male_count": 2430,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.74635,
+    "longitude": 88.68445
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আমঝুপি সরকারী বালিকা প্রাথমিক বিদ্যালয়",
+    "male_count": 1290,
+    "female_count": 1360,
+    "hijra_count": 0,
+    "latitude": 23.74845,
+    "longitude": 88.67991
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আমদহ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1550,
+    "female_count": 1580,
+    "hijra_count": 0,
+    "latitude": 23.73669,
+    "longitude": 88.63241
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আলমপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 882,
+    "female_count": 879,
+    "hijra_count": 0,
+    "latitude": 23.79805,
+    "longitude": 88.69009
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আশরাফপুর পশ্চিমপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1426,
+    "female_count": 1407,
+    "hijra_count": 0,
+    "latitude": 23.70806,
+    "longitude": 88.64113
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "আশরাফপুর পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1277,
+    "female_count": 1340,
+    "hijra_count": 0,
+    "latitude": 23.70645,
+    "longitude": 88.64635
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "ইছাখালী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1470,
+    "female_count": 1436,
+    "hijra_count": 0,
+    "latitude": 23.80346,
+    "longitude": 88.59918
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "ইসলামনগর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1162,
+    "female_count": 1018,
+    "hijra_count": 0,
+    "latitude": 23.76058,
+    "longitude": 88.70457
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "ইসলামপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1375,
+    "female_count": 1320,
+    "hijra_count": 0,
+    "latitude": 23.68647,
+    "longitude": 88.66878
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "উজলপুর মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2648,
+    "hijra_count": 0,
+    "latitude": 23.81462,
+    "longitude": 88.62601
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "উজলপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2641,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.81748,
+    "longitude": 88.62735
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "উত্তর শালিকা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1118,
+    "female_count": 1006,
+    "hijra_count": 0,
+    "latitude": 23.82723,
+    "longitude": 88.67106
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "এস, এম সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1831,
+    "female_count": 2005,
+    "hijra_count": 0,
+    "latitude": 23.77902,
+    "longitude": 88.628
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কলাইডাংগা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1124,
+    "female_count": 1102,
+    "hijra_count": 0,
+    "latitude": 23.71957,
+    "longitude": 88.73216
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কাঁঠালপোতা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1457,
+    "female_count": 1413,
+    "hijra_count": 0,
+    "latitude": 23.68924,
+    "longitude": 88.70987
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কালাচাঁদপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 729,
+    "female_count": 743,
+    "hijra_count": 0,
+    "latitude": 23.80006,
+    "longitude": 88.61743
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কালীগাংনী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1472,
+    "female_count": 1429,
+    "hijra_count": 0,
+    "latitude": 23.84402,
+    "longitude": 88.69112
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কুতুবপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1442,
+    "female_count": 1485,
+    "hijra_count": 0,
+    "latitude": 23.86287,
+    "longitude": 88.63828
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কুলবাড়ীয়া মাধ্যমিক বিদ্যালয়",
+    "male_count": 1638,
+    "female_count": 1599,
+    "hijra_count": 0,
+    "latitude": 23.83296,
+    "longitude": 88.64028
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কেদারগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 936,
+    "female_count": 968,
+    "hijra_count": 0,
+    "latitude": 23.65459,
+    "longitude": 88.59961
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কোমরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1801,
+    "female_count": 1822,
+    "hijra_count": 0,
+    "latitude": 23.68333,
+    "longitude": 88.6753
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "কোলা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1702,
+    "female_count": 1719,
+    "hijra_count": 0,
+    "latitude": 23.72837,
+    "longitude": 88.66485
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "খন্দকার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1079,
+    "female_count": 1130,
+    "hijra_count": 0,
+    "latitude": 23.75478,
+    "longitude": 88.64715
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "খোকসা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1516,
+    "female_count": 1486,
+    "hijra_count": 0,
+    "latitude": 23.77489,
+    "longitude": 88.69077
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "গহরপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 807,
+    "female_count": 808,
+    "hijra_count": 0,
+    "latitude": 23.70498,
+    "longitude": 88.71812
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1558,
+    "female_count": 1567,
+    "hijra_count": 0,
+    "latitude": 23.67994,
+    "longitude": 88.68302
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "গোপালপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1203,
+    "female_count": 1216,
+    "hijra_count": 0,
+    "latitude": 23.78251,
+    "longitude": 88.66448
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "গোভীপুর মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2692,
+    "hijra_count": 0,
+    "latitude": 23.77996,
+    "longitude": 88.62279
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "গোভীপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2644,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.78069,
+    "longitude": 88.62203
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "গৌরীনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1758,
+    "female_count": 1786,
+    "hijra_count": 0,
+    "latitude": 23.69133,
+    "longitude": 88.60948
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "গ্লোরিয়াস প্রি-ক্যাডেট একাডেমি",
+    "male_count": 1202,
+    "female_count": 1334,
+    "hijra_count": 0,
+    "latitude": 23.76922,
+    "longitude": 88.62813
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "চকশ্যামনগর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1328,
+    "female_count": 1306,
+    "hijra_count": 0,
+    "latitude": 23.73711,
+    "longitude": 88.62238
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "চাঁদপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1432,
+    "female_count": 1416,
+    "hijra_count": 0,
+    "latitude": 23.84355,
+    "longitude": 88.64466
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "চাঁদবিল, ময়ামারী, কোলা (সি, এম, সি) মাধ্যমিক বিদ্যালয়",
+    "male_count": 1590,
+    "female_count": 1628,
+    "hijra_count": 0,
+    "latitude": 23.75298,
+    "longitude": 88.67106
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "জয়পুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1457,
+    "female_count": 1376,
+    "hijra_count": 0,
+    "latitude": 23.62415,
+    "longitude": 88.62846
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "ঝাউবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 846,
+    "female_count": 856,
+    "hijra_count": 0,
+    "latitude": 23.80271,
+    "longitude": 88.64145
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "টেংরামারী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1172,
+    "female_count": 1169,
+    "hijra_count": 0,
+    "latitude": 23.67819,
+    "longitude": 88.64922
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "তাঁতীপাড়া মহিলা দাখিল মাদ্রাসা",
+    "male_count": 1478,
+    "female_count": 1593,
+    "hijra_count": 0,
+    "latitude": 23.78072,
+    "longitude": 88.62845
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "তারানগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 971,
+    "female_count": 989,
+    "hijra_count": 0,
+    "latitude": 23.62235,
+    "longitude": 88.62688
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "তেরঘরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1200,
+    "female_count": 1184,
+    "hijra_count": 0,
+    "latitude": 23.83828,
+    "longitude": 88.61021
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "দফরপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 941,
+    "female_count": 887,
+    "hijra_count": 0,
+    "latitude": 23.73733,
+    "longitude": 88.66581
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "দারিয়াপুর গাওছিয়া দাখিল মাদরাসা",
+    "male_count": 2188,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.70065,
+    "longitude": 88.60385
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "দারিয়াপুর মাধ্যমিক বিদ্যালয়",
+    "male_count": 1641,
+    "female_count": 1664,
+    "hijra_count": 0,
+    "latitude": 23.7096,
+    "longitude": 88.60964
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "দারিয়াপুর সরকারি বালক প্রাথমিক বিদ্যালয়",
+    "male_count": 1024,
+    "female_count": 1014,
+    "hijra_count": 0,
+    "latitude": 23.70972,
+    "longitude": 88.60944
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "নতুন দরবেশপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1164,
+    "female_count": 1103,
+    "hijra_count": 0,
+    "latitude": 23.71123,
+    "longitude": 88.77361
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "নাজিরাকোনা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 816,
+    "female_count": 801,
+    "hijra_count": 0,
+    "latitude": 23.65458,
+    "longitude": 88.5996
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "পাটকেলপোতা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1126,
+    "female_count": 1072,
+    "hijra_count": 0,
+    "latitude": 23.72457,
+    "longitude": 88.74509
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "পিরোজপুর দাখিল মাদ্রাসা",
+    "male_count": 1172,
+    "female_count": 1131,
+    "hijra_count": 0,
+    "latitude": 23.70673,
+    "longitude": 88.68564
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "পিরোজপুর মাধ্যমিক বিদ্যালয়",
+    "male_count": 1301,
+    "female_count": 1189,
+    "hijra_count": 0,
+    "latitude": 23.70501,
+    "longitude": 88.67847
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "পিরোজপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2477,
+    "female_count": 2453,
+    "hijra_count": 0,
+    "latitude": 23.70496,
+    "longitude": 88.68771
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "পুরন্দরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2225,
+    "hijra_count": 0,
+    "latitude": 23.70064,
+    "longitude": 88.60384
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "পুরাতন মদনাডাংগা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 783,
+    "female_count": 762,
+    "hijra_count": 0,
+    "latitude": 23.77781,
+    "longitude": 88.67606
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "পৌর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1361,
+    "female_count": 1539,
+    "hijra_count": 0,
+    "latitude": 23.77514,
+    "longitude": 88.63344
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "ফতেপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 896,
+    "female_count": 942,
+    "hijra_count": 0,
+    "latitude": 23.80817,
+    "longitude": 88.61509
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বড় বাজার সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1713,
+    "female_count": 1824,
+    "hijra_count": 0,
+    "latitude": 23.77906,
+    "longitude": 88.63118
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বলিয়ারপুর পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 934,
+    "female_count": 948,
+    "hijra_count": 0,
+    "latitude": 23.69731,
+    "longitude": 88.73924
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বলিয়ারপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 969,
+    "female_count": 946,
+    "hijra_count": 0,
+    "latitude": 23.69913,
+    "longitude": 88.72948
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বল্লভপুর সরকারি প্রাথমিক বিদ্যালয়, বল্লভপুর ও সংলগ্ন মিশন মাধ্যমিক বিদ্যালয়",
+    "male_count": 1292,
+    "female_count": 1379,
+    "hijra_count": 0,
+    "latitude": 23.66094,
+    "longitude": 88.61663
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বাগোয়ান মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2105,
+    "hijra_count": 0,
+    "latitude": 23.64452,
+    "longitude": 88.62482
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বাগোয়ান সরকারি প্রাথমিক বিদ্যালয়, বাগোয়ান",
+    "male_count": 2111,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.6446,
+    "longitude": 88.62479
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বাড়ীবাঁকা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1170,
+    "female_count": 1165,
+    "hijra_count": 0,
+    "latitude": 23.75945,
+    "longitude": 88.59288
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বাবুপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 851,
+    "female_count": 852,
+    "hijra_count": 0,
+    "latitude": 23.65191,
+    "longitude": 88.66591
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বামনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1782,
+    "female_count": 1763,
+    "hijra_count": 0,
+    "latitude": 23.75252,
+    "longitude": 88.62999
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বিশ্বনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 824,
+    "female_count": 820,
+    "hijra_count": 0,
+    "latitude": 23.67647,
+    "longitude": 88.61557
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বুড়িপোতা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1890,
+    "female_count": 1818,
+    "hijra_count": 0,
+    "latitude": 23.76641,
+    "longitude": 88.58202
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "বেলেগাড়ীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1015,
+    "female_count": 997,
+    "hijra_count": 0,
+    "latitude": 23.77814,
+    "longitude": 88.65346
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1124,
+    "female_count": 1179,
+    "hijra_count": 0,
+    "latitude": 23.66841,
+    "longitude": 88.61796
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "ময়ামারী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 812,
+    "female_count": 787,
+    "hijra_count": 0,
+    "latitude": 23.76347,
+    "longitude": 88.67244
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মহাজনপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1889,
+    "female_count": 1894,
+    "hijra_count": 0,
+    "latitude": 23.65406,
+    "longitude": 88.67322
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মিশন প্রাথমিক বিদ্যালয়",
+    "male_count": 1233,
+    "female_count": 1378,
+    "hijra_count": 0,
+    "latitude": 23.76258,
+    "longitude": 88.63142
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মুজিবনগর সরকারি ডিগ্রী কলেজ",
+    "male_count": 1856,
+    "female_count": 1864,
+    "hijra_count": 0,
+    "latitude": 23.70781,
+    "longitude": 88.60949
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মেহেরপুর দারুল উলুম আহমদিয়া ফাজিল মাদ্রাসা",
+    "male_count": 1877,
+    "female_count": 2058,
+    "hijra_count": 0,
+    "latitude": 23.76368,
+    "longitude": 88.63356
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মেহেরপুর মাধ্যমিক বালিকা বিদ্যালয় ও কলেজ",
+    "male_count": 1504,
+    "female_count": 1650,
+    "hijra_count": 0,
+    "latitude": 23.77127,
+    "longitude": 88.63542
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মেহেরপুর সরকারী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2762,
+    "hijra_count": 0,
+    "latitude": 23.76696,
+    "longitude": 88.63336
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মেহেরপুর সরকারী বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1743,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.77613,
+    "longitude": 88.63137
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মোনাখালী মাধ্যমিক বিদ্যালয়",
+    "male_count": 992,
+    "female_count": 999,
+    "hijra_count": 0,
+    "latitude": 23.71338,
+    "longitude": 88.61297
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মোনাখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1784,
+    "female_count": 1813,
+    "hijra_count": 0,
+    "latitude": 23.7104,
+    "longitude": 88.61327
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "মোমিনপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1207,
+    "female_count": 1165,
+    "hijra_count": 0,
+    "latitude": 23.72328,
+    "longitude": 88.73341
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "যতারপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2000,
+    "female_count": 1968,
+    "hijra_count": 0,
+    "latitude": 23.7004,
+    "longitude": 88.68172
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "যাদবপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 623,
+    "female_count": 648,
+    "hijra_count": 0,
+    "latitude": 23.76744,
+    "longitude": 88.62649
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "যুগিন্দা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1388,
+    "female_count": 1330,
+    "hijra_count": 0,
+    "latitude": 23.74946,
+    "longitude": 88.73802
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রঘুনাথপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1028,
+    "female_count": 971,
+    "hijra_count": 0,
+    "latitude": 23.73148,
+    "longitude": 88.69261
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রতনপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1276,
+    "female_count": 1280,
+    "hijra_count": 0,
+    "latitude": 23.65,
+    "longitude": 88.64722
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রশিকপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 868,
+    "female_count": 855,
+    "hijra_count": 0,
+    "latitude": 23.66833,
+    "longitude": 88.61816
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রাজনগর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 953,
+    "female_count": 926,
+    "hijra_count": 0,
+    "latitude": 23.73454,
+    "longitude": 88.7137
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রাজাপুর বারাকপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1599,
+    "female_count": 1571,
+    "hijra_count": 0,
+    "latitude": 23.75734,
+    "longitude": 88.61865
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রাধাকান্তপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1447,
+    "female_count": 1430,
+    "hijra_count": 0,
+    "latitude": 23.74866,
+    "longitude": 88.6174
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রামদাসপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 770,
+    "female_count": 762,
+    "hijra_count": 0,
+    "latitude": 23.85113,
+    "longitude": 88.63119
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1074,
+    "female_count": 1082,
+    "hijra_count": 0,
+    "latitude": 23.67514,
+    "longitude": 88.61347
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রায়পুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1578,
+    "female_count": 1594,
+    "hijra_count": 0,
+    "latitude": 23.74981,
+    "longitude": 88.64544
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "রুদ্রনগর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 591,
+    "female_count": 582,
+    "hijra_count": 0,
+    "latitude": 23.83739,
+    "longitude": 88.58929
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "শালিকা মাধ্যমিক বিদ্যালয়",
+    "male_count": 2612,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.74839,
+    "longitude": 88.59163
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "শালিকা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2507,
+    "hijra_count": 0,
+    "latitude": 23.74164,
+    "longitude": 88.59065
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "শুভরাজপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1038,
+    "female_count": 1088,
+    "hijra_count": 0,
+    "latitude": 23.86581,
+    "longitude": 88.62216
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "শোলমারী মাধ্যমিক বিদ্যালয়",
+    "male_count": 2766,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.85549,
+    "longitude": 88.60809
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "শোলমারী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2750,
+    "hijra_count": 0,
+    "latitude": 23.85547,
+    "longitude": 88.60772
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "শ্যামপুর বালিকা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1227,
+    "female_count": 1233,
+    "hijra_count": 0,
+    "latitude": 23.82807,
+    "longitude": 88.68805
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "শ্যামপুর শালিকা মাধ্যমিক বালিকা বিদ্যালয়",
+    "male_count": 1073,
+    "female_count": 1052,
+    "hijra_count": 0,
+    "latitude": 23.82488,
+    "longitude": 88.68266
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "শ্যামপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 872,
+    "female_count": 888,
+    "hijra_count": 0,
+    "latitude": 23.82499,
+    "longitude": 88.68381
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "সরকারী উচ্চ বালক বিদ্যালয়",
+    "male_count": 2558,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.77419,
+    "longitude": 88.63427
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "সরকারী উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1948,
+    "hijra_count": 0,
+    "latitude": 23.77639,
+    "longitude": 88.63134
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "সিংহাটি পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 879,
+    "female_count": 885,
+    "hijra_count": 0,
+    "latitude": 23.72322,
+    "longitude": 88.76923
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "সিংহাটি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1044,
+    "female_count": 958,
+    "hijra_count": 0,
+    "latitude": 23.7232,
+    "longitude": 88.75611
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "সুবিদপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1767,
+    "female_count": 1800,
+    "hijra_count": 0,
+    "latitude": 23.81429,
+    "longitude": 88.65502
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "সেন্ট জেভিয়ার জুনিয়র হাই স্কুল",
+    "male_count": 1927,
+    "female_count": 2087,
+    "hijra_count": 0,
+    "latitude": 23.653,
+    "longitude": 88.59107
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "সোনাপুর পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1006,
+    "female_count": 930,
+    "hijra_count": 0,
+    "latitude": 23.69241,
+    "longitude": 88.71637
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "সোনাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1737,
+    "female_count": 1714,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "হরিরামপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1535,
+    "female_count": 1448,
+    "hijra_count": 0,
+    "latitude": 23.78699,
+    "longitude": 88.59665
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "হান্নানগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1057,
+    "female_count": 1062,
+    "hijra_count": 0,
+    "latitude": 23.78846,
+    "longitude": 88.67504
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "হাসানাবাদ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1290,
+    "female_count": 1288,
+    "hijra_count": 0,
+    "latitude": 23.73909,
+    "longitude": 88.74197
+  },
+  {
+    "settings_code": 73,
+    "settings_name": "মেহেরপুর-১",
+    "center_name": "হিজুলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1092,
+    "female_count": 1102,
+    "hijra_count": 0,
+    "latitude": 23.7505,
+    "longitude": 88.71741
+  }
 ]

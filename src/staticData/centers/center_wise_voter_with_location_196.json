@@ -1,1762 +1,1762 @@
 [
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "২৬ নং জাহাংগীরপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1222,
-        "female_count": 1183,
-        "hijra_count": 0,
-        "latitude": 24.33613,
-        "longitude": 90.44227
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "৩নং গাজীপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1997,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.26886,
-        "longitude": 90.34429
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "আক্তাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1211,
-        "female_count": 1233,
-        "hijra_count": 0,
-        "latitude": 24.23922,
-        "longitude": 90.33997
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "আঙ্গুটিয়ারচালা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1101,
-        "female_count": 1144,
-        "hijra_count": 0,
-        "latitude": 24.06706,
-        "longitude": 90.3515
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "আবদার বাজার সরকারী প্রাথমিক বিদ্যালয়,-১, দোতলা ভবন, দক্ষিণ পার্শ্বের ভবন",
-        "male_count": 0,
-        "female_count": 3266,
-        "hijra_count": 0,
-        "latitude": 24.27536,
-        "longitude": 90.40587
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "আবদার বাজার সরকারী প্রাথমিক বিদ্যালয়,-২, এক তলা ভবন, পশ্চিম পার্শ্বের ভবন",
-        "male_count": 3229,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.2756,
-        "longitude": 90.4059
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "আমছর আলী মাদবর নূরানী হাফিজিয়া ও এতিমখানা মাদরাসা",
-        "male_count": 2945,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.2405,
-        "longitude": 90.39775
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "আলহাজ্ব ধনাই বেপারী মেমোরিয়াল উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3547,
-        "hijra_count": 0,
-        "latitude": 24.19864,
-        "longitude": 90.41792
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "আলহাজ্ব নওয়াব আলী উচ্চ বিদ্যালয়",
-        "male_count": 1142,
-        "female_count": 1238,
-        "hijra_count": 0,
-        "latitude": 24.23273,
-        "longitude": 90.46664
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ইকবাল সিদ্দিকী স্কুল এন্ড কলেজ",
-        "male_count": 4418,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.10222,
-        "longitude": 90.4299
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ইজ্জতপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1387,
-        "female_count": 1441,
-        "hijra_count": 0,
-        "latitude": 24.14195,
-        "longitude": 90.46331
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ইন্দ্রপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 917,
-        "female_count": 977,
-        "hijra_count": 0,
-        "latitude": 24.16585,
-        "longitude": 90.40245
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "উজিলাব সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1894,
-        "female_count": 1849,
-        "hijra_count": 1,
-        "latitude": 24.22377,
-        "longitude": 90.46034
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "উত্তর পেলাইদ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 686,
-        "female_count": 712,
-        "hijra_count": 0,
-        "latitude": 24.27524,
-        "longitude": 90.44484
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কচিকাঁচা একাডেমী",
-        "male_count": 0,
-        "female_count": 4265,
-        "hijra_count": 0,
-        "latitude": 24.10228,
-        "longitude": 90.43008
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কপাটিয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1809,
-        "female_count": 1866,
-        "hijra_count": 0,
-        "latitude": 24.25643,
-        "longitude": 90.35995
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কর্ণপুর সরকারী প্রাথমিক বিদ্যালয়-১",
-        "male_count": 0,
-        "female_count": 1910,
-        "hijra_count": 0,
-        "latitude": 24.18501,
-        "longitude": 90.51629
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কর্ণপুর সরকারী প্রাথমিক বিদ্যালয়-২",
-        "male_count": 1877,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.18582,
-        "longitude": 90.51725
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কাওরাইদ কে.এন. উচ্চ বিদ্যালয়,-১ উত্তর পার্শ্বের ভবন",
-        "male_count": 0,
-        "female_count": 3569,
-        "hijra_count": 0,
-        "latitude": 24.30891,
-        "longitude": 90.5147
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কাওরাইদ কে.এন. উচ্চ বিদ্যালয়-২, পশ্চিম পার্শ্বের ভবন",
-        "male_count": 3625,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.30928,
-        "longitude": 90.51458
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কাঞ্জানুল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1106,
-        "female_count": 1071,
-        "hijra_count": 0,
-        "latitude": 24.07892,
-        "longitude": 90.36047
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কেওয়া খাদিজাতুল কুবরা (রাঃ) মহিলা ফাজিল মাদরাসা",
-        "male_count": 2852,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.21542,
-        "longitude": 90.4453
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কেওয়া তমির উদ্দিন আলিম মাদ্রাসা-১, অডিটরিয়াম ভবন",
-        "male_count": 2841,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.22033,
-        "longitude": 90.41211
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কেওয়া তমির উদ্দিন আলিম মাদ্রাসা-২, প্রশাসনিক ভবন",
-        "male_count": 2623,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.22029,
-        "longitude": 90.41217
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কেওয়া পশ্চিম খন্ড সরকারী প্রাথমিক বিদ্যালয়-১",
-        "male_count": 0,
-        "female_count": 2737,
-        "hijra_count": 0,
-        "latitude": 24.20641,
-        "longitude": 90.40076
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কেওয়া পশ্চিম খন্ড সরকারী প্রাথমিক বিদ্যালয়-২",
-        "male_count": 2574,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.20646,
-        "longitude": 90.40067
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কেওয়া পূর্ব খন্ড সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1473,
-        "female_count": 1615,
-        "hijra_count": 1,
-        "latitude": 24.19977,
-        "longitude": 90.43947
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "কেওয়া বাজার ফোরকানিয়া মাদরাসা (উত্তর পার্শ্বের ভবন)",
-        "male_count": 0,
-        "female_count": 2827,
-        "hijra_count": 0,
-        "latitude": 24.21194,
-        "longitude": 90.43958
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গজারিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1297,
-        "female_count": 1298,
-        "hijra_count": 0,
-        "latitude": 24.10928,
-        "longitude": 90.48389
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গলদাপাড়া নিয়ামত আলী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2097,
-        "hijra_count": 0,
-        "latitude": 24.31708,
-        "longitude": 90.45019
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গলদাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2164,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.31724,
-        "longitude": 90.45106
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গাজীপুর ২নং সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2109,
-        "hijra_count": 0,
-        "latitude": 23.88788,
-        "longitude": 90.88684
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গাজীপুর উচ্চ বিদ্যালয়",
-        "male_count": 1553,
-        "female_count": 1630,
-        "hijra_count": 0,
-        "latitude": 24.26726,
-        "longitude": 90.33459
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গাড়ারন সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1770,
-        "female_count": 1852,
-        "hijra_count": 0,
-        "latitude": 24.21303,
-        "longitude": 90.48205
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গিলারচালা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1430,
-        "female_count": 1292,
-        "hijra_count": 0,
-        "latitude": 24.18768,
-        "longitude": 90.42484
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গিলাশ্বর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1527,
-        "female_count": 1507,
-        "hijra_count": 0,
-        "latitude": 24.23483,
-        "longitude": 90.503
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গোদারচালা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 788,
-        "female_count": 858,
-        "hijra_count": 0,
-        "latitude": 24.25539,
-        "longitude": 90.42125
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "গোসিংগা উচ্চ বিদ্যালয়",
-        "male_count": 1631,
-        "female_count": 1675,
-        "hijra_count": 0,
-        "latitude": 24.18107,
-        "longitude": 90.53849
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "চকপাড়া ২নং সরকারী প্রাথমিক বিদ্যালয়,-১, পশ্চিম পার্শ্বের ভবন",
-        "male_count": 0,
-        "female_count": 2561,
-        "hijra_count": 0,
-        "latitude": 24.23814,
-        "longitude": 90.382
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "চকপাড়া ২নং সরকারী প্রাথমিক বিদ্যালয়,-২, পূর্ব পার্শ্বের ভবন",
-        "male_count": 2518,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.23819,
-        "longitude": 90.38204
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "চন্নাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2394,
-        "female_count": 2192,
-        "hijra_count": 0,
-        "latitude": 24.20858,
-        "longitude": 90.42718
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "চরবাহার সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1891,
-        "female_count": 2062,
-        "hijra_count": 0,
-        "latitude": 24.22817,
-        "longitude": 90.49614
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "চিনাশুকানিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1617,
-        "female_count": 1668,
-        "hijra_count": 0,
-        "latitude": 24.08544,
-        "longitude": 90.50135
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ছলিম উদ্দিন সরকার মডেল একাডেমি",
-        "male_count": 0,
-        "female_count": 1967,
-        "hijra_count": 0,
-        "latitude": 24.23911,
-        "longitude": 90.41063
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "জয়নারায়নপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1093,
-        "female_count": 1114,
-        "hijra_count": 0,
-        "latitude": 24.12448,
-        "longitude": 90.50111
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "জানাকুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1108,
-        "female_count": 1143,
-        "hijra_count": 0,
-        "latitude": 24.10739,
-        "longitude": 90.43962
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "টেপিরবাড়ী আনসার উচ্চ বিদ্যালয়",
-        "male_count": 1948,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.23143,
-        "longitude": 90.43726
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "টেপিরবাড়ী আনসার সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1949,
-        "hijra_count": 0,
-        "latitude": 24.23132,
-        "longitude": 90.43674
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "টেপিরবাড়ী উচ্চ বিদ্যালয়",
-        "male_count": 2838,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.24681,
-        "longitude": 90.43
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "টেপিরবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2822,
-        "hijra_count": 0,
-        "latitude": 24.24701,
-        "longitude": 90.4298
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "টেংরা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1056,
-        "female_count": 1132,
-        "hijra_count": 0,
-        "latitude": 24.23266,
-        "longitude": 90.46651
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ডগরী আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1395,
-        "female_count": 1401,
-        "hijra_count": 0,
-        "latitude": 24.1066,
-        "longitude": 90.36577
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ডোয়াইবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1086,
-        "female_count": 1123,
-        "hijra_count": 0,
-        "latitude": 24.14252,
-        "longitude": 90.49024
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "তালতলী মডার্ন স্কুল অ্যান্ড কলেজ",
-        "male_count": 2441,
-        "female_count": 2524,
-        "hijra_count": 0,
-        "latitude": 24.08701,
-        "longitude": 90.34445
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "তালতলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1160,
-        "female_count": 1196,
-        "hijra_count": 0,
-        "latitude": 24.07995,
-        "longitude": 90.2649
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "তুলা গবেষনা কেন্দ্র স্কুল",
-        "male_count": 1550,
-        "female_count": 1736,
-        "hijra_count": 0,
-        "latitude": 24.18147,
-        "longitude": 90.43062
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "তেলিহাটি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1268,
-        "female_count": 1269,
-        "hijra_count": 0,
-        "latitude": 24.26832,
-        "longitude": 90.42323
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ত্রিমোহনী বি.ডি. ইসলামিয়া উচ্চ বিদ্যালয়",
-        "male_count": 1993,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.27374,
-        "longitude": 90.54443
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "দক্ষিণ বারতোপা সরকারী প্রাথমিক বিদ্যালয়,-১, ২য় তলা বিল্ডিং",
-        "male_count": 0,
-        "female_count": 3132,
-        "hijra_count": 0,
-        "latitude": 24.19966,
-        "longitude": 90.38491
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "দক্ষিণ বারতোপা সরকারী প্রাথমিক বিদ্যালয়,-২, টিনসেড ভবন",
-        "male_count": 2932,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.19943,
-        "longitude": 90.38483
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "দক্ষিণ ভাংনাহাটি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 856,
-        "female_count": 856,
-        "hijra_count": 0,
-        "latitude": 24.1947,
-        "longitude": 90.46314
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "দমদমা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1508,
-        "female_count": 1440,
-        "hijra_count": 0,
-        "latitude": 24.06371,
-        "longitude": 90.49687
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "দরগারচালা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1087,
-        "female_count": 1115,
-        "hijra_count": 0,
-        "latitude": 24.25567,
-        "longitude": 90.48909
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "দিঘিরচালা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1139,
-        "female_count": 1163,
-        "hijra_count": 0,
-        "latitude": 24.09608,
-        "longitude": 90.51144
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ধনুয়া উচ্চ বিদ্যালয়",
-        "male_count": 1034,
-        "female_count": 1111,
-        "hijra_count": 0,
-        "latitude": 24.27355,
-        "longitude": 90.36739
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ধনুয়া দক্ষিণ আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 2236,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.19929,
-        "longitude": 90.47374
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ধনুয়া দক্ষিণ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2061,
-        "hijra_count": 0,
-        "latitude": 24.26131,
-        "longitude": 90.38691
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ধলাদিয়া উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2275,
-        "hijra_count": 0,
-        "latitude": 24.10054,
-        "longitude": 90.47577
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ধলাদিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2291,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.10048,
-        "longitude": 90.47561
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ধামলই ২নং সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2088,
-        "hijra_count": 0,
-        "latitude": 24.31646,
-        "longitude": 90.4706
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ধামলই উচ্চ বিদ্যালয়",
-        "male_count": 2170,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.3166,
-        "longitude": 90.47041
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নগর হাওলা সরকারী প্রাথমিক বিদ্যালয়,-১, দক্ষিণ পার্শ্বের ভবন",
-        "male_count": 0,
-        "female_count": 2372,
-        "hijra_count": 0,
-        "latitude": 24.27583,
-        "longitude": 90.38651
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নগর হাওলা সরকারী প্রাথমিক বিদ্যালয়,-২, পশ্চিম পার্শ্বের পাকা ২টি ভবন",
-        "male_count": 2743,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.27601,
-        "longitude": 90.38662
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নয়াপাড়া এবাদিয়া দাখিল মাদ্রাসা",
-        "male_count": 1477,
-        "female_count": 1463,
-        "hijra_count": 0,
-        "latitude": 24.09542,
-        "longitude": 90.3645
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3267,
-        "hijra_count": 0,
-        "latitude": 24.13864,
-        "longitude": 90.40784
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3312,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.13899,
-        "longitude": 90.40706
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1758,
-        "female_count": 1906,
-        "hijra_count": 0,
-        "latitude": 24.28661,
-        "longitude": 90.34926
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নলজানী মোজাদ্দেদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1453,
-        "female_count": 1583,
-        "hijra_count": 0,
-        "latitude": 24.14432,
-        "longitude": 90.45377
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নানাইয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 912,
-        "female_count": 893,
-        "hijra_count": 0,
-        "latitude": 24.04213,
-        "longitude": 90.48017
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নান্দিয়া সাংগুন আবহানী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2032,
-        "hijra_count": 0,
-        "latitude": 24.27345,
-        "longitude": 90.54495
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নিজ খোজেখানি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1129,
-        "female_count": 1231,
-        "hijra_count": 0,
-        "latitude": 24.19468,
-        "longitude": 90.5366
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নিজ মাওনা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3610,
-        "hijra_count": 0,
-        "latitude": 24.26017,
-        "longitude": 90.31551
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "নেহালীয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 844,
-        "female_count": 810,
-        "hijra_count": 0,
-        "latitude": 24.22627,
-        "longitude": 90.51056
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পটকা সরকারী প্রাথমিক বিদ্যালয়-১",
-        "male_count": 0,
-        "female_count": 2048,
-        "hijra_count": 0,
-        "latitude": 24.17918,
-        "longitude": 90.48942
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পটকা সরকারী প্রাথমিক বিদ্যালয়-২",
-        "male_count": 1943,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.17918,
-        "longitude": 90.48942
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পশ্চিম ডগরী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1495,
-        "female_count": 1582,
-        "hijra_count": 0,
-        "latitude": 24.10094,
-        "longitude": 90.35233
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পাইনশাইল গাছপুকুর পাড় দাখিল মাদ্রাসা",
-        "male_count": 1768,
-        "female_count": 1747,
-        "hijra_count": 0,
-        "latitude": 24.09878,
-        "longitude": 90.34757
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পাঠানটেক সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2668,
-        "hijra_count": 0,
-        "latitude": 24.24657,
-        "longitude": 90.51941
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পাবুরিয়াচালা আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1367,
-        "female_count": 1410,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পিরুজালী আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3632,
-        "hijra_count": 0,
-        "latitude": 24.12927,
-        "longitude": 90.36151
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পিরুজালী আমানিয়া ফাজিল (বি এ) মাদ্রাসা",
-        "male_count": 2036,
-        "female_count": 2225,
-        "hijra_count": 0,
-        "latitude": 24.11668,
-        "longitude": 90.34789
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পিরুজালী উচ্চ বিদ্যালয়",
-        "male_count": 2948,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.1391,
-        "longitude": 90.36645
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পিরুজালী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3187,
-        "hijra_count": 0,
-        "latitude": 24.13912,
-        "longitude": 90.36643
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পিরুজালী মধ্যপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3363,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.12929,
-        "longitude": 90.36153
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পূর্ব নিজ মাওনা ৯নং সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3356,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.26301,
-        "longitude": 90.33081
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পেলাইদ আদর্শ কারিগরি স্কুল",
-        "male_count": 2179,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.21326,
-        "longitude": 90.53937
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পেলাইদ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2093,
-        "hijra_count": 0,
-        "latitude": 24.21321,
-        "longitude": 90.53921
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পোতাবাড়ী আর্দশ উচ্চ বিদ্যালয়",
-        "male_count": 1473,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.04395,
-        "longitude": 90.46274
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "পোতাবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1462,
-        "hijra_count": 0,
-        "latitude": 24.04809,
-        "longitude": 90.46409
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "প্রতাবপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1305,
-        "female_count": 1374,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "প্রহলাদপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1122,
-        "female_count": 1129,
-        "hijra_count": 0,
-        "latitude": 24.05695,
-        "longitude": 90.47447
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ফরিদপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1300,
-        "female_count": 1320,
-        "hijra_count": 0,
-        "latitude": 24.26256,
-        "longitude": 90.40751
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ফাউগান উচ্চ বিদ্যালয়",
-        "male_count": 1815,
-        "female_count": 1953,
-        "hijra_count": 0,
-        "latitude": 24.07592,
-        "longitude": 90.46873
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বড়নল সরকারী প্রাথমিক বিদ্যালয়-১, ভবনের ১ম তলা",
-        "male_count": 2508,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.25414,
-        "longitude": 90.50751
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বড়নল সরকারী প্রাথমিক বিদ্যালয়-২, ভবনের ২য় তলা",
-        "male_count": 0,
-        "female_count": 2550,
-        "hijra_count": 0,
-        "latitude": 24.25414,
-        "longitude": 90.50751
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বড়বাইদ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1210,
-        "female_count": 1229,
-        "hijra_count": 0,
-        "latitude": 24.83078,
-        "longitude": 90.54845
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বদনীভাংগা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 701,
-        "female_count": 732,
-        "hijra_count": 0,
-        "latitude": 24.23605,
-        "longitude": 90.32088
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বনখড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1426,
-        "female_count": 1412,
-        "hijra_count": 0,
-        "latitude": 24.06799,
-        "longitude": 90.43902
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বরকুল ইসলামিয়া দাখিল মাদরাসা",
-        "male_count": 1665,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.26703,
-        "longitude": 90.5205
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বরকুল সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1602,
-        "hijra_count": 0,
-        "latitude": 24.26699,
-        "longitude": 90.5204
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বরমী ইউনিয়ন উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2900,
-        "hijra_count": 0,
-        "latitude": 24.23883,
-        "longitude": 90.52205
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বরমী ইউনিয়ন সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2776,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.2388,
-        "longitude": 90.52212
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বরমী বাজার উচ্চ বিদ্যালয়",
-        "male_count": 2651,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.24628,
-        "longitude": 90.5201
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বরামা ১নং সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1269,
-        "female_count": 1308,
-        "hijra_count": 0,
-        "latitude": 24.22891,
-        "longitude": 90.5238
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বরামা ইসলামিয়া ফাজিল মাদ্রাসা, কেন্দ্র-১, উত্তর পার্শ্বের ভবন",
-        "male_count": 0,
-        "female_count": 2342,
-        "hijra_count": 0,
-        "latitude": 24.23161,
-        "longitude": 90.53254
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বরামা ইসলামিয়া ফাজিল মাদ্রাসা, কেন্দ্র-২, পশ্চিম পার্শ্বের ভবন",
-        "male_count": 2467,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.23165,
-        "longitude": 90.53256
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বলদীঘাট জে,এম সরকার উচ্চ বিদ্যালয়",
-        "male_count": 2628,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.30162,
-        "longitude": 90.46303
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বলদীঘাট সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2613,
-        "hijra_count": 0,
-        "latitude": 24.3014,
-        "longitude": 90.46285
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বাউনি সকিনা মাদ্রাসা",
-        "male_count": 1562,
-        "female_count": 1617,
-        "hijra_count": 0,
-        "latitude": 24.17927,
-        "longitude": 90.48944
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বাঘের বাজার উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3719,
-        "hijra_count": 0,
-        "latitude": 24.16526,
-        "longitude": 90.42767
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বানিয়ারচালা জামিয়া ইসলামিয়া দারুল উলুম মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 3460,
-        "hijra_count": 0,
-        "latitude": 24.15719,
-        "longitude": 90.42217
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বানিয়ারচালা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3346,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.15741,
-        "longitude": 90.42119
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বাপ্তা ঈদগাহ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1633,
-        "female_count": 1582,
-        "hijra_count": 0,
-        "latitude": 24.28067,
-        "longitude": 90.52435
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বাপ্তা বেলদিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1961,
-        "female_count": 2027,
-        "hijra_count": 0,
-        "latitude": 24.29073,
-        "longitude": 90.52031
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বালিয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1515,
-        "female_count": 1479,
-        "hijra_count": 0,
-        "latitude": 24.86189,
-        "longitude": 90.52737
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বাঁশকোপা সরকারী প্রাথমিক বিদ্যালয় বাঁশকোপা",
-        "male_count": 1146,
-        "female_count": 1141,
-        "hijra_count": 0,
-        "latitude": 24.06012,
-        "longitude": 90.45249
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বাঁশবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1459,
-        "female_count": 1503,
-        "hijra_count": 0,
-        "latitude": 24.28277,
-        "longitude": 90.30827
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বি.কে বাড়ী হোসেনীয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2658,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.11273,
-        "longitude": 90.37507
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বি.কে বাড়ী হোসেনীয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1523,
-        "female_count": 4160,
-        "hijra_count": 0,
-        "latitude": 24.11265,
-        "longitude": 90.37516
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বিধাই সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1698,
-        "female_count": 1710,
-        "hijra_count": 0,
-        "latitude": 24.28467,
-        "longitude": 90.42873
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বেকাসহারা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1007,
-        "female_count": 1119,
-        "hijra_count": 0,
-        "latitude": 24.22643,
-        "longitude": 90.47429
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বেড়াইদেরচালা সরকারী প্রথমিক বিদ্যালয়",
-        "male_count": 3518,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.19632,
-        "longitude": 90.41672
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বেড়াবাড়ী পশ্চিম সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1599,
-        "female_count": 1549,
-        "hijra_count": 0,
-        "latitude": 24.14205,
-        "longitude": 90.51125
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বেড়াবাড়ী পূর্ব সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1352,
-        "female_count": 1404,
-        "hijra_count": 0,
-        "latitude": 24.14109,
-        "longitude": 90.53376
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বেলতলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 942,
-        "female_count": 993,
-        "hijra_count": 0,
-        "latitude": 24.18494,
-        "longitude": 90.40569
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "বৈরাগীরচালা উচ্চ বিদ্যালয়",
-        "male_count": 1429,
-        "female_count": 1379,
-        "hijra_count": 0,
-        "latitude": 24.19271,
-        "longitude": 90.447
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ভবানীপুর উচ্চ বিদ্যালয়",
-        "male_count": 3010,
-        "female_count": 3235,
-        "hijra_count": 0,
-        "latitude": 24.14831,
-        "longitude": 90.41244
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ভাওয়ালপুর আদর্শ গ্রাম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 972,
-        "female_count": 1052,
-        "hijra_count": 0,
-        "latitude": 24.14022,
-        "longitude": 90.42218
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ভাওয়াল রাজাবাড়ী উচ্চ বিদ্যালয়",
-        "male_count": 1222,
-        "female_count": 1279,
-        "hijra_count": 0,
-        "latitude": 24.10673,
-        "longitude": 90.50135
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ভাংনাহাটি পশ্চিম সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2354,
-        "female_count": 2370,
-        "hijra_count": 0,
-        "latitude": 24.205,
-        "longitude": 90.4468
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ভিটিপাড়া কে.এইচ.কে উচ্চ বিদ্যালয়",
-        "male_count": 1544,
-        "female_count": 1575,
-        "hijra_count": 0,
-        "latitude": 24.27154,
-        "longitude": 90.5033
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ভুতুলিয়া ফোরকানিয়া মাদ্রাসা",
-        "male_count": 1474,
-        "female_count": 1608,
-        "hijra_count": 0,
-        "latitude": 24.27334,
-        "longitude": 90.36214
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "ভেরামতলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 599,
-        "female_count": 653,
-        "hijra_count": 0,
-        "latitude": 24.16288,
-        "longitude": 90.35374
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মনিপুর উচ্চ বিদ্যালয়",
-        "male_count": 4254,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.12771,
-        "longitude": 90.39129
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মনিপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4168,
-        "hijra_count": 0,
-        "latitude": 24.12777,
-        "longitude": 90.39125
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মাওনা উত্তরপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2781,
-        "hijra_count": 0,
-        "latitude": 24.25338,
-        "longitude": 90.39453
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মাওনা বহুমুখী উচ্চ বিদ্যালয় -১, ইউনেস্কো ভবন (পূর্ব পার্শ্বের ভবন)",
-        "male_count": 0,
-        "female_count": 2805,
-        "hijra_count": 0,
-        "latitude": 24.22456,
-        "longitude": 90.39986
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মাওনা বহুমুখী উচ্চ বিদ্যালয়-২, ফ্যাসিলিটিস ভবন, (উত্তর পার্শ্বের ভবন)",
-        "male_count": 0,
-        "female_count": 2594,
-        "hijra_count": 1,
-        "latitude": 24.22418,
-        "longitude": 90.39998
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মারতা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1509,
-        "female_count": 1363,
-        "hijra_count": 0,
-        "latitude": 24.02558,
-        "longitude": 90.47344
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মিটালু সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1676,
-        "female_count": 1656,
-        "hijra_count": 0,
-        "latitude": 24.12441,
-        "longitude": 90.48587
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মুলাইদ উওর পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3231,
-        "hijra_count": 0,
-        "latitude": 24.23887,
-        "longitude": 90.40969
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মুলাইদ সরকারী প্রাথমিক বিদ্যালয়,-১, পাকা ভবন পূর্ব পার্শ্বে",
-        "male_count": 3057,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.22096,
-        "longitude": 90.41751
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "মুলাইদ সরকারী প্রাথমিক বিদ্যালয়-২ টিনসেড ও পাকা ভবন",
-        "male_count": 2459,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.22096,
-        "longitude": 90.41752
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "যোগীরছিট সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1242,
-        "female_count": 1224,
-        "hijra_count": 0,
-        "latitude": 24.19932,
-        "longitude": 90.47376
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "রাজেন্দ্রপুর উচ্চ বিদ্যালয়-১",
-        "male_count": 2079,
-        "female_count": 2189,
-        "hijra_count": 1,
-        "latitude": 24.09826,
-        "longitude": 90.45061
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "রাজেন্দ্রপুর উচ্চ বিদ্যালয়-২",
-        "male_count": 0,
-        "female_count": 2318,
-        "hijra_count": 0,
-        "latitude": 24.09835,
-        "longitude": 90.4506
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "রাজেন্দ্রপুর সরকারী প্রাথমিক বিদ্যালয়।",
-        "male_count": 2384,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.09812,
-        "longitude": 90.45098
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "রুদ্রপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1681,
-        "female_count": 1687,
-        "hijra_count": 0,
-        "latitude": 24.11455,
-        "longitude": 90.42029
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "লক্ষীপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 631,
-        "female_count": 604,
-        "hijra_count": 0,
-        "latitude": 24.0773,
-        "longitude": 90.48139
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "লতিফপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1506,
-        "female_count": 1526,
-        "hijra_count": 0,
-        "latitude": 24.15641,
-        "longitude": 90.54772
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "লাকচতল সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1048,
-        "female_count": 987,
-        "hijra_count": 0,
-        "latitude": 24.28835,
-        "longitude": 90.48381
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "লোহাগাছ ফোরকানিয়া (এবতেদায়ী) মাদরাসা",
-        "male_count": 2729,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.18243,
-        "longitude": 90.47532
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "লোহাগাছ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2873,
-        "hijra_count": 0,
-        "latitude": 24.97788,
-        "longitude": 89.48683
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "শিমলাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1163,
-        "female_count": 1144,
-        "hijra_count": 0,
-        "latitude": 24.22195,
-        "longitude": 90.33813
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "শিরিরচালা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3596,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.16553,
-        "longitude": 90.42733
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "শৈলাট উচ্চ বিদ্যালয়",
-        "male_count": 842,
-        "female_count": 920,
-        "hijra_count": 0,
-        "latitude": 24.28681,
-        "longitude": 90.32965
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "শৈলাট পশ্চিম পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1421,
-        "female_count": 1466,
-        "hijra_count": 0,
-        "latitude": 24.28659,
-        "longitude": 90.32112
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "শ্রীপুর পাইলট বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 3612,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.20041,
-        "longitude": 90.47761
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "শ্রীপুর পাইলট বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3838,
-        "hijra_count": 0,
-        "latitude": 24.20044,
-        "longitude": 90.47761
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "শ্রীপুর সরকারি পাইলট উচ্চ বিদ্যালয়",
-        "male_count": 1992,
-        "female_count": 2126,
-        "hijra_count": 0,
-        "latitude": 24.18278,
-        "longitude": 90.47488
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "সাইটালিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1491,
-        "female_count": 1655,
-        "hijra_count": 0,
-        "latitude": 24.25477,
-        "longitude": 90.43918
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "সাতখামাইর উচ্চ বিদ্যালয়",
-        "male_count": 1812,
-        "female_count": 1851,
-        "hijra_count": 0,
-        "latitude": 24.23627,
-        "longitude": 90.4898
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "সিংগারদিঘী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1715,
-        "female_count": 1856,
-        "hijra_count": 0,
-        "latitude": 24.24129,
-        "longitude": 90.35812
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "সিংদিঘী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2064,
-        "female_count": 2169,
-        "hijra_count": 1,
-        "latitude": 24.22625,
-        "longitude": 90.36997
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "সোনাকর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1028,
-        "female_count": 1002,
-        "hijra_count": 0,
-        "latitude": 24.22134,
-        "longitude": 90.49489
-    },
-    {
-        "settings_code": 196,
-        "settings_name": "গাজীপুর-৩",
-        "center_name": "হয়দেবপুর দরগাহ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 823,
-        "female_count": 788,
-        "hijra_count": 0,
-        "latitude": 24.3275,
-        "longitude": 90.44286
-    }
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "২৬ নং জাহাংগীরপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1222,
+    "female_count": 1183,
+    "hijra_count": 0,
+    "latitude": 24.33613,
+    "longitude": 90.44227
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "৩নং গাজীপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1997,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.26886,
+    "longitude": 90.34429
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "আক্তাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1211,
+    "female_count": 1233,
+    "hijra_count": 0,
+    "latitude": 24.23922,
+    "longitude": 90.33997
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "আঙ্গুটিয়ারচালা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1101,
+    "female_count": 1144,
+    "hijra_count": 0,
+    "latitude": 24.06706,
+    "longitude": 90.3515
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "আবদার বাজার সরকারী প্রাথমিক বিদ্যালয়,-১, দোতলা ভবন, দক্ষিণ পার্শ্বের ভবন",
+    "male_count": 0,
+    "female_count": 3266,
+    "hijra_count": 0,
+    "latitude": 24.27536,
+    "longitude": 90.40587
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "আবদার বাজার সরকারী প্রাথমিক বিদ্যালয়,-২, এক তলা ভবন, পশ্চিম পার্শ্বের ভবন",
+    "male_count": 3229,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.2756,
+    "longitude": 90.4059
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "আমছর আলী মাদবর নূরানী হাফিজিয়া ও এতিমখানা মাদরাসা",
+    "male_count": 2945,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.2405,
+    "longitude": 90.39775
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "আলহাজ্ব ধনাই বেপারী মেমোরিয়াল উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3547,
+    "hijra_count": 0,
+    "latitude": 24.19864,
+    "longitude": 90.41792
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "আলহাজ্ব নওয়াব আলী উচ্চ বিদ্যালয়",
+    "male_count": 1142,
+    "female_count": 1238,
+    "hijra_count": 0,
+    "latitude": 24.23273,
+    "longitude": 90.46664
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ইকবাল সিদ্দিকী স্কুল এন্ড কলেজ",
+    "male_count": 4418,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.10222,
+    "longitude": 90.4299
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ইজ্জতপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1387,
+    "female_count": 1441,
+    "hijra_count": 0,
+    "latitude": 24.14195,
+    "longitude": 90.46331
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ইন্দ্রপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 917,
+    "female_count": 977,
+    "hijra_count": 0,
+    "latitude": 24.16585,
+    "longitude": 90.40245
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "উজিলাব সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1894,
+    "female_count": 1849,
+    "hijra_count": 1,
+    "latitude": 24.22377,
+    "longitude": 90.46034
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "উত্তর পেলাইদ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 686,
+    "female_count": 712,
+    "hijra_count": 0,
+    "latitude": 24.27524,
+    "longitude": 90.44484
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কচিকাঁচা একাডেমী",
+    "male_count": 0,
+    "female_count": 4265,
+    "hijra_count": 0,
+    "latitude": 24.10228,
+    "longitude": 90.43008
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কপাটিয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1809,
+    "female_count": 1866,
+    "hijra_count": 0,
+    "latitude": 24.25643,
+    "longitude": 90.35995
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কর্ণপুর সরকারী প্রাথমিক বিদ্যালয়-১",
+    "male_count": 0,
+    "female_count": 1910,
+    "hijra_count": 0,
+    "latitude": 24.18501,
+    "longitude": 90.51629
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কর্ণপুর সরকারী প্রাথমিক বিদ্যালয়-২",
+    "male_count": 1877,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.18582,
+    "longitude": 90.51725
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কাওরাইদ কে.এন. উচ্চ বিদ্যালয়,-১ উত্তর পার্শ্বের ভবন",
+    "male_count": 0,
+    "female_count": 3569,
+    "hijra_count": 0,
+    "latitude": 24.30891,
+    "longitude": 90.5147
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কাওরাইদ কে.এন. উচ্চ বিদ্যালয়-২, পশ্চিম পার্শ্বের ভবন",
+    "male_count": 3625,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.30928,
+    "longitude": 90.51458
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কাঞ্জানুল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1106,
+    "female_count": 1071,
+    "hijra_count": 0,
+    "latitude": 24.07892,
+    "longitude": 90.36047
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কেওয়া খাদিজাতুল কুবরা (রাঃ) মহিলা ফাজিল মাদরাসা",
+    "male_count": 2852,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.21542,
+    "longitude": 90.4453
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কেওয়া তমির উদ্দিন আলিম মাদ্রাসা-১, অডিটরিয়াম ভবন",
+    "male_count": 2841,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.22033,
+    "longitude": 90.41211
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কেওয়া তমির উদ্দিন আলিম মাদ্রাসা-২, প্রশাসনিক ভবন",
+    "male_count": 2623,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.22029,
+    "longitude": 90.41217
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কেওয়া পশ্চিম খন্ড সরকারী প্রাথমিক বিদ্যালয়-১",
+    "male_count": 0,
+    "female_count": 2737,
+    "hijra_count": 0,
+    "latitude": 24.20641,
+    "longitude": 90.40076
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কেওয়া পশ্চিম খন্ড সরকারী প্রাথমিক বিদ্যালয়-২",
+    "male_count": 2574,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.20646,
+    "longitude": 90.40067
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কেওয়া পূর্ব খন্ড সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1473,
+    "female_count": 1615,
+    "hijra_count": 1,
+    "latitude": 24.19977,
+    "longitude": 90.43947
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "কেওয়া বাজার ফোরকানিয়া মাদরাসা (উত্তর পার্শ্বের ভবন)",
+    "male_count": 0,
+    "female_count": 2827,
+    "hijra_count": 0,
+    "latitude": 24.21194,
+    "longitude": 90.43958
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গজারিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1297,
+    "female_count": 1298,
+    "hijra_count": 0,
+    "latitude": 24.10928,
+    "longitude": 90.48389
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গলদাপাড়া নিয়ামত আলী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2097,
+    "hijra_count": 0,
+    "latitude": 24.31708,
+    "longitude": 90.45019
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গলদাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2164,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.31724,
+    "longitude": 90.45106
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গাজীপুর ২নং সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2109,
+    "hijra_count": 0,
+    "latitude": 23.88788,
+    "longitude": 90.88684
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গাজীপুর উচ্চ বিদ্যালয়",
+    "male_count": 1553,
+    "female_count": 1630,
+    "hijra_count": 0,
+    "latitude": 24.26726,
+    "longitude": 90.33459
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গাড়ারন সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1770,
+    "female_count": 1852,
+    "hijra_count": 0,
+    "latitude": 24.21303,
+    "longitude": 90.48205
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গিলারচালা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1430,
+    "female_count": 1292,
+    "hijra_count": 0,
+    "latitude": 24.18768,
+    "longitude": 90.42484
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গিলাশ্বর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1527,
+    "female_count": 1507,
+    "hijra_count": 0,
+    "latitude": 24.23483,
+    "longitude": 90.503
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গোদারচালা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 788,
+    "female_count": 858,
+    "hijra_count": 0,
+    "latitude": 24.25539,
+    "longitude": 90.42125
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "গোসিংগা উচ্চ বিদ্যালয়",
+    "male_count": 1631,
+    "female_count": 1675,
+    "hijra_count": 0,
+    "latitude": 24.18107,
+    "longitude": 90.53849
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "চকপাড়া ২নং সরকারী প্রাথমিক বিদ্যালয়,-১, পশ্চিম পার্শ্বের ভবন",
+    "male_count": 0,
+    "female_count": 2561,
+    "hijra_count": 0,
+    "latitude": 24.23814,
+    "longitude": 90.382
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "চকপাড়া ২নং সরকারী প্রাথমিক বিদ্যালয়,-২, পূর্ব পার্শ্বের ভবন",
+    "male_count": 2518,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.23819,
+    "longitude": 90.38204
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "চন্নাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2394,
+    "female_count": 2192,
+    "hijra_count": 0,
+    "latitude": 24.20858,
+    "longitude": 90.42718
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "চরবাহার সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1891,
+    "female_count": 2062,
+    "hijra_count": 0,
+    "latitude": 24.22817,
+    "longitude": 90.49614
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "চিনাশুকানিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1617,
+    "female_count": 1668,
+    "hijra_count": 0,
+    "latitude": 24.08544,
+    "longitude": 90.50135
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ছলিম উদ্দিন সরকার মডেল একাডেমি",
+    "male_count": 0,
+    "female_count": 1967,
+    "hijra_count": 0,
+    "latitude": 24.23911,
+    "longitude": 90.41063
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "জয়নারায়নপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1093,
+    "female_count": 1114,
+    "hijra_count": 0,
+    "latitude": 24.12448,
+    "longitude": 90.50111
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "জানাকুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1108,
+    "female_count": 1143,
+    "hijra_count": 0,
+    "latitude": 24.10739,
+    "longitude": 90.43962
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "টেপিরবাড়ী আনসার উচ্চ বিদ্যালয়",
+    "male_count": 1948,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.23143,
+    "longitude": 90.43726
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "টেপিরবাড়ী আনসার সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1949,
+    "hijra_count": 0,
+    "latitude": 24.23132,
+    "longitude": 90.43674
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "টেপিরবাড়ী উচ্চ বিদ্যালয়",
+    "male_count": 2838,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.24681,
+    "longitude": 90.43
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "টেপিরবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2822,
+    "hijra_count": 0,
+    "latitude": 24.24701,
+    "longitude": 90.4298
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "টেংরা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1056,
+    "female_count": 1132,
+    "hijra_count": 0,
+    "latitude": 24.23266,
+    "longitude": 90.46651
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ডগরী আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1395,
+    "female_count": 1401,
+    "hijra_count": 0,
+    "latitude": 24.1066,
+    "longitude": 90.36577
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ডোয়াইবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1086,
+    "female_count": 1123,
+    "hijra_count": 0,
+    "latitude": 24.14252,
+    "longitude": 90.49024
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "তালতলী মডার্ন স্কুল অ্যান্ড কলেজ",
+    "male_count": 2441,
+    "female_count": 2524,
+    "hijra_count": 0,
+    "latitude": 24.08701,
+    "longitude": 90.34445
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "তালতলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1160,
+    "female_count": 1196,
+    "hijra_count": 0,
+    "latitude": 24.07995,
+    "longitude": 90.2649
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "তুলা গবেষনা কেন্দ্র স্কুল",
+    "male_count": 1550,
+    "female_count": 1736,
+    "hijra_count": 0,
+    "latitude": 24.18147,
+    "longitude": 90.43062
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "তেলিহাটি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1268,
+    "female_count": 1269,
+    "hijra_count": 0,
+    "latitude": 24.26832,
+    "longitude": 90.42323
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ত্রিমোহনী বি.ডি. ইসলামিয়া উচ্চ বিদ্যালয়",
+    "male_count": 1993,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.27374,
+    "longitude": 90.54443
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "দক্ষিণ বারতোপা সরকারী প্রাথমিক বিদ্যালয়,-১, ২য় তলা বিল্ডিং",
+    "male_count": 0,
+    "female_count": 3132,
+    "hijra_count": 0,
+    "latitude": 24.19966,
+    "longitude": 90.38491
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "দক্ষিণ বারতোপা সরকারী প্রাথমিক বিদ্যালয়,-২, টিনসেড ভবন",
+    "male_count": 2932,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.19943,
+    "longitude": 90.38483
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "দক্ষিণ ভাংনাহাটি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 856,
+    "female_count": 856,
+    "hijra_count": 0,
+    "latitude": 24.1947,
+    "longitude": 90.46314
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "দমদমা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1508,
+    "female_count": 1440,
+    "hijra_count": 0,
+    "latitude": 24.06371,
+    "longitude": 90.49687
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "দরগারচালা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1087,
+    "female_count": 1115,
+    "hijra_count": 0,
+    "latitude": 24.25567,
+    "longitude": 90.48909
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "দিঘিরচালা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1139,
+    "female_count": 1163,
+    "hijra_count": 0,
+    "latitude": 24.09608,
+    "longitude": 90.51144
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ধনুয়া উচ্চ বিদ্যালয়",
+    "male_count": 1034,
+    "female_count": 1111,
+    "hijra_count": 0,
+    "latitude": 24.27355,
+    "longitude": 90.36739
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ধনুয়া দক্ষিণ আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 2236,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.19929,
+    "longitude": 90.47374
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ধনুয়া দক্ষিণ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2061,
+    "hijra_count": 0,
+    "latitude": 24.26131,
+    "longitude": 90.38691
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ধলাদিয়া উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2275,
+    "hijra_count": 0,
+    "latitude": 24.10054,
+    "longitude": 90.47577
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ধলাদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2291,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.10048,
+    "longitude": 90.47561
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ধামলই ২নং সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2088,
+    "hijra_count": 0,
+    "latitude": 24.31646,
+    "longitude": 90.4706
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ধামলই উচ্চ বিদ্যালয়",
+    "male_count": 2170,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.3166,
+    "longitude": 90.47041
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নগর হাওলা সরকারী প্রাথমিক বিদ্যালয়,-১, দক্ষিণ পার্শ্বের ভবন",
+    "male_count": 0,
+    "female_count": 2372,
+    "hijra_count": 0,
+    "latitude": 24.27583,
+    "longitude": 90.38651
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নগর হাওলা সরকারী প্রাথমিক বিদ্যালয়,-২, পশ্চিম পার্শ্বের পাকা ২টি ভবন",
+    "male_count": 2743,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.27601,
+    "longitude": 90.38662
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নয়াপাড়া এবাদিয়া দাখিল মাদ্রাসা",
+    "male_count": 1477,
+    "female_count": 1463,
+    "hijra_count": 0,
+    "latitude": 24.09542,
+    "longitude": 90.3645
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3267,
+    "hijra_count": 0,
+    "latitude": 24.13864,
+    "longitude": 90.40784
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3312,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.13899,
+    "longitude": 90.40706
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1758,
+    "female_count": 1906,
+    "hijra_count": 0,
+    "latitude": 24.28661,
+    "longitude": 90.34926
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নলজানী মোজাদ্দেদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1453,
+    "female_count": 1583,
+    "hijra_count": 0,
+    "latitude": 24.14432,
+    "longitude": 90.45377
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নানাইয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 912,
+    "female_count": 893,
+    "hijra_count": 0,
+    "latitude": 24.04213,
+    "longitude": 90.48017
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নান্দিয়া সাংগুন আবহানী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2032,
+    "hijra_count": 0,
+    "latitude": 24.27345,
+    "longitude": 90.54495
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নিজ খোজেখানি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1129,
+    "female_count": 1231,
+    "hijra_count": 0,
+    "latitude": 24.19468,
+    "longitude": 90.5366
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নিজ মাওনা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3610,
+    "hijra_count": 0,
+    "latitude": 24.26017,
+    "longitude": 90.31551
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "নেহালীয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 844,
+    "female_count": 810,
+    "hijra_count": 0,
+    "latitude": 24.22627,
+    "longitude": 90.51056
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পটকা সরকারী প্রাথমিক বিদ্যালয়-১",
+    "male_count": 0,
+    "female_count": 2048,
+    "hijra_count": 0,
+    "latitude": 24.17918,
+    "longitude": 90.48942
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পটকা সরকারী প্রাথমিক বিদ্যালয়-২",
+    "male_count": 1943,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.17918,
+    "longitude": 90.48942
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পশ্চিম ডগরী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1495,
+    "female_count": 1582,
+    "hijra_count": 0,
+    "latitude": 24.10094,
+    "longitude": 90.35233
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পাইনশাইল গাছপুকুর পাড় দাখিল মাদ্রাসা",
+    "male_count": 1768,
+    "female_count": 1747,
+    "hijra_count": 0,
+    "latitude": 24.09878,
+    "longitude": 90.34757
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পাঠানটেক সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2668,
+    "hijra_count": 0,
+    "latitude": 24.24657,
+    "longitude": 90.51941
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পাবুরিয়াচালা আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1367,
+    "female_count": 1410,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পিরুজালী আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3632,
+    "hijra_count": 0,
+    "latitude": 24.12927,
+    "longitude": 90.36151
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পিরুজালী আমানিয়া ফাজিল (বি এ) মাদ্রাসা",
+    "male_count": 2036,
+    "female_count": 2225,
+    "hijra_count": 0,
+    "latitude": 24.11668,
+    "longitude": 90.34789
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পিরুজালী উচ্চ বিদ্যালয়",
+    "male_count": 2948,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.1391,
+    "longitude": 90.36645
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পিরুজালী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3187,
+    "hijra_count": 0,
+    "latitude": 24.13912,
+    "longitude": 90.36643
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পিরুজালী মধ্যপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3363,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.12929,
+    "longitude": 90.36153
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পূর্ব নিজ মাওনা ৯নং সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3356,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.26301,
+    "longitude": 90.33081
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পেলাইদ আদর্শ কারিগরি স্কুল",
+    "male_count": 2179,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.21326,
+    "longitude": 90.53937
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পেলাইদ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2093,
+    "hijra_count": 0,
+    "latitude": 24.21321,
+    "longitude": 90.53921
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পোতাবাড়ী আর্দশ উচ্চ বিদ্যালয়",
+    "male_count": 1473,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.04395,
+    "longitude": 90.46274
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "পোতাবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1462,
+    "hijra_count": 0,
+    "latitude": 24.04809,
+    "longitude": 90.46409
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "প্রতাবপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1305,
+    "female_count": 1374,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "প্রহলাদপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1122,
+    "female_count": 1129,
+    "hijra_count": 0,
+    "latitude": 24.05695,
+    "longitude": 90.47447
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ফরিদপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1300,
+    "female_count": 1320,
+    "hijra_count": 0,
+    "latitude": 24.26256,
+    "longitude": 90.40751
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ফাউগান উচ্চ বিদ্যালয়",
+    "male_count": 1815,
+    "female_count": 1953,
+    "hijra_count": 0,
+    "latitude": 24.07592,
+    "longitude": 90.46873
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বড়নল সরকারী প্রাথমিক বিদ্যালয়-১, ভবনের ১ম তলা",
+    "male_count": 2508,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.25414,
+    "longitude": 90.50751
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বড়নল সরকারী প্রাথমিক বিদ্যালয়-২, ভবনের ২য় তলা",
+    "male_count": 0,
+    "female_count": 2550,
+    "hijra_count": 0,
+    "latitude": 24.25414,
+    "longitude": 90.50751
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বড়বাইদ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1210,
+    "female_count": 1229,
+    "hijra_count": 0,
+    "latitude": 24.83078,
+    "longitude": 90.54845
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বদনীভাংগা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 701,
+    "female_count": 732,
+    "hijra_count": 0,
+    "latitude": 24.23605,
+    "longitude": 90.32088
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বনখড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1426,
+    "female_count": 1412,
+    "hijra_count": 0,
+    "latitude": 24.06799,
+    "longitude": 90.43902
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বরকুল ইসলামিয়া দাখিল মাদরাসা",
+    "male_count": 1665,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.26703,
+    "longitude": 90.5205
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বরকুল সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1602,
+    "hijra_count": 0,
+    "latitude": 24.26699,
+    "longitude": 90.5204
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বরমী ইউনিয়ন উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2900,
+    "hijra_count": 0,
+    "latitude": 24.23883,
+    "longitude": 90.52205
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বরমী ইউনিয়ন সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2776,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.2388,
+    "longitude": 90.52212
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বরমী বাজার উচ্চ বিদ্যালয়",
+    "male_count": 2651,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.24628,
+    "longitude": 90.5201
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বরামা ১নং সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1269,
+    "female_count": 1308,
+    "hijra_count": 0,
+    "latitude": 24.22891,
+    "longitude": 90.5238
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বরামা ইসলামিয়া ফাজিল মাদ্রাসা, কেন্দ্র-১, উত্তর পার্শ্বের ভবন",
+    "male_count": 0,
+    "female_count": 2342,
+    "hijra_count": 0,
+    "latitude": 24.23161,
+    "longitude": 90.53254
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বরামা ইসলামিয়া ফাজিল মাদ্রাসা, কেন্দ্র-২, পশ্চিম পার্শ্বের ভবন",
+    "male_count": 2467,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.23165,
+    "longitude": 90.53256
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বলদীঘাট জে,এম সরকার উচ্চ বিদ্যালয়",
+    "male_count": 2628,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.30162,
+    "longitude": 90.46303
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বলদীঘাট সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2613,
+    "hijra_count": 0,
+    "latitude": 24.3014,
+    "longitude": 90.46285
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বাউনি সকিনা মাদ্রাসা",
+    "male_count": 1562,
+    "female_count": 1617,
+    "hijra_count": 0,
+    "latitude": 24.17927,
+    "longitude": 90.48944
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বাঘের বাজার উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3719,
+    "hijra_count": 0,
+    "latitude": 24.16526,
+    "longitude": 90.42767
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বানিয়ারচালা জামিয়া ইসলামিয়া দারুল উলুম মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 3460,
+    "hijra_count": 0,
+    "latitude": 24.15719,
+    "longitude": 90.42217
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বানিয়ারচালা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3346,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.15741,
+    "longitude": 90.42119
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বাপ্তা ঈদগাহ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1633,
+    "female_count": 1582,
+    "hijra_count": 0,
+    "latitude": 24.28067,
+    "longitude": 90.52435
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বাপ্তা বেলদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1961,
+    "female_count": 2027,
+    "hijra_count": 0,
+    "latitude": 24.29073,
+    "longitude": 90.52031
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বালিয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1515,
+    "female_count": 1479,
+    "hijra_count": 0,
+    "latitude": 24.86189,
+    "longitude": 90.52737
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বাঁশকোপা সরকারী প্রাথমিক বিদ্যালয় বাঁশকোপা",
+    "male_count": 1146,
+    "female_count": 1141,
+    "hijra_count": 0,
+    "latitude": 24.06012,
+    "longitude": 90.45249
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বাঁশবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1459,
+    "female_count": 1503,
+    "hijra_count": 0,
+    "latitude": 24.28277,
+    "longitude": 90.30827
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বি.কে বাড়ী হোসেনীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2658,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.11273,
+    "longitude": 90.37507
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বি.কে বাড়ী হোসেনীয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1523,
+    "female_count": 4160,
+    "hijra_count": 0,
+    "latitude": 24.11265,
+    "longitude": 90.37516
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বিধাই সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1698,
+    "female_count": 1710,
+    "hijra_count": 0,
+    "latitude": 24.28467,
+    "longitude": 90.42873
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বেকাসহারা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1007,
+    "female_count": 1119,
+    "hijra_count": 0,
+    "latitude": 24.22643,
+    "longitude": 90.47429
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বেড়াইদেরচালা সরকারী প্রথমিক বিদ্যালয়",
+    "male_count": 3518,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.19632,
+    "longitude": 90.41672
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বেড়াবাড়ী পশ্চিম সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1599,
+    "female_count": 1549,
+    "hijra_count": 0,
+    "latitude": 24.14205,
+    "longitude": 90.51125
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বেড়াবাড়ী পূর্ব সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1352,
+    "female_count": 1404,
+    "hijra_count": 0,
+    "latitude": 24.14109,
+    "longitude": 90.53376
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বেলতলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 942,
+    "female_count": 993,
+    "hijra_count": 0,
+    "latitude": 24.18494,
+    "longitude": 90.40569
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "বৈরাগীরচালা উচ্চ বিদ্যালয়",
+    "male_count": 1429,
+    "female_count": 1379,
+    "hijra_count": 0,
+    "latitude": 24.19271,
+    "longitude": 90.447
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ভবানীপুর উচ্চ বিদ্যালয়",
+    "male_count": 3010,
+    "female_count": 3235,
+    "hijra_count": 0,
+    "latitude": 24.14831,
+    "longitude": 90.41244
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ভাওয়ালপুর আদর্শ গ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 972,
+    "female_count": 1052,
+    "hijra_count": 0,
+    "latitude": 24.14022,
+    "longitude": 90.42218
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ভাওয়াল রাজাবাড়ী উচ্চ বিদ্যালয়",
+    "male_count": 1222,
+    "female_count": 1279,
+    "hijra_count": 0,
+    "latitude": 24.10673,
+    "longitude": 90.50135
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ভাংনাহাটি পশ্চিম সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2354,
+    "female_count": 2370,
+    "hijra_count": 0,
+    "latitude": 24.205,
+    "longitude": 90.4468
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ভিটিপাড়া কে.এইচ.কে উচ্চ বিদ্যালয়",
+    "male_count": 1544,
+    "female_count": 1575,
+    "hijra_count": 0,
+    "latitude": 24.27154,
+    "longitude": 90.5033
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ভুতুলিয়া ফোরকানিয়া মাদ্রাসা",
+    "male_count": 1474,
+    "female_count": 1608,
+    "hijra_count": 0,
+    "latitude": 24.27334,
+    "longitude": 90.36214
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "ভেরামতলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 599,
+    "female_count": 653,
+    "hijra_count": 0,
+    "latitude": 24.16288,
+    "longitude": 90.35374
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মনিপুর উচ্চ বিদ্যালয়",
+    "male_count": 4254,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.12771,
+    "longitude": 90.39129
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মনিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4168,
+    "hijra_count": 0,
+    "latitude": 24.12777,
+    "longitude": 90.39125
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মাওনা উত্তরপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2781,
+    "hijra_count": 0,
+    "latitude": 24.25338,
+    "longitude": 90.39453
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মাওনা বহুমুখী উচ্চ বিদ্যালয় -১, ইউনেস্কো ভবন (পূর্ব পার্শ্বের ভবন)",
+    "male_count": 0,
+    "female_count": 2805,
+    "hijra_count": 0,
+    "latitude": 24.22456,
+    "longitude": 90.39986
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মাওনা বহুমুখী উচ্চ বিদ্যালয়-২, ফ্যাসিলিটিস ভবন, (উত্তর পার্শ্বের ভবন)",
+    "male_count": 0,
+    "female_count": 2594,
+    "hijra_count": 1,
+    "latitude": 24.22418,
+    "longitude": 90.39998
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মারতা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1509,
+    "female_count": 1363,
+    "hijra_count": 0,
+    "latitude": 24.02558,
+    "longitude": 90.47344
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মিটালু সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1676,
+    "female_count": 1656,
+    "hijra_count": 0,
+    "latitude": 24.12441,
+    "longitude": 90.48587
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মুলাইদ উওর পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3231,
+    "hijra_count": 0,
+    "latitude": 24.23887,
+    "longitude": 90.40969
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মুলাইদ সরকারী প্রাথমিক বিদ্যালয়,-১, পাকা ভবন পূর্ব পার্শ্বে",
+    "male_count": 3057,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.22096,
+    "longitude": 90.41751
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "মুলাইদ সরকারী প্রাথমিক বিদ্যালয়-২ টিনসেড ও পাকা ভবন",
+    "male_count": 2459,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.22096,
+    "longitude": 90.41752
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "যোগীরছিট সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1242,
+    "female_count": 1224,
+    "hijra_count": 0,
+    "latitude": 24.19932,
+    "longitude": 90.47376
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "রাজেন্দ্রপুর উচ্চ বিদ্যালয়-১",
+    "male_count": 2079,
+    "female_count": 2189,
+    "hijra_count": 1,
+    "latitude": 24.09826,
+    "longitude": 90.45061
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "রাজেন্দ্রপুর উচ্চ বিদ্যালয়-২",
+    "male_count": 0,
+    "female_count": 2318,
+    "hijra_count": 0,
+    "latitude": 24.09835,
+    "longitude": 90.4506
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "রাজেন্দ্রপুর সরকারী প্রাথমিক বিদ্যালয়।",
+    "male_count": 2384,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.09812,
+    "longitude": 90.45098
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "রুদ্রপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1681,
+    "female_count": 1687,
+    "hijra_count": 0,
+    "latitude": 24.11455,
+    "longitude": 90.42029
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "লক্ষীপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 631,
+    "female_count": 604,
+    "hijra_count": 0,
+    "latitude": 24.0773,
+    "longitude": 90.48139
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "লতিফপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1506,
+    "female_count": 1526,
+    "hijra_count": 0,
+    "latitude": 24.15641,
+    "longitude": 90.54772
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "লাকচতল সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1048,
+    "female_count": 987,
+    "hijra_count": 0,
+    "latitude": 24.28835,
+    "longitude": 90.48381
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "লোহাগাছ ফোরকানিয়া (এবতেদায়ী) মাদরাসা",
+    "male_count": 2729,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.18243,
+    "longitude": 90.47532
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "লোহাগাছ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2873,
+    "hijra_count": 0,
+    "latitude": 24.97788,
+    "longitude": 89.48683
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "শিমলাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1163,
+    "female_count": 1144,
+    "hijra_count": 0,
+    "latitude": 24.22195,
+    "longitude": 90.33813
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "শিরিরচালা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3596,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.16553,
+    "longitude": 90.42733
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "শৈলাট উচ্চ বিদ্যালয়",
+    "male_count": 842,
+    "female_count": 920,
+    "hijra_count": 0,
+    "latitude": 24.28681,
+    "longitude": 90.32965
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "শৈলাট পশ্চিম পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1421,
+    "female_count": 1466,
+    "hijra_count": 0,
+    "latitude": 24.28659,
+    "longitude": 90.32112
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "শ্রীপুর পাইলট বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 3612,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.20041,
+    "longitude": 90.47761
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "শ্রীপুর পাইলট বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3838,
+    "hijra_count": 0,
+    "latitude": 24.20044,
+    "longitude": 90.47761
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "শ্রীপুর সরকারি পাইলট উচ্চ বিদ্যালয়",
+    "male_count": 1992,
+    "female_count": 2126,
+    "hijra_count": 0,
+    "latitude": 24.18278,
+    "longitude": 90.47488
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "সাইটালিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1491,
+    "female_count": 1655,
+    "hijra_count": 0,
+    "latitude": 24.25477,
+    "longitude": 90.43918
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "সাতখামাইর উচ্চ বিদ্যালয়",
+    "male_count": 1812,
+    "female_count": 1851,
+    "hijra_count": 0,
+    "latitude": 24.23627,
+    "longitude": 90.4898
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "সিংগারদিঘী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1715,
+    "female_count": 1856,
+    "hijra_count": 0,
+    "latitude": 24.24129,
+    "longitude": 90.35812
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "সিংদিঘী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2064,
+    "female_count": 2169,
+    "hijra_count": 1,
+    "latitude": 24.22625,
+    "longitude": 90.36997
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "সোনাকর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1028,
+    "female_count": 1002,
+    "hijra_count": 0,
+    "latitude": 24.22134,
+    "longitude": 90.49489
+  },
+  {
+    "settings_code": 196,
+    "settings_name": "গাজীপুর-৩",
+    "center_name": "হয়দেবপুর দরগাহ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 823,
+    "female_count": 788,
+    "hijra_count": 0,
+    "latitude": 24.3275,
+    "longitude": 90.44286
+  }
 ]

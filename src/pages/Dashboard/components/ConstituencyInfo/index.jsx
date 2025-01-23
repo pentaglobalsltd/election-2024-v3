@@ -51,7 +51,7 @@ const Result = ({ data }) => {
   );
 };
 
-const ConstituencyInfo = () => {
+const ConstituencyInfo = ({ selectedDistrict }) => {
   const dispatch = useDispatch();
 
   const _selectedConstituency = useSelector((state) => state.constituency);
@@ -79,15 +79,21 @@ const ConstituencyInfo = () => {
     }
   }, [selectedConstituency]);
 
+  useEffect(() => {
+    setSelectedConstituencyCount(null);
+  }, [selectedDistrict]);
+  if (!selectedConstituencyCount) return null;
+
   return (
     <Drawer
       title={selectedConstituency ? selectedConstituency.name : ''}
       placement="right"
-      closable={false}
+      closable={true}
       onClose={onClose}
       open={selectedConstituency}
       key="Constituency"
       width={320}
+      mask={false}
     >
       <>
         {selectedConstituency ? (

@@ -1,1392 +1,1392 @@
 [
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১০২নং গোনা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1876,
-        "female_count": 1841,
-        "hijra_count": 0,
-        "latitude": 22.2923,
-        "longitude": 89.03041
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১০ নং গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 738,
-        "female_count": 758,
-        "hijra_count": 0,
-        "latitude": 22.34081,
-        "longitude": 89.09149
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১১৫নং ঝুরঝুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2332,
-        "female_count": 2282,
-        "hijra_count": 0,
-        "latitude": 22.34418,
-        "longitude": 89.17694
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১১নং দেবালয় সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1151,
-        "female_count": 1099,
-        "hijra_count": 0,
-        "latitude": 22.32368,
-        "longitude": 89.12404
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১২০নং দক্ষিণ ছোটকুপট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1176,
-        "female_count": 1164,
-        "hijra_count": 0,
-        "latitude": 22.32219,
-        "longitude": 89.19124
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১২২নং গাবুরা খোলপেটুয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 891,
-        "female_count": 937,
-        "hijra_count": 0,
-        "latitude": 22.28117,
-        "longitude": 89.27101
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১২নং চন্ডিপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1226,
-        "female_count": 1222,
-        "hijra_count": 0,
-        "latitude": 22.35377,
-        "longitude": 89.10511
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১৩৩নং ছোট ভেটখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1106,
-        "female_count": 1135,
-        "hijra_count": 0,
-        "latitude": 22.21514,
-        "longitude": 89.13596
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১৩৭নং মুন্সীগঞ্জ দক্ষিণ পাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1503,
-        "female_count": 1501,
-        "hijra_count": 0,
-        "latitude": 22.23739,
-        "longitude": 89.14928
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১৪নং চিংড়াখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1175,
-        "female_count": 1081,
-        "hijra_count": 0,
-        "latitude": 22.30655,
-        "longitude": 89.08159
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১৫৬নং দক্ষিণ বংশীপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1682,
-        "female_count": 1614,
-        "hijra_count": 0,
-        "latitude": 22.29865,
-        "longitude": 89.09834
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১৭৩নং সোরা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2129,
-        "female_count": 2109,
-        "hijra_count": 0,
-        "latitude": 22.22729,
-        "longitude": 89.24953
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১৭নং নূরনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3042,
-        "hijra_count": 0,
-        "latitude": 22.33452,
-        "longitude": 89.03886
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১৮নং পশ্চিম কৈখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1835,
-        "female_count": 1834,
-        "hijra_count": 0,
-        "latitude": 22.22819,
-        "longitude": 89.05284
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "১নং সিরাজপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1812,
-        "female_count": 1800,
-        "hijra_count": 0,
-        "latitude": 22.35789,
-        "longitude": 89.06154
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "২০নং রমজাননগর সরকারি প্রাথমিক বিদ্যালয় ও কমিউনিটি ক্লিনিক",
-        "male_count": 1590,
-        "female_count": 1458,
-        "hijra_count": 0,
-        "latitude": 22.27381,
-        "longitude": 89.0625
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "২১নং সোরা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2014,
-        "female_count": 1948,
-        "hijra_count": 0,
-        "latitude": 22.24401,
-        "longitude": 89.07269
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "২২নং ভৈরবনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1836,
-        "female_count": 1761,
-        "hijra_count": 0,
-        "latitude": 22.29487,
-        "longitude": 89.08638
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "২৪নং মুন্সিগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2202,
-        "female_count": 2171,
-        "hijra_count": 0,
-        "latitude": 22.27014,
-        "longitude": 89.19315
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "২৮নং কদমতলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1492,
-        "female_count": 1510,
-        "hijra_count": 0,
-        "latitude": 22.23401,
-        "longitude": 89.18136
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "২৯নং ধুমঘাট এইচ সি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1317,
-        "female_count": 1253,
-        "hijra_count": 0,
-        "latitude": 22.26459,
-        "longitude": 89.13476
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "২নং নাগবাটি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2406,
-        "female_count": 2345,
-        "hijra_count": 0,
-        "latitude": 22.37573,
-        "longitude": 89.07981
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৩২নং গুমানতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1947,
-        "female_count": 1902,
-        "hijra_count": 0,
-        "latitude": 22.31166,
-        "longitude": 89.13739
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৩৪নং বুড়িদাতিনাখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1538,
-        "female_count": 1593,
-        "hijra_count": 0,
-        "latitude": 22.25827,
-        "longitude": 89.22905
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৩৬নং আড়পাংগাশিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1601,
-        "female_count": 1536,
-        "hijra_count": 0,
-        "latitude": 22.29667,
-        "longitude": 89.20414
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৩নং খানপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2353,
-        "female_count": 2289,
-        "hijra_count": 0,
-        "latitude": 22.37545,
-        "longitude": 89.09183
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৪৪নং গড় কুমারপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1239,
-        "female_count": 1157,
-        "hijra_count": 0,
-        "latitude": 22.36441,
-        "longitude": 89.23173
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৪৫নং খুটিকাটা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1065,
-        "female_count": 1036,
-        "hijra_count": 0,
-        "latitude": 22.34211,
-        "longitude": 89.24167
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৪৭নং পদ্মপুকুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1136,
-        "female_count": 1128,
-        "hijra_count": 0,
-        "latitude": 22.35078,
-        "longitude": 89.21638
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৪নং কাশিমাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1769,
-        "female_count": 1700,
-        "hijra_count": 0,
-        "latitude": 22.37424,
-        "longitude": 89.17507
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৫০নং গাবুরা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2002,
-        "female_count": 1753,
-        "hijra_count": 0,
-        "latitude": 22.2801,
-        "longitude": 89.28806
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৫২নং ডুমুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1188,
-        "female_count": 1232,
-        "hijra_count": 0,
-        "latitude": 22.24877,
-        "longitude": 89.24627
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৫৪নং পার্শ্বেমারী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1670,
-        "female_count": 1641,
-        "hijra_count": 0,
-        "latitude": 22.25389,
-        "longitude": 89.30861
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৫৬ নং ভুরুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1849,
-        "female_count": 1816,
-        "hijra_count": 3,
-        "latitude": 22.3588,
-        "longitude": 89.08526
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৫৭নং জয়নগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1422,
-        "female_count": 1354,
-        "hijra_count": 0,
-        "latitude": 22.37951,
-        "longitude": 89.16432
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৫৮নং যাদবপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2442,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.32644,
-        "longitude": 89.08843
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৫নং ঝাঁপা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 737,
-        "female_count": 739,
-        "hijra_count": 0,
-        "latitude": 22.35339,
-        "longitude": 89.19227
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৬১নং ভেটখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2070,
-        "female_count": 2069,
-        "hijra_count": 0,
-        "latitude": 22.23523,
-        "longitude": 89.09054
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৬৪নং খ্যাগড়াঘাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1144,
-        "female_count": 1087,
-        "hijra_count": 0,
-        "latitude": 22.30447,
-        "longitude": 89.13502
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৬৫নং দক্ষিণ আবাদ চন্ডিপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2142,
-        "female_count": 2072,
-        "hijra_count": 0,
-        "latitude": 22.27344,
-        "longitude": 89.16183
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৬৭নং চন্ডিপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1749,
-        "female_count": 1652,
-        "hijra_count": 0,
-        "latitude": 22.32227,
-        "longitude": 89.24977
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "\t৬৭ নং পশ্চিম কালিকাপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1250,
-        "female_count": 1200,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৬৮নং খলিশাবুনিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1698,
-        "female_count": 1705,
-        "hijra_count": 0,
-        "latitude": 22.25968,
-        "longitude": 89.25927
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৬৮ নং পূর্ব কালিকাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1428,
-        "female_count": 1378,
-        "hijra_count": 0,
-        "latitude": 22.39743,
-        "longitude": 89.14978
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৬৯নং বংশীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1797,
-        "female_count": 1801,
-        "hijra_count": 0,
-        "latitude": 22.30581,
-        "longitude": 89.10658
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৬নং শংকরকাটি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1413,
-        "female_count": 1341,
-        "hijra_count": 0,
-        "latitude": 22.36038,
-        "longitude": 89.13315
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৭০নং হেতালখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1470,
-        "female_count": 1424,
-        "hijra_count": 0,
-        "latitude": 22.22864,
-        "longitude": 89.11539
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৭২নং পূর্ব কৈখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1865,
-        "female_count": 1846,
-        "hijra_count": 0,
-        "latitude": 22.21632,
-        "longitude": 89.07149
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৭৫ নং নকিপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1709,
-        "female_count": 1857,
-        "hijra_count": 0,
-        "latitude": 22.34268,
-        "longitude": 89.1166
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৭৬নং পাতড়াখোলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1027,
-        "female_count": 984,
-        "hijra_count": 0,
-        "latitude": 22.28208,
-        "longitude": 89.09898
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৭৭নং কালিঞ্চি সরকারি প্রাথমিক ও এ, গফ্ফার মাধ্যমিক বিদ্যালয়",
-        "male_count": 1708,
-        "female_count": 1707,
-        "hijra_count": 0,
-        "latitude": 22.20663,
-        "longitude": 89.08065
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৭৮নং কৈখালী মোহাজেরিন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2087,
-        "female_count": 2099,
-        "hijra_count": 0,
-        "latitude": 22.21622,
-        "longitude": 89.07139
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৮৪নং ধুমঘাট কেওড়াতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1245,
-        "female_count": 1203,
-        "hijra_count": 0,
-        "latitude": 22.24386,
-        "longitude": 89.11899
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৮৬নং উত্তর পরানপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1609,
-        "female_count": 1588,
-        "hijra_count": 0,
-        "latitude": 22.27262,
-        "longitude": 89.04149
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৮৭নং মানিকপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1750,
-        "female_count": 1681,
-        "hijra_count": 0,
-        "latitude": 22.31866,
-        "longitude": 89.05627
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৮৯নং উত্তর ছোট কুপট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1200,
-        "female_count": 1228,
-        "hijra_count": 0,
-        "latitude": 22.33795,
-        "longitude": 89.19283
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৯১নং খ্যাগড়াদানা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1579,
-        "female_count": 1547,
-        "hijra_count": 0,
-        "latitude": 22.34485,
-        "longitude": 89.10207
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৯৫নং দুরমুজখালী ভবানি সুন্দরী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1804,
-        "female_count": 1705,
-        "hijra_count": 0,
-        "latitude": 22.30836,
-        "longitude": 89.02567
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "৯নং ঘোলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1172,
-        "female_count": 1221,
-        "hijra_count": 0,
-        "latitude": 22.3897,
-        "longitude": 89.1744
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "আটুলিয়া আঃ কাদের স্কুল এন্ড কলেজ",
-        "male_count": 1770,
-        "female_count": 1687,
-        "hijra_count": 0,
-        "latitude": 22.33646,
-        "longitude": 89.13594
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "আটুলিয়া সোহরাবিয়া দাখিল মাদ্রাসা",
-        "male_count": 1286,
-        "female_count": 1286,
-        "hijra_count": 0,
-        "latitude": 22.34053,
-        "longitude": 89.15758
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "আবাদ চন্ডিপুর মাধ্যমিক বিদ্যালয়",
-        "male_count": 2145,
-        "female_count": 2151,
-        "hijra_count": 0,
-        "latitude": 22.29226,
-        "longitude": 89.15762
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ঈশ্বরীপুর ইউনিয়ন পরিষদ",
-        "male_count": 1446,
-        "female_count": 1473,
-        "hijra_count": 0,
-        "latitude": 22.30148,
-        "longitude": 89.11229
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "উকসা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1798,
-        "female_count": 1801,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "উত্তর শ্রীপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1544,
-        "female_count": 1489,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "কাঁঠালবাড়িয়া আদর্শ গ্রাম মাধ্যমিক বিদ্যালয়",
-        "male_count": 941,
-        "female_count": 866,
-        "hijra_count": 0,
-        "latitude": 22.34777,
-        "longitude": 89.12089
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "কালিগঞ্জ পাইলট হাই স্কুল",
-        "male_count": 1420,
-        "female_count": 1424,
-        "hijra_count": 0,
-        "latitude": 22.45617,
-        "longitude": 89.03243
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "কালিগঞ্জ সরকারি কলেজ",
-        "male_count": 1644,
-        "female_count": 1607,
-        "hijra_count": 0,
-        "latitude": 22.44935,
-        "longitude": 89.03948
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "\tকিষাণ মজদুর ইউনাইটেড একাডেমী",
-        "male_count": 2671,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "কুশুলিয়া দক্ষিণ শ্রীপুর মাধ্যমিক বিদ্যালয়",
-        "male_count": 1824,
-        "female_count": 1791,
-        "hijra_count": 0,
-        "latitude": 22.44063,
-        "longitude": 89.09056
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "কৃষাণমজদুর ইউনাইটেড একাডেমী (পূর্ব পাশের পাকা ভবন)",
-        "male_count": 0,
-        "female_count": 2588,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "খুব্দিপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1069,
-        "female_count": 1001,
-        "hijra_count": 0,
-        "latitude": 22.36595,
-        "longitude": 89.02852
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "গড় পদ্মপুকুর দাখিল মাদরাসা",
-        "male_count": 1163,
-        "female_count": 1102,
-        "hijra_count": 0,
-        "latitude": 22.35894,
-        "longitude": 89.22996
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "গান্ধুলিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2212,
-        "female_count": 2119,
-        "hijra_count": 0,
-        "latitude": 22.39083,
-        "longitude": 89.01468
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "গাবুরা গোপাল লক্ষী মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
-        "male_count": 859,
-        "female_count": 886,
-        "hijra_count": 0,
-        "latitude": 22.26987,
-        "longitude": 89.27617
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "গাবুরা দারুস সুন্নাহ দাখিল মাদ্রাসা",
-        "male_count": 1040,
-        "female_count": 1012,
-        "hijra_count": 0,
-        "latitude": 22.24682,
-        "longitude": 89.27165
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "গোবিন্দকাটি মাধ্যমিক বিদ্যালয়",
-        "male_count": 1229,
-        "female_count": 1202,
-        "hijra_count": 0,
-        "latitude": 22.47456,
-        "longitude": 89.11567
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "গোবিন্দপুর এ এইচ (আবু হানিফ) উচ্চ মাধ্যমিক বিদ্যালয়",
-        "male_count": 1935,
-        "female_count": 1902,
-        "hijra_count": 0,
-        "latitude": 22.37901,
-        "longitude": 89.1466
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "গোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1876,
-        "female_count": 1851,
-        "hijra_count": 0,
-        "latitude": 22.43404,
-        "longitude": 89.06904
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "গোয়ালপোতা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1775,
-        "female_count": 1667,
-        "hijra_count": 0,
-        "latitude": 22.37454,
-        "longitude": 89.03132
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "\tচাঁচাই সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1925,
-        "female_count": 1858,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "চাঁদনীমুখা মান্নান মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
-        "male_count": 1198,
-        "female_count": 1184,
-        "hijra_count": 0,
-        "latitude": 22.22231,
-        "longitude": 89.28029
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "চৌমুহনী মাধ্যমিক বিদ্যালয়",
-        "male_count": 2731,
-        "female_count": 2618,
-        "hijra_count": 0,
-        "latitude": 22.42614,
-        "longitude": 89.11544
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ছনকা সরকারী প্রাথিমক বিদ্যালয়",
-        "male_count": 1576,
-        "female_count": 1580,
-        "hijra_count": 0,
-        "latitude": 22.4468,
-        "longitude": 89.02282
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "জয়নগর আমিনিয়া হামিদিয়া সিনিয়র (ফাজিল) মাদ্রাসা",
-        "male_count": 2376,
-        "female_count": 2224,
-        "hijra_count": 0,
-        "latitude": 22.34433,
-        "longitude": 89.10373
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ঝাঁপা ব্রজ বিহারী ইউনাইটেড মাধ্যমিক বিদ্যালয়",
-        "male_count": 1518,
-        "female_count": 1436,
-        "hijra_count": 0,
-        "latitude": 22.3216,
-        "longitude": 89.22058
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "\tডাঃ মুজিব রুবি মডেল হাইস্কুল",
-        "male_count": 2463,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ডাঃ মুজিব রুবি মডেল হাইস্কুল",
-        "male_count": 0,
-        "female_count": 2575,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ত্রিপাণি বিদ্যাপিঠ",
-        "male_count": 0,
-        "female_count": 2502,
-        "hijra_count": 0,
-        "latitude": 22.25599,
-        "longitude": 89.15083
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ত্রিপাণি বিদ্যাপিঠ একাডেমিক ভবন",
-        "male_count": 2631,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.25774,
-        "longitude": 89.15044
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "দক্ষিণ শ্রীপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2130,
-        "female_count": 2134,
-        "hijra_count": 0,
-        "latitude": 22.45278,
-        "longitude": 89.07715
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "দত্তনগর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1357,
-        "female_count": 1298,
-        "hijra_count": 0,
-        "latitude": 22.35003,
-        "longitude": 89.05224
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "দুদলী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2058,
-        "female_count": 2070,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "দেয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2114,
-        "female_count": 2160,
-        "hijra_count": 0,
-        "latitude": 22.43432,
-        "longitude": 89.02979
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ধলবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1579,
-        "female_count": 1564,
-        "hijra_count": 0,
-        "latitude": 22.40854,
-        "longitude": 89.0263
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ধুমঘাট আদর্শ মাধ্যমিক বিদ্যালয়",
-        "male_count": 1814,
-        "female_count": 1713,
-        "hijra_count": 0,
-        "latitude": 22.26463,
-        "longitude": 89.11563
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নওয়াবেঁকী বিড়ালক্ষ্মী কাদেরিয়া সিনিয়র মাদ্রাসা",
-        "male_count": 2135,
-        "female_count": 2130,
-        "hijra_count": 0,
-        "latitude": 22.35134,
-        "longitude": 89.20232
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নওয়াবেঁকী মাধ্যমিক বিদ্যালয়",
-        "male_count": 1589,
-        "female_count": 1677,
-        "hijra_count": 0,
-        "latitude": 22.34771,
-        "longitude": 89.20053
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নকিপুর সরকারি হরিচরন পাইলট মডেল মাধ্যমিক বিদ্যালয়",
-        "male_count": 1064,
-        "female_count": 1138,
-        "hijra_count": 0,
-        "latitude": 22.34045,
-        "longitude": 89.10675
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নামাজগড় সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2172,
-        "female_count": 2136,
-        "hijra_count": 0,
-        "latitude": 22.41317,
-        "longitude": 89.07985
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নিজদেবপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1535,
-        "female_count": 1514,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নূরনগর আশালতা মাধ্যমিক বিদ্যালয়",
-        "male_count": 3216,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33529,
-        "longitude": 89.03859
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নূরনগর ইউনিয়ন পরিষদ",
-        "male_count": 1477,
-        "female_count": 1379,
-        "hijra_count": 0,
-        "latitude": 22.33459,
-        "longitude": 89.03666
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নেংগী মাধ্যমিক বিদ্যালয়",
-        "male_count": 1120,
-        "female_count": 1159,
-        "hijra_count": 0,
-        "latitude": 22.41032,
-        "longitude": 89.10775
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "নৈকাটি সিরাতুন্নবী দাখিল মাদ্রাসা",
-        "male_count": 921,
-        "female_count": 905,
-        "hijra_count": 0,
-        "latitude": 22.29467,
-        "longitude": 89.00683
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "পশ্চিম মৌতলা সীড স্টোর হাফিজিয়া মাদ্রাসা",
-        "male_count": 1688,
-        "female_count": 1608,
-        "hijra_count": 0,
-        "latitude": 22.40808,
-        "longitude": 89.07539
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "পাতাখালী মাধ্যমিক বিদ্যালয়",
-        "male_count": 2286,
-        "female_count": 2139,
-        "hijra_count": 0,
-        "latitude": 22.30411,
-        "longitude": 89.26629
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "পানিয়া আদর্শ মাধ্যমিক বিদ্যালয়",
-        "male_count": 2516,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.42005,
-        "longitude": 89.05551
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "পানিয়া সরকারী প্রাথমিক বিদ্যালয় (পূর্ব পাশের দ্বিতল ভবন)",
-        "male_count": 0,
-        "female_count": 2420,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "পীরগাজন সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 881,
-        "female_count": 861,
-        "hijra_count": 0,
-        "latitude": 22.35582,
-        "longitude": 89.02548
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "পোড়াকাটলা দীপায়ন মাধ্যমিক বিদ্যালয়",
-        "male_count": 1722,
-        "female_count": 1650,
-        "hijra_count": 0,
-        "latitude": 22.27778,
-        "longitude": 89.23754
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ফতেপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1585,
-        "female_count": 1548,
-        "hijra_count": 0,
-        "latitude": 22.44745,
-        "longitude": 89.12633
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "বনশ্রী শিক্ষা নিকেতন (মাধ্যমিক) বিদ্যালয়",
-        "male_count": 1890,
-        "female_count": 1820,
-        "hijra_count": 0,
-        "latitude": 22.22823,
-        "longitude": 89.15423
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "বন্দকাটি সরকারী প্রাথমিক বিদ্যালয় বন্দকাটি।",
-        "male_count": 2202,
-        "female_count": 2093,
-        "hijra_count": 0,
-        "latitude": 22.431,
-        "longitude": 89.13512
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "বাগবসন্তপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2104,
-        "female_count": 2073,
-        "hijra_count": 0,
-        "latitude": 22.45732,
-        "longitude": 89.01041
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "বাঁশঝাড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1525,
-        "female_count": 1434,
-        "hijra_count": 0,
-        "latitude": 22.37712,
-        "longitude": 89.00003
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "বিষ্ণুপুর পি কে এম মাধ্যমিক বিদ্যালয়",
-        "male_count": 942,
-        "female_count": 940,
-        "hijra_count": 0,
-        "latitude": 22.44575,
-        "longitude": 89.1147
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "বুড়িগোয়ালীনি ফরেষ্ট মাধ্যমিক বিদ্যালয়",
-        "male_count": 1663,
-        "female_count": 1641,
-        "hijra_count": 0,
-        "latitude": 22.2484,
-        "longitude": 89.2385
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "বোল্লাটোপ রেজিষ্টার প্রাথমিক বিদ্যালয়",
-        "male_count": 1481,
-        "female_count": 1488,
-        "hijra_count": 0,
-        "latitude": 22.36874,
-        "longitude": 89.16908
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ভদ্রখালী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2075,
-        "female_count": 2017,
-        "hijra_count": 0,
-        "latitude": 22.4374,
-        "longitude": 89.04885
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "ভুরুলিয়া নাগবাটি মাধ্যমিক বিদ্যালয়",
-        "male_count": 904,
-        "female_count": 899,
-        "hijra_count": 0,
-        "latitude": 22.36636,
-        "longitude": 89.08338
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "মহৎপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1354,
-        "female_count": 1372,
-        "hijra_count": 0,
-        "latitude": 22.44152,
-        "longitude": 89.04299
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "মালঞ্চ টেকনিক্যাল এন্ড  বি এম কলেজ ",
-        "male_count": 2626,
-        "female_count": 2511,
-        "hijra_count": 0,
-        "latitude": 22.28038,
-        "longitude": 89.13739
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "\tমুকুন্দ মধুসুদনপুর সরদারপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2008,
-        "female_count": 1948,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "মৌখালী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1168,
-        "female_count": 1100,
-        "hijra_count": 0,
-        "latitude": 22.40389,
-        "longitude": 89.00045
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "মৌতলা মাধ্যমিক বিদ্যালয়",
-        "male_count": 2161,
-        "female_count": 2176,
-        "hijra_count": 0,
-        "latitude": 22.39862,
-        "longitude": 89.07957
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "যাদবপুর ফুলবাড়িয়া ছিদ্দিকীয়া দাখিল মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 2418,
-        "hijra_count": 0,
-        "latitude": 22.32547,
-        "longitude": 89.08854
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2354,
-        "female_count": 2252,
-        "hijra_count": 0,
-        "latitude": 22.38797,
-        "longitude": 89.12797
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "রতনপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1631,
-        "female_count": 1575,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "রহমতপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1410,
-        "female_count": 1364,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "রাবেয়া খাতুন মহিলা দাখিল মাদ্রাসা",
-        "male_count": 1255,
-        "female_count": 1236,
-        "hijra_count": 0,
-        "latitude": 22.33491,
-        "longitude": 89.18233
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1510,
-        "female_count": 1471,
-        "hijra_count": 0,
-        "latitude": 22.57388,
-        "longitude": 89.2504
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "শৈলখালী মদিনাতুল উলুম দাখিল মাদ্রাসা",
-        "male_count": 1637,
-        "female_count": 1536,
-        "hijra_count": 0,
-        "latitude": 22.2483,
-        "longitude": 89.04585
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "শ্যামনগর মডার্ন স্কুল",
-        "male_count": 1870,
-        "female_count": 2044,
-        "hijra_count": 0,
-        "latitude": 22.3447,
-        "longitude": 89.10196
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "সাতহালিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2230,
-        "female_count": 2137,
-        "hijra_count": 1,
-        "latitude": 22.34594,
-        "longitude": 89.0022
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "সুন্দরবন মাধ্যমিক বিদ্যালয়",
-        "male_count": 1981,
-        "female_count": 2002,
-        "hijra_count": 0,
-        "latitude": 22.20945,
-        "longitude": 89.12584
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "সুরত আলী মাধ্যমিক বিদ্যালয়",
-        "male_count": 2444,
-        "female_count": 2451,
-        "hijra_count": 0,
-        "latitude": 22.35481,
-        "longitude": 89.02499
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "সোনাতলা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1478,
-        "female_count": 1444,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 108,
-        "settings_name": "সাতক্ষীরা-৪",
-        "center_name": "হেঞ্চী বঙ্গবন্ধু মাধ্যমিক ও ৪৩ নং হেঞ্চী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2144,
-        "female_count": 2092,
-        "hijra_count": 0,
-        "latitude": 22.30897,
-        "longitude": 89.19318
-    }
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১০২নং গোনা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1876,
+    "female_count": 1841,
+    "hijra_count": 0,
+    "latitude": 22.2923,
+    "longitude": 89.03041
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১০ নং গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 738,
+    "female_count": 758,
+    "hijra_count": 0,
+    "latitude": 22.34081,
+    "longitude": 89.09149
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১১৫নং ঝুরঝুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2332,
+    "female_count": 2282,
+    "hijra_count": 0,
+    "latitude": 22.34418,
+    "longitude": 89.17694
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১১নং দেবালয় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1151,
+    "female_count": 1099,
+    "hijra_count": 0,
+    "latitude": 22.32368,
+    "longitude": 89.12404
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১২০নং দক্ষিণ ছোটকুপট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1176,
+    "female_count": 1164,
+    "hijra_count": 0,
+    "latitude": 22.32219,
+    "longitude": 89.19124
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১২২নং গাবুরা খোলপেটুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 891,
+    "female_count": 937,
+    "hijra_count": 0,
+    "latitude": 22.28117,
+    "longitude": 89.27101
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১২নং চন্ডিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1226,
+    "female_count": 1222,
+    "hijra_count": 0,
+    "latitude": 22.35377,
+    "longitude": 89.10511
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১৩৩নং ছোট ভেটখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1106,
+    "female_count": 1135,
+    "hijra_count": 0,
+    "latitude": 22.21514,
+    "longitude": 89.13596
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১৩৭নং মুন্সীগঞ্জ দক্ষিণ পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1503,
+    "female_count": 1501,
+    "hijra_count": 0,
+    "latitude": 22.23739,
+    "longitude": 89.14928
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১৪নং চিংড়াখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1175,
+    "female_count": 1081,
+    "hijra_count": 0,
+    "latitude": 22.30655,
+    "longitude": 89.08159
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১৫৬নং দক্ষিণ বংশীপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1682,
+    "female_count": 1614,
+    "hijra_count": 0,
+    "latitude": 22.29865,
+    "longitude": 89.09834
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১৭৩নং সোরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2129,
+    "female_count": 2109,
+    "hijra_count": 0,
+    "latitude": 22.22729,
+    "longitude": 89.24953
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১৭নং নূরনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3042,
+    "hijra_count": 0,
+    "latitude": 22.33452,
+    "longitude": 89.03886
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১৮নং পশ্চিম কৈখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1835,
+    "female_count": 1834,
+    "hijra_count": 0,
+    "latitude": 22.22819,
+    "longitude": 89.05284
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "১নং সিরাজপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1812,
+    "female_count": 1800,
+    "hijra_count": 0,
+    "latitude": 22.35789,
+    "longitude": 89.06154
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "২০নং রমজাননগর সরকারি প্রাথমিক বিদ্যালয় ও কমিউনিটি ক্লিনিক",
+    "male_count": 1590,
+    "female_count": 1458,
+    "hijra_count": 0,
+    "latitude": 22.27381,
+    "longitude": 89.0625
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "২১নং সোরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2014,
+    "female_count": 1948,
+    "hijra_count": 0,
+    "latitude": 22.24401,
+    "longitude": 89.07269
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "২২নং ভৈরবনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1836,
+    "female_count": 1761,
+    "hijra_count": 0,
+    "latitude": 22.29487,
+    "longitude": 89.08638
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "২৪নং মুন্সিগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2202,
+    "female_count": 2171,
+    "hijra_count": 0,
+    "latitude": 22.27014,
+    "longitude": 89.19315
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "২৮নং কদমতলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1492,
+    "female_count": 1510,
+    "hijra_count": 0,
+    "latitude": 22.23401,
+    "longitude": 89.18136
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "২৯নং ধুমঘাট এইচ সি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1317,
+    "female_count": 1253,
+    "hijra_count": 0,
+    "latitude": 22.26459,
+    "longitude": 89.13476
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "২নং নাগবাটি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2406,
+    "female_count": 2345,
+    "hijra_count": 0,
+    "latitude": 22.37573,
+    "longitude": 89.07981
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৩২নং গুমানতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1947,
+    "female_count": 1902,
+    "hijra_count": 0,
+    "latitude": 22.31166,
+    "longitude": 89.13739
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৩৪নং বুড়িদাতিনাখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1538,
+    "female_count": 1593,
+    "hijra_count": 0,
+    "latitude": 22.25827,
+    "longitude": 89.22905
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৩৬নং আড়পাংগাশিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1601,
+    "female_count": 1536,
+    "hijra_count": 0,
+    "latitude": 22.29667,
+    "longitude": 89.20414
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৩নং খানপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2353,
+    "female_count": 2289,
+    "hijra_count": 0,
+    "latitude": 22.37545,
+    "longitude": 89.09183
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৪৪নং গড় কুমারপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1239,
+    "female_count": 1157,
+    "hijra_count": 0,
+    "latitude": 22.36441,
+    "longitude": 89.23173
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৪৫নং খুটিকাটা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1065,
+    "female_count": 1036,
+    "hijra_count": 0,
+    "latitude": 22.34211,
+    "longitude": 89.24167
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৪৭নং পদ্মপুকুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1136,
+    "female_count": 1128,
+    "hijra_count": 0,
+    "latitude": 22.35078,
+    "longitude": 89.21638
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৪নং কাশিমাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1769,
+    "female_count": 1700,
+    "hijra_count": 0,
+    "latitude": 22.37424,
+    "longitude": 89.17507
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৫০নং গাবুরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2002,
+    "female_count": 1753,
+    "hijra_count": 0,
+    "latitude": 22.2801,
+    "longitude": 89.28806
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৫২নং ডুমুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1188,
+    "female_count": 1232,
+    "hijra_count": 0,
+    "latitude": 22.24877,
+    "longitude": 89.24627
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৫৪নং পার্শ্বেমারী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1670,
+    "female_count": 1641,
+    "hijra_count": 0,
+    "latitude": 22.25389,
+    "longitude": 89.30861
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৫৬ নং ভুরুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1849,
+    "female_count": 1816,
+    "hijra_count": 3,
+    "latitude": 22.3588,
+    "longitude": 89.08526
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৫৭নং জয়নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1422,
+    "female_count": 1354,
+    "hijra_count": 0,
+    "latitude": 22.37951,
+    "longitude": 89.16432
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৫৮নং যাদবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2442,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.32644,
+    "longitude": 89.08843
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৫নং ঝাঁপা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 737,
+    "female_count": 739,
+    "hijra_count": 0,
+    "latitude": 22.35339,
+    "longitude": 89.19227
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৬১নং ভেটখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2070,
+    "female_count": 2069,
+    "hijra_count": 0,
+    "latitude": 22.23523,
+    "longitude": 89.09054
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৬৪নং খ্যাগড়াঘাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1144,
+    "female_count": 1087,
+    "hijra_count": 0,
+    "latitude": 22.30447,
+    "longitude": 89.13502
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৬৫নং দক্ষিণ আবাদ চন্ডিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2142,
+    "female_count": 2072,
+    "hijra_count": 0,
+    "latitude": 22.27344,
+    "longitude": 89.16183
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৬৭নং চন্ডিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1749,
+    "female_count": 1652,
+    "hijra_count": 0,
+    "latitude": 22.32227,
+    "longitude": 89.24977
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "\t৬৭ নং পশ্চিম কালিকাপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1250,
+    "female_count": 1200,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৬৮নং খলিশাবুনিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1698,
+    "female_count": 1705,
+    "hijra_count": 0,
+    "latitude": 22.25968,
+    "longitude": 89.25927
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৬৮ নং পূর্ব কালিকাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1428,
+    "female_count": 1378,
+    "hijra_count": 0,
+    "latitude": 22.39743,
+    "longitude": 89.14978
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৬৯নং বংশীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1797,
+    "female_count": 1801,
+    "hijra_count": 0,
+    "latitude": 22.30581,
+    "longitude": 89.10658
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৬নং শংকরকাটি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1413,
+    "female_count": 1341,
+    "hijra_count": 0,
+    "latitude": 22.36038,
+    "longitude": 89.13315
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৭০নং হেতালখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1470,
+    "female_count": 1424,
+    "hijra_count": 0,
+    "latitude": 22.22864,
+    "longitude": 89.11539
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৭২নং পূর্ব কৈখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1865,
+    "female_count": 1846,
+    "hijra_count": 0,
+    "latitude": 22.21632,
+    "longitude": 89.07149
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৭৫ নং নকিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1709,
+    "female_count": 1857,
+    "hijra_count": 0,
+    "latitude": 22.34268,
+    "longitude": 89.1166
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৭৬নং পাতড়াখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1027,
+    "female_count": 984,
+    "hijra_count": 0,
+    "latitude": 22.28208,
+    "longitude": 89.09898
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৭৭নং কালিঞ্চি সরকারি প্রাথমিক ও এ, গফ্ফার মাধ্যমিক বিদ্যালয়",
+    "male_count": 1708,
+    "female_count": 1707,
+    "hijra_count": 0,
+    "latitude": 22.20663,
+    "longitude": 89.08065
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৭৮নং কৈখালী মোহাজেরিন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2087,
+    "female_count": 2099,
+    "hijra_count": 0,
+    "latitude": 22.21622,
+    "longitude": 89.07139
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৮৪নং ধুমঘাট কেওড়াতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1245,
+    "female_count": 1203,
+    "hijra_count": 0,
+    "latitude": 22.24386,
+    "longitude": 89.11899
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৮৬নং উত্তর পরানপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1609,
+    "female_count": 1588,
+    "hijra_count": 0,
+    "latitude": 22.27262,
+    "longitude": 89.04149
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৮৭নং মানিকপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1750,
+    "female_count": 1681,
+    "hijra_count": 0,
+    "latitude": 22.31866,
+    "longitude": 89.05627
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৮৯নং উত্তর ছোট কুপট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1200,
+    "female_count": 1228,
+    "hijra_count": 0,
+    "latitude": 22.33795,
+    "longitude": 89.19283
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৯১নং খ্যাগড়াদানা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1579,
+    "female_count": 1547,
+    "hijra_count": 0,
+    "latitude": 22.34485,
+    "longitude": 89.10207
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৯৫নং দুরমুজখালী ভবানি সুন্দরী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1804,
+    "female_count": 1705,
+    "hijra_count": 0,
+    "latitude": 22.30836,
+    "longitude": 89.02567
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "৯নং ঘোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1172,
+    "female_count": 1221,
+    "hijra_count": 0,
+    "latitude": 22.3897,
+    "longitude": 89.1744
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "আটুলিয়া আঃ কাদের স্কুল এন্ড কলেজ",
+    "male_count": 1770,
+    "female_count": 1687,
+    "hijra_count": 0,
+    "latitude": 22.33646,
+    "longitude": 89.13594
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "আটুলিয়া সোহরাবিয়া দাখিল মাদ্রাসা",
+    "male_count": 1286,
+    "female_count": 1286,
+    "hijra_count": 0,
+    "latitude": 22.34053,
+    "longitude": 89.15758
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "আবাদ চন্ডিপুর মাধ্যমিক বিদ্যালয়",
+    "male_count": 2145,
+    "female_count": 2151,
+    "hijra_count": 0,
+    "latitude": 22.29226,
+    "longitude": 89.15762
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ঈশ্বরীপুর ইউনিয়ন পরিষদ",
+    "male_count": 1446,
+    "female_count": 1473,
+    "hijra_count": 0,
+    "latitude": 22.30148,
+    "longitude": 89.11229
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "উকসা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1798,
+    "female_count": 1801,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "উত্তর শ্রীপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1544,
+    "female_count": 1489,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "কাঁঠালবাড়িয়া আদর্শ গ্রাম মাধ্যমিক বিদ্যালয়",
+    "male_count": 941,
+    "female_count": 866,
+    "hijra_count": 0,
+    "latitude": 22.34777,
+    "longitude": 89.12089
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "কালিগঞ্জ পাইলট হাই স্কুল",
+    "male_count": 1420,
+    "female_count": 1424,
+    "hijra_count": 0,
+    "latitude": 22.45617,
+    "longitude": 89.03243
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "কালিগঞ্জ সরকারি কলেজ",
+    "male_count": 1644,
+    "female_count": 1607,
+    "hijra_count": 0,
+    "latitude": 22.44935,
+    "longitude": 89.03948
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "\tকিষাণ মজদুর ইউনাইটেড একাডেমী",
+    "male_count": 2671,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "কুশুলিয়া দক্ষিণ শ্রীপুর মাধ্যমিক বিদ্যালয়",
+    "male_count": 1824,
+    "female_count": 1791,
+    "hijra_count": 0,
+    "latitude": 22.44063,
+    "longitude": 89.09056
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "কৃষাণমজদুর ইউনাইটেড একাডেমী (পূর্ব পাশের পাকা ভবন)",
+    "male_count": 0,
+    "female_count": 2588,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "খুব্দিপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1069,
+    "female_count": 1001,
+    "hijra_count": 0,
+    "latitude": 22.36595,
+    "longitude": 89.02852
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "গড় পদ্মপুকুর দাখিল মাদরাসা",
+    "male_count": 1163,
+    "female_count": 1102,
+    "hijra_count": 0,
+    "latitude": 22.35894,
+    "longitude": 89.22996
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "গান্ধুলিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2212,
+    "female_count": 2119,
+    "hijra_count": 0,
+    "latitude": 22.39083,
+    "longitude": 89.01468
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "গাবুরা গোপাল লক্ষী মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
+    "male_count": 859,
+    "female_count": 886,
+    "hijra_count": 0,
+    "latitude": 22.26987,
+    "longitude": 89.27617
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "গাবুরা দারুস সুন্নাহ দাখিল মাদ্রাসা",
+    "male_count": 1040,
+    "female_count": 1012,
+    "hijra_count": 0,
+    "latitude": 22.24682,
+    "longitude": 89.27165
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "গোবিন্দকাটি মাধ্যমিক বিদ্যালয়",
+    "male_count": 1229,
+    "female_count": 1202,
+    "hijra_count": 0,
+    "latitude": 22.47456,
+    "longitude": 89.11567
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "গোবিন্দপুর এ এইচ (আবু হানিফ) উচ্চ মাধ্যমিক বিদ্যালয়",
+    "male_count": 1935,
+    "female_count": 1902,
+    "hijra_count": 0,
+    "latitude": 22.37901,
+    "longitude": 89.1466
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "গোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1876,
+    "female_count": 1851,
+    "hijra_count": 0,
+    "latitude": 22.43404,
+    "longitude": 89.06904
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "গোয়ালপোতা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1775,
+    "female_count": 1667,
+    "hijra_count": 0,
+    "latitude": 22.37454,
+    "longitude": 89.03132
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "\tচাঁচাই সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1925,
+    "female_count": 1858,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "চাঁদনীমুখা মান্নান মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
+    "male_count": 1198,
+    "female_count": 1184,
+    "hijra_count": 0,
+    "latitude": 22.22231,
+    "longitude": 89.28029
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "চৌমুহনী মাধ্যমিক বিদ্যালয়",
+    "male_count": 2731,
+    "female_count": 2618,
+    "hijra_count": 0,
+    "latitude": 22.42614,
+    "longitude": 89.11544
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ছনকা সরকারী প্রাথিমক বিদ্যালয়",
+    "male_count": 1576,
+    "female_count": 1580,
+    "hijra_count": 0,
+    "latitude": 22.4468,
+    "longitude": 89.02282
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "জয়নগর আমিনিয়া হামিদিয়া সিনিয়র (ফাজিল) মাদ্রাসা",
+    "male_count": 2376,
+    "female_count": 2224,
+    "hijra_count": 0,
+    "latitude": 22.34433,
+    "longitude": 89.10373
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ঝাঁপা ব্রজ বিহারী ইউনাইটেড মাধ্যমিক বিদ্যালয়",
+    "male_count": 1518,
+    "female_count": 1436,
+    "hijra_count": 0,
+    "latitude": 22.3216,
+    "longitude": 89.22058
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "\tডাঃ মুজিব রুবি মডেল হাইস্কুল",
+    "male_count": 2463,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ডাঃ মুজিব রুবি মডেল হাইস্কুল",
+    "male_count": 0,
+    "female_count": 2575,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ত্রিপাণি বিদ্যাপিঠ",
+    "male_count": 0,
+    "female_count": 2502,
+    "hijra_count": 0,
+    "latitude": 22.25599,
+    "longitude": 89.15083
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ত্রিপাণি বিদ্যাপিঠ একাডেমিক ভবন",
+    "male_count": 2631,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.25774,
+    "longitude": 89.15044
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "দক্ষিণ শ্রীপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2130,
+    "female_count": 2134,
+    "hijra_count": 0,
+    "latitude": 22.45278,
+    "longitude": 89.07715
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "দত্তনগর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1357,
+    "female_count": 1298,
+    "hijra_count": 0,
+    "latitude": 22.35003,
+    "longitude": 89.05224
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "দুদলী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2058,
+    "female_count": 2070,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "দেয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2114,
+    "female_count": 2160,
+    "hijra_count": 0,
+    "latitude": 22.43432,
+    "longitude": 89.02979
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ধলবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1579,
+    "female_count": 1564,
+    "hijra_count": 0,
+    "latitude": 22.40854,
+    "longitude": 89.0263
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ধুমঘাট আদর্শ মাধ্যমিক বিদ্যালয়",
+    "male_count": 1814,
+    "female_count": 1713,
+    "hijra_count": 0,
+    "latitude": 22.26463,
+    "longitude": 89.11563
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নওয়াবেঁকী বিড়ালক্ষ্মী কাদেরিয়া সিনিয়র মাদ্রাসা",
+    "male_count": 2135,
+    "female_count": 2130,
+    "hijra_count": 0,
+    "latitude": 22.35134,
+    "longitude": 89.20232
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নওয়াবেঁকী মাধ্যমিক বিদ্যালয়",
+    "male_count": 1589,
+    "female_count": 1677,
+    "hijra_count": 0,
+    "latitude": 22.34771,
+    "longitude": 89.20053
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নকিপুর সরকারি হরিচরন পাইলট মডেল মাধ্যমিক বিদ্যালয়",
+    "male_count": 1064,
+    "female_count": 1138,
+    "hijra_count": 0,
+    "latitude": 22.34045,
+    "longitude": 89.10675
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নামাজগড় সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2172,
+    "female_count": 2136,
+    "hijra_count": 0,
+    "latitude": 22.41317,
+    "longitude": 89.07985
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নিজদেবপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1535,
+    "female_count": 1514,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নূরনগর আশালতা মাধ্যমিক বিদ্যালয়",
+    "male_count": 3216,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33529,
+    "longitude": 89.03859
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নূরনগর ইউনিয়ন পরিষদ",
+    "male_count": 1477,
+    "female_count": 1379,
+    "hijra_count": 0,
+    "latitude": 22.33459,
+    "longitude": 89.03666
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নেংগী মাধ্যমিক বিদ্যালয়",
+    "male_count": 1120,
+    "female_count": 1159,
+    "hijra_count": 0,
+    "latitude": 22.41032,
+    "longitude": 89.10775
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "নৈকাটি সিরাতুন্নবী দাখিল মাদ্রাসা",
+    "male_count": 921,
+    "female_count": 905,
+    "hijra_count": 0,
+    "latitude": 22.29467,
+    "longitude": 89.00683
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "পশ্চিম মৌতলা সীড স্টোর হাফিজিয়া মাদ্রাসা",
+    "male_count": 1688,
+    "female_count": 1608,
+    "hijra_count": 0,
+    "latitude": 22.40808,
+    "longitude": 89.07539
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "পাতাখালী মাধ্যমিক বিদ্যালয়",
+    "male_count": 2286,
+    "female_count": 2139,
+    "hijra_count": 0,
+    "latitude": 22.30411,
+    "longitude": 89.26629
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "পানিয়া আদর্শ মাধ্যমিক বিদ্যালয়",
+    "male_count": 2516,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.42005,
+    "longitude": 89.05551
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "পানিয়া সরকারী প্রাথমিক বিদ্যালয় (পূর্ব পাশের দ্বিতল ভবন)",
+    "male_count": 0,
+    "female_count": 2420,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "পীরগাজন সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 881,
+    "female_count": 861,
+    "hijra_count": 0,
+    "latitude": 22.35582,
+    "longitude": 89.02548
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "পোড়াকাটলা দীপায়ন মাধ্যমিক বিদ্যালয়",
+    "male_count": 1722,
+    "female_count": 1650,
+    "hijra_count": 0,
+    "latitude": 22.27778,
+    "longitude": 89.23754
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ফতেপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1585,
+    "female_count": 1548,
+    "hijra_count": 0,
+    "latitude": 22.44745,
+    "longitude": 89.12633
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "বনশ্রী শিক্ষা নিকেতন (মাধ্যমিক) বিদ্যালয়",
+    "male_count": 1890,
+    "female_count": 1820,
+    "hijra_count": 0,
+    "latitude": 22.22823,
+    "longitude": 89.15423
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "বন্দকাটি সরকারী প্রাথমিক বিদ্যালয় বন্দকাটি।",
+    "male_count": 2202,
+    "female_count": 2093,
+    "hijra_count": 0,
+    "latitude": 22.431,
+    "longitude": 89.13512
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "বাগবসন্তপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2104,
+    "female_count": 2073,
+    "hijra_count": 0,
+    "latitude": 22.45732,
+    "longitude": 89.01041
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "বাঁশঝাড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1525,
+    "female_count": 1434,
+    "hijra_count": 0,
+    "latitude": 22.37712,
+    "longitude": 89.00003
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "বিষ্ণুপুর পি কে এম মাধ্যমিক বিদ্যালয়",
+    "male_count": 942,
+    "female_count": 940,
+    "hijra_count": 0,
+    "latitude": 22.44575,
+    "longitude": 89.1147
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "বুড়িগোয়ালীনি ফরেষ্ট মাধ্যমিক বিদ্যালয়",
+    "male_count": 1663,
+    "female_count": 1641,
+    "hijra_count": 0,
+    "latitude": 22.2484,
+    "longitude": 89.2385
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "বোল্লাটোপ রেজিষ্টার প্রাথমিক বিদ্যালয়",
+    "male_count": 1481,
+    "female_count": 1488,
+    "hijra_count": 0,
+    "latitude": 22.36874,
+    "longitude": 89.16908
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ভদ্রখালী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2075,
+    "female_count": 2017,
+    "hijra_count": 0,
+    "latitude": 22.4374,
+    "longitude": 89.04885
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "ভুরুলিয়া নাগবাটি মাধ্যমিক বিদ্যালয়",
+    "male_count": 904,
+    "female_count": 899,
+    "hijra_count": 0,
+    "latitude": 22.36636,
+    "longitude": 89.08338
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "মহৎপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1354,
+    "female_count": 1372,
+    "hijra_count": 0,
+    "latitude": 22.44152,
+    "longitude": 89.04299
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "মালঞ্চ টেকনিক্যাল এন্ড  বি এম কলেজ ",
+    "male_count": 2626,
+    "female_count": 2511,
+    "hijra_count": 0,
+    "latitude": 22.28038,
+    "longitude": 89.13739
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "\tমুকুন্দ মধুসুদনপুর সরদারপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2008,
+    "female_count": 1948,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "মৌখালী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1168,
+    "female_count": 1100,
+    "hijra_count": 0,
+    "latitude": 22.40389,
+    "longitude": 89.00045
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "মৌতলা মাধ্যমিক বিদ্যালয়",
+    "male_count": 2161,
+    "female_count": 2176,
+    "hijra_count": 0,
+    "latitude": 22.39862,
+    "longitude": 89.07957
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "যাদবপুর ফুলবাড়িয়া ছিদ্দিকীয়া দাখিল মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 2418,
+    "hijra_count": 0,
+    "latitude": 22.32547,
+    "longitude": 89.08854
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2354,
+    "female_count": 2252,
+    "hijra_count": 0,
+    "latitude": 22.38797,
+    "longitude": 89.12797
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "রতনপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1631,
+    "female_count": 1575,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "রহমতপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1410,
+    "female_count": 1364,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "রাবেয়া খাতুন মহিলা দাখিল মাদ্রাসা",
+    "male_count": 1255,
+    "female_count": 1236,
+    "hijra_count": 0,
+    "latitude": 22.33491,
+    "longitude": 89.18233
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1510,
+    "female_count": 1471,
+    "hijra_count": 0,
+    "latitude": 22.57388,
+    "longitude": 89.2504
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "শৈলখালী মদিনাতুল উলুম দাখিল মাদ্রাসা",
+    "male_count": 1637,
+    "female_count": 1536,
+    "hijra_count": 0,
+    "latitude": 22.2483,
+    "longitude": 89.04585
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "শ্যামনগর মডার্ন স্কুল",
+    "male_count": 1870,
+    "female_count": 2044,
+    "hijra_count": 0,
+    "latitude": 22.3447,
+    "longitude": 89.10196
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "সাতহালিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2230,
+    "female_count": 2137,
+    "hijra_count": 1,
+    "latitude": 22.34594,
+    "longitude": 89.0022
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "সুন্দরবন মাধ্যমিক বিদ্যালয়",
+    "male_count": 1981,
+    "female_count": 2002,
+    "hijra_count": 0,
+    "latitude": 22.20945,
+    "longitude": 89.12584
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "সুরত আলী মাধ্যমিক বিদ্যালয়",
+    "male_count": 2444,
+    "female_count": 2451,
+    "hijra_count": 0,
+    "latitude": 22.35481,
+    "longitude": 89.02499
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "সোনাতলা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1478,
+    "female_count": 1444,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 108,
+    "settings_name": "সাতক্ষীরা-৪",
+    "center_name": "হেঞ্চী বঙ্গবন্ধু মাধ্যমিক ও ৪৩ নং হেঞ্চী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2144,
+    "female_count": 2092,
+    "hijra_count": 0,
+    "latitude": 22.30897,
+    "longitude": 89.19318
+  }
 ]

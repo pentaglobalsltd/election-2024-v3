@@ -1,1582 +1,1582 @@
 [
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "আটাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1174,
-        "female_count": 1226,
-        "hijra_count": 0,
-        "latitude": 24.84953,
-        "longitude": 89.95712
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "আড়ালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1889,
-        "female_count": 1973,
-        "hijra_count": 0,
-        "latitude": 24.84055,
-        "longitude": 90.10492
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "আলীনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1822,
-        "female_count": 1937,
-        "hijra_count": 0,
-        "latitude": 24.90223,
-        "longitude": 89.91884
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ইকবালপুর উচ্চ বালিকা বিদ্যালয়",
-        "male_count": 1840,
-        "female_count": 2150,
-        "hijra_count": 0,
-        "latitude": 24.92823,
-        "longitude": 89.94211
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "উত্তর আরংহাটি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1332,
-        "female_count": 1272,
-        "hijra_count": 0,
-        "latitude": 24.85267,
-        "longitude": 89.84871
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "উত্তর গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1625,
-        "female_count": 1829,
-        "hijra_count": 0,
-        "latitude": 24.85045,
-        "longitude": 89.88728
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "উত্তর দেউর পাড় চন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2794,
-        "hijra_count": 0,
-        "latitude": 24.91727,
-        "longitude": 89.91035
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "উত্তর শংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1449,
-        "female_count": 1528,
-        "hijra_count": 0,
-        "latitude": 24.74503,
-        "longitude": 89.9656
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কম্পপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1500,
-        "female_count": 1606,
-        "hijra_count": 0,
-        "latitude": 24.94553,
-        "longitude": 89.91106
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কাজিয়ারচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1743,
-        "female_count": 1642,
-        "hijra_count": 0,
-        "latitude": 24.88265,
-        "longitude": 90.15282
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কানিল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1260,
-        "female_count": 1316,
-        "hijra_count": 0,
-        "latitude": 24.85841,
-        "longitude": 90.07224
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কামাল খান হাট সিনিয়র মাদরাসা",
-        "male_count": 0,
-        "female_count": 3073,
-        "hijra_count": 0,
-        "latitude": 24.8291,
-        "longitude": 89.92839
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কাশারুপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1521,
-        "female_count": 1589,
-        "hijra_count": 0,
-        "latitude": 24.83022,
-        "longitude": 90.08091
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কাষ্টসিংগা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2644,
-        "female_count": 2839,
-        "hijra_count": 0,
-        "latitude": 24.804,
-        "longitude": 89.90066
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কুটামনি উচ্চ বিদ্যালয়",
-        "male_count": 2009,
-        "female_count": 2142,
-        "hijra_count": 0,
-        "latitude": 24.87109,
-        "longitude": 89.93044
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কেশবপুর ইসলামিয়া দাখিল মাদ্রাসা",
-        "male_count": 2151,
-        "female_count": 2102,
-        "hijra_count": 0,
-        "latitude": 24.78305,
-        "longitude": 90.02433
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কৈডোলা জাফরশাহী উচ্চ বিদ্যালয়",
-        "male_count": 1740,
-        "female_count": 1876,
-        "hijra_count": 0,
-        "latitude": 24.94533,
-        "longitude": 89.93053
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কৈডোলা শাহবাজপুর উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3691,
-        "hijra_count": 0,
-        "latitude": 24.84243,
-        "longitude": 89.96788
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কৈডোলা শাহবাজপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3371,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.84197,
-        "longitude": 89.96813
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কৈডোলা হক দাখিল মাদ্রাসা",
-        "male_count": 1779,
-        "female_count": 1859,
-        "hijra_count": 0,
-        "latitude": 24.80639,
-        "longitude": 89.98451
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কোচনধরা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2312,
-        "female_count": 2296,
-        "hijra_count": 0,
-        "latitude": 24.87015,
-        "longitude": 90.09873
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "কোজগড় নবরত্ন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3060,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.87717,
-        "longitude": 89.94583
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "খড়খড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2821,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.87308,
-        "longitude": 90.0441
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "খলিশাকুড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2081,
-        "female_count": 2188,
-        "hijra_count": 0,
-        "latitude": 24.85547,
-        "longitude": 90.02235
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "খাজা শাহ সুফি ইউনুস আলী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3388,
-        "hijra_count": 0,
-        "latitude": 24.84719,
-        "longitude": 90.08062
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "গুয়াবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1586,
-        "female_count": 1770,
-        "hijra_count": 0,
-        "latitude": 24.95025,
-        "longitude": 89.92677
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "গোড়ারকান্দা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1793,
-        "female_count": 1807,
-        "hijra_count": 0,
-        "latitude": 24.84942,
-        "longitude": 90.06954
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "গোদাশিমলা উচ্চ বিদ্যালয়",
-        "male_count": 1528,
-        "female_count": 1609,
-        "hijra_count": 0,
-        "latitude": 24.86113,
-        "longitude": 89.96912
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "গোপীনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1949,
-        "female_count": 2010,
-        "hijra_count": 0,
-        "latitude": 24.76252,
-        "longitude": 89.94912
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1411,
-        "female_count": 1451,
-        "hijra_count": 0,
-        "latitude": 24.80787,
-        "longitude": 90.03436
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1024,
-        "female_count": 1111,
-        "hijra_count": 0,
-        "latitude": 24.93701,
-        "longitude": 89.91465
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চরগজারিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1785,
-        "female_count": 1686,
-        "hijra_count": 0,
-        "latitude": 24.90224,
-        "longitude": 90.05158
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1414,
-        "female_count": 1334,
-        "hijra_count": 0,
-        "latitude": 24.90851,
-        "longitude": 90.02967
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চর মৌহাডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1282,
-        "female_count": 1317,
-        "hijra_count": 0,
-        "latitude": 24.86839,
-        "longitude": 89.90096
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চর যথার্থপুর ভাটিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1476,
-        "female_count": 1433,
-        "hijra_count": 0,
-        "latitude": 24.89649,
-        "longitude": 90.00845
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চর যথার্থপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1815,
-        "female_count": 1658,
-        "hijra_count": 0,
-        "latitude": 24.89649,
-        "longitude": 90.00845
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চরশী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2891,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.8291,
-        "longitude": 89.92839
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চাঁদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1744,
-        "female_count": 1795,
-        "hijra_count": 0,
-        "latitude": 24.74687,
-        "longitude": 89.94625
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চান্দের হাওড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1606,
-        "female_count": 1520,
-        "hijra_count": 0,
-        "latitude": 24.84817,
-        "longitude": 89.83335
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চিথলিয়া উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2633,
-        "hijra_count": 1,
-        "latitude": 24.79581,
-        "longitude": 90.12915
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "চিথলিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2604,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.79571,
-        "longitude": 90.12942
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ছনকান্দা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1703,
-        "female_count": 1900,
-        "hijra_count": 0,
-        "latitude": 24.9152,
-        "longitude": 89.97635
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ছবাব আলী ইটাইল উচ্চ বিদ্যালয়",
-        "male_count": 1824,
-        "female_count": 1880,
-        "hijra_count": 0,
-        "latitude": 24.86893,
-        "longitude": 90.1508
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ছোট গজিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1748,
-        "female_count": 1798,
-        "hijra_count": 0,
-        "latitude": 24.814,
-        "longitude": 90.15076
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ছোনটিয়া উচ্চ বিদ্যালয়",
-        "male_count": 2397,
-        "female_count": 2639,
-        "hijra_count": 0,
-        "latitude": 24.7788,
-        "longitude": 89.94094
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জরিনা মিয়ার উদ্দিন উচ্চ বিদ্যালয়",
-        "male_count": 1283,
-        "female_count": 1389,
-        "hijra_count": 0,
-        "latitude": 24.918,
-        "longitude": 89.94993
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জামালপুর উচ্চ বিদ্যালয়",
-        "male_count": 1159,
-        "female_count": 1395,
-        "hijra_count": 0,
-        "latitude": 24.93329,
-        "longitude": 89.94296
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জামালপুর কারিগরি প্রশিক্ষণ কেন্দ্র",
-        "male_count": 0,
-        "female_count": 3209,
-        "hijra_count": 0,
-        "latitude": 24.87484,
-        "longitude": 89.94585
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জামালপুর জিলা স্কুল",
-        "male_count": 3435,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.93307,
-        "longitude": 89.9428
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জামালপুর টেকনিক্যাল স্কুল এন্ড কলেজ, প্রশাসনিক ভবন-১ (পাকা বিল্ডিং)",
-        "male_count": 2470,
-        "female_count": 2868,
-        "hijra_count": 1,
-        "latitude": 24.92235,
-        "longitude": 89.96122
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জামালপুর সরকারি উচ্চ বালিকা বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3664,
-        "hijra_count": 0,
-        "latitude": 24.93168,
-        "longitude": 89.94372
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জামিরা উচ্চ বিদ্যালয়",
-        "male_count": 1549,
-        "female_count": 1559,
-        "hijra_count": 0,
-        "latitude": 24.81569,
-        "longitude": 90.07125
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জে.এন.জি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1047,
-        "female_count": 1190,
-        "hijra_count": 0,
-        "latitude": 24.89647,
-        "longitude": 89.9618
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "জোকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3031,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.81809,
-        "longitude": 90.12553
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ঝাওলা ইসলামিয়া দাখিল মাদ্রাসা",
-        "male_count": 1113,
-        "female_count": 1170,
-        "hijra_count": 0,
-        "latitude": 24.82372,
-        "longitude": 90.10286
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "টিকরাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2079,
-        "female_count": 2006,
-        "hijra_count": 0,
-        "latitude": 24.90181,
-        "longitude": 90.10601
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ডেংগারগড় সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1916,
-        "female_count": 1914,
-        "hijra_count": 0,
-        "latitude": 24.85775,
-        "longitude": 90.00156
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ডৌয়াতলা সাখাওয়াত হোসেন উচ্চ বিদ্যালয়",
-        "male_count": 2116,
-        "female_count": 2108,
-        "hijra_count": 0,
-        "latitude": 24.89221,
-        "longitude": 90.12407
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "তারাগঞ্জ সরকারি প্রাথমিক বিদ্যালয় ও তারাগঞ্জ উচ্চ বিদ্যালয়",
-        "male_count": 1884,
-        "female_count": 1959,
-        "hijra_count": 0,
-        "latitude": 24.8672,
-        "longitude": 90.08015
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "তিরুথা সত্যপীর উচ্চ বিদ্যালয়",
-        "male_count": 1510,
-        "female_count": 1554,
-        "hijra_count": 0,
-        "latitude": 24.89729,
-        "longitude": 89.92456
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "তুলশীপুর উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2085,
-        "hijra_count": 0,
-        "latitude": 24.78628,
-        "longitude": 89.988
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "তুলশীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2029,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.78638,
-        "longitude": 89.98769
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "দক্ষিণ নরুন্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1499,
-        "female_count": 1547,
-        "hijra_count": 0,
-        "latitude": 24.85731,
-        "longitude": 90.12531
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "দড়িহামিদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1498,
-        "female_count": 1620,
-        "hijra_count": 0,
-        "latitude": 24.84513,
-        "longitude": 90.03717
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "দমদমা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1732,
-        "female_count": 1787,
-        "hijra_count": 0,
-        "latitude": 24.83537,
-        "longitude": 90.17661
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "দহেরপাড় সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2100,
-        "female_count": 2262,
-        "hijra_count": 0,
-        "latitude": 24.83813,
-        "longitude": 89.90928
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "দিগপাইত ধরণী কান্ত উচ্চ বিদ্যালয়",
-        "male_count": 1668,
-        "female_count": 1871,
-        "hijra_count": 0,
-        "latitude": 24.76452,
-        "longitude": 89.92779
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "দিঘুলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1907,
-        "female_count": 2070,
-        "hijra_count": 0,
-        "latitude": 24.7963,
-        "longitude": 89.93464
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "দেউরপাড় চন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2543,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.91371,
-        "longitude": 89.91274
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "নরুন্দি স্কুল এন্ড কলেজ",
-        "male_count": 2200,
-        "female_count": 2347,
-        "hijra_count": 0,
-        "latitude": 24.8661,
-        "longitude": 90.11864
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "নাকাটি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1428,
-        "female_count": 1552,
-        "hijra_count": 0,
-        "latitude": 24.88386,
-        "longitude": 89.92283
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "নাছিরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2032,
-        "female_count": 2214,
-        "hijra_count": 0,
-        "latitude": 24.89824,
-        "longitude": 89.97039
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "নান্দিনা নেকজাহান বালিকা উচ্চ বিদ্যালয় ও কলেজ",
-        "male_count": 2089,
-        "female_count": 2289,
-        "hijra_count": 0,
-        "latitude": 24.86519,
-        "longitude": 90.03153
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "নান্দিনা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1343,
-        "female_count": 1403,
-        "hijra_count": 0,
-        "latitude": 24.86865,
-        "longitude": 90.03373
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "নারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1726,
-        "female_count": 1868,
-        "hijra_count": 0,
-        "latitude": 24.81433,
-        "longitude": 89.9383
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "নারিকেলী উচ্চ বিদ্যালয় ও নারিকেলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2208,
-        "female_count": 2461,
-        "hijra_count": 0,
-        "latitude": 24.86149,
-        "longitude": 89.94491
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পক্ষীমারী উচ্চ বিদ্যালয় ও পক্ষীমারী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2028,
-        "female_count": 2168,
-        "hijra_count": 0,
-        "latitude": 24.83206,
-        "longitude": 89.99898
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পলাশতলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1409,
-        "female_count": 1493,
-        "hijra_count": 0,
-        "latitude": 24.83358,
-        "longitude": 90.03159
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পশ্চিম টেবিরচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1599,
-        "female_count": 1491,
-        "hijra_count": 0,
-        "latitude": 24.90299,
-        "longitude": 90.07085
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পাকুল্যা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2103,
-        "female_count": 2197,
-        "hijra_count": 0,
-        "latitude": 24.76675,
-        "longitude": 89.98481
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পাথালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2807,
-        "female_count": 3060,
-        "hijra_count": 0,
-        "latitude": 24.94486,
-        "longitude": 89.92419
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পাবই সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2507,
-        "female_count": 2623,
-        "hijra_count": 0,
-        "latitude": 24.82275,
-        "longitude": 89.90849
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পিঙ্গলহাটি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1661,
-        "female_count": 1734,
-        "hijra_count": 0,
-        "latitude": 24.8793,
-        "longitude": 89.96183
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পিটিআই সংলগ্ন পরীক্ষণ বিদ্যালয়",
-        "male_count": 2164,
-        "female_count": 2250,
-        "hijra_count": 0,
-        "latitude": 24.91242,
-        "longitude": 89.94994
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পিন্ডারহাটি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2463,
-        "female_count": 2595,
-        "hijra_count": 0,
-        "latitude": 24.80872,
-        "longitude": 89.91406
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পূর্ব টেবিরচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1224,
-        "female_count": 1120,
-        "hijra_count": 0,
-        "latitude": 24.90154,
-        "longitude": 90.0906
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "পূর্বপাড় দিঘুলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1438,
-        "female_count": 1531,
-        "hijra_count": 0,
-        "latitude": 24.79021,
-        "longitude": 89.95065
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বগাবাইদ আজাদ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2183,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.92118,
-        "longitude": 89.92644
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বগাবাইদ উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2516,
-        "hijra_count": 0,
-        "latitude": 24.92104,
-        "longitude": 89.92638
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বটতলা উচ্চ বিদ্যালয়",
-        "male_count": 1083,
-        "female_count": 1154,
-        "hijra_count": 0,
-        "latitude": 24.82211,
-        "longitude": 90.05349
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বড়পীর হযরত আব্দুল কাদের জিলানী (রহঃ) নূরাণী হাফিজিয়া মাদ্রাসা",
-        "male_count": 1842,
-        "female_count": 1867,
-        "hijra_count": 0,
-        "latitude": 24.84996,
-        "longitude": 90.18086
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1721,
-        "female_count": 1679,
-        "hijra_count": 0,
-        "latitude": 24.85176,
-        "longitude": 90.13106
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বানারেরপাড় সরকারি প্রাথমিক বিদ্যালয় ও বানারেরপাড় ফাজিল (ডিগ্রী) মাদ্রাসা",
-        "male_count": 1860,
-        "female_count": 1969,
-        "hijra_count": 0,
-        "latitude": 24.83492,
-        "longitude": 90.04691
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বানিয়া বাজার উচ্চ বিদ্যালয়",
-        "male_count": 3091,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.92239,
-        "longitude": 89.96167
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বানিয়াবাজার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3378,
-        "hijra_count": 0,
-        "latitude": 24.92193,
-        "longitude": 89.96171
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বারুয়ামারী জহুরা খাতুন উচ্চ বিদ্যালয়",
-        "male_count": 2537,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.90395,
-        "longitude": 90.02197
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বাংলাদেশ উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 5785,
-        "hijra_count": 0,
-        "latitude": 24.85789,
-        "longitude": 89.90839
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বাংলাদেশ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 5222,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.85832,
-        "longitude": 89.90833
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বাঁশচড়া উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2633,
-        "hijra_count": 0,
-        "latitude": 24.78979,
-        "longitude": 90.04826
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বাঁশচড়া এস.বি.জি মডার্ণ উচ্চ বিদ্যালয়",
-        "male_count": 2270,
-        "female_count": 2419,
-        "hijra_count": 0,
-        "latitude": 24.80732,
-        "longitude": 89.9511
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বাঁশচড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2642,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.78984,
-        "longitude": 90.04761
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বিয়ারা পলাশতলা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2711,
-        "hijra_count": 0,
-        "latitude": 24.8289,
-        "longitude": 89.95958
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2524,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.82948,
-        "longitude": 89.95973
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বুখুঞ্জা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1997,
-        "female_count": 2119,
-        "hijra_count": 0,
-        "latitude": 24.83529,
-        "longitude": 89.89125
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বেলটিয়া উচ্চ বিদ্যালয়",
-        "male_count": 2376,
-        "female_count": 2555,
-        "hijra_count": 1,
-        "latitude": 24.89435,
-        "longitude": 89.94845
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "বৈঠামারী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1615,
-        "female_count": 1680,
-        "hijra_count": 0,
-        "latitude": 24.8042,
-        "longitude": 90.08917
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ভারুয়াখালী এম.এন.এ উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3107,
-        "hijra_count": 0,
-        "latitude": 24.81821,
-        "longitude": 90.12591
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "ভালুকা উচ্চ বিদ্যালয়",
-        "male_count": 1923,
-        "female_count": 1930,
-        "hijra_count": 0,
-        "latitude": 24.78969,
-        "longitude": 90.02124
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মধ্য গজারিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1271,
-        "female_count": 1166,
-        "hijra_count": 0,
-        "latitude": 24.884,
-        "longitude": 90.07708
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মহেশপুর ইসলামিয়া দাখিল মাদ্রাসা",
-        "male_count": 3695,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.86854,
-        "longitude": 90.06488
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মহেশপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3676,
-        "hijra_count": 0,
-        "latitude": 24.86833,
-        "longitude": 90.06462
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মাছিমপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1373,
-        "female_count": 1503,
-        "hijra_count": 0,
-        "latitude": 24.90032,
-        "longitude": 89.97945
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মাটিখোলা সরকারি প্রাথমিক বিদ্যালয় ও মাটিখোলা ফুরকানিয়া হাফেজিয়া এতিমখানা ও মাদ্রাসা",
-        "male_count": 1217,
-        "female_count": 1251,
-        "hijra_count": 0,
-        "latitude": 24.80423,
-        "longitude": 90.00223
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মাদ্রাসাহ দারুল হাদীস ও ইয়াতিমখানা",
-        "male_count": 1092,
-        "female_count": 1258,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মিরাপুর সরকারি প্রাথমিক বিদ্যালয় ও মিরাপুর ফুরকানিয়া মাদ্রাসা",
-        "male_count": 1655,
-        "female_count": 1728,
-        "hijra_count": 0,
-        "latitude": 24.86836,
-        "longitude": 90.13533
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মুন মেমোরিয়াল উচ্চ বিদ্যালয়",
-        "male_count": 1066,
-        "female_count": 1208,
-        "hijra_count": 1,
-        "latitude": 24.91231,
-        "longitude": 89.93075
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মুসলিমাবাদ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2293,
-        "female_count": 2373,
-        "hijra_count": 0,
-        "latitude": 24.92523,
-        "longitude": 89.94667
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মেষ্টা উচ্চ বিদ্যালয়",
-        "male_count": 4110,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.83463,
-        "longitude": 89.86016
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মেষ্টা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4447,
-        "hijra_count": 1,
-        "latitude": 24.83445,
-        "longitude": 89.86062
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "মোহনপুর খুপিবাড়ী সরকারি প্রাথমিক বিদ্যালয় ও খুপিবাড়ী উচ্চ বিদ্যালয়",
-        "male_count": 1570,
-        "female_count": 1650,
-        "hijra_count": 0,
-        "latitude": 24.79293,
-        "longitude": 89.96656
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রণরামপুর উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2928,
-        "hijra_count": 0,
-        "latitude": 24.8471,
-        "longitude": 90.02013
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রণরামপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2821,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.84743,
-        "longitude": 90.02037
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রশিদপুর উচ্চ বিদ্যালয়",
-        "male_count": 1583,
-        "female_count": 1670,
-        "hijra_count": 0,
-        "latitude": 24.74785,
-        "longitude": 89.97879
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রশিদপুর এন. ইউ. ফাযিল (ডিগ্রি) মাদ্রাসা",
-        "male_count": 1219,
-        "female_count": 1301,
-        "hijra_count": 0,
-        "latitude": 24.74265,
-        "longitude": 89.97078
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রশিদপুর পাকুল্যা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1384,
-        "female_count": 1400,
-        "hijra_count": 1,
-        "latitude": 24.76556,
-        "longitude": 89.99106
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রাজাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1680,
-        "female_count": 1746,
-        "hijra_count": 0,
-        "latitude": 24.81839,
-        "longitude": 90.14466
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রামকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1141,
-        "female_count": 1198,
-        "hijra_count": 0,
-        "latitude": 24.76674,
-        "longitude": 90.02027
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয় ও রামনগর উচ্চ বিদ্যালয়",
-        "male_count": 1505,
-        "female_count": 1570,
-        "hijra_count": 0,
-        "latitude": 24.74972,
-        "longitude": 90.00626
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রায়েরচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2498,
-        "hijra_count": 0,
-        "latitude": 24.90575,
-        "longitude": 90.0218
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "রুমিজা মমিন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3156,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "লক্ষীরচর পশ্চিমপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1277,
-        "female_count": 1229,
-        "hijra_count": 0,
-        "latitude": 24.88474,
-        "longitude": 90.02386
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "লক্ষীরচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1704,
-        "female_count": 1727,
-        "hijra_count": 0,
-        "latitude": 24.8837,
-        "longitude": 90.03514
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "লাহিড়ীকান্দা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3222,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.84719,
-        "longitude": 90.08062
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শরিফপুর উচ্চ বিদ্যালয়",
-        "male_count": 3445,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.89009,
-        "longitude": 89.99319
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শরিফপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3629,
-        "hijra_count": 0,
-        "latitude": 24.89089,
-        "longitude": 89.99341
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শহীদ জিয়াউর রহমান কলেজ",
-        "male_count": 1848,
-        "female_count": 1954,
-        "hijra_count": 0,
-        "latitude": 24.91502,
-        "longitude": 89.94187
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শাহবাজপুর পক্ষীমারী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1389,
-        "female_count": 1405,
-        "hijra_count": 0,
-        "latitude": 24.83131,
-        "longitude": 89.99215
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শীতলকূর্শা সরকারি প্রথামিক বিদ্যালয়",
-        "male_count": 2007,
-        "female_count": 1983,
-        "hijra_count": 0,
-        "latitude": 24.86991,
-        "longitude": 89.97128
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শেখপাড়া খোকা মান্নান দাখিল মাদ্রাসা",
-        "male_count": 1230,
-        "female_count": 1268,
-        "hijra_count": 0,
-        "latitude": 24.73294,
-        "longitude": 89.97883
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শৈলেরকান্দা উচ্চ বিদ্যালয়",
-        "male_count": 2287,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.84699,
-        "longitude": 90.16878
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শৈলেরকান্দা ব্রহ্মোত্তর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1414,
-        "female_count": 1422,
-        "hijra_count": 0,
-        "latitude": 24.83995,
-        "longitude": 90.15579
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শৈলেরকান্দা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2350,
-        "hijra_count": 0,
-        "latitude": 24.84711,
-        "longitude": 90.16856
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শ্রীপুর কুমারিয়া উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3400,
-        "hijra_count": 0,
-        "latitude": 24.81887,
-        "longitude": 90.01713
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শ্রীপুর কুমারিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3314,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.81881,
-        "longitude": 90.01708
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "শ্রীরামপুর বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 2569,
-        "female_count": 2736,
-        "hijra_count": 0,
-        "latitude": 24.86915,
-        "longitude": 89.99163
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "সরকারি জাহেদা সফির মহিলা কলেজ",
-        "male_count": 1325,
-        "female_count": 1449,
-        "hijra_count": 1,
-        "latitude": 24.91376,
-        "longitude": 89.94974
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "সাহাপুর সামসুল হক সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2197,
-        "female_count": 2522,
-        "hijra_count": 0,
-        "latitude": 24.90922,
-        "longitude": 89.95885
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "সিংহজানী উচ্চ বালিকা বিদ্যালয়",
-        "male_count": 2008,
-        "female_count": 2305,
-        "hijra_count": 0,
-        "latitude": 24.92258,
-        "longitude": 89.95053
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "সিংহজানী কাচারীপাড়া মডেল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2658,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 24.92362,
-        "longitude": 89.9446
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "সিংহজানী বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2892,
-        "hijra_count": 0,
-        "latitude": 24.92311,
-        "longitude": 89.94545
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "হনুমানের চর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1266,
-        "female_count": 1264,
-        "hijra_count": 0,
-        "latitude": 24.89495,
-        "longitude": 90.14526
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "হবদেশ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1504,
-        "female_count": 1614,
-        "hijra_count": 0,
-        "latitude": 24.78167,
-        "longitude": 89.95619
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "হরিণাকান্দা সরকারি প্রাথমিক বিদ্যালয় ও হরিণাকান্দা উচ্চ বিদ্যালয়",
-        "male_count": 1929,
-        "female_count": 1923,
-        "hijra_count": 0,
-        "latitude": 24.80075,
-        "longitude": 90.14762
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "হরিপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2006,
-        "female_count": 2110,
-        "hijra_count": 0,
-        "latitude": 24.80881,
-        "longitude": 90.11444
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "হাজীপুর উচ্চ বিদ্যালয়",
-        "male_count": 2158,
-        "female_count": 2212,
-        "hijra_count": 0,
-        "latitude": 24.85339,
-        "longitude": 89.87648
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "হাটচন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2156,
-        "female_count": 2316,
-        "hijra_count": 0,
-        "latitude": 24.92999,
-        "longitude": 89.94576
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "হামিদপুর সরকারি প্রথমিক বিদ্যালয়",
-        "male_count": 1491,
-        "female_count": 1564,
-        "hijra_count": 0,
-        "latitude": 24.87609,
-        "longitude": 90.01004
-    },
-    {
-        "settings_code": 142,
-        "settings_name": "জামালপুর-৫",
-        "center_name": "হাসিল গৌরীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1517,
-        "female_count": 1604,
-        "hijra_count": 0,
-        "latitude": 24.83859,
-        "longitude": 89.87698
-    }
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "আটাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1174,
+    "female_count": 1226,
+    "hijra_count": 0,
+    "latitude": 24.84953,
+    "longitude": 89.95712
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "আড়ালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1889,
+    "female_count": 1973,
+    "hijra_count": 0,
+    "latitude": 24.84055,
+    "longitude": 90.10492
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "আলীনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1822,
+    "female_count": 1937,
+    "hijra_count": 0,
+    "latitude": 24.90223,
+    "longitude": 89.91884
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ইকবালপুর উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 1840,
+    "female_count": 2150,
+    "hijra_count": 0,
+    "latitude": 24.92823,
+    "longitude": 89.94211
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "উত্তর আরংহাটি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1332,
+    "female_count": 1272,
+    "hijra_count": 0,
+    "latitude": 24.85267,
+    "longitude": 89.84871
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "উত্তর গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1625,
+    "female_count": 1829,
+    "hijra_count": 0,
+    "latitude": 24.85045,
+    "longitude": 89.88728
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "উত্তর দেউর পাড় চন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2794,
+    "hijra_count": 0,
+    "latitude": 24.91727,
+    "longitude": 89.91035
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "উত্তর শংকরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1449,
+    "female_count": 1528,
+    "hijra_count": 0,
+    "latitude": 24.74503,
+    "longitude": 89.9656
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কম্পপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1500,
+    "female_count": 1606,
+    "hijra_count": 0,
+    "latitude": 24.94553,
+    "longitude": 89.91106
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কাজিয়ারচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1743,
+    "female_count": 1642,
+    "hijra_count": 0,
+    "latitude": 24.88265,
+    "longitude": 90.15282
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কানিল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1260,
+    "female_count": 1316,
+    "hijra_count": 0,
+    "latitude": 24.85841,
+    "longitude": 90.07224
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কামাল খান হাট সিনিয়র মাদরাসা",
+    "male_count": 0,
+    "female_count": 3073,
+    "hijra_count": 0,
+    "latitude": 24.8291,
+    "longitude": 89.92839
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কাশারুপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1521,
+    "female_count": 1589,
+    "hijra_count": 0,
+    "latitude": 24.83022,
+    "longitude": 90.08091
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কাষ্টসিংগা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2644,
+    "female_count": 2839,
+    "hijra_count": 0,
+    "latitude": 24.804,
+    "longitude": 89.90066
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কুটামনি উচ্চ বিদ্যালয়",
+    "male_count": 2009,
+    "female_count": 2142,
+    "hijra_count": 0,
+    "latitude": 24.87109,
+    "longitude": 89.93044
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কেশবপুর ইসলামিয়া দাখিল মাদ্রাসা",
+    "male_count": 2151,
+    "female_count": 2102,
+    "hijra_count": 0,
+    "latitude": 24.78305,
+    "longitude": 90.02433
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কৈডোলা জাফরশাহী উচ্চ বিদ্যালয়",
+    "male_count": 1740,
+    "female_count": 1876,
+    "hijra_count": 0,
+    "latitude": 24.94533,
+    "longitude": 89.93053
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কৈডোলা শাহবাজপুর উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3691,
+    "hijra_count": 0,
+    "latitude": 24.84243,
+    "longitude": 89.96788
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কৈডোলা শাহবাজপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3371,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.84197,
+    "longitude": 89.96813
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কৈডোলা হক দাখিল মাদ্রাসা",
+    "male_count": 1779,
+    "female_count": 1859,
+    "hijra_count": 0,
+    "latitude": 24.80639,
+    "longitude": 89.98451
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কোচনধরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2312,
+    "female_count": 2296,
+    "hijra_count": 0,
+    "latitude": 24.87015,
+    "longitude": 90.09873
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "কোজগড় নবরত্ন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3060,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.87717,
+    "longitude": 89.94583
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "খড়খড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2821,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.87308,
+    "longitude": 90.0441
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "খলিশাকুড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2081,
+    "female_count": 2188,
+    "hijra_count": 0,
+    "latitude": 24.85547,
+    "longitude": 90.02235
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "খাজা শাহ সুফি ইউনুস আলী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3388,
+    "hijra_count": 0,
+    "latitude": 24.84719,
+    "longitude": 90.08062
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "গুয়াবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1586,
+    "female_count": 1770,
+    "hijra_count": 0,
+    "latitude": 24.95025,
+    "longitude": 89.92677
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "গোড়ারকান্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1793,
+    "female_count": 1807,
+    "hijra_count": 0,
+    "latitude": 24.84942,
+    "longitude": 90.06954
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "গোদাশিমলা উচ্চ বিদ্যালয়",
+    "male_count": 1528,
+    "female_count": 1609,
+    "hijra_count": 0,
+    "latitude": 24.86113,
+    "longitude": 89.96912
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "গোপীনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1949,
+    "female_count": 2010,
+    "hijra_count": 0,
+    "latitude": 24.76252,
+    "longitude": 89.94912
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1411,
+    "female_count": 1451,
+    "hijra_count": 0,
+    "latitude": 24.80787,
+    "longitude": 90.03436
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1024,
+    "female_count": 1111,
+    "hijra_count": 0,
+    "latitude": 24.93701,
+    "longitude": 89.91465
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চরগজারিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1785,
+    "female_count": 1686,
+    "hijra_count": 0,
+    "latitude": 24.90224,
+    "longitude": 90.05158
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1414,
+    "female_count": 1334,
+    "hijra_count": 0,
+    "latitude": 24.90851,
+    "longitude": 90.02967
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চর মৌহাডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1282,
+    "female_count": 1317,
+    "hijra_count": 0,
+    "latitude": 24.86839,
+    "longitude": 89.90096
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চর যথার্থপুর ভাটিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1476,
+    "female_count": 1433,
+    "hijra_count": 0,
+    "latitude": 24.89649,
+    "longitude": 90.00845
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চর যথার্থপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1815,
+    "female_count": 1658,
+    "hijra_count": 0,
+    "latitude": 24.89649,
+    "longitude": 90.00845
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চরশী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2891,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.8291,
+    "longitude": 89.92839
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চাঁদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1744,
+    "female_count": 1795,
+    "hijra_count": 0,
+    "latitude": 24.74687,
+    "longitude": 89.94625
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চান্দের হাওড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1606,
+    "female_count": 1520,
+    "hijra_count": 0,
+    "latitude": 24.84817,
+    "longitude": 89.83335
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চিথলিয়া উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2633,
+    "hijra_count": 1,
+    "latitude": 24.79581,
+    "longitude": 90.12915
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "চিথলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2604,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.79571,
+    "longitude": 90.12942
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ছনকান্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1703,
+    "female_count": 1900,
+    "hijra_count": 0,
+    "latitude": 24.9152,
+    "longitude": 89.97635
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ছবাব আলী ইটাইল উচ্চ বিদ্যালয়",
+    "male_count": 1824,
+    "female_count": 1880,
+    "hijra_count": 0,
+    "latitude": 24.86893,
+    "longitude": 90.1508
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ছোট গজিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1748,
+    "female_count": 1798,
+    "hijra_count": 0,
+    "latitude": 24.814,
+    "longitude": 90.15076
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ছোনটিয়া উচ্চ বিদ্যালয়",
+    "male_count": 2397,
+    "female_count": 2639,
+    "hijra_count": 0,
+    "latitude": 24.7788,
+    "longitude": 89.94094
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জরিনা মিয়ার উদ্দিন উচ্চ বিদ্যালয়",
+    "male_count": 1283,
+    "female_count": 1389,
+    "hijra_count": 0,
+    "latitude": 24.918,
+    "longitude": 89.94993
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জামালপুর উচ্চ বিদ্যালয়",
+    "male_count": 1159,
+    "female_count": 1395,
+    "hijra_count": 0,
+    "latitude": 24.93329,
+    "longitude": 89.94296
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জামালপুর কারিগরি প্রশিক্ষণ কেন্দ্র",
+    "male_count": 0,
+    "female_count": 3209,
+    "hijra_count": 0,
+    "latitude": 24.87484,
+    "longitude": 89.94585
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জামালপুর জিলা স্কুল",
+    "male_count": 3435,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.93307,
+    "longitude": 89.9428
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জামালপুর টেকনিক্যাল স্কুল এন্ড কলেজ, প্রশাসনিক ভবন-১ (পাকা বিল্ডিং)",
+    "male_count": 2470,
+    "female_count": 2868,
+    "hijra_count": 1,
+    "latitude": 24.92235,
+    "longitude": 89.96122
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জামালপুর সরকারি উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3664,
+    "hijra_count": 0,
+    "latitude": 24.93168,
+    "longitude": 89.94372
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জামিরা উচ্চ বিদ্যালয়",
+    "male_count": 1549,
+    "female_count": 1559,
+    "hijra_count": 0,
+    "latitude": 24.81569,
+    "longitude": 90.07125
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জে.এন.জি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1047,
+    "female_count": 1190,
+    "hijra_count": 0,
+    "latitude": 24.89647,
+    "longitude": 89.9618
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "জোকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3031,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.81809,
+    "longitude": 90.12553
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ঝাওলা ইসলামিয়া দাখিল মাদ্রাসা",
+    "male_count": 1113,
+    "female_count": 1170,
+    "hijra_count": 0,
+    "latitude": 24.82372,
+    "longitude": 90.10286
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "টিকরাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2079,
+    "female_count": 2006,
+    "hijra_count": 0,
+    "latitude": 24.90181,
+    "longitude": 90.10601
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ডেংগারগড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1916,
+    "female_count": 1914,
+    "hijra_count": 0,
+    "latitude": 24.85775,
+    "longitude": 90.00156
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ডৌয়াতলা সাখাওয়াত হোসেন উচ্চ বিদ্যালয়",
+    "male_count": 2116,
+    "female_count": 2108,
+    "hijra_count": 0,
+    "latitude": 24.89221,
+    "longitude": 90.12407
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "তারাগঞ্জ সরকারি প্রাথমিক বিদ্যালয় ও তারাগঞ্জ উচ্চ বিদ্যালয়",
+    "male_count": 1884,
+    "female_count": 1959,
+    "hijra_count": 0,
+    "latitude": 24.8672,
+    "longitude": 90.08015
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "তিরুথা সত্যপীর উচ্চ বিদ্যালয়",
+    "male_count": 1510,
+    "female_count": 1554,
+    "hijra_count": 0,
+    "latitude": 24.89729,
+    "longitude": 89.92456
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "তুলশীপুর উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2085,
+    "hijra_count": 0,
+    "latitude": 24.78628,
+    "longitude": 89.988
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "তুলশীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2029,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.78638,
+    "longitude": 89.98769
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "দক্ষিণ নরুন্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1499,
+    "female_count": 1547,
+    "hijra_count": 0,
+    "latitude": 24.85731,
+    "longitude": 90.12531
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "দড়িহামিদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1498,
+    "female_count": 1620,
+    "hijra_count": 0,
+    "latitude": 24.84513,
+    "longitude": 90.03717
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "দমদমা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1732,
+    "female_count": 1787,
+    "hijra_count": 0,
+    "latitude": 24.83537,
+    "longitude": 90.17661
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "দহেরপাড় সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2100,
+    "female_count": 2262,
+    "hijra_count": 0,
+    "latitude": 24.83813,
+    "longitude": 89.90928
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "দিগপাইত ধরণী কান্ত উচ্চ বিদ্যালয়",
+    "male_count": 1668,
+    "female_count": 1871,
+    "hijra_count": 0,
+    "latitude": 24.76452,
+    "longitude": 89.92779
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "দিঘুলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1907,
+    "female_count": 2070,
+    "hijra_count": 0,
+    "latitude": 24.7963,
+    "longitude": 89.93464
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "দেউরপাড় চন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2543,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.91371,
+    "longitude": 89.91274
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "নরুন্দি স্কুল এন্ড কলেজ",
+    "male_count": 2200,
+    "female_count": 2347,
+    "hijra_count": 0,
+    "latitude": 24.8661,
+    "longitude": 90.11864
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "নাকাটি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1428,
+    "female_count": 1552,
+    "hijra_count": 0,
+    "latitude": 24.88386,
+    "longitude": 89.92283
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "নাছিরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2032,
+    "female_count": 2214,
+    "hijra_count": 0,
+    "latitude": 24.89824,
+    "longitude": 89.97039
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "নান্দিনা নেকজাহান বালিকা উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 2089,
+    "female_count": 2289,
+    "hijra_count": 0,
+    "latitude": 24.86519,
+    "longitude": 90.03153
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "নান্দিনা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1343,
+    "female_count": 1403,
+    "hijra_count": 0,
+    "latitude": 24.86865,
+    "longitude": 90.03373
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "নারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1726,
+    "female_count": 1868,
+    "hijra_count": 0,
+    "latitude": 24.81433,
+    "longitude": 89.9383
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "নারিকেলী উচ্চ বিদ্যালয় ও নারিকেলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2208,
+    "female_count": 2461,
+    "hijra_count": 0,
+    "latitude": 24.86149,
+    "longitude": 89.94491
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পক্ষীমারী উচ্চ বিদ্যালয় ও পক্ষীমারী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2028,
+    "female_count": 2168,
+    "hijra_count": 0,
+    "latitude": 24.83206,
+    "longitude": 89.99898
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পলাশতলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1409,
+    "female_count": 1493,
+    "hijra_count": 0,
+    "latitude": 24.83358,
+    "longitude": 90.03159
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পশ্চিম টেবিরচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1599,
+    "female_count": 1491,
+    "hijra_count": 0,
+    "latitude": 24.90299,
+    "longitude": 90.07085
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পাকুল্যা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2103,
+    "female_count": 2197,
+    "hijra_count": 0,
+    "latitude": 24.76675,
+    "longitude": 89.98481
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পাথালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2807,
+    "female_count": 3060,
+    "hijra_count": 0,
+    "latitude": 24.94486,
+    "longitude": 89.92419
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পাবই সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2507,
+    "female_count": 2623,
+    "hijra_count": 0,
+    "latitude": 24.82275,
+    "longitude": 89.90849
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পিঙ্গলহাটি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1661,
+    "female_count": 1734,
+    "hijra_count": 0,
+    "latitude": 24.8793,
+    "longitude": 89.96183
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পিটিআই সংলগ্ন পরীক্ষণ বিদ্যালয়",
+    "male_count": 2164,
+    "female_count": 2250,
+    "hijra_count": 0,
+    "latitude": 24.91242,
+    "longitude": 89.94994
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পিন্ডারহাটি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2463,
+    "female_count": 2595,
+    "hijra_count": 0,
+    "latitude": 24.80872,
+    "longitude": 89.91406
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পূর্ব টেবিরচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1224,
+    "female_count": 1120,
+    "hijra_count": 0,
+    "latitude": 24.90154,
+    "longitude": 90.0906
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "পূর্বপাড় দিঘুলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1438,
+    "female_count": 1531,
+    "hijra_count": 0,
+    "latitude": 24.79021,
+    "longitude": 89.95065
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বগাবাইদ আজাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2183,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.92118,
+    "longitude": 89.92644
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বগাবাইদ উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2516,
+    "hijra_count": 0,
+    "latitude": 24.92104,
+    "longitude": 89.92638
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বটতলা উচ্চ বিদ্যালয়",
+    "male_count": 1083,
+    "female_count": 1154,
+    "hijra_count": 0,
+    "latitude": 24.82211,
+    "longitude": 90.05349
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বড়পীর হযরত আব্দুল কাদের জিলানী (রহঃ) নূরাণী হাফিজিয়া মাদ্রাসা",
+    "male_count": 1842,
+    "female_count": 1867,
+    "hijra_count": 0,
+    "latitude": 24.84996,
+    "longitude": 90.18086
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1721,
+    "female_count": 1679,
+    "hijra_count": 0,
+    "latitude": 24.85176,
+    "longitude": 90.13106
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বানারেরপাড় সরকারি প্রাথমিক বিদ্যালয় ও বানারেরপাড় ফাজিল (ডিগ্রী) মাদ্রাসা",
+    "male_count": 1860,
+    "female_count": 1969,
+    "hijra_count": 0,
+    "latitude": 24.83492,
+    "longitude": 90.04691
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বানিয়া বাজার উচ্চ বিদ্যালয়",
+    "male_count": 3091,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.92239,
+    "longitude": 89.96167
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বানিয়াবাজার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3378,
+    "hijra_count": 0,
+    "latitude": 24.92193,
+    "longitude": 89.96171
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বারুয়ামারী জহুরা খাতুন উচ্চ বিদ্যালয়",
+    "male_count": 2537,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.90395,
+    "longitude": 90.02197
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বাংলাদেশ উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 5785,
+    "hijra_count": 0,
+    "latitude": 24.85789,
+    "longitude": 89.90839
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বাংলাদেশ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 5222,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.85832,
+    "longitude": 89.90833
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বাঁশচড়া উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2633,
+    "hijra_count": 0,
+    "latitude": 24.78979,
+    "longitude": 90.04826
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বাঁশচড়া এস.বি.জি মডার্ণ উচ্চ বিদ্যালয়",
+    "male_count": 2270,
+    "female_count": 2419,
+    "hijra_count": 0,
+    "latitude": 24.80732,
+    "longitude": 89.9511
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বাঁশচড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2642,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.78984,
+    "longitude": 90.04761
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বিয়ারা পলাশতলা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2711,
+    "hijra_count": 0,
+    "latitude": 24.8289,
+    "longitude": 89.95958
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2524,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.82948,
+    "longitude": 89.95973
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বুখুঞ্জা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1997,
+    "female_count": 2119,
+    "hijra_count": 0,
+    "latitude": 24.83529,
+    "longitude": 89.89125
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বেলটিয়া উচ্চ বিদ্যালয়",
+    "male_count": 2376,
+    "female_count": 2555,
+    "hijra_count": 1,
+    "latitude": 24.89435,
+    "longitude": 89.94845
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "বৈঠামারী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1615,
+    "female_count": 1680,
+    "hijra_count": 0,
+    "latitude": 24.8042,
+    "longitude": 90.08917
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ভারুয়াখালী এম.এন.এ উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3107,
+    "hijra_count": 0,
+    "latitude": 24.81821,
+    "longitude": 90.12591
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "ভালুকা উচ্চ বিদ্যালয়",
+    "male_count": 1923,
+    "female_count": 1930,
+    "hijra_count": 0,
+    "latitude": 24.78969,
+    "longitude": 90.02124
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মধ্য গজারিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1271,
+    "female_count": 1166,
+    "hijra_count": 0,
+    "latitude": 24.884,
+    "longitude": 90.07708
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মহেশপুর ইসলামিয়া দাখিল মাদ্রাসা",
+    "male_count": 3695,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.86854,
+    "longitude": 90.06488
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মহেশপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3676,
+    "hijra_count": 0,
+    "latitude": 24.86833,
+    "longitude": 90.06462
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মাছিমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1373,
+    "female_count": 1503,
+    "hijra_count": 0,
+    "latitude": 24.90032,
+    "longitude": 89.97945
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মাটিখোলা সরকারি প্রাথমিক বিদ্যালয় ও মাটিখোলা ফুরকানিয়া হাফেজিয়া এতিমখানা ও মাদ্রাসা",
+    "male_count": 1217,
+    "female_count": 1251,
+    "hijra_count": 0,
+    "latitude": 24.80423,
+    "longitude": 90.00223
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মাদ্রাসাহ দারুল হাদীস ও ইয়াতিমখানা",
+    "male_count": 1092,
+    "female_count": 1258,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মিরাপুর সরকারি প্রাথমিক বিদ্যালয় ও মিরাপুর ফুরকানিয়া মাদ্রাসা",
+    "male_count": 1655,
+    "female_count": 1728,
+    "hijra_count": 0,
+    "latitude": 24.86836,
+    "longitude": 90.13533
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মুন মেমোরিয়াল উচ্চ বিদ্যালয়",
+    "male_count": 1066,
+    "female_count": 1208,
+    "hijra_count": 1,
+    "latitude": 24.91231,
+    "longitude": 89.93075
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মুসলিমাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2293,
+    "female_count": 2373,
+    "hijra_count": 0,
+    "latitude": 24.92523,
+    "longitude": 89.94667
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মেষ্টা উচ্চ বিদ্যালয়",
+    "male_count": 4110,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.83463,
+    "longitude": 89.86016
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মেষ্টা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4447,
+    "hijra_count": 1,
+    "latitude": 24.83445,
+    "longitude": 89.86062
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "মোহনপুর খুপিবাড়ী সরকারি প্রাথমিক বিদ্যালয় ও খুপিবাড়ী উচ্চ বিদ্যালয়",
+    "male_count": 1570,
+    "female_count": 1650,
+    "hijra_count": 0,
+    "latitude": 24.79293,
+    "longitude": 89.96656
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রণরামপুর উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2928,
+    "hijra_count": 0,
+    "latitude": 24.8471,
+    "longitude": 90.02013
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রণরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2821,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.84743,
+    "longitude": 90.02037
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রশিদপুর উচ্চ বিদ্যালয়",
+    "male_count": 1583,
+    "female_count": 1670,
+    "hijra_count": 0,
+    "latitude": 24.74785,
+    "longitude": 89.97879
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রশিদপুর এন. ইউ. ফাযিল (ডিগ্রি) মাদ্রাসা",
+    "male_count": 1219,
+    "female_count": 1301,
+    "hijra_count": 0,
+    "latitude": 24.74265,
+    "longitude": 89.97078
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রশিদপুর পাকুল্যা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1384,
+    "female_count": 1400,
+    "hijra_count": 1,
+    "latitude": 24.76556,
+    "longitude": 89.99106
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রাজাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1680,
+    "female_count": 1746,
+    "hijra_count": 0,
+    "latitude": 24.81839,
+    "longitude": 90.14466
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রামকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1141,
+    "female_count": 1198,
+    "hijra_count": 0,
+    "latitude": 24.76674,
+    "longitude": 90.02027
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয় ও রামনগর উচ্চ বিদ্যালয়",
+    "male_count": 1505,
+    "female_count": 1570,
+    "hijra_count": 0,
+    "latitude": 24.74972,
+    "longitude": 90.00626
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রায়েরচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2498,
+    "hijra_count": 0,
+    "latitude": 24.90575,
+    "longitude": 90.0218
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "রুমিজা মমিন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3156,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "লক্ষীরচর পশ্চিমপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1277,
+    "female_count": 1229,
+    "hijra_count": 0,
+    "latitude": 24.88474,
+    "longitude": 90.02386
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "লক্ষীরচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1704,
+    "female_count": 1727,
+    "hijra_count": 0,
+    "latitude": 24.8837,
+    "longitude": 90.03514
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "লাহিড়ীকান্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3222,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.84719,
+    "longitude": 90.08062
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শরিফপুর উচ্চ বিদ্যালয়",
+    "male_count": 3445,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.89009,
+    "longitude": 89.99319
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শরিফপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3629,
+    "hijra_count": 0,
+    "latitude": 24.89089,
+    "longitude": 89.99341
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শহীদ জিয়াউর রহমান কলেজ",
+    "male_count": 1848,
+    "female_count": 1954,
+    "hijra_count": 0,
+    "latitude": 24.91502,
+    "longitude": 89.94187
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শাহবাজপুর পক্ষীমারী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1389,
+    "female_count": 1405,
+    "hijra_count": 0,
+    "latitude": 24.83131,
+    "longitude": 89.99215
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শীতলকূর্শা সরকারি প্রথামিক বিদ্যালয়",
+    "male_count": 2007,
+    "female_count": 1983,
+    "hijra_count": 0,
+    "latitude": 24.86991,
+    "longitude": 89.97128
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শেখপাড়া খোকা মান্নান দাখিল মাদ্রাসা",
+    "male_count": 1230,
+    "female_count": 1268,
+    "hijra_count": 0,
+    "latitude": 24.73294,
+    "longitude": 89.97883
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শৈলেরকান্দা উচ্চ বিদ্যালয়",
+    "male_count": 2287,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.84699,
+    "longitude": 90.16878
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শৈলেরকান্দা ব্রহ্মোত্তর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1414,
+    "female_count": 1422,
+    "hijra_count": 0,
+    "latitude": 24.83995,
+    "longitude": 90.15579
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শৈলেরকান্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2350,
+    "hijra_count": 0,
+    "latitude": 24.84711,
+    "longitude": 90.16856
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শ্রীপুর কুমারিয়া উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3400,
+    "hijra_count": 0,
+    "latitude": 24.81887,
+    "longitude": 90.01713
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শ্রীপুর কুমারিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3314,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.81881,
+    "longitude": 90.01708
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "শ্রীরামপুর বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 2569,
+    "female_count": 2736,
+    "hijra_count": 0,
+    "latitude": 24.86915,
+    "longitude": 89.99163
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "সরকারি জাহেদা সফির মহিলা কলেজ",
+    "male_count": 1325,
+    "female_count": 1449,
+    "hijra_count": 1,
+    "latitude": 24.91376,
+    "longitude": 89.94974
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "সাহাপুর সামসুল হক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2197,
+    "female_count": 2522,
+    "hijra_count": 0,
+    "latitude": 24.90922,
+    "longitude": 89.95885
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "সিংহজানী উচ্চ বালিকা বিদ্যালয়",
+    "male_count": 2008,
+    "female_count": 2305,
+    "hijra_count": 0,
+    "latitude": 24.92258,
+    "longitude": 89.95053
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "সিংহজানী কাচারীপাড়া মডেল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2658,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 24.92362,
+    "longitude": 89.9446
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "সিংহজানী বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2892,
+    "hijra_count": 0,
+    "latitude": 24.92311,
+    "longitude": 89.94545
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "হনুমানের চর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1266,
+    "female_count": 1264,
+    "hijra_count": 0,
+    "latitude": 24.89495,
+    "longitude": 90.14526
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "হবদেশ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1504,
+    "female_count": 1614,
+    "hijra_count": 0,
+    "latitude": 24.78167,
+    "longitude": 89.95619
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "হরিণাকান্দা সরকারি প্রাথমিক বিদ্যালয় ও হরিণাকান্দা উচ্চ বিদ্যালয়",
+    "male_count": 1929,
+    "female_count": 1923,
+    "hijra_count": 0,
+    "latitude": 24.80075,
+    "longitude": 90.14762
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "হরিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2006,
+    "female_count": 2110,
+    "hijra_count": 0,
+    "latitude": 24.80881,
+    "longitude": 90.11444
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "হাজীপুর উচ্চ বিদ্যালয়",
+    "male_count": 2158,
+    "female_count": 2212,
+    "hijra_count": 0,
+    "latitude": 24.85339,
+    "longitude": 89.87648
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "হাটচন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2156,
+    "female_count": 2316,
+    "hijra_count": 0,
+    "latitude": 24.92999,
+    "longitude": 89.94576
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "হামিদপুর সরকারি প্রথমিক বিদ্যালয়",
+    "male_count": 1491,
+    "female_count": 1564,
+    "hijra_count": 0,
+    "latitude": 24.87609,
+    "longitude": 90.01004
+  },
+  {
+    "settings_code": 142,
+    "settings_name": "জামালপুর-৫",
+    "center_name": "হাসিল গৌরীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1517,
+    "female_count": 1604,
+    "hijra_count": 0,
+    "latitude": 24.83859,
+    "longitude": 89.87698
+  }
 ]

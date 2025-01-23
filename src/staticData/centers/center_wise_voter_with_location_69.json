@@ -1,1062 +1,1062 @@
 [
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "আমিনপুর আয়েন উদ্দিন উচ্চ বিদ্যালয়",
-        "male_count": 2638,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.91587,
-        "longitude": 89.6207
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "আমিনপুর আয়েন উদ্দিন উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2558,
-        "hijra_count": 0,
-        "latitude": 23.91621,
-        "longitude": 89.62087
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "আলহাজ্ব ইমান আলী উচচ বিদ্যালয়, কদমতলী",
-        "male_count": 2094,
-        "female_count": 1954,
-        "hijra_count": 0,
-        "latitude": 23.88615,
-        "longitude": 89.58564
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "আহম্মদপুর দক্ষিণপাড়া সরকারী প্রাথমিক বিদ্যালয়, আহম্মদপুর",
-        "male_count": 1279,
-        "female_count": 1232,
-        "hijra_count": 0,
-        "latitude": 23.9371,
-        "longitude": 89.57936
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "আহম্মদপুর সরকারী প্রাথমিক বিদ্যালয়, আহম্মদপুর",
-        "male_count": 2225,
-        "female_count": 2202,
-        "hijra_count": 0,
-        "latitude": 23.94617,
-        "longitude": 89.58315
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 842,
-        "female_count": 848,
-        "hijra_count": 0,
-        "latitude": 23.95041,
-        "longitude": 89.65049
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "উদয়পুর সরকারী প্রাথমিক বিদ্যালয়, উদয়পুর",
-        "male_count": 2058,
-        "female_count": 1872,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "উলাট সিদ্দিকিয়া সিনিয়র মাদ্রাসা, উলাট",
-        "male_count": 2061,
-        "female_count": 1945,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কদিমালঞ্চি উচ্চ বিদ্যালয়, কদিমমালঞ্চী",
-        "male_count": 2102,
-        "female_count": 1949,
-        "hijra_count": 0,
-        "latitude": 23.88898,
-        "longitude": 89.60724
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কল্যাণপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 760,
-        "female_count": 803,
-        "hijra_count": 0,
-        "latitude": 23.96317,
-        "longitude": 89.68759
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কাচুরী সরকারী প্রাথমিক বিদ্যালয়, কাচুরী",
-        "male_count": 1173,
-        "female_count": 1139,
-        "hijra_count": 0,
-        "latitude": 23.89576,
-        "longitude": 89.44037
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কাজিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1214,
-        "female_count": 1166,
-        "hijra_count": 0,
-        "latitude": 23.88315,
-        "longitude": 89.64446
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কাজিরহাট উচ্চ বিদ্যালয়",
-        "male_count": 1456,
-        "female_count": 1364,
-        "hijra_count": 0,
-        "latitude": 23.83215,
-        "longitude": 89.68551
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কাজীপাড়া হোসাইনিয়া হাফিজিয়া মাদ্রাসা",
-        "male_count": 1085,
-        "female_count": 1099,
-        "hijra_count": 0,
-        "latitude": 23.97131,
-        "longitude": 89.68791
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কাদোয়া সরকারী প্রাথমিক বিদ্যালয়, কাদোয়া",
-        "male_count": 2489,
-        "female_count": 2328,
-        "hijra_count": 0,
-        "latitude": 23.89412,
-        "longitude": 89.45663
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কামারহাট সরকারী প্রাথমিক বিদ্যালয়, কামারহাট",
-        "male_count": 2560,
-        "female_count": 2356,
-        "hijra_count": 0,
-        "latitude": 23.84042,
-        "longitude": 89.51559
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কামালপুর সরকারী প্রাথমিক বিদ্যালয়, কামালপুর",
-        "male_count": 2638,
-        "female_count": 2471,
-        "hijra_count": 0,
-        "latitude": 23.86111,
-        "longitude": 89.5409
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কাশিনাথপুর মহিলা কলেজ",
-        "male_count": 1820,
-        "female_count": 1847,
-        "hijra_count": 0,
-        "latitude": 23.95137,
-        "longitude": 89.60468
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "কুড়িপাড়া সরকারী প্রাথমিক বিদ্যালয়, কুড়িপাড়া।",
-        "male_count": 1676,
-        "female_count": 1542,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ক্রোড়দুলিয়া সরকারী প্রাথমিক বিদ্যালয়, ক্রোড়দুলিয়া",
-        "male_count": 1690,
-        "female_count": 1534,
-        "hijra_count": 0,
-        "latitude": 23.96813,
-        "longitude": 89.43846
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "খয়রান সরকারী প্রাথমিক বিদ্যালয়, খয়রান",
-        "male_count": 1669,
-        "female_count": 1574,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "খলিলপুর উচচ বিদ্যালয় (১ম তলা ভবন) , খলিলপুর।",
-        "male_count": 0,
-        "female_count": 2332,
-        "hijra_count": 0,
-        "latitude": 23.84122,
-        "longitude": 89.57689
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "খলিলপুর উচচ বিদ্যালয় (দোতলা ভবন), খলিলপুর।",
-        "male_count": 2545,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.83763,
-        "longitude": 89.57329
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "খানপুর উচ্চ বিদ্যালয়",
-        "male_count": 850,
-        "female_count": 798,
-        "hijra_count": 0,
-        "latitude": 23.89378,
-        "longitude": 89.65524
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "খাষ ঢালারচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 772,
-        "female_count": 666,
-        "hijra_count": 0,
-        "latitude": 23.83215,
-        "longitude": 89.68551
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "গোপালপুর সরকারী প্রাথমিক বিদ্যালয়, গোপালপুর",
-        "male_count": 2604,
-        "female_count": 2342,
-        "hijra_count": 0,
-        "latitude": 23.91305,
-        "longitude": 89.42442
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ঘোপশিলেন্দা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 854,
-        "female_count": 845,
-        "hijra_count": 0,
-        "latitude": 23.91326,
-        "longitude": 89.65003
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চরগোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়, চর গোবিন্দপুর",
-        "male_count": 2611,
-        "female_count": 2546,
-        "hijra_count": 0,
-        "latitude": 23.95413,
-        "longitude": 89.52507
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চরদুলাই সরকারী প্রাথমিক বিদ্যালয়, চরদুলাই",
-        "male_count": 2280,
-        "female_count": 2269,
-        "hijra_count": 0,
-        "latitude": 23.93017,
-        "longitude": 89.52441
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চরদূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1653,
-        "female_count": 1419,
-        "hijra_count": 0,
-        "latitude": 23.83107,
-        "longitude": 89.65682
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চরপাড়া সরকারী প্রাথমিক বিদ্যালয়, চড়পাড়া",
-        "male_count": 1061,
-        "female_count": 990,
-        "hijra_count": 0,
-        "latitude": 23.92071,
-        "longitude": 89.41997
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চরভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1847,
-        "female_count": 1897,
-        "hijra_count": 0,
-        "latitude": 23.89925,
-        "longitude": 89.6491
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চরভবানীপুর সরকারী প্রাথমিক বিদ্যালয় (পশ্চিম অংশ টিনশেড ভবন), চর ভবানীপুর।",
-        "male_count": 0,
-        "female_count": 2594,
-        "hijra_count": 0,
-        "latitude": 23.93474,
-        "longitude": 89.4014
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চরভবানীপুর সরকারী প্রাথমিক বিদ্যালয় (পূর্ব অংশ পাকা ভবন), চর ভবানীপুর।",
-        "male_count": 2730,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.93474,
-        "longitude": 89.4014
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চিনাখড়া উচ্চবিদ্যালয় ও কলেজ, চিনাখড়া",
-        "male_count": 3534,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.96144,
-        "longitude": 89.49579
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "চিনাখড়া সরকারী প্রাথমিক বিদ্যালয়, চিনাখড়া",
-        "male_count": 0,
-        "female_count": 3293,
-        "hijra_count": 0,
-        "latitude": 23.96044,
-        "longitude": 89.49563
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "জাহানারা কাঞ্চন উচচ বিদ্যালয়, পারঘোড়াদহ",
-        "male_count": 1945,
-        "female_count": 1833,
-        "hijra_count": 0,
-        "latitude": 23.96186,
-        "longitude": 89.46935
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "টাংবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1929,
-        "female_count": 1892,
-        "hijra_count": 0,
-        "latitude": 23.95282,
-        "longitude": 89.62064
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ঢালারচর উচ্চ বিদ্যালয়",
-        "male_count": 2070,
-        "female_count": 1757,
-        "hijra_count": 0,
-        "latitude": 23.84596,
-        "longitude": 89.66012
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ঢালারচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1715,
-        "female_count": 1476,
-        "hijra_count": 0,
-        "latitude": 23.83558,
-        "longitude": 89.67942
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "তাঁতীবন্দ সরকারী প্রাথমিক বিদ্যালয়, তাঁতিবন্দ",
-        "male_count": 2056,
-        "female_count": 1886,
-        "hijra_count": 0,
-        "latitude": 23.96996,
-        "longitude": 89.41784
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "তারাবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়, তারাবাড়ীয়া",
-        "male_count": 1706,
-        "female_count": 1644,
-        "hijra_count": 0,
-        "latitude": 23.89142,
-        "longitude": 89.43696
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "তালিমনগর শাহ মাহাতাব উদ্দিন উচচ বিদ্যালয়, শ্যামসুন্দরপুর",
-        "male_count": 1559,
-        "female_count": 1519,
-        "hijra_count": 0,
-        "latitude": 23.86169,
-        "longitude": 89.61271
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "দিঘলকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 920,
-        "female_count": 852,
-        "hijra_count": 0,
-        "latitude": 23.97723,
-        "longitude": 89.63167
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "দুলাই উচ্চ বিদ্যালয়, দুলাই (দক্ষিণ অংশ ৩য় তলা ভবন)",
-        "male_count": 0,
-        "female_count": 2452,
-        "hijra_count": 0,
-        "latitude": 23.95435,
-        "longitude": 89.52341
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "দুলাই উচ্চ বিদ্যালয়, দুলাই (পূর্ব অংশ)",
-        "male_count": 2467,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.93361,
-        "longitude": 89.6059
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "দূর্গাপুর নেছারা খাতুন বালিকা উচচ বিদ্যালয়, দূর্গাপুর",
-        "male_count": 1277,
-        "female_count": 1280,
-        "hijra_count": 0,
-        "latitude": 23.96152,
-        "longitude": 89.54404
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "দূর্গাপুর সরকারী প্রাথমিক বিদ্যালয়, দূর্গাপুর",
-        "male_count": 2778,
-        "female_count": 2559,
-        "hijra_count": 0,
-        "latitude": 23.91874,
-        "longitude": 89.45945
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ধোবাখোলা করোনেশন উচ্চ বিদ্যালয়",
-        "male_count": 2324,
-        "female_count": 2373,
-        "hijra_count": 0,
-        "latitude": 23.95191,
-        "longitude": 89.64039
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "নতুন মীরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1811,
-        "female_count": 1696,
-        "hijra_count": 0,
-        "latitude": 23.86879,
-        "longitude": 89.62561
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "নয়াবাড়ী ইয়াছিন উদ্দিন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1914,
-        "female_count": 2004,
-        "hijra_count": 0,
-        "latitude": 23.9516,
-        "longitude": 89.60012
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "নাজিরগঞ্জ স্কুল এন্ড কলেজ, নাজিরগঞ্জ",
-        "male_count": 2865,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.82774,
-        "longitude": 89.53031
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "নান্দিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2363,
-        "female_count": 2207,
-        "hijra_count": 0,
-        "latitude": 23.95357,
-        "longitude": 89.62822
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "নিশ্চিন্তপুর সরকারী প্রাথমিক বিদ্যালয়, নিশ্চিন্তপুর",
-        "male_count": 812,
-        "female_count": 776,
-        "hijra_count": 0,
-        "latitude": 23.89954,
-        "longitude": 89.43334
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "পাইকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2021,
-        "female_count": 2005,
-        "hijra_count": 0,
-        "latitude": 23.88864,
-        "longitude": 89.66379
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "পুকুরনিয়া সরকারী প্রাথমিক বিদ্যালয়, পুকুরনিয়া",
-        "male_count": 1629,
-        "female_count": 1515,
-        "hijra_count": 0,
-        "latitude": 23.8716,
-        "longitude": 89.60787
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "পোড়াডাংগা হাজী এজেম উদ্দিন উচ্চ বিদ্যালয়, পোড়াডাংগা",
-        "male_count": 1622,
-        "female_count": 1536,
-        "hijra_count": 0,
-        "latitude": 23.96673,
-        "longitude": 89.43346
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বক্তারপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1219,
-        "female_count": 1282,
-        "hijra_count": 0,
-        "latitude": 23.98493,
-        "longitude": 89.64764
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বনকোলা উচচ বিদ্যালয় ও কলেজ, বনকোলা",
-        "male_count": 2112,
-        "female_count": 2002,
-        "hijra_count": 0,
-        "latitude": 23.88706,
-        "longitude": 89.48934
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বনকোলা সরকারী প্রাথমিক বিদ্যালয়, বনকোলা",
-        "male_count": 1527,
-        "female_count": 1499,
-        "hijra_count": 0,
-        "latitude": 23.88707,
-        "longitude": 89.4894
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বরখাপুর সরকারী প্রাথমিক বিদ্যালয়, বরখাপুর",
-        "male_count": 0,
-        "female_count": 2708,
-        "hijra_count": 0,
-        "latitude": 23.82775,
-        "longitude": 89.53032
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বরুরিয়া সরকারী প্রাথমিক বিদ্যালয়, বরুরিয়া",
-        "male_count": 2738,
-        "female_count": 2487,
-        "hijra_count": 0,
-        "latitude": 23.8576,
-        "longitude": 89.58981
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বাড়ইপাড়া সরকারী প্রাথমিক বিদ্যালয়, বাড়ইপাড়া",
-        "male_count": 1757,
-        "female_count": 1664,
-        "hijra_count": 0,
-        "latitude": 23.94915,
-        "longitude": 89.42916
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বামুন্দী সরকারী প্রাথমিক বিদ্যালয়, বামুন্দী",
-        "male_count": 2242,
-        "female_count": 2036,
-        "hijra_count": 0,
-        "latitude": 23.94415,
-        "longitude": 89.48355
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বিলক্ষেতুপাড়া সরকারী প্রাথমিক বিদ্যালয়, বিলক্ষেতুপাড়া",
-        "male_count": 1935,
-        "female_count": 1798,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বিলগাজনা উচচ বিদ্যালয়, রানীনগর",
-        "male_count": 2190,
-        "female_count": 2001,
-        "hijra_count": 0,
-        "latitude": 23.89559,
-        "longitude": 89.57422
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "বুলন্দর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1390,
-        "female_count": 1175,
-        "hijra_count": 0,
-        "latitude": 23.8531,
-        "longitude": 89.66707
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1678,
-        "female_count": 1586,
-        "hijra_count": 0,
-        "latitude": 23.88665,
-        "longitude": 89.62835
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ভবানীপুর সরকারী প্রাথমিক বিদ্যালয়, ভবানীপুর",
-        "male_count": 1694,
-        "female_count": 1742,
-        "hijra_count": 0,
-        "latitude": 23.94602,
-        "longitude": 89.40618
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ভাটপাড়া সরকারী প্রাথমিক বিদ্যালয়, ভাটপাড়া",
-        "male_count": 2441,
-        "female_count": 2351,
-        "hijra_count": 0,
-        "latitude": 23.86964,
-        "longitude": 89.45901
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "ভায়না সরকারী প্রাথমিক বিদ্যালয়, ভায়না",
-        "male_count": 1336,
-        "female_count": 1244,
-        "hijra_count": 0,
-        "latitude": 23.92169,
-        "longitude": 89.43447
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মথুরাপুর সরকারী প্রাথমিক বিদ্যালয়, মথুরাপুর",
-        "male_count": 1532,
-        "female_count": 1395,
-        "hijra_count": 0,
-        "latitude": 23.94048,
-        "longitude": 89.42286
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মানিকদির সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2293,
-        "female_count": 2258,
-        "hijra_count": 0,
-        "latitude": 23.92894,
-        "longitude": 89.41581
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মানিকহাট সরকারী প্রাথমিক বিদ্যালয়, মানিকহাট",
-        "male_count": 1626,
-        "female_count": 1579,
-        "hijra_count": 0,
-        "latitude": 23.88831,
-        "longitude": 89.47178
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মালফিয়া সরকারী প্রাথমিক বিদ্যালয়, মালফিয়া",
-        "male_count": 1134,
-        "female_count": 1035,
-        "hijra_count": 0,
-        "latitude": 23.85165,
-        "longitude": 89.4924
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মালিফা হাবিবুর রহমান বহুমুখী উচচ বিদ্যালয়, মালিফা",
-        "male_count": 2932,
-        "female_count": 2735,
-        "hijra_count": 0,
-        "latitude": 23.85776,
-        "longitude": 89.47938
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মাশুমদিয়া খানেবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1321,
-        "female_count": 1276,
-        "hijra_count": 0,
-        "latitude": 23.88991,
-        "longitude": 89.63587
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মিরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1088,
-        "female_count": 878,
-        "hijra_count": 0,
-        "latitude": 23.83781,
-        "longitude": 89.63416
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মির্জা আব্দুর রশিদ উচচ বিদ্যালয়, বিরাহিমপুর",
-        "male_count": 2047,
-        "female_count": 2026,
-        "hijra_count": 0,
-        "latitude": 23.96672,
-        "longitude": 89.56146
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "মির্জাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1998,
-        "female_count": 1985,
-        "hijra_count": 0,
-        "latitude": 23.92845,
-        "longitude": 89.62593
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "রতনগঞ্জ উচ্চ বিদ্যালয়",
-        "male_count": 1474,
-        "female_count": 1463,
-        "hijra_count": 0,
-        "latitude": 23.86748,
-        "longitude": 89.61678
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "রাজনারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1623,
-        "female_count": 1737,
-        "hijra_count": 0,
-        "latitude": 23.9523,
-        "longitude": 89.64321
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "রাণীগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1512,
-        "female_count": 1482,
-        "hijra_count": 0,
-        "latitude": 23.94112,
-        "longitude": 89.64238
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "রানীনগর উচচ বিদ্যালয়, ভাটিকয়া (চারতলা ভবন)",
-        "male_count": 2739,
-        "female_count": 2663,
-        "hijra_count": 0,
-        "latitude": 23.91314,
-        "longitude": 89.58909
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "রুপগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1527,
-        "female_count": 1512,
-        "hijra_count": 0,
-        "latitude": 23.87752,
-        "longitude": 89.62722
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "রুপপুর পশ্চিম পাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1949,
-        "female_count": 1876,
-        "hijra_count": 0,
-        "latitude": 23.90576,
-        "longitude": 89.60396
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1640,
-        "female_count": 1721,
-        "hijra_count": 0,
-        "latitude": 23.93887,
-        "longitude": 89.65014
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "শান্তিপুর সরকারী প্রাথমিক বিদ্যালয়, শান্তিপুর",
-        "male_count": 1253,
-        "female_count": 1185,
-        "hijra_count": 0,
-        "latitude": 23.96194,
-        "longitude": 89.47616
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "শোলাকুড়া সরকারী প্রাথমিক বিদ্যালয়, শোলাকুড়া",
-        "male_count": 1663,
-        "female_count": 1570,
-        "hijra_count": 0,
-        "latitude": 23.86329,
-        "longitude": 89.55417
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সাগরকান্দি উচচ বিদ্যালয়, (টিনসেড ভবন), সাগরকান্দি",
-        "male_count": 2912,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.8537,
-        "longitude": 89.60267
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সাগরকান্দি উচচ বিদ্যালয় (পাকা ভবন), সাগরকান্দি",
-        "male_count": 0,
-        "female_count": 2728,
-        "hijra_count": 0,
-        "latitude": 23.85346,
-        "longitude": 89.6024
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সাতবাড়ীয় বালিকা উচ্চ বিদ্যালয়, সাতবাড়ীয়া",
-        "male_count": 1272,
-        "female_count": 1259,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সিন্দুরী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1790,
-        "female_count": 1703,
-        "hijra_count": 0,
-        "latitude": 23.94218,
-        "longitude": 89.6086
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সিংহাসন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1825,
-        "female_count": 1730,
-        "hijra_count": 0,
-        "latitude": 23.97129,
-        "longitude": 89.64067
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সুজানগর মডেল সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2566,
-        "hijra_count": 0,
-        "latitude": 23.93678,
-        "longitude": 89.4107
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সুজানগর মোহাম্মাদিয়া দাখিল মাদ্রাসা, সুজানগর",
-        "male_count": 1960,
-        "female_count": 1833,
-        "hijra_count": 0,
-        "latitude": 23.94166,
-        "longitude": 89.41093
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সুজানগর সরকারী পাইলট মডেল উচ্চ বিদ্যালয়",
-        "male_count": 2547,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.93675,
-        "longitude": 89.41069
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সৈয়দপুর ২নং সরকারী প্রাথমিক বিদ্যালয়, সৈয়দপুর",
-        "male_count": 832,
-        "female_count": 792,
-        "hijra_count": 0,
-        "latitude": 23.93997,
-        "longitude": 89.59692
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সৈয়দপুর উচ্চ বিদ্যালয়, সৈয়দপুর",
-        "male_count": 1222,
-        "female_count": 1228,
-        "hijra_count": 0,
-        "latitude": 23.93374,
-        "longitude": 89.60603
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সৈয়দপুর দাখিল মাদ্রাসা, সৈয়দপুর",
-        "male_count": 1718,
-        "female_count": 1652,
-        "hijra_count": 0,
-        "latitude": 23.92418,
-        "longitude": 89.61474
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সৈয়দপুর সরকারী প্রাথমিক বিদ্যালয়, সৈয়দপুর",
-        "male_count": 1581,
-        "female_count": 1439,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "সোনাতলা সরকারী প্রাথমিক বিদ্যালয়, সোনাতলা",
-        "male_count": 2153,
-        "female_count": 2081,
-        "hijra_count": 0,
-        "latitude": 23.95069,
-        "longitude": 89.56012
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "হাটখালী সরকারী প্রাথমিক বিদ্যালয়, হাটখালী",
-        "male_count": 1803,
-        "female_count": 1639,
-        "hijra_count": 1,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "হাসামপুর সরকারী প্রাথমিক বিদ্যালয়, হাসামপুর",
-        "male_count": 1635,
-        "female_count": 1529,
-        "hijra_count": 0,
-        "latitude": 23.8273,
-        "longitude": 89.55613
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "হিরননদী সরকারী প্রাথমিক বিদ্যালয়, হিরননদী",
-        "male_count": 1224,
-        "female_count": 1171,
-        "hijra_count": 0,
-        "latitude": 23.89811,
-        "longitude": 89.5951
-    },
-    {
-        "settings_code": 69,
-        "settings_name": "পাবনা-২",
-        "center_name": "হোগলাডাঙ্গী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1660,
-        "female_count": 1473,
-        "hijra_count": 0,
-        "latitude": 23.85131,
-        "longitude": 89.60411
-    }
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "আমিনপুর আয়েন উদ্দিন উচ্চ বিদ্যালয়",
+    "male_count": 2638,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.91587,
+    "longitude": 89.6207
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "আমিনপুর আয়েন উদ্দিন উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2558,
+    "hijra_count": 0,
+    "latitude": 23.91621,
+    "longitude": 89.62087
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "আলহাজ্ব ইমান আলী উচচ বিদ্যালয়, কদমতলী",
+    "male_count": 2094,
+    "female_count": 1954,
+    "hijra_count": 0,
+    "latitude": 23.88615,
+    "longitude": 89.58564
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "আহম্মদপুর দক্ষিণপাড়া সরকারী প্রাথমিক বিদ্যালয়, আহম্মদপুর",
+    "male_count": 1279,
+    "female_count": 1232,
+    "hijra_count": 0,
+    "latitude": 23.9371,
+    "longitude": 89.57936
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "আহম্মদপুর সরকারী প্রাথমিক বিদ্যালয়, আহম্মদপুর",
+    "male_count": 2225,
+    "female_count": 2202,
+    "hijra_count": 0,
+    "latitude": 23.94617,
+    "longitude": 89.58315
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 842,
+    "female_count": 848,
+    "hijra_count": 0,
+    "latitude": 23.95041,
+    "longitude": 89.65049
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "উদয়পুর সরকারী প্রাথমিক বিদ্যালয়, উদয়পুর",
+    "male_count": 2058,
+    "female_count": 1872,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "উলাট সিদ্দিকিয়া সিনিয়র মাদ্রাসা, উলাট",
+    "male_count": 2061,
+    "female_count": 1945,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কদিমালঞ্চি উচ্চ বিদ্যালয়, কদিমমালঞ্চী",
+    "male_count": 2102,
+    "female_count": 1949,
+    "hijra_count": 0,
+    "latitude": 23.88898,
+    "longitude": 89.60724
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কল্যাণপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 760,
+    "female_count": 803,
+    "hijra_count": 0,
+    "latitude": 23.96317,
+    "longitude": 89.68759
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কাচুরী সরকারী প্রাথমিক বিদ্যালয়, কাচুরী",
+    "male_count": 1173,
+    "female_count": 1139,
+    "hijra_count": 0,
+    "latitude": 23.89576,
+    "longitude": 89.44037
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কাজিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1214,
+    "female_count": 1166,
+    "hijra_count": 0,
+    "latitude": 23.88315,
+    "longitude": 89.64446
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কাজিরহাট উচ্চ বিদ্যালয়",
+    "male_count": 1456,
+    "female_count": 1364,
+    "hijra_count": 0,
+    "latitude": 23.83215,
+    "longitude": 89.68551
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কাজীপাড়া হোসাইনিয়া হাফিজিয়া মাদ্রাসা",
+    "male_count": 1085,
+    "female_count": 1099,
+    "hijra_count": 0,
+    "latitude": 23.97131,
+    "longitude": 89.68791
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কাদোয়া সরকারী প্রাথমিক বিদ্যালয়, কাদোয়া",
+    "male_count": 2489,
+    "female_count": 2328,
+    "hijra_count": 0,
+    "latitude": 23.89412,
+    "longitude": 89.45663
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কামারহাট সরকারী প্রাথমিক বিদ্যালয়, কামারহাট",
+    "male_count": 2560,
+    "female_count": 2356,
+    "hijra_count": 0,
+    "latitude": 23.84042,
+    "longitude": 89.51559
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কামালপুর সরকারী প্রাথমিক বিদ্যালয়, কামালপুর",
+    "male_count": 2638,
+    "female_count": 2471,
+    "hijra_count": 0,
+    "latitude": 23.86111,
+    "longitude": 89.5409
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কাশিনাথপুর মহিলা কলেজ",
+    "male_count": 1820,
+    "female_count": 1847,
+    "hijra_count": 0,
+    "latitude": 23.95137,
+    "longitude": 89.60468
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "কুড়িপাড়া সরকারী প্রাথমিক বিদ্যালয়, কুড়িপাড়া।",
+    "male_count": 1676,
+    "female_count": 1542,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ক্রোড়দুলিয়া সরকারী প্রাথমিক বিদ্যালয়, ক্রোড়দুলিয়া",
+    "male_count": 1690,
+    "female_count": 1534,
+    "hijra_count": 0,
+    "latitude": 23.96813,
+    "longitude": 89.43846
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "খয়রান সরকারী প্রাথমিক বিদ্যালয়, খয়রান",
+    "male_count": 1669,
+    "female_count": 1574,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "খলিলপুর উচচ বিদ্যালয় (১ম তলা ভবন) , খলিলপুর।",
+    "male_count": 0,
+    "female_count": 2332,
+    "hijra_count": 0,
+    "latitude": 23.84122,
+    "longitude": 89.57689
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "খলিলপুর উচচ বিদ্যালয় (দোতলা ভবন), খলিলপুর।",
+    "male_count": 2545,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.83763,
+    "longitude": 89.57329
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "খানপুর উচ্চ বিদ্যালয়",
+    "male_count": 850,
+    "female_count": 798,
+    "hijra_count": 0,
+    "latitude": 23.89378,
+    "longitude": 89.65524
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "খাষ ঢালারচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 772,
+    "female_count": 666,
+    "hijra_count": 0,
+    "latitude": 23.83215,
+    "longitude": 89.68551
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "গোপালপুর সরকারী প্রাথমিক বিদ্যালয়, গোপালপুর",
+    "male_count": 2604,
+    "female_count": 2342,
+    "hijra_count": 0,
+    "latitude": 23.91305,
+    "longitude": 89.42442
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ঘোপশিলেন্দা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 854,
+    "female_count": 845,
+    "hijra_count": 0,
+    "latitude": 23.91326,
+    "longitude": 89.65003
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চরগোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়, চর গোবিন্দপুর",
+    "male_count": 2611,
+    "female_count": 2546,
+    "hijra_count": 0,
+    "latitude": 23.95413,
+    "longitude": 89.52507
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চরদুলাই সরকারী প্রাথমিক বিদ্যালয়, চরদুলাই",
+    "male_count": 2280,
+    "female_count": 2269,
+    "hijra_count": 0,
+    "latitude": 23.93017,
+    "longitude": 89.52441
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চরদূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1653,
+    "female_count": 1419,
+    "hijra_count": 0,
+    "latitude": 23.83107,
+    "longitude": 89.65682
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চরপাড়া সরকারী প্রাথমিক বিদ্যালয়, চড়পাড়া",
+    "male_count": 1061,
+    "female_count": 990,
+    "hijra_count": 0,
+    "latitude": 23.92071,
+    "longitude": 89.41997
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চরভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1847,
+    "female_count": 1897,
+    "hijra_count": 0,
+    "latitude": 23.89925,
+    "longitude": 89.6491
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চরভবানীপুর সরকারী প্রাথমিক বিদ্যালয় (পশ্চিম অংশ টিনশেড ভবন), চর ভবানীপুর।",
+    "male_count": 0,
+    "female_count": 2594,
+    "hijra_count": 0,
+    "latitude": 23.93474,
+    "longitude": 89.4014
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চরভবানীপুর সরকারী প্রাথমিক বিদ্যালয় (পূর্ব অংশ পাকা ভবন), চর ভবানীপুর।",
+    "male_count": 2730,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.93474,
+    "longitude": 89.4014
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চিনাখড়া উচ্চবিদ্যালয় ও কলেজ, চিনাখড়া",
+    "male_count": 3534,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.96144,
+    "longitude": 89.49579
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "চিনাখড়া সরকারী প্রাথমিক বিদ্যালয়, চিনাখড়া",
+    "male_count": 0,
+    "female_count": 3293,
+    "hijra_count": 0,
+    "latitude": 23.96044,
+    "longitude": 89.49563
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "জাহানারা কাঞ্চন উচচ বিদ্যালয়, পারঘোড়াদহ",
+    "male_count": 1945,
+    "female_count": 1833,
+    "hijra_count": 0,
+    "latitude": 23.96186,
+    "longitude": 89.46935
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "টাংবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1929,
+    "female_count": 1892,
+    "hijra_count": 0,
+    "latitude": 23.95282,
+    "longitude": 89.62064
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ঢালারচর উচ্চ বিদ্যালয়",
+    "male_count": 2070,
+    "female_count": 1757,
+    "hijra_count": 0,
+    "latitude": 23.84596,
+    "longitude": 89.66012
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ঢালারচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1715,
+    "female_count": 1476,
+    "hijra_count": 0,
+    "latitude": 23.83558,
+    "longitude": 89.67942
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "তাঁতীবন্দ সরকারী প্রাথমিক বিদ্যালয়, তাঁতিবন্দ",
+    "male_count": 2056,
+    "female_count": 1886,
+    "hijra_count": 0,
+    "latitude": 23.96996,
+    "longitude": 89.41784
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "তারাবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়, তারাবাড়ীয়া",
+    "male_count": 1706,
+    "female_count": 1644,
+    "hijra_count": 0,
+    "latitude": 23.89142,
+    "longitude": 89.43696
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "তালিমনগর শাহ মাহাতাব উদ্দিন উচচ বিদ্যালয়, শ্যামসুন্দরপুর",
+    "male_count": 1559,
+    "female_count": 1519,
+    "hijra_count": 0,
+    "latitude": 23.86169,
+    "longitude": 89.61271
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "দিঘলকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 920,
+    "female_count": 852,
+    "hijra_count": 0,
+    "latitude": 23.97723,
+    "longitude": 89.63167
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "দুলাই উচ্চ বিদ্যালয়, দুলাই (দক্ষিণ অংশ ৩য় তলা ভবন)",
+    "male_count": 0,
+    "female_count": 2452,
+    "hijra_count": 0,
+    "latitude": 23.95435,
+    "longitude": 89.52341
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "দুলাই উচ্চ বিদ্যালয়, দুলাই (পূর্ব অংশ)",
+    "male_count": 2467,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.93361,
+    "longitude": 89.6059
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "দূর্গাপুর নেছারা খাতুন বালিকা উচচ বিদ্যালয়, দূর্গাপুর",
+    "male_count": 1277,
+    "female_count": 1280,
+    "hijra_count": 0,
+    "latitude": 23.96152,
+    "longitude": 89.54404
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "দূর্গাপুর সরকারী প্রাথমিক বিদ্যালয়, দূর্গাপুর",
+    "male_count": 2778,
+    "female_count": 2559,
+    "hijra_count": 0,
+    "latitude": 23.91874,
+    "longitude": 89.45945
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ধোবাখোলা করোনেশন উচ্চ বিদ্যালয়",
+    "male_count": 2324,
+    "female_count": 2373,
+    "hijra_count": 0,
+    "latitude": 23.95191,
+    "longitude": 89.64039
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "নতুন মীরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1811,
+    "female_count": 1696,
+    "hijra_count": 0,
+    "latitude": 23.86879,
+    "longitude": 89.62561
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "নয়াবাড়ী ইয়াছিন উদ্দিন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1914,
+    "female_count": 2004,
+    "hijra_count": 0,
+    "latitude": 23.9516,
+    "longitude": 89.60012
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "নাজিরগঞ্জ স্কুল এন্ড কলেজ, নাজিরগঞ্জ",
+    "male_count": 2865,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.82774,
+    "longitude": 89.53031
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "নান্দিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2363,
+    "female_count": 2207,
+    "hijra_count": 0,
+    "latitude": 23.95357,
+    "longitude": 89.62822
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "নিশ্চিন্তপুর সরকারী প্রাথমিক বিদ্যালয়, নিশ্চিন্তপুর",
+    "male_count": 812,
+    "female_count": 776,
+    "hijra_count": 0,
+    "latitude": 23.89954,
+    "longitude": 89.43334
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "পাইকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2021,
+    "female_count": 2005,
+    "hijra_count": 0,
+    "latitude": 23.88864,
+    "longitude": 89.66379
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "পুকুরনিয়া সরকারী প্রাথমিক বিদ্যালয়, পুকুরনিয়া",
+    "male_count": 1629,
+    "female_count": 1515,
+    "hijra_count": 0,
+    "latitude": 23.8716,
+    "longitude": 89.60787
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "পোড়াডাংগা হাজী এজেম উদ্দিন উচ্চ বিদ্যালয়, পোড়াডাংগা",
+    "male_count": 1622,
+    "female_count": 1536,
+    "hijra_count": 0,
+    "latitude": 23.96673,
+    "longitude": 89.43346
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বক্তারপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1219,
+    "female_count": 1282,
+    "hijra_count": 0,
+    "latitude": 23.98493,
+    "longitude": 89.64764
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বনকোলা উচচ বিদ্যালয় ও কলেজ, বনকোলা",
+    "male_count": 2112,
+    "female_count": 2002,
+    "hijra_count": 0,
+    "latitude": 23.88706,
+    "longitude": 89.48934
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বনকোলা সরকারী প্রাথমিক বিদ্যালয়, বনকোলা",
+    "male_count": 1527,
+    "female_count": 1499,
+    "hijra_count": 0,
+    "latitude": 23.88707,
+    "longitude": 89.4894
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বরখাপুর সরকারী প্রাথমিক বিদ্যালয়, বরখাপুর",
+    "male_count": 0,
+    "female_count": 2708,
+    "hijra_count": 0,
+    "latitude": 23.82775,
+    "longitude": 89.53032
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বরুরিয়া সরকারী প্রাথমিক বিদ্যালয়, বরুরিয়া",
+    "male_count": 2738,
+    "female_count": 2487,
+    "hijra_count": 0,
+    "latitude": 23.8576,
+    "longitude": 89.58981
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বাড়ইপাড়া সরকারী প্রাথমিক বিদ্যালয়, বাড়ইপাড়া",
+    "male_count": 1757,
+    "female_count": 1664,
+    "hijra_count": 0,
+    "latitude": 23.94915,
+    "longitude": 89.42916
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বামুন্দী সরকারী প্রাথমিক বিদ্যালয়, বামুন্দী",
+    "male_count": 2242,
+    "female_count": 2036,
+    "hijra_count": 0,
+    "latitude": 23.94415,
+    "longitude": 89.48355
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বিলক্ষেতুপাড়া সরকারী প্রাথমিক বিদ্যালয়, বিলক্ষেতুপাড়া",
+    "male_count": 1935,
+    "female_count": 1798,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বিলগাজনা উচচ বিদ্যালয়, রানীনগর",
+    "male_count": 2190,
+    "female_count": 2001,
+    "hijra_count": 0,
+    "latitude": 23.89559,
+    "longitude": 89.57422
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "বুলন্দর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1390,
+    "female_count": 1175,
+    "hijra_count": 0,
+    "latitude": 23.8531,
+    "longitude": 89.66707
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1678,
+    "female_count": 1586,
+    "hijra_count": 0,
+    "latitude": 23.88665,
+    "longitude": 89.62835
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ভবানীপুর সরকারী প্রাথমিক বিদ্যালয়, ভবানীপুর",
+    "male_count": 1694,
+    "female_count": 1742,
+    "hijra_count": 0,
+    "latitude": 23.94602,
+    "longitude": 89.40618
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ভাটপাড়া সরকারী প্রাথমিক বিদ্যালয়, ভাটপাড়া",
+    "male_count": 2441,
+    "female_count": 2351,
+    "hijra_count": 0,
+    "latitude": 23.86964,
+    "longitude": 89.45901
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "ভায়না সরকারী প্রাথমিক বিদ্যালয়, ভায়না",
+    "male_count": 1336,
+    "female_count": 1244,
+    "hijra_count": 0,
+    "latitude": 23.92169,
+    "longitude": 89.43447
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মথুরাপুর সরকারী প্রাথমিক বিদ্যালয়, মথুরাপুর",
+    "male_count": 1532,
+    "female_count": 1395,
+    "hijra_count": 0,
+    "latitude": 23.94048,
+    "longitude": 89.42286
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মানিকদির সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2293,
+    "female_count": 2258,
+    "hijra_count": 0,
+    "latitude": 23.92894,
+    "longitude": 89.41581
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মানিকহাট সরকারী প্রাথমিক বিদ্যালয়, মানিকহাট",
+    "male_count": 1626,
+    "female_count": 1579,
+    "hijra_count": 0,
+    "latitude": 23.88831,
+    "longitude": 89.47178
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মালফিয়া সরকারী প্রাথমিক বিদ্যালয়, মালফিয়া",
+    "male_count": 1134,
+    "female_count": 1035,
+    "hijra_count": 0,
+    "latitude": 23.85165,
+    "longitude": 89.4924
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মালিফা হাবিবুর রহমান বহুমুখী উচচ বিদ্যালয়, মালিফা",
+    "male_count": 2932,
+    "female_count": 2735,
+    "hijra_count": 0,
+    "latitude": 23.85776,
+    "longitude": 89.47938
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মাশুমদিয়া খানেবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1321,
+    "female_count": 1276,
+    "hijra_count": 0,
+    "latitude": 23.88991,
+    "longitude": 89.63587
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মিরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1088,
+    "female_count": 878,
+    "hijra_count": 0,
+    "latitude": 23.83781,
+    "longitude": 89.63416
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মির্জা আব্দুর রশিদ উচচ বিদ্যালয়, বিরাহিমপুর",
+    "male_count": 2047,
+    "female_count": 2026,
+    "hijra_count": 0,
+    "latitude": 23.96672,
+    "longitude": 89.56146
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "মির্জাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1998,
+    "female_count": 1985,
+    "hijra_count": 0,
+    "latitude": 23.92845,
+    "longitude": 89.62593
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "রতনগঞ্জ উচ্চ বিদ্যালয়",
+    "male_count": 1474,
+    "female_count": 1463,
+    "hijra_count": 0,
+    "latitude": 23.86748,
+    "longitude": 89.61678
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "রাজনারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1623,
+    "female_count": 1737,
+    "hijra_count": 0,
+    "latitude": 23.9523,
+    "longitude": 89.64321
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "রাণীগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1512,
+    "female_count": 1482,
+    "hijra_count": 0,
+    "latitude": 23.94112,
+    "longitude": 89.64238
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "রানীনগর উচচ বিদ্যালয়, ভাটিকয়া (চারতলা ভবন)",
+    "male_count": 2739,
+    "female_count": 2663,
+    "hijra_count": 0,
+    "latitude": 23.91314,
+    "longitude": 89.58909
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "রুপগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1527,
+    "female_count": 1512,
+    "hijra_count": 0,
+    "latitude": 23.87752,
+    "longitude": 89.62722
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "রুপপুর পশ্চিম পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1949,
+    "female_count": 1876,
+    "hijra_count": 0,
+    "latitude": 23.90576,
+    "longitude": 89.60396
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1640,
+    "female_count": 1721,
+    "hijra_count": 0,
+    "latitude": 23.93887,
+    "longitude": 89.65014
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "শান্তিপুর সরকারী প্রাথমিক বিদ্যালয়, শান্তিপুর",
+    "male_count": 1253,
+    "female_count": 1185,
+    "hijra_count": 0,
+    "latitude": 23.96194,
+    "longitude": 89.47616
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "শোলাকুড়া সরকারী প্রাথমিক বিদ্যালয়, শোলাকুড়া",
+    "male_count": 1663,
+    "female_count": 1570,
+    "hijra_count": 0,
+    "latitude": 23.86329,
+    "longitude": 89.55417
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সাগরকান্দি উচচ বিদ্যালয়, (টিনসেড ভবন), সাগরকান্দি",
+    "male_count": 2912,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.8537,
+    "longitude": 89.60267
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সাগরকান্দি উচচ বিদ্যালয় (পাকা ভবন), সাগরকান্দি",
+    "male_count": 0,
+    "female_count": 2728,
+    "hijra_count": 0,
+    "latitude": 23.85346,
+    "longitude": 89.6024
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সাতবাড়ীয় বালিকা উচ্চ বিদ্যালয়, সাতবাড়ীয়া",
+    "male_count": 1272,
+    "female_count": 1259,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সিন্দুরী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1790,
+    "female_count": 1703,
+    "hijra_count": 0,
+    "latitude": 23.94218,
+    "longitude": 89.6086
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সিংহাসন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1825,
+    "female_count": 1730,
+    "hijra_count": 0,
+    "latitude": 23.97129,
+    "longitude": 89.64067
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সুজানগর মডেল সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2566,
+    "hijra_count": 0,
+    "latitude": 23.93678,
+    "longitude": 89.4107
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সুজানগর মোহাম্মাদিয়া দাখিল মাদ্রাসা, সুজানগর",
+    "male_count": 1960,
+    "female_count": 1833,
+    "hijra_count": 0,
+    "latitude": 23.94166,
+    "longitude": 89.41093
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সুজানগর সরকারী পাইলট মডেল উচ্চ বিদ্যালয়",
+    "male_count": 2547,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.93675,
+    "longitude": 89.41069
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সৈয়দপুর ২নং সরকারী প্রাথমিক বিদ্যালয়, সৈয়দপুর",
+    "male_count": 832,
+    "female_count": 792,
+    "hijra_count": 0,
+    "latitude": 23.93997,
+    "longitude": 89.59692
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সৈয়দপুর উচ্চ বিদ্যালয়, সৈয়দপুর",
+    "male_count": 1222,
+    "female_count": 1228,
+    "hijra_count": 0,
+    "latitude": 23.93374,
+    "longitude": 89.60603
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সৈয়দপুর দাখিল মাদ্রাসা, সৈয়দপুর",
+    "male_count": 1718,
+    "female_count": 1652,
+    "hijra_count": 0,
+    "latitude": 23.92418,
+    "longitude": 89.61474
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সৈয়দপুর সরকারী প্রাথমিক বিদ্যালয়, সৈয়দপুর",
+    "male_count": 1581,
+    "female_count": 1439,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "সোনাতলা সরকারী প্রাথমিক বিদ্যালয়, সোনাতলা",
+    "male_count": 2153,
+    "female_count": 2081,
+    "hijra_count": 0,
+    "latitude": 23.95069,
+    "longitude": 89.56012
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "হাটখালী সরকারী প্রাথমিক বিদ্যালয়, হাটখালী",
+    "male_count": 1803,
+    "female_count": 1639,
+    "hijra_count": 1,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "হাসামপুর সরকারী প্রাথমিক বিদ্যালয়, হাসামপুর",
+    "male_count": 1635,
+    "female_count": 1529,
+    "hijra_count": 0,
+    "latitude": 23.8273,
+    "longitude": 89.55613
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "হিরননদী সরকারী প্রাথমিক বিদ্যালয়, হিরননদী",
+    "male_count": 1224,
+    "female_count": 1171,
+    "hijra_count": 0,
+    "latitude": 23.89811,
+    "longitude": 89.5951
+  },
+  {
+    "settings_code": 69,
+    "settings_name": "পাবনা-২",
+    "center_name": "হোগলাডাঙ্গী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1660,
+    "female_count": 1473,
+    "hijra_count": 0,
+    "latitude": 23.85131,
+    "longitude": 89.60411
+  }
 ]

@@ -123,7 +123,7 @@ const DistrictInfo = () => {
         ) : null}
         <Result data={selectedDistrictCount || []} />
       </>
-      <ConstituencyInfo />
+      <ConstituencyInfo selectedDistrict={selectedDistrict} />
     </Drawer>
   );
 };

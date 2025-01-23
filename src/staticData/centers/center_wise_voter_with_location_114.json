@@ -1,1102 +1,1102 @@
 [
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "02 নং চিনাবুনিয়া সরকারী প্রাথমিক বিদ্যালয়, চিনাবুনিয়া",
-        "male_count": 1767,
-        "female_count": 1752,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "০৬ নং রাঙ্গাবালী হাই/এ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2146,
-        "hijra_count": 0,
-        "latitude": 21.96768,
-        "longitude": 90.43487
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "০৮ নং ইটবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1303,
-        "female_count": 1303,
-        "hijra_count": 2,
-        "latitude": 21.96954,
-        "longitude": 90.25054
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "08 নং রাঙ্গাবালী সালেহা সরকারী প্রাথমিক বিদ্যালয়, আমলীবাড়ীয়া",
-        "male_count": 1038,
-        "female_count": 1078,
-        "hijra_count": 0,
-        "latitude": 21.93883,
-        "longitude": 90.44712
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "09 নং আমলীবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়,  আমলীবাড়িয়া",
-        "male_count": 1746,
-        "female_count": 1823,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১০৫নং বৌলতলী সৈয়দপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1195,
-        "female_count": 1132,
-        "hijra_count": 0,
-        "latitude": 21.8465,
-        "longitude": 90.19238
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১০৬ নং মাইটভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1782,
-        "female_count": 1745,
-        "hijra_count": 0,
-        "latitude": 21.85687,
-        "longitude": 90.16892
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১১৭ নং আমজেদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1879,
-        "female_count": 1775,
-        "hijra_count": 0,
-        "latitude": 21.85434,
-        "longitude": 90.12613
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১২৯ নং ছোটবালিয়াতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1370,
-        "female_count": 1416,
-        "hijra_count": 0,
-        "latitude": 21.95019,
-        "longitude": 90.25861
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৩০ নং উত্তর টিয়াখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1223,
-        "female_count": 1121,
-        "hijra_count": 0,
-        "latitude": 22.01655,
-        "longitude": 90.26003
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৩১ নং নাইউরীপাড়া হাতেমপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 837,
-        "female_count": 800,
-        "hijra_count": 0,
-        "latitude": 21.85176,
-        "longitude": 90.1193
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৩ নং মরিচবুনিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 879,
-        "female_count": 877,
-        "hijra_count": 0,
-        "latitude": 22.00999,
-        "longitude": 90.31018
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৪৯ নং কাংকুনিপাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1037,
-        "female_count": 1019,
-        "hijra_count": 0,
-        "latitude": 21.92219,
-        "longitude": 90.23906
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৫১ নং বাদুরতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1095,
-        "female_count": 1150,
-        "hijra_count": 0,
-        "latitude": 21.99322,
-        "longitude": 90.23961
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৫ নং নিশানবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 817,
-        "female_count": 813,
-        "hijra_count": 0,
-        "latitude": 21.99257,
-        "longitude": 90.30083
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৬ নং দঃ কাজিরহাওলা সরকারী প্রাথমিক বিদ্যালয় কাজির হাওলা",
-        "male_count": 1191,
-        "female_count": 1231,
-        "hijra_count": 0,
-        "latitude": 21.94005,
-        "longitude": 90.41984
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৮ নং চারিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1651,
-        "female_count": 1644,
-        "hijra_count": 0,
-        "latitude": 21.95701,
-        "longitude": 90.27749
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "১৯ নং চান্দুপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1297,
-        "female_count": 1240,
-        "hijra_count": 0,
-        "latitude": 21.9107,
-        "longitude": 90.25616
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "২০ নং পূর্ব মধুখালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1393,
-        "female_count": 1327,
-        "hijra_count": 0,
-        "latitude": 21.92986,
-        "longitude": 90.22727
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "২২ নং দ্বিগর বালিয়াতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1230,
-        "female_count": 1201,
-        "hijra_count": 0,
-        "latitude": 21.87533,
-        "longitude": 90.24965
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "24 নং চর বেষ্টিন সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 881,
-        "female_count": 910,
-        "hijra_count": 0,
-        "latitude": 21.96607,
-        "longitude": 90.58059
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "25 নং উঃ চরমোন্তাজ সররকারী প্রাথমিক বিদ্যালয়, চরমোন্তাজ",
-        "male_count": 1143,
-        "female_count": 1105,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "26 নং চরলক্ষি সরকারী প্রাথমিক বিদ্যালয় চররুস্তুম",
-        "male_count": 1098,
-        "female_count": 1037,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "27 নং চর আন্ডা সরকারী প্রাথমিক বিদ্যালয়,  চর আন্ডা",
-        "male_count": 657,
-        "female_count": 594,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "২ নং চাকামইয়া নিশানবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1254,
-        "female_count": 1220,
-        "hijra_count": 0,
-        "latitude": 22.00675,
-        "longitude": 90.22034
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৩০ নং আমিরাবাদ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1923,
-        "female_count": 1815,
-        "hijra_count": 0,
-        "latitude": 21.94511,
-        "longitude": 90.16796
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "30 নং উঃ চরমার্গারেট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 963,
-        "female_count": 901,
-        "hijra_count": 0,
-        "latitude": 21.92729,
-        "longitude": 90.5792
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৩৩ নং মোস্তফাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1747,
-        "female_count": 1588,
-        "hijra_count": 0,
-        "latitude": 21.93156,
-        "longitude": 90.1646
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "37 নং টুংগিবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়,  টুংগিবাড়িয়া",
-        "male_count": 1150,
-        "female_count": 1166,
-        "hijra_count": 0,
-        "latitude": 21.94169,
-        "longitude": 90.34775
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৩৭ নং পশ্চিম হাজীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1600,
-        "female_count": 1479,
-        "hijra_count": 0,
-        "latitude": 21.90833,
-        "longitude": 90.13932
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "38 নং গাববুনিয়া সরকারী প্রাথমিক বিদ্যালয়, গাববুনিয়া",
-        "male_count": 1726,
-        "female_count": 1734,
-        "hijra_count": 0,
-        "latitude": 21.96764,
-        "longitude": 90.43472
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৩৯ নং নীলগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1901,
-        "female_count": 1867,
-        "hijra_count": 0,
-        "latitude": 21.97716,
-        "longitude": 90.22333
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৪০ নং ফরিদগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1388,
-        "female_count": 1281,
-        "hijra_count": 0,
-        "latitude": 21.95782,
-        "longitude": 90.20705
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৪২ নং টুঙ্গীবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1845,
-        "female_count": 1756,
-        "hijra_count": 0,
-        "latitude": 21.96719,
-        "longitude": 90.16532
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "43 নং ছাতিয়ান পাড়া সরকারী প্রাথমিক বিদ্যালয় কানকুনিপাড়া",
-        "male_count": 1076,
-        "female_count": 1037,
-        "hijra_count": 0,
-        "latitude": 21.91502,
-        "longitude": 90.3401
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৪৫ নং মনোহরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1721,
-        "female_count": 1566,
-        "hijra_count": 0,
-        "latitude": 21.88886,
-        "longitude": 90.1395
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৪৮ নং মহিপুর সরকারি প্রাথিমক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3050,
-        "hijra_count": 0,
-        "latitude": 21.85758,
-        "longitude": 90.12439
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "49 নং মৌডুবী কাজীকান্দা সরকারী প্রাথমিক বিদ্যালয়, কাজীকান্দা",
-        "male_count": 1215,
-        "female_count": 1172,
-        "hijra_count": 0,
-        "latitude": 21.96736,
-        "longitude": 90.43498
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫০ নং ডালবুগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1552,
-        "female_count": 1479,
-        "hijra_count": 0,
-        "latitude": 21.89241,
-        "longitude": 90.17486
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "51 নং মৌডুবী মুখরবান্দা সরকারী প্রাথমিক বিদ্যালয়, মুখরবান্দা",
-        "male_count": 1344,
-        "female_count": 1272,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫২ নং উত্তর খাপড়াভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1191,
-        "female_count": 1087,
-        "hijra_count": 0,
-        "latitude": 21.85734,
-        "longitude": 90.16164
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫৩ নং দক্ষিণ খাপড়াভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 823,
-        "female_count": 779,
-        "hijra_count": 0,
-        "latitude": 21.83528,
-        "longitude": 90.20524
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "54 নং চতলাখালী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1806,
-        "female_count": 1779,
-        "hijra_count": 0,
-        "latitude": 21.97899,
-        "longitude": 90.43375
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "55 নং ছোটবাইশদিয়া সরকারী প্রাথমিক বিদ্যালয়,  ছোটবাইশদিয়া",
-        "male_count": 1060,
-        "female_count": 1072,
-        "hijra_count": 0,
-        "latitude": 22.02106,
-        "longitude": 90.42678
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫৫ নং ফুলবুনিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1317,
-        "female_count": 1320,
-        "hijra_count": 0,
-        "latitude": 21.90429,
-        "longitude": 90.15872
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "56 নং কাউখালী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1067,
-        "female_count": 1121,
-        "hijra_count": 0,
-        "latitude": 22.02668,
-        "longitude": 90.44099
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫৭ নং ধুলাসার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1879,
-        "female_count": 1899,
-        "hijra_count": 0,
-        "latitude": 21.86059,
-        "longitude": 90.2469
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "57 নং হলদিয়াখালী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1644,
-        "female_count": 1684,
-        "hijra_count": 0,
-        "latitude": 22.01238,
-        "longitude": 90.46031
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫৮ নং অনন্তপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 799,
-        "female_count": 824,
-        "hijra_count": 0,
-        "latitude": 21.81699,
-        "longitude": 90.15135
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫৯ নং চরচাপলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1481,
-        "female_count": 1511,
-        "hijra_count": 0,
-        "latitude": 21.81221,
-        "longitude": 90.19707
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫নং গংগীপাড়া সরকারী প্রাথমিক বিদ্যালয়, গংগীপাড়া",
-        "male_count": 1867,
-        "female_count": 1851,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৫ নং পূর্ব চাকামইয়া সরকারি প্রাথিমক বিদ্যালয়",
-        "male_count": 1410,
-        "female_count": 1439,
-        "hijra_count": 0,
-        "latitude": 21.98768,
-        "longitude": 90.23282
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৬০ নং লতাচাপলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1549,
-        "female_count": 1467,
-        "hijra_count": 1,
-        "latitude": 21.81973,
-        "longitude": 90.12092
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৬১ নং মিশ্রিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1470,
-        "female_count": 1371,
-        "hijra_count": 0,
-        "latitude": 21.83691,
-        "longitude": 90.17988
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৬৩ নং নতুনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1297,
-        "female_count": 1186,
-        "hijra_count": 0,
-        "latitude": 21.81564,
-        "longitude": 90.12508
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৬৪ নং আজিমপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1208,
-        "female_count": 1128,
-        "hijra_count": 0,
-        "latitude": 21.83441,
-        "longitude": 90.15204
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "64 নং পূঃ চতলাখালী সরকারী প্রাথমিক বিদ্যালয়,  চতলাখালী",
-        "male_count": 856,
-        "female_count": 835,
-        "hijra_count": 0,
-        "latitude": 21.98592,
-        "longitude": 90.45301
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৬৬ নং ধানখালী বোর্ড সরকারি প্রাঃ বিদ্যালয়",
-        "male_count": 896,
-        "female_count": 893,
-        "hijra_count": 0,
-        "latitude": 22.07852,
-        "longitude": 90.33068
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৬৮ নং দক্ষিণ দেবপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 868,
-        "female_count": 812,
-        "hijra_count": 0,
-        "latitude": 22.04135,
-        "longitude": 90.32271
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "70 নং পঃ চরলক্ষি গাজীপাড়া সরকারী প্রাথমিক বিদ্যালয় চররুস্তুম",
-        "male_count": 1259,
-        "female_count": 1123,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৭০ নং পাটুয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1413,
-        "female_count": 1438,
-        "hijra_count": 0,
-        "latitude": 22.09884,
-        "longitude": 90.34332
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৭৮ নং খাজুরা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1151,
-        "female_count": 1129,
-        "hijra_count": 0,
-        "latitude": 21.84172,
-        "longitude": 90.10354
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৮৫ নং তুলাতলী (১)  সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1564,
-        "female_count": 1626,
-        "hijra_count": 0,
-        "latitude": 21.90035,
-        "longitude": 90.23507
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৮৭ নং আরামগঞ্জ সরকারি প্রাথিমক বিদ্যালয়",
-        "male_count": 1440,
-        "female_count": 1405,
-        "hijra_count": 0,
-        "latitude": 21.94712,
-        "longitude": 90.21467
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৯০ নং মধ্য পাটুয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2005,
-        "female_count": 1904,
-        "hijra_count": 0,
-        "latitude": 22.08823,
-        "longitude": 90.35888
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "৯৬ নং ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1041,
-        "female_count": 1008,
-        "hijra_count": 0,
-        "latitude": 21.97044,
-        "longitude": 90.20617
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "উত্তর লালুয়া ইউ.সি মাধ্যমিক বিদ্যালয়",
-        "male_count": 1022,
-        "female_count": 1040,
-        "hijra_count": 0,
-        "latitude": 21.98658,
-        "longitude": 90.29492
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "উমেদপুর ইসলামিয়া দাখিল মাদ্রাসা",
-        "male_count": 1320,
-        "female_count": 1218,
-        "hijra_count": 0,
-        "latitude": 21.92067,
-        "longitude": 90.15483
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "কাছিয়াবুনিয়া মাধ্যমিক বিদ্যালয়,  কাছিয়াবুনিয়া",
-        "male_count": 1574,
-        "female_count": 1500,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "কুয়াকাটা ইসলামপুর (মিরা বাড়ি) দাখিল মাদ্‌রাসা",
-        "male_count": 1469,
-        "female_count": 1387,
-        "hijra_count": 0,
-        "latitude": 21.81803,
-        "longitude": 90.1141
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "কুয়াকাটা বঙ্গবন্ধু মাধ্যমিক বিদ্যালয়",
-        "male_count": 1549,
-        "female_count": 1546,
-        "hijra_count": 0,
-        "latitude": 21.82257,
-        "longitude": 90.12188
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "খেপুপাড়া নেছারুদ্দীন কামিল (এম.এ) মাদ্‌রাসা",
-        "male_count": 1796,
-        "female_count": 2063,
-        "hijra_count": 0,
-        "latitude": 21.9831,
-        "longitude": 90.23181
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "খেপুপাড়া বালিকা মাধ্যমিক বিদ্যালয়",
-        "male_count": 1803,
-        "female_count": 1976,
-        "hijra_count": 0,
-        "latitude": 21.98639,
-        "longitude": 90.22527
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "খেপুপাড়া সরকারি মডেল মাধ্যমিক বিদ্যালয়",
-        "male_count": 1770,
-        "female_count": 1674,
-        "hijra_count": 0,
-        "latitude": 21.9853,
-        "longitude": 90.22021
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "গামুরী বুনিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1205,
-        "female_count": 1227,
-        "hijra_count": 0,
-        "latitude": 22.05779,
-        "longitude": 90.21782
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চরগঙ্গা আদর্শ মাধ্যমিক বিদ্যালয় বিদ্যালয়  চরগঙ্গা",
-        "male_count": 1653,
-        "female_count": 1617,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চরচাপলী ইসলামিয়া মাধ্যমিক বিদ্যালয়",
-        "male_count": 981,
-        "female_count": 908,
-        "hijra_count": 0,
-        "latitude": 21.81221,
-        "longitude": 90.19707
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চরপাড়া পক্ষিয়াপাড়া সরকারি প্রাথিমক বিদ্যালয় কাম সাইক্লোন শেল্টার",
-        "male_count": 1167,
-        "female_count": 1132,
-        "hijra_count": 0,
-        "latitude": 21.89661,
-        "longitude": 90.19503
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চরমোন্তাজ আব্দুল ছাত্তার মাধ্যমিক বিদ্যালয়,  (পুরুষ ভোটকেন্দ্র) চরমোন্তাজ",
-        "male_count": 2100,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 21.90156,
-        "longitude": 90.52381
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চরমোন্তাজ আব্দুল ছাত্তার মাধ্যমিক বিদ্যালয়, (মহিলা ভোটকেন্দ্র) চরমোন্তাজ",
-        "male_count": 0,
-        "female_count": 2034,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চরমোন্তাজ সিদ্দিকিয়া দাখিল মাদ্রাসা, চরমোন্তাজ",
-        "male_count": 1182,
-        "female_count": 1132,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চাকামইয়া বেতমোর মাধ্যমিক বিদ্যালয়",
-        "male_count": 833,
-        "female_count": 835,
-        "hijra_count": 0,
-        "latitude": 22.02274,
-        "longitude": 90.20261
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চালিতাবুনিয়া নেছারিয়া ইসলামিয় ফাজিল মাদ্রাসা",
-        "male_count": 566,
-        "female_count": 575,
-        "hijra_count": 0,
-        "latitude": 22.02059,
-        "longitude": 90.36527
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "চালিতাবুনিয়া মমতাজ উদ্দিন মাধ্যমিক বিদ্যালয়, চালিতাবুনিয়া",
-        "male_count": 845,
-        "female_count": 845,
-        "hijra_count": 0,
-        "latitude": 21.96764,
-        "longitude": 90.43472
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "ছোট বাইশদিয়া ফজলূল করিম মাধ্যমিক বিদ্যালয়, (পুরুষ ভোটকেন্দ্র) নয়াভাংগুনী",
-        "male_count": 2154,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "ছোট বাইশদিয়া ফজলূল করিম মাধ্যমিক বিদ্যালয় (মহিলা ভোটকেন্দ্র) নয়াভাংগুনী",
-        "male_count": 0,
-        "female_count": 2116,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "তেগাছিয়া মাধ্যমিক বিদ্যালয়",
-        "male_count": 1205,
-        "female_count": 1151,
-        "hijra_count": 0,
-        "latitude": 21.93145,
-        "longitude": 90.1995
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "ধানখালী এম.ইউ মাধ্যমিক বিদ্যালয়",
-        "male_count": 1193,
-        "female_count": 1238,
-        "hijra_count": 0,
-        "latitude": 22.0666,
-        "longitude": 90.34157
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "ধানখালী গাজী এ মান্নান এন্ড হাফিজিয়া বালিকা মাধ্যমিক বিদ্যালয়",
-        "male_count": 1289,
-        "female_count": 1258,
-        "hijra_count": 0,
-        "latitude": 22.01695,
-        "longitude": 90.29847
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "ধানখালী ডিগ্রি কলেজ",
-        "male_count": 697,
-        "female_count": 701,
-        "hijra_count": 0,
-        "latitude": 22.063,
-        "longitude": 90.32019
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "ধানখালী সোনাগাজী হায়াতুন্নেছা এন্ড আশ্রাফ (এস.এইচ.এস) একাডেমী",
-        "male_count": 1576,
-        "female_count": 1514,
-        "hijra_count": 0,
-        "latitude": 22.03337,
-        "longitude": 90.31878
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "নুরমোহাম্মদ মাধ্যমিক বিদ্যালয়",
-        "male_count": 1401,
-        "female_count": 1397,
-        "hijra_count": 0,
-        "latitude": 22.00257,
-        "longitude": 90.18059
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "পশ্চিম চাকামইয়া সরকারি প্রাথিমক বিদ্যালয় কাম সাইক্লোন শেল্টার",
-        "male_count": 1423,
-        "female_count": 1320,
-        "hijra_count": 0,
-        "latitude": 22.06538,
-        "longitude": 90.18266
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "বড়বাইশদিয়া এ. হাকিম মাধ্যমিক বিদ্যালয়,  দক্ষিণ তুলাতলী",
-        "male_count": 1505,
-        "female_count": 1515,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "বড়বালিয়াতলী ইয়াকুব আলী তালুকদার ইসলামিয়া ফাজিল বিএ মাদ্রাসা",
-        "male_count": 2027,
-        "female_count": 2022,
-        "hijra_count": 0,
-        "latitude": 21.87246,
-        "longitude": 90.23437
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "মধ্য টিয়াখালী আলহাজ্ব কেরামত হাওলাদার মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
-        "male_count": 1154,
-        "female_count": 1179,
-        "hijra_count": 0,
-        "latitude": 21.99056,
-        "longitude": 90.25868
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "মহিপুর কো-অপারেটিভ মাধ্যমিক বিদ্যালয়",
-        "male_count": 3272,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 21.85969,
-        "longitude": 90.12529
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "মুক্তিযোদ্ধা মেমোরিয়াল ডিগ্রি কলেজ",
-        "male_count": 1562,
-        "female_count": 1523,
-        "hijra_count": 0,
-        "latitude": 21.87118,
-        "longitude": 90.13056
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "মুসুল্লীয়াবাদ ইসঃ সিঃ মাদ্রাসা",
-        "male_count": 1557,
-        "female_count": 1408,
-        "hijra_count": 0,
-        "latitude": 21.81701,
-        "longitude": 90.15096
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "মোয়াজ্জেমপুর ছালেহিয়া আলিম মাদ্রাসা",
-        "male_count": 1745,
-        "female_count": 1645,
-        "hijra_count": 0,
-        "latitude": 21.884,
-        "longitude": 90.15462
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "মৌডুবী সরকারি মাধ্যমিক বিদ্যালয় মৌডুবী",
-        "male_count": 1452,
-        "female_count": 1448,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "রজপাড়া দ্বীন ইলাহী দাখিল মাদ্রাসা",
-        "male_count": 1901,
-        "female_count": 1929,
-        "hijra_count": 0,
-        "latitude": 22.01468,
-        "longitude": 90.23746
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "রাঙ্গাবালী ছালেহা মাধ্যমিক বিদ্যালয়",
-        "male_count": 1369,
-        "female_count": 1331,
-        "hijra_count": 0,
-        "latitude": 21.93755,
-        "longitude": 90.44702
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "রাঙ্গাবালী মডেল মাধ্যমিক বিদ্যালয়",
-        "male_count": 2167,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 21.9743,
-        "longitude": 90.43552
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "রাঙ্গাবালী সরকারী কলেজ",
-        "male_count": 1657,
-        "female_count": 1707,
-        "hijra_count": 0,
-        "latitude": 21.96702,
-        "longitude": 90.4342
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "লালুয়া জনতা মাধ্যমিক বিদ্যালয়",
-        "male_count": 1012,
-        "female_count": 1021,
-        "hijra_count": 0,
-        "latitude": 21.94606,
-        "longitude": 90.27837
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "লালুয়া নয়াপাড়া ইসলামিয়া দাখিল মাদ্রাসা",
-        "male_count": 980,
-        "female_count": 972,
-        "hijra_count": 0,
-        "latitude": 21.9728,
-        "longitude": 90.27648
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "লোন্দা হাফিজ উদ্দিন মাধ্যমিক বিদ্যালয়",
-        "male_count": 2011,
-        "female_count": 1963,
-        "hijra_count": 0,
-        "latitude": 22.0419,
-        "longitude": 90.28427
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "সরকারি মোজাহার উদ্দিন বিশ্বাস কলেজ",
-        "male_count": 1318,
-        "female_count": 1397,
-        "hijra_count": 0,
-        "latitude": 21.9781,
-        "longitude": 90.23282
-    },
-    {
-        "settings_code": 114,
-        "settings_name": "পটুয়াখালী-৪",
-        "center_name": "হাসনাপাড়া আবাসনে নবনির্মিত প্রাথমিক বিদ্যালয়",
-        "male_count": 1122,
-        "female_count": 1047,
-        "hijra_count": 0,
-        "latitude": 21.92943,
-        "longitude": 90.26899
-    }
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "02 নং চিনাবুনিয়া সরকারী প্রাথমিক বিদ্যালয়, চিনাবুনিয়া",
+    "male_count": 1767,
+    "female_count": 1752,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "০৬ নং রাঙ্গাবালী হাই/এ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2146,
+    "hijra_count": 0,
+    "latitude": 21.96768,
+    "longitude": 90.43487
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "০৮ নং ইটবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1303,
+    "female_count": 1303,
+    "hijra_count": 2,
+    "latitude": 21.96954,
+    "longitude": 90.25054
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "08 নং রাঙ্গাবালী সালেহা সরকারী প্রাথমিক বিদ্যালয়, আমলীবাড়ীয়া",
+    "male_count": 1038,
+    "female_count": 1078,
+    "hijra_count": 0,
+    "latitude": 21.93883,
+    "longitude": 90.44712
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "09 নং আমলীবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়,  আমলীবাড়িয়া",
+    "male_count": 1746,
+    "female_count": 1823,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১০৫নং বৌলতলী সৈয়দপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1195,
+    "female_count": 1132,
+    "hijra_count": 0,
+    "latitude": 21.8465,
+    "longitude": 90.19238
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১০৬ নং মাইটভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1782,
+    "female_count": 1745,
+    "hijra_count": 0,
+    "latitude": 21.85687,
+    "longitude": 90.16892
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১১৭ নং আমজেদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1879,
+    "female_count": 1775,
+    "hijra_count": 0,
+    "latitude": 21.85434,
+    "longitude": 90.12613
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১২৯ নং ছোটবালিয়াতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1370,
+    "female_count": 1416,
+    "hijra_count": 0,
+    "latitude": 21.95019,
+    "longitude": 90.25861
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৩০ নং উত্তর টিয়াখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1223,
+    "female_count": 1121,
+    "hijra_count": 0,
+    "latitude": 22.01655,
+    "longitude": 90.26003
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৩১ নং নাইউরীপাড়া হাতেমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 837,
+    "female_count": 800,
+    "hijra_count": 0,
+    "latitude": 21.85176,
+    "longitude": 90.1193
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৩ নং মরিচবুনিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 879,
+    "female_count": 877,
+    "hijra_count": 0,
+    "latitude": 22.00999,
+    "longitude": 90.31018
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৪৯ নং কাংকুনিপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1037,
+    "female_count": 1019,
+    "hijra_count": 0,
+    "latitude": 21.92219,
+    "longitude": 90.23906
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৫১ নং বাদুরতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1095,
+    "female_count": 1150,
+    "hijra_count": 0,
+    "latitude": 21.99322,
+    "longitude": 90.23961
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৫ নং নিশানবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 817,
+    "female_count": 813,
+    "hijra_count": 0,
+    "latitude": 21.99257,
+    "longitude": 90.30083
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৬ নং দঃ কাজিরহাওলা সরকারী প্রাথমিক বিদ্যালয় কাজির হাওলা",
+    "male_count": 1191,
+    "female_count": 1231,
+    "hijra_count": 0,
+    "latitude": 21.94005,
+    "longitude": 90.41984
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৮ নং চারিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1651,
+    "female_count": 1644,
+    "hijra_count": 0,
+    "latitude": 21.95701,
+    "longitude": 90.27749
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "১৯ নং চান্দুপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1297,
+    "female_count": 1240,
+    "hijra_count": 0,
+    "latitude": 21.9107,
+    "longitude": 90.25616
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "২০ নং পূর্ব মধুখালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1393,
+    "female_count": 1327,
+    "hijra_count": 0,
+    "latitude": 21.92986,
+    "longitude": 90.22727
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "২২ নং দ্বিগর বালিয়াতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1230,
+    "female_count": 1201,
+    "hijra_count": 0,
+    "latitude": 21.87533,
+    "longitude": 90.24965
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "24 নং চর বেষ্টিন সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 881,
+    "female_count": 910,
+    "hijra_count": 0,
+    "latitude": 21.96607,
+    "longitude": 90.58059
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "25 নং উঃ চরমোন্তাজ সররকারী প্রাথমিক বিদ্যালয়, চরমোন্তাজ",
+    "male_count": 1143,
+    "female_count": 1105,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "26 নং চরলক্ষি সরকারী প্রাথমিক বিদ্যালয় চররুস্তুম",
+    "male_count": 1098,
+    "female_count": 1037,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "27 নং চর আন্ডা সরকারী প্রাথমিক বিদ্যালয়,  চর আন্ডা",
+    "male_count": 657,
+    "female_count": 594,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "২ নং চাকামইয়া নিশানবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1254,
+    "female_count": 1220,
+    "hijra_count": 0,
+    "latitude": 22.00675,
+    "longitude": 90.22034
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৩০ নং আমিরাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1923,
+    "female_count": 1815,
+    "hijra_count": 0,
+    "latitude": 21.94511,
+    "longitude": 90.16796
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "30 নং উঃ চরমার্গারেট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 963,
+    "female_count": 901,
+    "hijra_count": 0,
+    "latitude": 21.92729,
+    "longitude": 90.5792
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৩৩ নং মোস্তফাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1747,
+    "female_count": 1588,
+    "hijra_count": 0,
+    "latitude": 21.93156,
+    "longitude": 90.1646
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "37 নং টুংগিবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়,  টুংগিবাড়িয়া",
+    "male_count": 1150,
+    "female_count": 1166,
+    "hijra_count": 0,
+    "latitude": 21.94169,
+    "longitude": 90.34775
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৩৭ নং পশ্চিম হাজীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1600,
+    "female_count": 1479,
+    "hijra_count": 0,
+    "latitude": 21.90833,
+    "longitude": 90.13932
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "38 নং গাববুনিয়া সরকারী প্রাথমিক বিদ্যালয়, গাববুনিয়া",
+    "male_count": 1726,
+    "female_count": 1734,
+    "hijra_count": 0,
+    "latitude": 21.96764,
+    "longitude": 90.43472
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৩৯ নং নীলগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1901,
+    "female_count": 1867,
+    "hijra_count": 0,
+    "latitude": 21.97716,
+    "longitude": 90.22333
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৪০ নং ফরিদগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1388,
+    "female_count": 1281,
+    "hijra_count": 0,
+    "latitude": 21.95782,
+    "longitude": 90.20705
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৪২ নং টুঙ্গীবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1845,
+    "female_count": 1756,
+    "hijra_count": 0,
+    "latitude": 21.96719,
+    "longitude": 90.16532
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "43 নং ছাতিয়ান পাড়া সরকারী প্রাথমিক বিদ্যালয় কানকুনিপাড়া",
+    "male_count": 1076,
+    "female_count": 1037,
+    "hijra_count": 0,
+    "latitude": 21.91502,
+    "longitude": 90.3401
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৪৫ নং মনোহরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1721,
+    "female_count": 1566,
+    "hijra_count": 0,
+    "latitude": 21.88886,
+    "longitude": 90.1395
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৪৮ নং মহিপুর সরকারি প্রাথিমক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3050,
+    "hijra_count": 0,
+    "latitude": 21.85758,
+    "longitude": 90.12439
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "49 নং মৌডুবী কাজীকান্দা সরকারী প্রাথমিক বিদ্যালয়, কাজীকান্দা",
+    "male_count": 1215,
+    "female_count": 1172,
+    "hijra_count": 0,
+    "latitude": 21.96736,
+    "longitude": 90.43498
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫০ নং ডালবুগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1552,
+    "female_count": 1479,
+    "hijra_count": 0,
+    "latitude": 21.89241,
+    "longitude": 90.17486
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "51 নং মৌডুবী মুখরবান্দা সরকারী প্রাথমিক বিদ্যালয়, মুখরবান্দা",
+    "male_count": 1344,
+    "female_count": 1272,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫২ নং উত্তর খাপড়াভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1191,
+    "female_count": 1087,
+    "hijra_count": 0,
+    "latitude": 21.85734,
+    "longitude": 90.16164
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫৩ নং দক্ষিণ খাপড়াভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 823,
+    "female_count": 779,
+    "hijra_count": 0,
+    "latitude": 21.83528,
+    "longitude": 90.20524
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "54 নং চতলাখালী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1806,
+    "female_count": 1779,
+    "hijra_count": 0,
+    "latitude": 21.97899,
+    "longitude": 90.43375
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "55 নং ছোটবাইশদিয়া সরকারী প্রাথমিক বিদ্যালয়,  ছোটবাইশদিয়া",
+    "male_count": 1060,
+    "female_count": 1072,
+    "hijra_count": 0,
+    "latitude": 22.02106,
+    "longitude": 90.42678
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫৫ নং ফুলবুনিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1317,
+    "female_count": 1320,
+    "hijra_count": 0,
+    "latitude": 21.90429,
+    "longitude": 90.15872
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "56 নং কাউখালী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1067,
+    "female_count": 1121,
+    "hijra_count": 0,
+    "latitude": 22.02668,
+    "longitude": 90.44099
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫৭ নং ধুলাসার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1879,
+    "female_count": 1899,
+    "hijra_count": 0,
+    "latitude": 21.86059,
+    "longitude": 90.2469
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "57 নং হলদিয়াখালী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1644,
+    "female_count": 1684,
+    "hijra_count": 0,
+    "latitude": 22.01238,
+    "longitude": 90.46031
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫৮ নং অনন্তপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 799,
+    "female_count": 824,
+    "hijra_count": 0,
+    "latitude": 21.81699,
+    "longitude": 90.15135
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫৯ নং চরচাপলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1481,
+    "female_count": 1511,
+    "hijra_count": 0,
+    "latitude": 21.81221,
+    "longitude": 90.19707
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫নং গংগীপাড়া সরকারী প্রাথমিক বিদ্যালয়, গংগীপাড়া",
+    "male_count": 1867,
+    "female_count": 1851,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৫ নং পূর্ব চাকামইয়া সরকারি প্রাথিমক বিদ্যালয়",
+    "male_count": 1410,
+    "female_count": 1439,
+    "hijra_count": 0,
+    "latitude": 21.98768,
+    "longitude": 90.23282
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৬০ নং লতাচাপলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1549,
+    "female_count": 1467,
+    "hijra_count": 1,
+    "latitude": 21.81973,
+    "longitude": 90.12092
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৬১ নং মিশ্রিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1470,
+    "female_count": 1371,
+    "hijra_count": 0,
+    "latitude": 21.83691,
+    "longitude": 90.17988
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৬৩ নং নতুনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1297,
+    "female_count": 1186,
+    "hijra_count": 0,
+    "latitude": 21.81564,
+    "longitude": 90.12508
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৬৪ নং আজিমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1208,
+    "female_count": 1128,
+    "hijra_count": 0,
+    "latitude": 21.83441,
+    "longitude": 90.15204
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "64 নং পূঃ চতলাখালী সরকারী প্রাথমিক বিদ্যালয়,  চতলাখালী",
+    "male_count": 856,
+    "female_count": 835,
+    "hijra_count": 0,
+    "latitude": 21.98592,
+    "longitude": 90.45301
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৬৬ নং ধানখালী বোর্ড সরকারি প্রাঃ বিদ্যালয়",
+    "male_count": 896,
+    "female_count": 893,
+    "hijra_count": 0,
+    "latitude": 22.07852,
+    "longitude": 90.33068
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৬৮ নং দক্ষিণ দেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 868,
+    "female_count": 812,
+    "hijra_count": 0,
+    "latitude": 22.04135,
+    "longitude": 90.32271
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "70 নং পঃ চরলক্ষি গাজীপাড়া সরকারী প্রাথমিক বিদ্যালয় চররুস্তুম",
+    "male_count": 1259,
+    "female_count": 1123,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৭০ নং পাটুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1413,
+    "female_count": 1438,
+    "hijra_count": 0,
+    "latitude": 22.09884,
+    "longitude": 90.34332
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৭৮ নং খাজুরা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1151,
+    "female_count": 1129,
+    "hijra_count": 0,
+    "latitude": 21.84172,
+    "longitude": 90.10354
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৮৫ নং তুলাতলী (১)  সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1564,
+    "female_count": 1626,
+    "hijra_count": 0,
+    "latitude": 21.90035,
+    "longitude": 90.23507
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৮৭ নং আরামগঞ্জ সরকারি প্রাথিমক বিদ্যালয়",
+    "male_count": 1440,
+    "female_count": 1405,
+    "hijra_count": 0,
+    "latitude": 21.94712,
+    "longitude": 90.21467
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৯০ নং মধ্য পাটুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2005,
+    "female_count": 1904,
+    "hijra_count": 0,
+    "latitude": 22.08823,
+    "longitude": 90.35888
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "৯৬ নং ইসলামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1041,
+    "female_count": 1008,
+    "hijra_count": 0,
+    "latitude": 21.97044,
+    "longitude": 90.20617
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "উত্তর লালুয়া ইউ.সি মাধ্যমিক বিদ্যালয়",
+    "male_count": 1022,
+    "female_count": 1040,
+    "hijra_count": 0,
+    "latitude": 21.98658,
+    "longitude": 90.29492
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "উমেদপুর ইসলামিয়া দাখিল মাদ্রাসা",
+    "male_count": 1320,
+    "female_count": 1218,
+    "hijra_count": 0,
+    "latitude": 21.92067,
+    "longitude": 90.15483
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "কাছিয়াবুনিয়া মাধ্যমিক বিদ্যালয়,  কাছিয়াবুনিয়া",
+    "male_count": 1574,
+    "female_count": 1500,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "কুয়াকাটা ইসলামপুর (মিরা বাড়ি) দাখিল মাদ্‌রাসা",
+    "male_count": 1469,
+    "female_count": 1387,
+    "hijra_count": 0,
+    "latitude": 21.81803,
+    "longitude": 90.1141
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "কুয়াকাটা বঙ্গবন্ধু মাধ্যমিক বিদ্যালয়",
+    "male_count": 1549,
+    "female_count": 1546,
+    "hijra_count": 0,
+    "latitude": 21.82257,
+    "longitude": 90.12188
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "খেপুপাড়া নেছারুদ্দীন কামিল (এম.এ) মাদ্‌রাসা",
+    "male_count": 1796,
+    "female_count": 2063,
+    "hijra_count": 0,
+    "latitude": 21.9831,
+    "longitude": 90.23181
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "খেপুপাড়া বালিকা মাধ্যমিক বিদ্যালয়",
+    "male_count": 1803,
+    "female_count": 1976,
+    "hijra_count": 0,
+    "latitude": 21.98639,
+    "longitude": 90.22527
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "খেপুপাড়া সরকারি মডেল মাধ্যমিক বিদ্যালয়",
+    "male_count": 1770,
+    "female_count": 1674,
+    "hijra_count": 0,
+    "latitude": 21.9853,
+    "longitude": 90.22021
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "গামুরী বুনিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1205,
+    "female_count": 1227,
+    "hijra_count": 0,
+    "latitude": 22.05779,
+    "longitude": 90.21782
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চরগঙ্গা আদর্শ মাধ্যমিক বিদ্যালয় বিদ্যালয়  চরগঙ্গা",
+    "male_count": 1653,
+    "female_count": 1617,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চরচাপলী ইসলামিয়া মাধ্যমিক বিদ্যালয়",
+    "male_count": 981,
+    "female_count": 908,
+    "hijra_count": 0,
+    "latitude": 21.81221,
+    "longitude": 90.19707
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চরপাড়া পক্ষিয়াপাড়া সরকারি প্রাথিমক বিদ্যালয় কাম সাইক্লোন শেল্টার",
+    "male_count": 1167,
+    "female_count": 1132,
+    "hijra_count": 0,
+    "latitude": 21.89661,
+    "longitude": 90.19503
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চরমোন্তাজ আব্দুল ছাত্তার মাধ্যমিক বিদ্যালয়,  (পুরুষ ভোটকেন্দ্র) চরমোন্তাজ",
+    "male_count": 2100,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 21.90156,
+    "longitude": 90.52381
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চরমোন্তাজ আব্দুল ছাত্তার মাধ্যমিক বিদ্যালয়, (মহিলা ভোটকেন্দ্র) চরমোন্তাজ",
+    "male_count": 0,
+    "female_count": 2034,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চরমোন্তাজ সিদ্দিকিয়া দাখিল মাদ্রাসা, চরমোন্তাজ",
+    "male_count": 1182,
+    "female_count": 1132,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চাকামইয়া বেতমোর মাধ্যমিক বিদ্যালয়",
+    "male_count": 833,
+    "female_count": 835,
+    "hijra_count": 0,
+    "latitude": 22.02274,
+    "longitude": 90.20261
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চালিতাবুনিয়া নেছারিয়া ইসলামিয় ফাজিল মাদ্রাসা",
+    "male_count": 566,
+    "female_count": 575,
+    "hijra_count": 0,
+    "latitude": 22.02059,
+    "longitude": 90.36527
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "চালিতাবুনিয়া মমতাজ উদ্দিন মাধ্যমিক বিদ্যালয়, চালিতাবুনিয়া",
+    "male_count": 845,
+    "female_count": 845,
+    "hijra_count": 0,
+    "latitude": 21.96764,
+    "longitude": 90.43472
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "ছোট বাইশদিয়া ফজলূল করিম মাধ্যমিক বিদ্যালয়, (পুরুষ ভোটকেন্দ্র) নয়াভাংগুনী",
+    "male_count": 2154,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "ছোট বাইশদিয়া ফজলূল করিম মাধ্যমিক বিদ্যালয় (মহিলা ভোটকেন্দ্র) নয়াভাংগুনী",
+    "male_count": 0,
+    "female_count": 2116,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "তেগাছিয়া মাধ্যমিক বিদ্যালয়",
+    "male_count": 1205,
+    "female_count": 1151,
+    "hijra_count": 0,
+    "latitude": 21.93145,
+    "longitude": 90.1995
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "ধানখালী এম.ইউ মাধ্যমিক বিদ্যালয়",
+    "male_count": 1193,
+    "female_count": 1238,
+    "hijra_count": 0,
+    "latitude": 22.0666,
+    "longitude": 90.34157
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "ধানখালী গাজী এ মান্নান এন্ড হাফিজিয়া বালিকা মাধ্যমিক বিদ্যালয়",
+    "male_count": 1289,
+    "female_count": 1258,
+    "hijra_count": 0,
+    "latitude": 22.01695,
+    "longitude": 90.29847
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "ধানখালী ডিগ্রি কলেজ",
+    "male_count": 697,
+    "female_count": 701,
+    "hijra_count": 0,
+    "latitude": 22.063,
+    "longitude": 90.32019
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "ধানখালী সোনাগাজী হায়াতুন্নেছা এন্ড আশ্রাফ (এস.এইচ.এস) একাডেমী",
+    "male_count": 1576,
+    "female_count": 1514,
+    "hijra_count": 0,
+    "latitude": 22.03337,
+    "longitude": 90.31878
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "নুরমোহাম্মদ মাধ্যমিক বিদ্যালয়",
+    "male_count": 1401,
+    "female_count": 1397,
+    "hijra_count": 0,
+    "latitude": 22.00257,
+    "longitude": 90.18059
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "পশ্চিম চাকামইয়া সরকারি প্রাথিমক বিদ্যালয় কাম সাইক্লোন শেল্টার",
+    "male_count": 1423,
+    "female_count": 1320,
+    "hijra_count": 0,
+    "latitude": 22.06538,
+    "longitude": 90.18266
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "বড়বাইশদিয়া এ. হাকিম মাধ্যমিক বিদ্যালয়,  দক্ষিণ তুলাতলী",
+    "male_count": 1505,
+    "female_count": 1515,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "বড়বালিয়াতলী ইয়াকুব আলী তালুকদার ইসলামিয়া ফাজিল বিএ মাদ্রাসা",
+    "male_count": 2027,
+    "female_count": 2022,
+    "hijra_count": 0,
+    "latitude": 21.87246,
+    "longitude": 90.23437
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "মধ্য টিয়াখালী আলহাজ্ব কেরামত হাওলাদার মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
+    "male_count": 1154,
+    "female_count": 1179,
+    "hijra_count": 0,
+    "latitude": 21.99056,
+    "longitude": 90.25868
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "মহিপুর কো-অপারেটিভ মাধ্যমিক বিদ্যালয়",
+    "male_count": 3272,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 21.85969,
+    "longitude": 90.12529
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "মুক্তিযোদ্ধা মেমোরিয়াল ডিগ্রি কলেজ",
+    "male_count": 1562,
+    "female_count": 1523,
+    "hijra_count": 0,
+    "latitude": 21.87118,
+    "longitude": 90.13056
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "মুসুল্লীয়াবাদ ইসঃ সিঃ মাদ্রাসা",
+    "male_count": 1557,
+    "female_count": 1408,
+    "hijra_count": 0,
+    "latitude": 21.81701,
+    "longitude": 90.15096
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "মোয়াজ্জেমপুর ছালেহিয়া আলিম মাদ্রাসা",
+    "male_count": 1745,
+    "female_count": 1645,
+    "hijra_count": 0,
+    "latitude": 21.884,
+    "longitude": 90.15462
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "মৌডুবী সরকারি মাধ্যমিক বিদ্যালয় মৌডুবী",
+    "male_count": 1452,
+    "female_count": 1448,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "রজপাড়া দ্বীন ইলাহী দাখিল মাদ্রাসা",
+    "male_count": 1901,
+    "female_count": 1929,
+    "hijra_count": 0,
+    "latitude": 22.01468,
+    "longitude": 90.23746
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "রাঙ্গাবালী ছালেহা মাধ্যমিক বিদ্যালয়",
+    "male_count": 1369,
+    "female_count": 1331,
+    "hijra_count": 0,
+    "latitude": 21.93755,
+    "longitude": 90.44702
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "রাঙ্গাবালী মডেল মাধ্যমিক বিদ্যালয়",
+    "male_count": 2167,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 21.9743,
+    "longitude": 90.43552
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "রাঙ্গাবালী সরকারী কলেজ",
+    "male_count": 1657,
+    "female_count": 1707,
+    "hijra_count": 0,
+    "latitude": 21.96702,
+    "longitude": 90.4342
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "লালুয়া জনতা মাধ্যমিক বিদ্যালয়",
+    "male_count": 1012,
+    "female_count": 1021,
+    "hijra_count": 0,
+    "latitude": 21.94606,
+    "longitude": 90.27837
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "লালুয়া নয়াপাড়া ইসলামিয়া দাখিল মাদ্রাসা",
+    "male_count": 980,
+    "female_count": 972,
+    "hijra_count": 0,
+    "latitude": 21.9728,
+    "longitude": 90.27648
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "লোন্দা হাফিজ উদ্দিন মাধ্যমিক বিদ্যালয়",
+    "male_count": 2011,
+    "female_count": 1963,
+    "hijra_count": 0,
+    "latitude": 22.0419,
+    "longitude": 90.28427
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "সরকারি মোজাহার উদ্দিন বিশ্বাস কলেজ",
+    "male_count": 1318,
+    "female_count": 1397,
+    "hijra_count": 0,
+    "latitude": 21.9781,
+    "longitude": 90.23282
+  },
+  {
+    "settings_code": 114,
+    "settings_name": "পটুয়াখালী-৪",
+    "center_name": "হাসনাপাড়া আবাসনে নবনির্মিত প্রাথমিক বিদ্যালয়",
+    "male_count": 1122,
+    "female_count": 1047,
+    "hijra_count": 0,
+    "latitude": 21.92943,
+    "longitude": 90.26899
+  }
 ]

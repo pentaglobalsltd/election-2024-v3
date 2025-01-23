@@ -1,1782 +1,1782 @@
 [
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আইডিয়াল উচ্চ বিদ্যালয়",
-        "male_count": 3084,
-        "female_count": 3177,
-        "hijra_count": 0,
-        "latitude": 23.77725,
-        "longitude": 90.37464
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আউলিয়াপুর ইউনিয়ন পরিষদ",
-        "male_count": 1363,
-        "female_count": 1382,
-        "hijra_count": 0,
-        "latitude": 23.77763,
-        "longitude": 90.37465
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আকচা আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1427,
-        "female_count": 1367,
-        "hijra_count": 0,
-        "latitude": 22.79318,
-        "longitude": 89.87498
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আকচা ইউনিয়ন পরিষদ ভবন",
-        "male_count": 2037,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.35266,
-        "longitude": 88.92007
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আখানগর দ্বিমুখী উচ্চ বিদ্যালয়",
-        "male_count": 1302,
-        "female_count": 1266,
-        "hijra_count": 0,
-        "latitude": 22.34461,
-        "longitude": 89.10376
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আখানগর ধনিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1677,
-        "female_count": 1532,
-        "hijra_count": 0,
-        "latitude": 26.11591,
-        "longitude": 88.37427
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আখোপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1164,
-        "female_count": 1120,
-        "hijra_count": 0,
-        "latitude": 22.70798,
-        "longitude": 89.07811
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আমবাড়ীহাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1007,
-        "female_count": 931,
-        "hijra_count": 0,
-        "latitude": 26.03796,
-        "longitude": 88.35011
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আর, কে স্টেট উচ্চ বিদ্যালয়",
-        "male_count": 1576,
-        "female_count": 1692,
-        "hijra_count": 0,
-        "latitude": 26.02751,
-        "longitude": 88.48396
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আরাজী গুঞ্জরগড় উচ্চ বিদ্যালয়",
-        "male_count": 1958,
-        "female_count": 1819,
-        "hijra_count": 0,
-        "latitude": 26.05932,
-        "longitude": 88.56187
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আরাজী ঝাড়গাঁও সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 914,
-        "female_count": 877,
-        "hijra_count": 0,
-        "latitude": 26.08274,
-        "longitude": 88.33967
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আরাজী দক্ষিণ বঠিনা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1113,
-        "female_count": 1131,
-        "hijra_count": 0,
-        "latitude": 26.12281,
-        "longitude": 88.42269
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আরাজী সিংপাড়া উচ্চ বিদ্যালয়",
-        "male_count": 1204,
-        "female_count": 1188,
-        "hijra_count": 0,
-        "latitude": 26.03301,
-        "longitude": 88.50703
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "আসাননগর কাদেরিয়া ইসলামিয়া দাখিল মাদরাসা",
-        "male_count": 970,
-        "female_count": 997,
-        "hijra_count": 0,
-        "latitude": 26.17541,
-        "longitude": 88.45398
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ইসলামনগর উচ্চ বিদ্যালয়",
-        "male_count": 1892,
-        "female_count": 1971,
-        "hijra_count": 0,
-        "latitude": 22.93589,
-        "longitude": 89.67213
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "উত্তর-বঙ্গ শিশু উন্নয়ন প্রকল্প",
-        "male_count": 869,
-        "female_count": 862,
-        "hijra_count": 0,
-        "latitude": 26.16321,
-        "longitude": 88.46949
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "উত্তর হরিহরপুর সিনিয়র আলীম মাদ্রাসা",
-        "male_count": 1204,
-        "female_count": 1181,
-        "hijra_count": 0,
-        "latitude": 26.05456,
-        "longitude": 88.41573
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "উমেদ আলী উচ্চ বিদ্যালয়",
-        "male_count": 1618,
-        "female_count": 1597,
-        "hijra_count": 0,
-        "latitude": 26.14213,
-        "longitude": 88.58217
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "এম হাট খোচাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1983,
-        "female_count": 1934,
-        "hijra_count": 0,
-        "latitude": 25.99227,
-        "longitude": 88.49319
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কচুবাড়ী-২ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1155,
-        "female_count": 1162,
-        "hijra_count": 0,
-        "latitude": 26.11041,
-        "longitude": 88.53763
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কচুবাড়ী আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1083,
-        "female_count": 1136,
-        "hijra_count": 0,
-        "latitude": 26.07301,
-        "longitude": 88.52402
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কচুবাড়ী উচ্চ বিদ্যালয়",
-        "male_count": 1183,
-        "female_count": 1167,
-        "hijra_count": 0,
-        "latitude": 26.09427,
-        "longitude": 88.5272
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কচুবাড়ী মাদারগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1318,
-        "female_count": 1230,
-        "hijra_count": 0,
-        "latitude": 26.08182,
-        "longitude": 88.50654
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কদম রসুল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 700,
-        "female_count": 708,
-        "hijra_count": 0,
-        "latitude": 26.12417,
-        "longitude": 88.4989
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কমলাডাংগা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1431,
-        "female_count": 1432,
-        "hijra_count": 0,
-        "latitude": 26.17178,
-        "longitude": 88.44176
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কশালগাঁও-২ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1197,
-        "female_count": 1211,
-        "hijra_count": 1,
-        "latitude": 26.17351,
-        "longitude": 88.39118
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কহরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1315,
-        "female_count": 1362,
-        "hijra_count": 2,
-        "latitude": 26.00059,
-        "longitude": 88.47044
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কাচারী বাজার দ্বিমুখী উচ্চ বিদ্যালয়",
-        "male_count": 1075,
-        "female_count": 1120,
-        "hijra_count": 0,
-        "latitude": 26.1212,
-        "longitude": 88.51569
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কান্দরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1215,
-        "female_count": 1204,
-        "hijra_count": 0,
-        "latitude": 26.11865,
-        "longitude": 88.61358
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কালিকাগাঁও ডি হাট উচ্চ বিদ্যালয়",
-        "male_count": 1188,
-        "female_count": 1098,
-        "hijra_count": 0,
-        "latitude": 26.07955,
-        "longitude": 88.61477
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কালিকাগাঁও মলিতপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1281,
-        "female_count": 1193,
-        "hijra_count": 0,
-        "latitude": 26.09173,
-        "longitude": 88.63062
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কালেক্টরেট পাবলিক স্কুল এন্ড কলেজ",
-        "male_count": 1258,
-        "female_count": 1265,
-        "hijra_count": 0,
-        "latitude": 26.0343,
-        "longitude": 88.46217
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কিসমত চামেশ্বরী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 834,
-        "female_count": 830,
-        "hijra_count": 0,
-        "latitude": 26.1397,
-        "longitude": 88.47768
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কিসমত দৌলতপুর দাখিল মাদ্রাসা",
-        "male_count": 1489,
-        "female_count": 1497,
-        "hijra_count": 0,
-        "latitude": 25.97142,
-        "longitude": 88.49544
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কিসমত শুখানপুকুরী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 919,
-        "female_count": 916,
-        "hijra_count": 0,
-        "latitude": 26.13514,
-        "longitude": 88.58688
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কুমারপুর উচ্চ বিদ্যালয়",
-        "male_count": 1443,
-        "female_count": 1412,
-        "hijra_count": 0,
-        "latitude": 26.12818,
-        "longitude": 88.53374
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1273,
-        "female_count": 1251,
-        "hijra_count": 0,
-        "latitude": 26.02429,
-        "longitude": 88.39347
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কে ঘুরনগাছ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1119,
-        "female_count": 991,
-        "hijra_count": 0,
-        "latitude": 26.19897,
-        "longitude": 88.41259
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "কেশুরবাড়ী-১ সরকারী প্রাঃ বিদ্যালয়",
-        "male_count": 723,
-        "female_count": 763,
-        "hijra_count": 0,
-        "latitude": 26.13652,
-        "longitude": 88.49474
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ক্ষিতিন্দ্র মোহন সেন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 877,
-        "female_count": 958,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ক্ষেনপাড়া শাপলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 889,
-        "female_count": 839,
-        "hijra_count": 0,
-        "latitude": 26.15695,
-        "longitude": 88.48938
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "খড়িবাড়ী উচ্চ বিদ্যালয়",
-        "male_count": 1339,
-        "female_count": 1295,
-        "hijra_count": 0,
-        "latitude": 26.15288,
-        "longitude": 88.45658
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "খলিশাকুড়ি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1993,
-        "female_count": 1983,
-        "hijra_count": 0,
-        "latitude": 26.15789,
-        "longitude": 88.55582
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "খারুয়াডাংগা উচ্চ বিদ্যালয়",
-        "male_count": 564,
-        "female_count": 517,
-        "hijra_count": 0,
-        "latitude": 26.13902,
-        "longitude": 88.46599
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "গড়েয়া এস সি বহুমুখী উচ্চ বিদ্যালয়",
-        "male_count": 1518,
-        "female_count": 1511,
-        "hijra_count": 0,
-        "latitude": 26.05263,
-        "longitude": 88.58578
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "গড়েয়া গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2210,
-        "female_count": 2204,
-        "hijra_count": 0,
-        "latitude": 26.04495,
-        "longitude": 88.5933
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "গড়েয়া সিনিয়র ফাজিল মাদ্রাসা",
-        "male_count": 1123,
-        "female_count": 1120,
-        "hijra_count": 0,
-        "latitude": 26.04595,
-        "longitude": 88.58669
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "গিলাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1548,
-        "female_count": 1504,
-        "hijra_count": 0,
-        "latitude": 25.99182,
-        "longitude": 88.44224
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1639,
-        "female_count": 1659,
-        "hijra_count": 0,
-        "latitude": 26.07403,
-        "longitude": 88.58912
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "গোয়ালপাড়া উচ্চ বিদ্যালয়",
-        "male_count": 1748,
-        "female_count": 1893,
-        "hijra_count": 0,
-        "latitude": 26.03603,
-        "longitude": 88.48148
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "গৌরীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1132,
-        "female_count": 1191,
-        "hijra_count": 0,
-        "latitude": 25.97983,
-        "longitude": 88.51808
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঘনিবিষ্ণুপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2024,
-        "female_count": 2018,
-        "hijra_count": 0,
-        "latitude": 26.16582,
-        "longitude": 88.41522
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "চতুরাখোর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 836,
-        "female_count": 782,
-        "hijra_count": 0,
-        "latitude": 26.09986,
-        "longitude": 88.37149
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "চিলারং ঘুন্টিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1020,
-        "female_count": 972,
-        "hijra_count": 0,
-        "latitude": 26.07791,
-        "longitude": 88.39923
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "চিলারং ডাঙ্গীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1058,
-        "female_count": 973,
-        "hijra_count": 0,
-        "latitude": 26.08006,
-        "longitude": 88.40936
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "চুয়ামণিডাংগা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 923,
-        "female_count": 855,
-        "hijra_count": 0,
-        "latitude": 26.19139,
-        "longitude": 88.45642
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "চৌধুরীহাট উচ্চ বিদ্যালয়",
-        "male_count": 1388,
-        "female_count": 1438,
-        "hijra_count": 0,
-        "latitude": 26.12953,
-        "longitude": 88.47822
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "জগন্নাথপুর আইডিয়াল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2042,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 26.01376,
-        "longitude": 88.47349
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "জগন্নাথপুর উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2194,
-        "hijra_count": 0,
-        "latitude": 26.01384,
-        "longitude": 88.47336
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "জগন্নাথপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1873,
-        "female_count": 1834,
-        "hijra_count": 1,
-        "latitude": 26.01696,
-        "longitude": 88.50188
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "জামালপুর উচ্চ বিদ্যালয়",
-        "male_count": 1485,
-        "female_count": 1438,
-        "hijra_count": 0,
-        "latitude": 26.00928,
-        "longitude": 88.37929
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঝলঝলি পুকুর আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1534,
-        "female_count": 1541,
-        "hijra_count": 0,
-        "latitude": 26.14694,
-        "longitude": 88.42991
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঝাড়গাঁও রহমানিয়া দাখিল মাদ্রাসা",
-        "male_count": 1929,
-        "female_count": 1767,
-        "hijra_count": 0,
-        "latitude": 26.1381,
-        "longitude": 88.3567
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঠাকুরগাঁও পলিটেকনিক ইনস্টিটিউট",
-        "male_count": 2324,
-        "female_count": 2360,
-        "hijra_count": 0,
-        "latitude": 26.03907,
-        "longitude": 88.44293
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঠাকুরগাঁও রোড বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 2217,
-        "female_count": 2245,
-        "hijra_count": 0,
-        "latitude": 26.04192,
-        "longitude": 88.42568
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঠাকুরগাঁও সরকারি কলেজ",
-        "male_count": 3154,
-        "female_count": 3381,
-        "hijra_count": 0,
-        "latitude": 26.03872,
-        "longitude": 88.4539
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঠাকুরগাঁও সরকারি বালক উচ্চ বিদ্যালয়",
-        "male_count": 1887,
-        "female_count": 2075,
-        "hijra_count": 0,
-        "latitude": 26.0323,
-        "longitude": 88.46594
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঠাকুরগাঁও সরকারি বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1730,
-        "female_count": 1845,
-        "hijra_count": 0,
-        "latitude": 26.02825,
-        "longitude": 88.46357
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঠাকুরগাঁও সরকারি মহিলা কলেজ",
-        "male_count": 1027,
-        "female_count": 1149,
-        "hijra_count": 0,
-        "latitude": 26.02781,
-        "longitude": 88.47032
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঢাংগীপুকুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1388,
-        "female_count": 1373,
-        "hijra_count": 0,
-        "latitude": 26.03621,
-        "longitude": 88.57898
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ঢোলারহাট এস সি উচ্চ বিদ্যালয়",
-        "male_count": 939,
-        "female_count": 973,
-        "hijra_count": 0,
-        "latitude": 26.12775,
-        "longitude": 88.42541
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "তেওয়ারীগাঁও সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1218,
-        "female_count": 1149,
-        "hijra_count": 0,
-        "latitude": 26.08764,
-        "longitude": 88.59943
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "তেঁতুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1046,
-        "female_count": 978,
-        "hijra_count": 0,
-        "latitude": 26.02937,
-        "longitude": 88.31089
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দক্ষিণ আসাননগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 729,
-        "female_count": 719,
-        "hijra_count": 0,
-        "latitude": 26.1575,
-        "longitude": 88.44386
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দক্ষিণ ঠাকুরগাঁও নূর মোহাম্মদ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2069,
-        "hijra_count": 0,
-        "latitude": 26.07812,
-        "longitude": 88.42736
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দক্ষিণ বঠিনা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1481,
-        "female_count": 1441,
-        "hijra_count": 0,
-        "latitude": 26.09894,
-        "longitude": 88.45185
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দানারহাট আনছারিয়া ফাজিল মাদ্রাসা",
-        "male_count": 1159,
-        "female_count": 1089,
-        "hijra_count": 0,
-        "latitude": 25.93197,
-        "longitude": 88.46234
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দারাজগাঁও হামিদ আলী খান উচ্চ বিদ্যালয়",
-        "male_count": 1918,
-        "female_count": 1872,
-        "hijra_count": 0,
-        "latitude": 26.1736,
-        "longitude": 88.49105
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দেওগাঁও ছেতনাইতলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1663,
-        "female_count": 1499,
-        "hijra_count": 0,
-        "latitude": 26.06517,
-        "longitude": 88.46921
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দেবীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1392,
-        "female_count": 1314,
-        "hijra_count": 0,
-        "latitude": 26.16147,
-        "longitude": 88.49637
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দেহন রওশনপুর দাখিল মাদ্রাসা",
-        "male_count": 1223,
-        "female_count": 1178,
-        "hijra_count": 0,
-        "latitude": 26.047,
-        "longitude": 88.34047
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "দৌলতপুর সলেমান খান বহুমূখী উচ্চ বিদ্যালয়",
-        "male_count": 1379,
-        "female_count": 1405,
-        "hijra_count": 0,
-        "latitude": 25.98339,
-        "longitude": 88.50716
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ধন্দোগাঁও সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 905,
-        "female_count": 902,
-        "hijra_count": 0,
-        "latitude": 25.9661,
-        "longitude": 88.52382
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "নওপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 962,
-        "female_count": 950,
-        "hijra_count": 0,
-        "latitude": 26.11431,
-        "longitude": 88.39457
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "নূরে মেরাজ হাফেজিয়া ও কাওমী মাদ্রাসা",
-        "male_count": 663,
-        "female_count": 629,
-        "hijra_count": 0,
-        "latitude": 26.02222,
-        "longitude": 88.42595
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পলাশবাংলা উচ্চ বিদ্যালয়",
-        "male_count": 977,
-        "female_count": 933,
-        "hijra_count": 0,
-        "latitude": 26.16251,
-        "longitude": 88.36929
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পশ্চিম বেগুনবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1122,
-        "female_count": 1116,
-        "hijra_count": 0,
-        "latitude": 25.95348,
-        "longitude": 88.50741
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পাটিয়াডাংগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1713,
-        "female_count": 1685,
-        "hijra_count": 0,
-        "latitude": 26.16997,
-        "longitude": 88.46819
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পারপুগী দ্বি-মুখী উচ্চ বিদ্যালয়",
-        "male_count": 1565,
-        "female_count": 1553,
-        "hijra_count": 0,
-        "latitude": 25.98953,
-        "longitude": 88.39471
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পারপুগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1429,
-        "female_count": 1499,
-        "hijra_count": 0,
-        "latitude": 25.99073,
-        "longitude": 88.39485
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পাহাড়ভাঙ্গা উচ্চ বিদ্যালয়",
-        "male_count": 1369,
-        "female_count": 1260,
-        "hijra_count": 0,
-        "latitude": 26.07293,
-        "longitude": 88.37279
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পী মোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1054,
-        "female_count": 1027,
-        "hijra_count": 0,
-        "latitude": 25.96802,
-        "longitude": 88.42136
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পুরাতন ঠাকুরগাঁও উচ্চ বিদ্যালয়",
-        "male_count": 1149,
-        "female_count": 1157,
-        "hijra_count": 0,
-        "latitude": 26.09143,
-        "longitude": 88.42704
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পূর্ব বগুলাডাংগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1182,
-        "female_count": 1151,
-        "hijra_count": 0,
-        "latitude": 26.14473,
-        "longitude": 88.52558
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "পূর্ব শুখানপুকুরী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1496,
-        "female_count": 1495,
-        "hijra_count": 0,
-        "latitude": 26.10771,
-        "longitude": 88.62249
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ফকদনপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2098,
-        "female_count": 2064,
-        "hijra_count": 0,
-        "latitude": 26.03142,
-        "longitude": 88.40365
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ফরিদপুর কুজিশহর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1160,
-        "female_count": 1133,
-        "hijra_count": 0,
-        "latitude": 26.19795,
-        "longitude": 88.42705
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ফাড়াবাড়ী উচ্চ বিদ্যালয়",
-        "male_count": 1797,
-        "female_count": 1732,
-        "hijra_count": 0,
-        "latitude": 26.11149,
-        "longitude": 88.45003
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বগুলাডাঙ্গী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1135,
-        "female_count": 1153,
-        "hijra_count": 0,
-        "latitude": 26.10395,
-        "longitude": 88.55812
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বড়গ্রাম আলিম মাদ্রাসা",
-        "male_count": 992,
-        "female_count": 982,
-        "hijra_count": 0,
-        "latitude": 26.11265,
-        "longitude": 88.49817
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বড়গ্রাম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1106,
-        "female_count": 1102,
-        "hijra_count": 0,
-        "latitude": 26.13308,
-        "longitude": 88.60165
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বড় বালিয়া-২ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1635,
-        "female_count": 1572,
-        "hijra_count": 0,
-        "latitude": 26.12419,
-        "longitude": 88.54751
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বড় বালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1477,
-        "female_count": 1585,
-        "hijra_count": 0,
-        "latitude": 26.13881,
-        "longitude": 88.54394
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বরুনাগাঁও সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2046,
-        "female_count": 1978,
-        "hijra_count": 0,
-        "latitude": 26.05528,
-        "longitude": 88.4779
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বশভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 564,
-        "female_count": 524,
-        "hijra_count": 0,
-        "latitude": 25.92405,
-        "longitude": 88.47599
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বানিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 754,
-        "female_count": 754,
-        "hijra_count": 0,
-        "latitude": 26.0328,
-        "longitude": 88.43474
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বান্দিগড় শের-ই-বাংলা উচ্চ বিদ্যালয়",
-        "male_count": 810,
-        "female_count": 803,
-        "hijra_count": 0,
-        "latitude": 25.94221,
-        "longitude": 88.44736
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বাংরোট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 902,
-        "female_count": 898,
-        "hijra_count": 0,
-        "latitude": 26.0592,
-        "longitude": 88.62437
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বালাপাড়া দ্বিমূখী উচ্চ বিদ্যালয়",
-        "male_count": 1653,
-        "female_count": 1637,
-        "hijra_count": 0,
-        "latitude": 25.95068,
-        "longitude": 88.47419
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বালাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1367,
-        "female_count": 1299,
-        "hijra_count": 0,
-        "latitude": 25.9506,
-        "longitude": 88.47423
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বালিয়া এম.বি.এস.সি উচ্চ বিদ্যালয়",
-        "male_count": 1084,
-        "female_count": 1069,
-        "hijra_count": 0,
-        "latitude": 26.12248,
-        "longitude": 88.56747
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বাঁশগাড়া সিরাজুল হুদা দাখিল মাদ্রাসা",
-        "male_count": 1444,
-        "female_count": 1395,
-        "hijra_count": 0,
-        "latitude": 26.08877,
-        "longitude": 88.3661
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বাসুদেবপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1922,
-        "female_count": 1868,
-        "hijra_count": 0,
-        "latitude": 26.00235,
-        "longitude": 88.52373
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বিশ্বাসপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2107,
-        "female_count": 2118,
-        "hijra_count": 0,
-        "latitude": 25.99614,
-        "longitude": 88.36692
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বুড়ীর হাট উচ্চ বিদ্যালয়",
-        "male_count": 1706,
-        "female_count": 1704,
-        "hijra_count": 0,
-        "latitude": 26.07715,
-        "longitude": 88.56141
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বুলবুল সরকারি প্রাথমিক বিদ্যলয়",
-        "male_count": 1447,
-        "female_count": 1659,
-        "hijra_count": 0,
-        "latitude": 26.02978,
-        "longitude": 88.46043
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বেগুনবাড়ি ফাযিল মাদ্রাসা",
-        "male_count": 1506,
-        "female_count": 1482,
-        "hijra_count": 0,
-        "latitude": 25.92167,
-        "longitude": 88.49217
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বেংরোল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1081,
-        "female_count": 1021,
-        "hijra_count": 0,
-        "latitude": 26.05087,
-        "longitude": 88.32566
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বৈকন্ঠপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 722,
-        "female_count": 720,
-        "hijra_count": 0,
-        "latitude": 26.09893,
-        "longitude": 88.47439
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বোচাপুকুর ইক্ষু খামার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1535,
-        "female_count": 1507,
-        "hijra_count": 0,
-        "latitude": 25.97894,
-        "longitude": 88.46014
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "বোচাপুকুর পোকাতি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 870,
-        "female_count": 854,
-        "hijra_count": 0,
-        "latitude": 25.9648,
-        "longitude": 88.45522
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ভপলা খামার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1322,
-        "female_count": 1341,
-        "hijra_count": 0,
-        "latitude": 26.04076,
-        "longitude": 88.54809
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ভাউলারহাট উচ্চ বিদ্যালয়",
-        "male_count": 1568,
-        "female_count": 1453,
-        "hijra_count": 0,
-        "latitude": 26.01446,
-        "longitude": 88.33456
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ভাউলারহাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1287,
-        "female_count": 1264,
-        "hijra_count": 0,
-        "latitude": 26.01445,
-        "longitude": 88.33461
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ভাতগাঁও সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1769,
-        "female_count": 1727,
-        "hijra_count": 0,
-        "latitude": 26.08389,
-        "longitude": 88.4941
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ভেলাজান আনছারিয়া সিনিয়র ফাজিল মাদ্রাসা",
-        "male_count": 1048,
-        "female_count": 977,
-        "hijra_count": 0,
-        "latitude": 26.08214,
-        "longitude": 88.35033
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ভেলাজান উচ্চ বিদ্যালয়",
-        "male_count": 1313,
-        "female_count": 1313,
-        "hijra_count": 0,
-        "latitude": 26.06487,
-        "longitude": 88.34955
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ভেলার হাট উচ্চ বিদ্যালয়",
-        "male_count": 1185,
-        "female_count": 1098,
-        "hijra_count": 0,
-        "latitude": 26.13092,
-        "longitude": 88.37312
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "ভোপলা খামার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1076,
-        "female_count": 1057,
-        "hijra_count": 0,
-        "latitude": 26.02188,
-        "longitude": 88.53165
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মটরাহাট স্কুল এ্যান্ড কলেজ",
-        "male_count": 1106,
-        "female_count": 1072,
-        "hijra_count": 0,
-        "latitude": 26.0457,
-        "longitude": 88.32455
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মথুরাপুর আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1375,
-        "female_count": 1377,
-        "hijra_count": 0,
-        "latitude": 26.04714,
-        "longitude": 88.39726
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মথুরাপুর পাবলিক উচ্চ বিদ্যালয়",
-        "male_count": 1420,
-        "female_count": 1508,
-        "hijra_count": 0,
-        "latitude": 26.04248,
-        "longitude": 88.41672
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মধুপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1855,
-        "female_count": 1795,
-        "hijra_count": 0,
-        "latitude": 26.15226,
-        "longitude": 88.41221
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মধ্য দেবীপুর দালালপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 957,
-        "female_count": 868,
-        "hijra_count": 0,
-        "latitude": 26.16377,
-        "longitude": 88.51688
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মন্ডলাদাম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1129,
-        "female_count": 1173,
-        "hijra_count": 0,
-        "latitude": 26.18929,
-        "longitude": 88.39757
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মহব্বতপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1712,
-        "female_count": 1641,
-        "hijra_count": 0,
-        "latitude": 25.97821,
-        "longitude": 88.35343
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মহাদেবপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 832,
-        "female_count": 838,
-        "hijra_count": 0,
-        "latitude": 26.08503,
-        "longitude": 88.37766
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মহেশপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1329,
-        "female_count": 1239,
-        "hijra_count": 0,
-        "latitude": 26.1456,
-        "longitude": 88.35998
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মহেশালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1825,
-        "female_count": 1809,
-        "hijra_count": 0,
-        "latitude": 25.969,
-        "longitude": 88.39349
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মাটিগাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1247,
-        "female_count": 1241,
-        "hijra_count": 0,
-        "latitude": 26.07346,
-        "longitude": 88.53542
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মাতৃগাঁও মোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 797,
-        "female_count": 751,
-        "hijra_count": 0,
-        "latitude": 25.9698,
-        "longitude": 88.43854
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মাদারগঞ্জ এম, বি উচ্চ বিদ্যালয়",
-        "male_count": 1781,
-        "female_count": 1768,
-        "hijra_count": 0,
-        "latitude": 26.00638,
-        "longitude": 88.40857
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মাধবপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1071,
-        "female_count": 1087,
-        "hijra_count": 0,
-        "latitude": 26.13996,
-        "longitude": 88.41398
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মানব কল্যাণ পরিষদ প্রশিক্ষণ কেন্দ্র",
-        "male_count": 1208,
-        "female_count": 1293,
-        "hijra_count": 0,
-        "latitude": 26.03034,
-        "longitude": 88.49289
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মিলনপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1236,
-        "female_count": 1275,
-        "hijra_count": 0,
-        "latitude": 26.0258,
-        "longitude": 88.56138
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মুন্সির হাট উচ্চ বিদ্যালয়",
-        "male_count": 1726,
-        "female_count": 1724,
-        "hijra_count": 0,
-        "latitude": 26.15513,
-        "longitude": 88.54247
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মোড়ল ডুবা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1460,
-        "female_count": 1469,
-        "hijra_count": 0,
-        "latitude": 26.0432,
-        "longitude": 88.38786
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "মোলানী উচ্চ বিদ্যালয়",
-        "male_count": 1520,
-        "female_count": 1435,
-        "hijra_count": 0,
-        "latitude": 26.07226,
-        "longitude": 88.33587
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "রহিমানপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1467,
-        "female_count": 1348,
-        "hijra_count": 0,
-        "latitude": 26.06243,
-        "longitude": 88.39221
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "রায়পুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1345,
-        "female_count": 1256,
-        "hijra_count": 0,
-        "latitude": 26.01854,
-        "longitude": 88.3561
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "রাংরাই পুকুর শিশু সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 957,
-        "female_count": 938,
-        "hijra_count": 0,
-        "latitude": 26.10588,
-        "longitude": 88.42783
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "রিভারভিউ উচ্চ বিদ্যালয়",
-        "male_count": 2186,
-        "female_count": 2386,
-        "hijra_count": 0,
-        "latitude": 26.03738,
-        "longitude": 88.46304
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "রুহিয়া উচ্চ বিদ্যালয়",
-        "male_count": 781,
-        "female_count": 742,
-        "hijra_count": 0,
-        "latitude": 26.17157,
-        "longitude": 88.40702
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "রুহিয়া সালেহিয়া দারু: ফাজিল (ডিগ্রী) মাদ্রাসা",
-        "male_count": 2288,
-        "female_count": 2298,
-        "hijra_count": 0,
-        "latitude": 26.17922,
-        "longitude": 88.41305
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "লক্ষির হাট বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1363,
-        "female_count": 1373,
-        "hijra_count": 0,
-        "latitude": 26.14449,
-        "longitude": 88.49965
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "লক্ষ্বিপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1324,
-        "female_count": 1255,
-        "hijra_count": 0,
-        "latitude": 26.05114,
-        "longitude": 88.37318
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "লস্করা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1241,
-        "female_count": 1227,
-        "hijra_count": 0,
-        "latitude": 26.04108,
-        "longitude": 88.55787
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "লাউথুতি এস-সি উচ্চ বিদ্যালয়",
-        "male_count": 1108,
-        "female_count": 1124,
-        "hijra_count": 0,
-        "latitude": 26.09222,
-        "longitude": 88.58226
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "লাউথুতি বি এন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1202,
-        "female_count": 1184,
-        "hijra_count": 0,
-        "latitude": 26.08433,
-        "longitude": 88.57994
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "শাপলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1104,
-        "female_count": 1124,
-        "hijra_count": 0,
-        "latitude": 26.17712,
-        "longitude": 88.54312
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "শিংপাড়া কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1833,
-        "female_count": 1899,
-        "hijra_count": 0,
-        "latitude": 26.06525,
-        "longitude": 88.51059
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "শিবগঞ্জ ডিগ্রী কলেজ",
-        "male_count": 1589,
-        "female_count": 1608,
-        "hijra_count": 0,
-        "latitude": 25.99105,
-        "longitude": 88.39929
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "শুখানপুকুরী এল, এন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1054,
-        "female_count": 1067,
-        "hijra_count": 0,
-        "latitude": 26.10954,
-        "longitude": 88.60292
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "শোল্টহরী উচ্চ বিদ্যালয়",
-        "male_count": 1532,
-        "female_count": 1474,
-        "hijra_count": 0,
-        "latitude": 26.19636,
-        "longitude": 88.4957
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "শ্রীকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 622,
-        "female_count": 612,
-        "hijra_count": 0,
-        "latitude": 26.01404,
-        "longitude": 88.44817
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সবুজ গোয়ালপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1776,
-        "female_count": 1823,
-        "hijra_count": 0,
-        "latitude": 26.03843,
-        "longitude": 88.47234
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সরকারপাড়া রহমানিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2069,
-        "female_count": 2157,
-        "hijra_count": 0,
-        "latitude": 26.02822,
-        "longitude": 88.42176
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সালন্দর ইসলামিয়া কামিল মাদ্রাসা",
-        "male_count": 2347,
-        "female_count": 2438,
-        "hijra_count": 0,
-        "latitude": 26.03226,
-        "longitude": 88.48768
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সালন্দর উচ্চ বিদ্যালয়",
-        "male_count": 1594,
-        "female_count": 1666,
-        "hijra_count": 0,
-        "latitude": 26.05375,
-        "longitude": 88.50373
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সালন্দর চেয়ারম্যানপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1263,
-        "female_count": 1289,
-        "hijra_count": 0,
-        "latitude": 26.06438,
-        "longitude": 88.49497
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সালন্দর জামুরীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1333,
-        "female_count": 1372,
-        "hijra_count": 0,
-        "latitude": 26.04388,
-        "longitude": 88.48054
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সিংগিয়া মুন্সিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1173,
-        "female_count": 1097,
-        "hijra_count": 0,
-        "latitude": 26.00778,
-        "longitude": 88.49966
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সিংগিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1567,
-        "female_count": 1555,
-        "hijra_count": 0,
-        "latitude": 26.00051,
-        "longitude": 88.50644
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সেনিহারী ধনতলাডাংগা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 766,
-        "female_count": 706,
-        "hijra_count": 0,
-        "latitude": 26.14112,
-        "longitude": 88.38673
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সেনিহারী সরকারি প্রাথমিক বিদ্যলয়",
-        "male_count": 1416,
-        "female_count": 1413,
-        "hijra_count": 0,
-        "latitude": 26.16111,
-        "longitude": 88.39093
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "সৈয়দপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 922,
-        "female_count": 892,
-        "hijra_count": 0,
-        "latitude": 25.91542,
-        "longitude": 88.45331
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "হরিনারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1040,
-        "female_count": 1063,
-        "hijra_count": 0,
-        "latitude": 26.01309,
-        "longitude": 88.42487
-    },
-    {
-        "settings_code": 3,
-        "settings_name": "ঠাকুরগাঁও-১",
-        "center_name": "হাজীপাড়া আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 1932,
-        "female_count": 2098,
-        "hijra_count": 0,
-        "latitude": 26.024,
-        "longitude": 88.47138
-    }
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আইডিয়াল উচ্চ বিদ্যালয়",
+    "male_count": 3084,
+    "female_count": 3177,
+    "hijra_count": 0,
+    "latitude": 23.77725,
+    "longitude": 90.37464
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আউলিয়াপুর ইউনিয়ন পরিষদ",
+    "male_count": 1363,
+    "female_count": 1382,
+    "hijra_count": 0,
+    "latitude": 23.77763,
+    "longitude": 90.37465
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আকচা আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1427,
+    "female_count": 1367,
+    "hijra_count": 0,
+    "latitude": 22.79318,
+    "longitude": 89.87498
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আকচা ইউনিয়ন পরিষদ ভবন",
+    "male_count": 2037,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.35266,
+    "longitude": 88.92007
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আখানগর দ্বিমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1302,
+    "female_count": 1266,
+    "hijra_count": 0,
+    "latitude": 22.34461,
+    "longitude": 89.10376
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আখানগর ধনিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1677,
+    "female_count": 1532,
+    "hijra_count": 0,
+    "latitude": 26.11591,
+    "longitude": 88.37427
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আখোপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1164,
+    "female_count": 1120,
+    "hijra_count": 0,
+    "latitude": 22.70798,
+    "longitude": 89.07811
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আমবাড়ীহাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1007,
+    "female_count": 931,
+    "hijra_count": 0,
+    "latitude": 26.03796,
+    "longitude": 88.35011
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আর, কে স্টেট উচ্চ বিদ্যালয়",
+    "male_count": 1576,
+    "female_count": 1692,
+    "hijra_count": 0,
+    "latitude": 26.02751,
+    "longitude": 88.48396
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আরাজী গুঞ্জরগড় উচ্চ বিদ্যালয়",
+    "male_count": 1958,
+    "female_count": 1819,
+    "hijra_count": 0,
+    "latitude": 26.05932,
+    "longitude": 88.56187
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আরাজী ঝাড়গাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 914,
+    "female_count": 877,
+    "hijra_count": 0,
+    "latitude": 26.08274,
+    "longitude": 88.33967
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আরাজী দক্ষিণ বঠিনা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1113,
+    "female_count": 1131,
+    "hijra_count": 0,
+    "latitude": 26.12281,
+    "longitude": 88.42269
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আরাজী সিংপাড়া উচ্চ বিদ্যালয়",
+    "male_count": 1204,
+    "female_count": 1188,
+    "hijra_count": 0,
+    "latitude": 26.03301,
+    "longitude": 88.50703
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "আসাননগর কাদেরিয়া ইসলামিয়া দাখিল মাদরাসা",
+    "male_count": 970,
+    "female_count": 997,
+    "hijra_count": 0,
+    "latitude": 26.17541,
+    "longitude": 88.45398
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ইসলামনগর উচ্চ বিদ্যালয়",
+    "male_count": 1892,
+    "female_count": 1971,
+    "hijra_count": 0,
+    "latitude": 22.93589,
+    "longitude": 89.67213
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "উত্তর-বঙ্গ শিশু উন্নয়ন প্রকল্প",
+    "male_count": 869,
+    "female_count": 862,
+    "hijra_count": 0,
+    "latitude": 26.16321,
+    "longitude": 88.46949
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "উত্তর হরিহরপুর সিনিয়র আলীম মাদ্রাসা",
+    "male_count": 1204,
+    "female_count": 1181,
+    "hijra_count": 0,
+    "latitude": 26.05456,
+    "longitude": 88.41573
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "উমেদ আলী উচ্চ বিদ্যালয়",
+    "male_count": 1618,
+    "female_count": 1597,
+    "hijra_count": 0,
+    "latitude": 26.14213,
+    "longitude": 88.58217
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "এম হাট খোচাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1983,
+    "female_count": 1934,
+    "hijra_count": 0,
+    "latitude": 25.99227,
+    "longitude": 88.49319
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কচুবাড়ী-২ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1155,
+    "female_count": 1162,
+    "hijra_count": 0,
+    "latitude": 26.11041,
+    "longitude": 88.53763
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কচুবাড়ী আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1083,
+    "female_count": 1136,
+    "hijra_count": 0,
+    "latitude": 26.07301,
+    "longitude": 88.52402
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কচুবাড়ী উচ্চ বিদ্যালয়",
+    "male_count": 1183,
+    "female_count": 1167,
+    "hijra_count": 0,
+    "latitude": 26.09427,
+    "longitude": 88.5272
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কচুবাড়ী মাদারগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1318,
+    "female_count": 1230,
+    "hijra_count": 0,
+    "latitude": 26.08182,
+    "longitude": 88.50654
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কদম রসুল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 700,
+    "female_count": 708,
+    "hijra_count": 0,
+    "latitude": 26.12417,
+    "longitude": 88.4989
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কমলাডাংগা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1431,
+    "female_count": 1432,
+    "hijra_count": 0,
+    "latitude": 26.17178,
+    "longitude": 88.44176
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কশালগাঁও-২ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1197,
+    "female_count": 1211,
+    "hijra_count": 1,
+    "latitude": 26.17351,
+    "longitude": 88.39118
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কহরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1315,
+    "female_count": 1362,
+    "hijra_count": 2,
+    "latitude": 26.00059,
+    "longitude": 88.47044
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কাচারী বাজার দ্বিমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1075,
+    "female_count": 1120,
+    "hijra_count": 0,
+    "latitude": 26.1212,
+    "longitude": 88.51569
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কান্দরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1215,
+    "female_count": 1204,
+    "hijra_count": 0,
+    "latitude": 26.11865,
+    "longitude": 88.61358
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কালিকাগাঁও ডি হাট উচ্চ বিদ্যালয়",
+    "male_count": 1188,
+    "female_count": 1098,
+    "hijra_count": 0,
+    "latitude": 26.07955,
+    "longitude": 88.61477
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কালিকাগাঁও মলিতপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1281,
+    "female_count": 1193,
+    "hijra_count": 0,
+    "latitude": 26.09173,
+    "longitude": 88.63062
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কালেক্টরেট পাবলিক স্কুল এন্ড কলেজ",
+    "male_count": 1258,
+    "female_count": 1265,
+    "hijra_count": 0,
+    "latitude": 26.0343,
+    "longitude": 88.46217
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কিসমত চামেশ্বরী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 834,
+    "female_count": 830,
+    "hijra_count": 0,
+    "latitude": 26.1397,
+    "longitude": 88.47768
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কিসমত দৌলতপুর দাখিল মাদ্রাসা",
+    "male_count": 1489,
+    "female_count": 1497,
+    "hijra_count": 0,
+    "latitude": 25.97142,
+    "longitude": 88.49544
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কিসমত শুখানপুকুরী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 919,
+    "female_count": 916,
+    "hijra_count": 0,
+    "latitude": 26.13514,
+    "longitude": 88.58688
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কুমারপুর উচ্চ বিদ্যালয়",
+    "male_count": 1443,
+    "female_count": 1412,
+    "hijra_count": 0,
+    "latitude": 26.12818,
+    "longitude": 88.53374
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1273,
+    "female_count": 1251,
+    "hijra_count": 0,
+    "latitude": 26.02429,
+    "longitude": 88.39347
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কে ঘুরনগাছ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1119,
+    "female_count": 991,
+    "hijra_count": 0,
+    "latitude": 26.19897,
+    "longitude": 88.41259
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "কেশুরবাড়ী-১ সরকারী প্রাঃ বিদ্যালয়",
+    "male_count": 723,
+    "female_count": 763,
+    "hijra_count": 0,
+    "latitude": 26.13652,
+    "longitude": 88.49474
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ক্ষিতিন্দ্র মোহন সেন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 877,
+    "female_count": 958,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ক্ষেনপাড়া শাপলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 889,
+    "female_count": 839,
+    "hijra_count": 0,
+    "latitude": 26.15695,
+    "longitude": 88.48938
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "খড়িবাড়ী উচ্চ বিদ্যালয়",
+    "male_count": 1339,
+    "female_count": 1295,
+    "hijra_count": 0,
+    "latitude": 26.15288,
+    "longitude": 88.45658
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "খলিশাকুড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1993,
+    "female_count": 1983,
+    "hijra_count": 0,
+    "latitude": 26.15789,
+    "longitude": 88.55582
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "খারুয়াডাংগা উচ্চ বিদ্যালয়",
+    "male_count": 564,
+    "female_count": 517,
+    "hijra_count": 0,
+    "latitude": 26.13902,
+    "longitude": 88.46599
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "গড়েয়া এস সি বহুমুখী উচ্চ বিদ্যালয়",
+    "male_count": 1518,
+    "female_count": 1511,
+    "hijra_count": 0,
+    "latitude": 26.05263,
+    "longitude": 88.58578
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "গড়েয়া গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2210,
+    "female_count": 2204,
+    "hijra_count": 0,
+    "latitude": 26.04495,
+    "longitude": 88.5933
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "গড়েয়া সিনিয়র ফাজিল মাদ্রাসা",
+    "male_count": 1123,
+    "female_count": 1120,
+    "hijra_count": 0,
+    "latitude": 26.04595,
+    "longitude": 88.58669
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "গিলাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1548,
+    "female_count": 1504,
+    "hijra_count": 0,
+    "latitude": 25.99182,
+    "longitude": 88.44224
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1639,
+    "female_count": 1659,
+    "hijra_count": 0,
+    "latitude": 26.07403,
+    "longitude": 88.58912
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "গোয়ালপাড়া উচ্চ বিদ্যালয়",
+    "male_count": 1748,
+    "female_count": 1893,
+    "hijra_count": 0,
+    "latitude": 26.03603,
+    "longitude": 88.48148
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "গৌরীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1132,
+    "female_count": 1191,
+    "hijra_count": 0,
+    "latitude": 25.97983,
+    "longitude": 88.51808
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঘনিবিষ্ণুপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2024,
+    "female_count": 2018,
+    "hijra_count": 0,
+    "latitude": 26.16582,
+    "longitude": 88.41522
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "চতুরাখোর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 836,
+    "female_count": 782,
+    "hijra_count": 0,
+    "latitude": 26.09986,
+    "longitude": 88.37149
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "চিলারং ঘুন্টিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1020,
+    "female_count": 972,
+    "hijra_count": 0,
+    "latitude": 26.07791,
+    "longitude": 88.39923
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "চিলারং ডাঙ্গীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1058,
+    "female_count": 973,
+    "hijra_count": 0,
+    "latitude": 26.08006,
+    "longitude": 88.40936
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "চুয়ামণিডাংগা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 923,
+    "female_count": 855,
+    "hijra_count": 0,
+    "latitude": 26.19139,
+    "longitude": 88.45642
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "চৌধুরীহাট উচ্চ বিদ্যালয়",
+    "male_count": 1388,
+    "female_count": 1438,
+    "hijra_count": 0,
+    "latitude": 26.12953,
+    "longitude": 88.47822
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "জগন্নাথপুর আইডিয়াল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2042,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 26.01376,
+    "longitude": 88.47349
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "জগন্নাথপুর উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2194,
+    "hijra_count": 0,
+    "latitude": 26.01384,
+    "longitude": 88.47336
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "জগন্নাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1873,
+    "female_count": 1834,
+    "hijra_count": 1,
+    "latitude": 26.01696,
+    "longitude": 88.50188
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "জামালপুর উচ্চ বিদ্যালয়",
+    "male_count": 1485,
+    "female_count": 1438,
+    "hijra_count": 0,
+    "latitude": 26.00928,
+    "longitude": 88.37929
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঝলঝলি পুকুর আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1534,
+    "female_count": 1541,
+    "hijra_count": 0,
+    "latitude": 26.14694,
+    "longitude": 88.42991
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঝাড়গাঁও রহমানিয়া দাখিল মাদ্রাসা",
+    "male_count": 1929,
+    "female_count": 1767,
+    "hijra_count": 0,
+    "latitude": 26.1381,
+    "longitude": 88.3567
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঠাকুরগাঁও পলিটেকনিক ইনস্টিটিউট",
+    "male_count": 2324,
+    "female_count": 2360,
+    "hijra_count": 0,
+    "latitude": 26.03907,
+    "longitude": 88.44293
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঠাকুরগাঁও রোড বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2217,
+    "female_count": 2245,
+    "hijra_count": 0,
+    "latitude": 26.04192,
+    "longitude": 88.42568
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঠাকুরগাঁও সরকারি কলেজ",
+    "male_count": 3154,
+    "female_count": 3381,
+    "hijra_count": 0,
+    "latitude": 26.03872,
+    "longitude": 88.4539
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঠাকুরগাঁও সরকারি বালক উচ্চ বিদ্যালয়",
+    "male_count": 1887,
+    "female_count": 2075,
+    "hijra_count": 0,
+    "latitude": 26.0323,
+    "longitude": 88.46594
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঠাকুরগাঁও সরকারি বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1730,
+    "female_count": 1845,
+    "hijra_count": 0,
+    "latitude": 26.02825,
+    "longitude": 88.46357
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঠাকুরগাঁও সরকারি মহিলা কলেজ",
+    "male_count": 1027,
+    "female_count": 1149,
+    "hijra_count": 0,
+    "latitude": 26.02781,
+    "longitude": 88.47032
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঢাংগীপুকুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1388,
+    "female_count": 1373,
+    "hijra_count": 0,
+    "latitude": 26.03621,
+    "longitude": 88.57898
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ঢোলারহাট এস সি উচ্চ বিদ্যালয়",
+    "male_count": 939,
+    "female_count": 973,
+    "hijra_count": 0,
+    "latitude": 26.12775,
+    "longitude": 88.42541
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "তেওয়ারীগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1218,
+    "female_count": 1149,
+    "hijra_count": 0,
+    "latitude": 26.08764,
+    "longitude": 88.59943
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "তেঁতুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1046,
+    "female_count": 978,
+    "hijra_count": 0,
+    "latitude": 26.02937,
+    "longitude": 88.31089
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দক্ষিণ আসাননগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 729,
+    "female_count": 719,
+    "hijra_count": 0,
+    "latitude": 26.1575,
+    "longitude": 88.44386
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দক্ষিণ ঠাকুরগাঁও নূর মোহাম্মদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2069,
+    "hijra_count": 0,
+    "latitude": 26.07812,
+    "longitude": 88.42736
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দক্ষিণ বঠিনা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1481,
+    "female_count": 1441,
+    "hijra_count": 0,
+    "latitude": 26.09894,
+    "longitude": 88.45185
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দানারহাট আনছারিয়া ফাজিল মাদ্রাসা",
+    "male_count": 1159,
+    "female_count": 1089,
+    "hijra_count": 0,
+    "latitude": 25.93197,
+    "longitude": 88.46234
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দারাজগাঁও হামিদ আলী খান উচ্চ বিদ্যালয়",
+    "male_count": 1918,
+    "female_count": 1872,
+    "hijra_count": 0,
+    "latitude": 26.1736,
+    "longitude": 88.49105
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দেওগাঁও ছেতনাইতলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1663,
+    "female_count": 1499,
+    "hijra_count": 0,
+    "latitude": 26.06517,
+    "longitude": 88.46921
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দেবীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1392,
+    "female_count": 1314,
+    "hijra_count": 0,
+    "latitude": 26.16147,
+    "longitude": 88.49637
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দেহন রওশনপুর দাখিল মাদ্রাসা",
+    "male_count": 1223,
+    "female_count": 1178,
+    "hijra_count": 0,
+    "latitude": 26.047,
+    "longitude": 88.34047
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "দৌলতপুর সলেমান খান বহুমূখী উচ্চ বিদ্যালয়",
+    "male_count": 1379,
+    "female_count": 1405,
+    "hijra_count": 0,
+    "latitude": 25.98339,
+    "longitude": 88.50716
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ধন্দোগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 905,
+    "female_count": 902,
+    "hijra_count": 0,
+    "latitude": 25.9661,
+    "longitude": 88.52382
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "নওপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 962,
+    "female_count": 950,
+    "hijra_count": 0,
+    "latitude": 26.11431,
+    "longitude": 88.39457
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "নূরে মেরাজ হাফেজিয়া ও কাওমী মাদ্রাসা",
+    "male_count": 663,
+    "female_count": 629,
+    "hijra_count": 0,
+    "latitude": 26.02222,
+    "longitude": 88.42595
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পলাশবাংলা উচ্চ বিদ্যালয়",
+    "male_count": 977,
+    "female_count": 933,
+    "hijra_count": 0,
+    "latitude": 26.16251,
+    "longitude": 88.36929
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পশ্চিম বেগুনবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1122,
+    "female_count": 1116,
+    "hijra_count": 0,
+    "latitude": 25.95348,
+    "longitude": 88.50741
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পাটিয়াডাংগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1713,
+    "female_count": 1685,
+    "hijra_count": 0,
+    "latitude": 26.16997,
+    "longitude": 88.46819
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পারপুগী দ্বি-মুখী উচ্চ বিদ্যালয়",
+    "male_count": 1565,
+    "female_count": 1553,
+    "hijra_count": 0,
+    "latitude": 25.98953,
+    "longitude": 88.39471
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পারপুগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1429,
+    "female_count": 1499,
+    "hijra_count": 0,
+    "latitude": 25.99073,
+    "longitude": 88.39485
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পাহাড়ভাঙ্গা উচ্চ বিদ্যালয়",
+    "male_count": 1369,
+    "female_count": 1260,
+    "hijra_count": 0,
+    "latitude": 26.07293,
+    "longitude": 88.37279
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পী মোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1054,
+    "female_count": 1027,
+    "hijra_count": 0,
+    "latitude": 25.96802,
+    "longitude": 88.42136
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পুরাতন ঠাকুরগাঁও উচ্চ বিদ্যালয়",
+    "male_count": 1149,
+    "female_count": 1157,
+    "hijra_count": 0,
+    "latitude": 26.09143,
+    "longitude": 88.42704
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পূর্ব বগুলাডাংগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1182,
+    "female_count": 1151,
+    "hijra_count": 0,
+    "latitude": 26.14473,
+    "longitude": 88.52558
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "পূর্ব শুখানপুকুরী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1496,
+    "female_count": 1495,
+    "hijra_count": 0,
+    "latitude": 26.10771,
+    "longitude": 88.62249
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ফকদনপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2098,
+    "female_count": 2064,
+    "hijra_count": 0,
+    "latitude": 26.03142,
+    "longitude": 88.40365
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ফরিদপুর কুজিশহর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1160,
+    "female_count": 1133,
+    "hijra_count": 0,
+    "latitude": 26.19795,
+    "longitude": 88.42705
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ফাড়াবাড়ী উচ্চ বিদ্যালয়",
+    "male_count": 1797,
+    "female_count": 1732,
+    "hijra_count": 0,
+    "latitude": 26.11149,
+    "longitude": 88.45003
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বগুলাডাঙ্গী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1135,
+    "female_count": 1153,
+    "hijra_count": 0,
+    "latitude": 26.10395,
+    "longitude": 88.55812
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বড়গ্রাম আলিম মাদ্রাসা",
+    "male_count": 992,
+    "female_count": 982,
+    "hijra_count": 0,
+    "latitude": 26.11265,
+    "longitude": 88.49817
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বড়গ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1106,
+    "female_count": 1102,
+    "hijra_count": 0,
+    "latitude": 26.13308,
+    "longitude": 88.60165
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বড় বালিয়া-২ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1635,
+    "female_count": 1572,
+    "hijra_count": 0,
+    "latitude": 26.12419,
+    "longitude": 88.54751
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বড় বালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1477,
+    "female_count": 1585,
+    "hijra_count": 0,
+    "latitude": 26.13881,
+    "longitude": 88.54394
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বরুনাগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2046,
+    "female_count": 1978,
+    "hijra_count": 0,
+    "latitude": 26.05528,
+    "longitude": 88.4779
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বশভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 564,
+    "female_count": 524,
+    "hijra_count": 0,
+    "latitude": 25.92405,
+    "longitude": 88.47599
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বানিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 754,
+    "female_count": 754,
+    "hijra_count": 0,
+    "latitude": 26.0328,
+    "longitude": 88.43474
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বান্দিগড় শের-ই-বাংলা উচ্চ বিদ্যালয়",
+    "male_count": 810,
+    "female_count": 803,
+    "hijra_count": 0,
+    "latitude": 25.94221,
+    "longitude": 88.44736
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বাংরোট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 902,
+    "female_count": 898,
+    "hijra_count": 0,
+    "latitude": 26.0592,
+    "longitude": 88.62437
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বালাপাড়া দ্বিমূখী উচ্চ বিদ্যালয়",
+    "male_count": 1653,
+    "female_count": 1637,
+    "hijra_count": 0,
+    "latitude": 25.95068,
+    "longitude": 88.47419
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বালাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1367,
+    "female_count": 1299,
+    "hijra_count": 0,
+    "latitude": 25.9506,
+    "longitude": 88.47423
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বালিয়া এম.বি.এস.সি উচ্চ বিদ্যালয়",
+    "male_count": 1084,
+    "female_count": 1069,
+    "hijra_count": 0,
+    "latitude": 26.12248,
+    "longitude": 88.56747
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বাঁশগাড়া সিরাজুল হুদা দাখিল মাদ্রাসা",
+    "male_count": 1444,
+    "female_count": 1395,
+    "hijra_count": 0,
+    "latitude": 26.08877,
+    "longitude": 88.3661
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বাসুদেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1922,
+    "female_count": 1868,
+    "hijra_count": 0,
+    "latitude": 26.00235,
+    "longitude": 88.52373
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বিশ্বাসপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2107,
+    "female_count": 2118,
+    "hijra_count": 0,
+    "latitude": 25.99614,
+    "longitude": 88.36692
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বুড়ীর হাট উচ্চ বিদ্যালয়",
+    "male_count": 1706,
+    "female_count": 1704,
+    "hijra_count": 0,
+    "latitude": 26.07715,
+    "longitude": 88.56141
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বুলবুল সরকারি প্রাথমিক বিদ্যলয়",
+    "male_count": 1447,
+    "female_count": 1659,
+    "hijra_count": 0,
+    "latitude": 26.02978,
+    "longitude": 88.46043
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বেগুনবাড়ি ফাযিল মাদ্রাসা",
+    "male_count": 1506,
+    "female_count": 1482,
+    "hijra_count": 0,
+    "latitude": 25.92167,
+    "longitude": 88.49217
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বেংরোল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1081,
+    "female_count": 1021,
+    "hijra_count": 0,
+    "latitude": 26.05087,
+    "longitude": 88.32566
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বৈকন্ঠপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 722,
+    "female_count": 720,
+    "hijra_count": 0,
+    "latitude": 26.09893,
+    "longitude": 88.47439
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বোচাপুকুর ইক্ষু খামার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1535,
+    "female_count": 1507,
+    "hijra_count": 0,
+    "latitude": 25.97894,
+    "longitude": 88.46014
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "বোচাপুকুর পোকাতি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 870,
+    "female_count": 854,
+    "hijra_count": 0,
+    "latitude": 25.9648,
+    "longitude": 88.45522
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ভপলা খামার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1322,
+    "female_count": 1341,
+    "hijra_count": 0,
+    "latitude": 26.04076,
+    "longitude": 88.54809
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ভাউলারহাট উচ্চ বিদ্যালয়",
+    "male_count": 1568,
+    "female_count": 1453,
+    "hijra_count": 0,
+    "latitude": 26.01446,
+    "longitude": 88.33456
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ভাউলারহাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1287,
+    "female_count": 1264,
+    "hijra_count": 0,
+    "latitude": 26.01445,
+    "longitude": 88.33461
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ভাতগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1769,
+    "female_count": 1727,
+    "hijra_count": 0,
+    "latitude": 26.08389,
+    "longitude": 88.4941
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ভেলাজান আনছারিয়া সিনিয়র ফাজিল মাদ্রাসা",
+    "male_count": 1048,
+    "female_count": 977,
+    "hijra_count": 0,
+    "latitude": 26.08214,
+    "longitude": 88.35033
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ভেলাজান উচ্চ বিদ্যালয়",
+    "male_count": 1313,
+    "female_count": 1313,
+    "hijra_count": 0,
+    "latitude": 26.06487,
+    "longitude": 88.34955
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ভেলার হাট উচ্চ বিদ্যালয়",
+    "male_count": 1185,
+    "female_count": 1098,
+    "hijra_count": 0,
+    "latitude": 26.13092,
+    "longitude": 88.37312
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "ভোপলা খামার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1076,
+    "female_count": 1057,
+    "hijra_count": 0,
+    "latitude": 26.02188,
+    "longitude": 88.53165
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মটরাহাট স্কুল এ্যান্ড কলেজ",
+    "male_count": 1106,
+    "female_count": 1072,
+    "hijra_count": 0,
+    "latitude": 26.0457,
+    "longitude": 88.32455
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মথুরাপুর আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1375,
+    "female_count": 1377,
+    "hijra_count": 0,
+    "latitude": 26.04714,
+    "longitude": 88.39726
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মথুরাপুর পাবলিক উচ্চ বিদ্যালয়",
+    "male_count": 1420,
+    "female_count": 1508,
+    "hijra_count": 0,
+    "latitude": 26.04248,
+    "longitude": 88.41672
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মধুপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1855,
+    "female_count": 1795,
+    "hijra_count": 0,
+    "latitude": 26.15226,
+    "longitude": 88.41221
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মধ্য দেবীপুর দালালপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 957,
+    "female_count": 868,
+    "hijra_count": 0,
+    "latitude": 26.16377,
+    "longitude": 88.51688
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মন্ডলাদাম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1129,
+    "female_count": 1173,
+    "hijra_count": 0,
+    "latitude": 26.18929,
+    "longitude": 88.39757
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মহব্বতপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1712,
+    "female_count": 1641,
+    "hijra_count": 0,
+    "latitude": 25.97821,
+    "longitude": 88.35343
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মহাদেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 832,
+    "female_count": 838,
+    "hijra_count": 0,
+    "latitude": 26.08503,
+    "longitude": 88.37766
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মহেশপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1329,
+    "female_count": 1239,
+    "hijra_count": 0,
+    "latitude": 26.1456,
+    "longitude": 88.35998
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মহেশালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1825,
+    "female_count": 1809,
+    "hijra_count": 0,
+    "latitude": 25.969,
+    "longitude": 88.39349
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মাটিগাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1247,
+    "female_count": 1241,
+    "hijra_count": 0,
+    "latitude": 26.07346,
+    "longitude": 88.53542
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মাতৃগাঁও মোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 797,
+    "female_count": 751,
+    "hijra_count": 0,
+    "latitude": 25.9698,
+    "longitude": 88.43854
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মাদারগঞ্জ এম, বি উচ্চ বিদ্যালয়",
+    "male_count": 1781,
+    "female_count": 1768,
+    "hijra_count": 0,
+    "latitude": 26.00638,
+    "longitude": 88.40857
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মাধবপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1071,
+    "female_count": 1087,
+    "hijra_count": 0,
+    "latitude": 26.13996,
+    "longitude": 88.41398
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মানব কল্যাণ পরিষদ প্রশিক্ষণ কেন্দ্র",
+    "male_count": 1208,
+    "female_count": 1293,
+    "hijra_count": 0,
+    "latitude": 26.03034,
+    "longitude": 88.49289
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মিলনপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1236,
+    "female_count": 1275,
+    "hijra_count": 0,
+    "latitude": 26.0258,
+    "longitude": 88.56138
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মুন্সির হাট উচ্চ বিদ্যালয়",
+    "male_count": 1726,
+    "female_count": 1724,
+    "hijra_count": 0,
+    "latitude": 26.15513,
+    "longitude": 88.54247
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মোড়ল ডুবা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1460,
+    "female_count": 1469,
+    "hijra_count": 0,
+    "latitude": 26.0432,
+    "longitude": 88.38786
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "মোলানী উচ্চ বিদ্যালয়",
+    "male_count": 1520,
+    "female_count": 1435,
+    "hijra_count": 0,
+    "latitude": 26.07226,
+    "longitude": 88.33587
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "রহিমানপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1467,
+    "female_count": 1348,
+    "hijra_count": 0,
+    "latitude": 26.06243,
+    "longitude": 88.39221
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "রায়পুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1345,
+    "female_count": 1256,
+    "hijra_count": 0,
+    "latitude": 26.01854,
+    "longitude": 88.3561
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "রাংরাই পুকুর শিশু সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 957,
+    "female_count": 938,
+    "hijra_count": 0,
+    "latitude": 26.10588,
+    "longitude": 88.42783
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "রিভারভিউ উচ্চ বিদ্যালয়",
+    "male_count": 2186,
+    "female_count": 2386,
+    "hijra_count": 0,
+    "latitude": 26.03738,
+    "longitude": 88.46304
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "রুহিয়া উচ্চ বিদ্যালয়",
+    "male_count": 781,
+    "female_count": 742,
+    "hijra_count": 0,
+    "latitude": 26.17157,
+    "longitude": 88.40702
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "রুহিয়া সালেহিয়া দারু: ফাজিল (ডিগ্রী) মাদ্রাসা",
+    "male_count": 2288,
+    "female_count": 2298,
+    "hijra_count": 0,
+    "latitude": 26.17922,
+    "longitude": 88.41305
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "লক্ষির হাট বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1363,
+    "female_count": 1373,
+    "hijra_count": 0,
+    "latitude": 26.14449,
+    "longitude": 88.49965
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "লক্ষ্বিপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1324,
+    "female_count": 1255,
+    "hijra_count": 0,
+    "latitude": 26.05114,
+    "longitude": 88.37318
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "লস্করা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1241,
+    "female_count": 1227,
+    "hijra_count": 0,
+    "latitude": 26.04108,
+    "longitude": 88.55787
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "লাউথুতি এস-সি উচ্চ বিদ্যালয়",
+    "male_count": 1108,
+    "female_count": 1124,
+    "hijra_count": 0,
+    "latitude": 26.09222,
+    "longitude": 88.58226
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "লাউথুতি বি এন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1202,
+    "female_count": 1184,
+    "hijra_count": 0,
+    "latitude": 26.08433,
+    "longitude": 88.57994
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "শাপলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1104,
+    "female_count": 1124,
+    "hijra_count": 0,
+    "latitude": 26.17712,
+    "longitude": 88.54312
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "শিংপাড়া কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1833,
+    "female_count": 1899,
+    "hijra_count": 0,
+    "latitude": 26.06525,
+    "longitude": 88.51059
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "শিবগঞ্জ ডিগ্রী কলেজ",
+    "male_count": 1589,
+    "female_count": 1608,
+    "hijra_count": 0,
+    "latitude": 25.99105,
+    "longitude": 88.39929
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "শুখানপুকুরী এল, এন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1054,
+    "female_count": 1067,
+    "hijra_count": 0,
+    "latitude": 26.10954,
+    "longitude": 88.60292
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "শোল্টহরী উচ্চ বিদ্যালয়",
+    "male_count": 1532,
+    "female_count": 1474,
+    "hijra_count": 0,
+    "latitude": 26.19636,
+    "longitude": 88.4957
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "শ্রীকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 622,
+    "female_count": 612,
+    "hijra_count": 0,
+    "latitude": 26.01404,
+    "longitude": 88.44817
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সবুজ গোয়ালপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1776,
+    "female_count": 1823,
+    "hijra_count": 0,
+    "latitude": 26.03843,
+    "longitude": 88.47234
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সরকারপাড়া রহমানিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2069,
+    "female_count": 2157,
+    "hijra_count": 0,
+    "latitude": 26.02822,
+    "longitude": 88.42176
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সালন্দর ইসলামিয়া কামিল মাদ্রাসা",
+    "male_count": 2347,
+    "female_count": 2438,
+    "hijra_count": 0,
+    "latitude": 26.03226,
+    "longitude": 88.48768
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সালন্দর উচ্চ বিদ্যালয়",
+    "male_count": 1594,
+    "female_count": 1666,
+    "hijra_count": 0,
+    "latitude": 26.05375,
+    "longitude": 88.50373
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সালন্দর চেয়ারম্যানপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1263,
+    "female_count": 1289,
+    "hijra_count": 0,
+    "latitude": 26.06438,
+    "longitude": 88.49497
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সালন্দর জামুরীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1333,
+    "female_count": 1372,
+    "hijra_count": 0,
+    "latitude": 26.04388,
+    "longitude": 88.48054
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সিংগিয়া মুন্সিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1173,
+    "female_count": 1097,
+    "hijra_count": 0,
+    "latitude": 26.00778,
+    "longitude": 88.49966
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সিংগিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1567,
+    "female_count": 1555,
+    "hijra_count": 0,
+    "latitude": 26.00051,
+    "longitude": 88.50644
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সেনিহারী ধনতলাডাংগা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 766,
+    "female_count": 706,
+    "hijra_count": 0,
+    "latitude": 26.14112,
+    "longitude": 88.38673
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সেনিহারী সরকারি প্রাথমিক বিদ্যলয়",
+    "male_count": 1416,
+    "female_count": 1413,
+    "hijra_count": 0,
+    "latitude": 26.16111,
+    "longitude": 88.39093
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "সৈয়দপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 922,
+    "female_count": 892,
+    "hijra_count": 0,
+    "latitude": 25.91542,
+    "longitude": 88.45331
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "হরিনারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1040,
+    "female_count": 1063,
+    "hijra_count": 0,
+    "latitude": 26.01309,
+    "longitude": 88.42487
+  },
+  {
+    "settings_code": 3,
+    "settings_name": "ঠাকুরগাঁও-১",
+    "center_name": "হাজীপাড়া আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 1932,
+    "female_count": 2098,
+    "hijra_count": 0,
+    "latitude": 26.024,
+    "longitude": 88.47138
+  }
 ]

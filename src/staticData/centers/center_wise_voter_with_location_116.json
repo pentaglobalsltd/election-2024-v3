@@ -1,1342 +1,1342 @@
 [
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১০২ নং (সাবেক ৪১) দঃ পশ্চিম জয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1750,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.50254,
-        "longitude": 90.67427
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১০৮ নং (সাবেক ৪৭ নং) মধ্য পক্ষিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2776,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.51368,
-        "longitude": 90.72986
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১০৮ নং (সাবেক ৪৭ নং) মধ্য পক্ষিয়া সরকারি প্রাথমিক বিদ্যালয় সংলগ্ন পক্ষিয়া দাখিল মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 2507,
-        "hijra_count": 0,
-        "latitude": 22.49981,
-        "longitude": 90.74817
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১০৯ নং (সাবেক ৪৮ নং) দক্ষিন বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1840,
-        "female_count": 1690,
-        "hijra_count": 0,
-        "latitude": 22.51873,
-        "longitude": 90.724
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১০ নং দক্ষিন কুতুবা-১ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1939,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.47329,
-        "longitude": 90.72069
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১০ নং দক্ষিন কুতুবা-১ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1812,
-        "hijra_count": 0,
-        "latitude": 22.47332,
-        "longitude": 90.72076
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১১৬ নং (সাবেক ৫৫ নং) দক্ষিন পশ্চিম হাসাননগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 645,
-        "female_count": 580,
-        "hijra_count": 0,
-        "latitude": 22.46314,
-        "longitude": 90.80426
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১১৭ নং (সাবেক ৫৬ নং) মধ্য ছোট মানিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1955,
-        "female_count": 1792,
-        "hijra_count": 0,
-        "latitude": 22.50181,
-        "longitude": 90.69209
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১৩০ নং (সাবেক ৬৯ নং) কুড়ালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2073,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.54439,
-        "longitude": 90.72546
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১৩০ নং (সাবেক ৬৯ নং) কুড়ালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1970,
-        "hijra_count": 0,
-        "latitude": 22.54442,
-        "longitude": 90.72545
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১৩ নং মানিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1417,
-        "female_count": 1329,
-        "hijra_count": 0,
-        "latitude": 22.52172,
-        "longitude": 90.70304
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১৫ নং লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1643,
-        "female_count": 1535,
-        "hijra_count": 0,
-        "latitude": 22.53751,
-        "longitude": 90.6888
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১৭ নং গংগাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 580,
-        "female_count": 426,
-        "hijra_count": 0,
-        "latitude": 22.54136,
-        "longitude": 90.6715
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১৯ নং ধারিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1679,
-        "hijra_count": 0,
-        "latitude": 22.50623,
-        "longitude": 90.67621
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "১৯ নং ধারিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1818,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.50629,
-        "longitude": 90.67623
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "২০ নং পশ্চিম জয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1578,
-        "hijra_count": 0,
-        "latitude": 22.50246,
-        "longitude": 90.67425
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "২১ নং জয়া বোর্ড সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2145,
-        "hijra_count": 0,
-        "latitude": 22.50533,
-        "longitude": 90.68148
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "২১ নং জয়া বোর্ড সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2325,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.50533,
-        "longitude": 90.68152
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "২৫ নং দরুন হাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1896,
-        "hijra_count": 0,
-        "latitude": 22.46167,
-        "longitude": 90.684
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "২৫ নং দরুন হাট সরকারী প্রাথমিক বিদ্যালয় ও সংলগ্ন মুজাম্মেল হক চৌধুরী মাঃ বিঃ",
-        "male_count": 2062,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.46138,
-        "longitude": 90.6839
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "২৭ নং গরীব মাঝি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1932,
-        "female_count": 1797,
-        "hijra_count": 0,
-        "latitude": 22.44717,
-        "longitude": 90.68776
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "২ নং চর টগবী সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1049,
-        "female_count": 980,
-        "hijra_count": 0,
-        "latitude": 22.71472,
-        "longitude": 90.72513
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩১ নং চরআলগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3056,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.43103,
-        "longitude": 90.72072
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩১ নং চরআলগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2814,
-        "hijra_count": 0,
-        "latitude": 22.43106,
-        "longitude": 90.72077
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩২ নং কাচিয়া রেডরোজ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1694,
-        "female_count": 1561,
-        "hijra_count": 0,
-        "latitude": 22.46985,
-        "longitude": 90.74207
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩৩ নং পশ্চিম কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1478,
-        "female_count": 1286,
-        "hijra_count": 0,
-        "latitude": 22.45902,
-        "longitude": 90.73616
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩৪ নং পূর্ব কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1608,
-        "female_count": 1345,
-        "hijra_count": 0,
-        "latitude": 22.47164,
-        "longitude": 90.75517
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩৬ নং ফুল কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1372,
-        "female_count": 1298,
-        "hijra_count": 0,
-        "latitude": 22.44062,
-        "longitude": 90.75768
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩৭ নং দক্ষিন ফুল কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1959,
-        "female_count": 1797,
-        "hijra_count": 0,
-        "latitude": 22.41391,
-        "longitude": 90.7497
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩৮ নং পশ্চিম ফুল কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2227,
-        "female_count": 2100,
-        "hijra_count": 0,
-        "latitude": 22.43535,
-        "longitude": 90.74191
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩৯ নং সিকদার হাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1935,
-        "female_count": 1825,
-        "hijra_count": 0,
-        "latitude": 22.40655,
-        "longitude": 90.78114
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৩ নং মধ্য বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1851,
-        "female_count": 1679,
-        "hijra_count": 0,
-        "latitude": 22.52713,
-        "longitude": 90.73563
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৪০ নং পদ্মা মনসা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1831,
-        "female_count": 1757,
-        "hijra_count": 0,
-        "latitude": 22.41237,
-        "longitude": 90.76357
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৪১ নং দক্ষিন টবগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1972,
-        "female_count": 1722,
-        "hijra_count": 0,
-        "latitude": 22.43219,
-        "longitude": 90.76876
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৪৩ নং মঠখোলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1628,
-        "female_count": 1574,
-        "hijra_count": 0,
-        "latitude": 22.45813,
-        "longitude": 90.77487
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৪৪ নং উত্তর-পূর্ব টবগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1955,
-        "female_count": 1806,
-        "hijra_count": 0,
-        "latitude": 22.46821,
-        "longitude": 90.78109
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৪৫ নং মুলাইপত্তন সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 3021,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.44675,
-        "longitude": 90.7783
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৪ নং পূর্ব বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1224,
-        "female_count": 1184,
-        "hijra_count": 0,
-        "latitude": 22.52525,
-        "longitude": 90.74583
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৫৮ নং ভৈরবগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1138,
-        "female_count": 1017,
-        "hijra_count": 0,
-        "latitude": 22.45112,
-        "longitude": 90.79262
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৫ নং উত্তর পূর্ব বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1687,
-        "female_count": 1519,
-        "hijra_count": 0,
-        "latitude": 22.54283,
-        "longitude": 90.74204
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৬০ নং মধ্য দালালপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1512,
-        "female_count": 1417,
-        "hijra_count": 0,
-        "latitude": 22.48275,
-        "longitude": 90.78922
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৬৯ নং উদয়ন মডেল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 992,
-        "female_count": 980,
-        "hijra_count": 0,
-        "latitude": 22.4914,
-        "longitude": 90.71067
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৭৩ নং (সাবেক ১২ নং) পূর্ব টবগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2120,
-        "female_count": 1877,
-        "hijra_count": 0,
-        "latitude": 22.47772,
-        "longitude": 90.76677
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৭৮ নং (সাবেক ১৭ নং) উত্তর বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1781,
-        "female_count": 1604,
-        "hijra_count": 0,
-        "latitude": 22.55491,
-        "longitude": 90.73973
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৮০ নং (সাবেক ১৯ নং) উত্তর-পূর্ব বড় মানিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1599,
-        "female_count": 1467,
-        "hijra_count": 0,
-        "latitude": 22.55151,
-        "longitude": 90.71759
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৯৩ নং (সাবেক ৩২ নং) চরগংগাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1958,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.47335,
-        "longitude": 90.68107
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৯৩ নং (সাবেক ৩২ নং) চরগংগাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1725,
-        "hijra_count": 0,
-        "latitude": 22.47338,
-        "longitude": 90.68103
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৯৫ নং (সাবেক ৩৪ নং) দালালপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1903,
-        "female_count": 1784,
-        "hijra_count": 0,
-        "latitude": 22.48071,
-        "longitude": 90.79813
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৯৯ নং (সাবেক ৩৮নং) হাসান নগর আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1661,
-        "female_count": 1399,
-        "hijra_count": 0,
-        "latitude": 22.49174,
-        "longitude": 90.79416
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "৯ নং কুতুবা সরকারী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 899,
-        "female_count": 835,
-        "hijra_count": 0,
-        "latitude": 22.48815,
-        "longitude": 90.72749
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "আজাহার আলী মাধ্যমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3095,
-        "hijra_count": 0,
-        "latitude": 22.56342,
-        "longitude": 90.7133
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "আবদুল জব্বার কলেজ",
-        "male_count": 2568,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.49329,
-        "longitude": 90.72045
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "আবদুল জব্বার কলেজ",
-        "male_count": 0,
-        "female_count": 2600,
-        "hijra_count": 0,
-        "latitude": 22.49431,
-        "longitude": 90.71932
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "উত্তর চর ছোটধলী সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 946,
-        "female_count": 828,
-        "hijra_count": 0,
-        "latitude": 22.58046,
-        "longitude": 90.72964
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "উত্তর জয়নগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1601,
-        "female_count": 1424,
-        "hijra_count": 0,
-        "latitude": 22.59278,
-        "longitude": 90.68957
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "উত্তর দিদারউল্যাহ সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 2108,
-        "female_count": 1864,
-        "hijra_count": 0,
-        "latitude": 22.61333,
-        "longitude": 90.6939
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "উত্তর পূর্ব চরখলিফা সঃ প্রাঃ বিদ্যালয় ও সংলগ্ন সুকদেব  মদন মোহন মাঃ বিদ্যালয়",
-        "male_count": 1567,
-        "female_count": 1408,
-        "hijra_count": 0,
-        "latitude": 22.60724,
-        "longitude": 90.73959
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "উত্তর পূর্ব মধ্য জয়নগর সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 2255,
-        "female_count": 1972,
-        "hijra_count": 0,
-        "latitude": 22.57104,
-        "longitude": 90.68719
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "উত্তর বিজয়পুর সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1403,
-        "female_count": 1358,
-        "hijra_count": 0,
-        "latitude": 22.58657,
-        "longitude": 90.74704
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "উদয়পুর মাধ্যমিক বিদ্যালয়",
-        "male_count": 1765,
-        "female_count": 1663,
-        "hijra_count": 0,
-        "latitude": 22.48924,
-        "longitude": 90.76517
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "কলাকোপা সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1547,
-        "female_count": 1374,
-        "hijra_count": 0,
-        "latitude": 22.57729,
-        "longitude": 90.71948
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "কাচিয়া টবগী মাধ্যমিক বিদ্যালয়",
-        "male_count": 1366,
-        "female_count": 1218,
-        "hijra_count": 0,
-        "latitude": 22.46035,
-        "longitude": 90.77369
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "কুলসুম রহমান মাধ্যমিক বিদ্যালয়",
-        "male_count": 1196,
-        "female_count": 1107,
-        "hijra_count": 0,
-        "latitude": 22.48772,
-        "longitude": 90.74474
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "খাদিজা খানম মাধ্যমিক বিদ্যালয়",
-        "male_count": 2100,
-        "female_count": 1985,
-        "hijra_count": 0,
-        "latitude": 22.60513,
-        "longitude": 90.71557
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "গুপ্তগঞ্জ সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1072,
-        "female_count": 1045,
-        "hijra_count": 0,
-        "latitude": 22.58905,
-        "longitude": 90.74361
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "চরগংগাপুর ইসলামিয়া দাখিল মাদ্রাসা",
-        "male_count": 1431,
-        "female_count": 1282,
-        "hijra_count": 0,
-        "latitude": 22.47351,
-        "longitude": 90.69363
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "চরগুমানী মাধ্যমিক বিদ্যালয় ও সংলগ্ন সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1615,
-        "female_count": 1377,
-        "hijra_count": 0,
-        "latitude": 22.63765,
-        "longitude": 90.6719
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "চর দিদারউল্যাহ সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1438,
-        "female_count": 1297,
-        "hijra_count": 0,
-        "latitude": 22.59632,
-        "longitude": 90.69592
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "চরপাতা মাধ্যমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2364,
-        "hijra_count": 0,
-        "latitude": 22.61883,
-        "longitude": 90.69598
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "চরপাতা মাঃ বিদ্যালয় সংলগ্ন সঃ প্রাঃ বিঃ",
-        "male_count": 2719,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.61889,
-        "longitude": 90.69594
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "চরলামছিপাতা সঃ প্রাঃ বিদ্যালয় ও সংলগ্ন হাসিনা নিজাম মাঃ বিদ্যালয়",
-        "male_count": 793,
-        "female_count": 762,
-        "hijra_count": 0,
-        "latitude": 22.63952,
-        "longitude": 90.683
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "চরশুভী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1836,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "ছাকিনা আদর্শ একাডেমী",
-        "male_count": 1801,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "ছোটধলী সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1837,
-        "female_count": 1778,
-        "hijra_count": 0,
-        "latitude": 22.56737,
-        "longitude": 90.73126
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "ছোট মানিকা সিনিয়র ফাজিল মাদ্রাসা",
-        "male_count": 1531,
-        "female_count": 1396,
-        "hijra_count": 0,
-        "latitude": 22.52653,
-        "longitude": 90.67297
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "জয়নগর  মাধ্যমিক বিদ্যালয়",
-        "male_count": 3017,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.59706,
-        "longitude": 90.65737
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "জয়নগর হাইসংলগ্ন সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2715,
-        "hijra_count": 0,
-        "latitude": 22.59705,
-        "longitude": 90.65743
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "জয়া মহিলা দাখিল মাদ্রাসা",
-        "male_count": 1358,
-        "female_count": 1205,
-        "hijra_count": 0,
-        "latitude": 22.51117,
-        "longitude": 90.67762
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "জামেয়া মোহাম্মদীয়া দারুচ্ছুন্নাহ মাদ্রাসা",
-        "male_count": 1394,
-        "female_count": 1236,
-        "hijra_count": 0,
-        "latitude": 22.6385,
-        "longitude": 90.6823
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "ডাকাতিয়া সঃ প্রাঃ বিদ্যালয় কাম সাইক্লোন সেন্টার",
-        "male_count": 1719,
-        "female_count": 1497,
-        "hijra_count": 0,
-        "latitude": 22.61153,
-        "longitude": 90.7367
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দক্ষিণ  জয়নগর হোসানিয়া ফাজিল মাদ্রাসা",
-        "male_count": 1223,
-        "female_count": 1179,
-        "hijra_count": 0,
-        "latitude": 22.55983,
-        "longitude": 90.68012
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দক্ষিণ পশ্চিম কলাকোপা সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1375,
-        "female_count": 1204,
-        "hijra_count": 0,
-        "latitude": 22.59498,
-        "longitude": 90.7059
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দক্ষিণ পশ্চিম জয়নগর সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1323,
-        "female_count": 1239,
-        "hijra_count": 0,
-        "latitude": 22.55126,
-        "longitude": 90.67982
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দক্ষিণ পশ্চিম মেদুয়া সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 752,
-        "female_count": 778,
-        "hijra_count": 0,
-        "latitude": 22.66126,
-        "longitude": 90.69031
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দক্ষিণ বড়ধলী আহাম্মদিয়া দাখিল মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 1959,
-        "hijra_count": 0,
-        "latitude": 22.56204,
-        "longitude": 90.73545
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দঃ পঃ সৈয়দপুর হাওলাদার পাড়া সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 2140,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.5611,
-        "longitude": 90.74212
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দিদারউল্যাহ সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1822,
-        "female_count": 1624,
-        "hijra_count": 0,
-        "latitude": 22.61041,
-        "longitude": 90.71567
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দূর্লভপুর সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1622,
-        "female_count": 1542,
-        "hijra_count": 0,
-        "latitude": 22.60449,
-        "longitude": 90.74937
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দেউলা তালুকদার বাড়ী মাধ্যমিক বিদ্যালয়",
-        "male_count": 2801,
-        "female_count": 2605,
-        "hijra_count": 0,
-        "latitude": 22.4466,
-        "longitude": 90.70156
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দেউলা মনোয়ারা বালিকা দাখিল মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 2424,
-        "hijra_count": 0,
-        "latitude": 22.42151,
-        "longitude": 90.69525
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দেউলা মনোয়ারা বালিকা দাখিল মাদ্রাসা",
-        "male_count": 2573,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.42477,
-        "longitude": 90.69523
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দেউলা রজ্জব আলী মাধ্যমিক বিদ্যালয়",
-        "male_count": 2260,
-        "female_count": 2103,
-        "hijra_count": 0,
-        "latitude": 22.42427,
-        "longitude": 90.68076
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দৌলতখান বাজার সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2414,
-        "hijra_count": 0,
-        "latitude": 22.60411,
-        "longitude": 90.74478
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দৌলতখান বালক সরকারী উচ্চ বিদ্যালয়-১",
-        "male_count": 2751,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.59169,
-        "longitude": 90.74763
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "দৌলতখান বালক সরকারী উচ্চ বিদ্যালয়-২",
-        "male_count": 0,
-        "female_count": 2448,
-        "hijra_count": 0,
-        "latitude": 22.59155,
-        "longitude": 90.74771
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "নয়া হাওলা সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 2003,
-        "female_count": 1833,
-        "hijra_count": 0,
-        "latitude": 22.56139,
-        "longitude": 90.6653
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "নলগোড়া সঃ প্রাঃ বিঃ",
-        "male_count": 1417,
-        "female_count": 1236,
-        "hijra_count": 0,
-        "latitude": 22.61719,
-        "longitude": 90.67697
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "নাছিরাবাদ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2885,
-        "hijra_count": 0,
-        "latitude": 22.44678,
-        "longitude": 90.77836
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "নুর মিয়ার হাট সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 3403,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.5635,
-        "longitude": 90.71353
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "নেছারিয়া হাফিজিয়া মাদ্রাসা",
-        "male_count": 1139,
-        "female_count": 992,
-        "hijra_count": 0,
-        "latitude": 22.4865,
-        "longitude": 90.75587
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "পক্ষিয়া মাধ্যমিক বিদ্যালয়",
-        "male_count": 2211,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.50174,
-        "longitude": 90.74751
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "পক্ষিয়া মাধ্যমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1950,
-        "hijra_count": 2,
-        "latitude": 22.51368,
-        "longitude": 90.72978
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "পশ্চিম চরখলিফা সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 897,
-        "female_count": 751,
-        "hijra_count": 0,
-        "latitude": 22.6079,
-        "longitude": 90.72462
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "পশ্চিম মেদুয়া সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 686,
-        "female_count": 704,
-        "hijra_count": 0,
-        "latitude": 22.66175,
-        "longitude": 90.69413
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "পশ্চিম রামরতন সঃ প্রাঃ বিদ্যালয়  ও  উপজেলা রিসোর্স সেন্টার",
-        "male_count": 1800,
-        "female_count": 1598,
-        "hijra_count": 0,
-        "latitude": 22.59805,
-        "longitude": 90.74747
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "পূর্ব নলগোড়া সঃ প্রাঃ বিঃ ও সংলগ্ন নলগোড়া শরীফ বাড়ী মাধ্যমিক বিদ্যালয়",
-        "male_count": 1753,
-        "female_count": 1564,
-        "hijra_count": 0,
-        "latitude": 22.61696,
-        "longitude": 90.6769
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "ফকিরবাড়ী সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1364,
-        "female_count": 1225,
-        "hijra_count": 0,
-        "latitude": 22.59355,
-        "longitude": 90.67995
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "বড়ধলী সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1831,
-        "female_count": 1763,
-        "hijra_count": 0,
-        "latitude": 22.56888,
-        "longitude": 90.74321
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "বড়মানিকা কাসেমিয়া দাখিল মাদ্রাসা",
-        "male_count": 1582,
-        "female_count": 1583,
-        "hijra_count": 0,
-        "latitude": 22.52584,
-        "longitude": 90.70486
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "বামনপুর সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1179,
-        "female_count": 1198,
-        "hijra_count": 0,
-        "latitude": 22.6005,
-        "longitude": 90.75096
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "বীরশ্রেষ্ঠ মোস্তফা কামাল মাধ্যমিক বিদ্যালয়",
-        "male_count": 2754,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.6041,
-        "longitude": 90.74485
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "বোরহানউদ্দিন আলীয়া মাদ্রাসা",
-        "male_count": 1749,
-        "female_count": 1685,
-        "hijra_count": 0,
-        "latitude": 22.52038,
-        "longitude": 90.71755
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "বোরহানউদ্দিন রহমানিয়া দাখিল মাদ্রাসা",
-        "male_count": 1184,
-        "female_count": 1205,
-        "hijra_count": 0,
-        "latitude": 22.49916,
-        "longitude": 90.71452
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "বোরহানউদ্দিন সরকারি উচ্চ বিদ্যালয়",
-        "male_count": 1392,
-        "female_count": 1402,
-        "hijra_count": 0,
-        "latitude": 22.50051,
-        "longitude": 90.71581
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "ভবানীপুর ইউনিয়ন পরিষদ ও সংলগ্ন মধ্য ভবানীপুর সঃ প্রাঃ বিঃ",
-        "male_count": 980,
-        "female_count": 1051,
-        "hijra_count": 0,
-        "latitude": 22.59038,
-        "longitude": 90.75281
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মজমহাট ফাজিল (বিএ) মাদ্রাসা",
-        "male_count": 2347,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.42201,
-        "longitude": 90.69895
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মজমহাট ফাজিল (বিএ) মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 2082,
-        "hijra_count": 0,
-        "latitude": 22.42202,
-        "longitude": 90.69895
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মদনপুর ৩৮নং চরপদ্মা মকবুল আহাম্মদ সরকারি প্রাথমিক বিদ্যালয় কাম সাইক্লোন সেন্টার",
-        "male_count": 1234,
-        "female_count": 1209,
-        "hijra_count": 0,
-        "latitude": 22.7152,
-        "longitude": 90.71512
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মদনপুর দ্বায়রা সঃ প্রাঃ বিঃ",
-        "male_count": 1710,
-        "female_count": 1602,
-        "hijra_count": 0,
-        "latitude": 22.63604,
-        "longitude": 90.68781
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মদনপুর বোর্ড সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1657,
-        "female_count": 1476,
-        "hijra_count": 0,
-        "latitude": 22.58484,
-        "longitude": 90.74645
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মধ্য কলাকোপা সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1930,
-        "female_count": 1704,
-        "hijra_count": 0,
-        "latitude": 22.59747,
-        "longitude": 90.72569
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মধ্য জয়নগর আজিমবাড়ী হাওলা দাখিল মাদ্রাসা",
-        "male_count": 2314,
-        "female_count": 2149,
-        "hijra_count": 0,
-        "latitude": 22.5853,
-        "longitude": 90.67592
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মহীউসুন্নাহ নুরানী মাদ্রাসা",
-        "male_count": 994,
-        "female_count": 875,
-        "hijra_count": 0,
-        "latitude": 22.63744,
-        "longitude": 90.6944
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মানিকারহাট মাধ্যমিক বিদ্যালয়",
-        "male_count": 1450,
-        "female_count": 1366,
-        "hijra_count": 0,
-        "latitude": 22.52491,
-        "longitude": 90.70046
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মির্জা কালু বালিকা মাধ্যমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2396,
-        "hijra_count": 0,
-        "latitude": 22.47031,
-        "longitude": 90.79963
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মির্জা কালু বালিকা মাধ্যমিক বিদ্যালয়",
-        "male_count": 2718,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.47032,
-        "longitude": 90.79962
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মেদুয়া বায়তুন নূর দাখিল মাদ্রাসা",
-        "male_count": 762,
-        "female_count": 770,
-        "hijra_count": 0,
-        "latitude": 22.64773,
-        "longitude": 90.68829
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "মোহনপুর সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1589,
-        "female_count": 1526,
-        "hijra_count": 0,
-        "latitude": 22.55444,
-        "longitude": 90.68553
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "সর্দারহাট সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 845,
-        "female_count": 806,
-        "hijra_count": 0,
-        "latitude": 22.58336,
-        "longitude": 90.67881
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "সুকদেব সঃ প্রাঃ বিদ্যালয়",
-        "male_count": 1849,
-        "female_count": 1714,
-        "hijra_count": 0,
-        "latitude": 22.57593,
-        "longitude": 90.74107
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "স্বরাজগঞ্জ মাধ্যমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2057,
-        "hijra_count": 0,
-        "latitude": 22.50528,
-        "longitude": 90.76565
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "স্বরাজগঞ্জ মাধ্যমিক বিদ্যালয়",
-        "male_count": 2206,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.50532,
-        "longitude": 90.7657
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "স্বরাজগঞ্জ মাধ্যমিক বিদ্যালয়",
-        "male_count": 1209,
-        "female_count": 1207,
-        "hijra_count": 0,
-        "latitude": 22.50533,
-        "longitude": 90.76563
-    },
-    {
-        "settings_code": 116,
-        "settings_name": "ভোলা-২",
-        "center_name": "হাসান নগর সেরাজিয়া দাখিল মাদ্রাসা",
-        "male_count": 1469,
-        "female_count": 1320,
-        "hijra_count": 0,
-        "latitude": 22.46711,
-        "longitude": 90.81362
-    }
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১০২ নং (সাবেক ৪১) দঃ পশ্চিম জয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1750,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.50254,
+    "longitude": 90.67427
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১০৮ নং (সাবেক ৪৭ নং) মধ্য পক্ষিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2776,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.51368,
+    "longitude": 90.72986
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১০৮ নং (সাবেক ৪৭ নং) মধ্য পক্ষিয়া সরকারি প্রাথমিক বিদ্যালয় সংলগ্ন পক্ষিয়া দাখিল মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 2507,
+    "hijra_count": 0,
+    "latitude": 22.49981,
+    "longitude": 90.74817
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১০৯ নং (সাবেক ৪৮ নং) দক্ষিন বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1840,
+    "female_count": 1690,
+    "hijra_count": 0,
+    "latitude": 22.51873,
+    "longitude": 90.724
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১০ নং দক্ষিন কুতুবা-১ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1939,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.47329,
+    "longitude": 90.72069
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১০ নং দক্ষিন কুতুবা-১ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1812,
+    "hijra_count": 0,
+    "latitude": 22.47332,
+    "longitude": 90.72076
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১১৬ নং (সাবেক ৫৫ নং) দক্ষিন পশ্চিম হাসাননগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 645,
+    "female_count": 580,
+    "hijra_count": 0,
+    "latitude": 22.46314,
+    "longitude": 90.80426
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১১৭ নং (সাবেক ৫৬ নং) মধ্য ছোট মানিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1955,
+    "female_count": 1792,
+    "hijra_count": 0,
+    "latitude": 22.50181,
+    "longitude": 90.69209
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১৩০ নং (সাবেক ৬৯ নং) কুড়ালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2073,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.54439,
+    "longitude": 90.72546
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১৩০ নং (সাবেক ৬৯ নং) কুড়ালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1970,
+    "hijra_count": 0,
+    "latitude": 22.54442,
+    "longitude": 90.72545
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১৩ নং মানিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1417,
+    "female_count": 1329,
+    "hijra_count": 0,
+    "latitude": 22.52172,
+    "longitude": 90.70304
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১৫ নং লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1643,
+    "female_count": 1535,
+    "hijra_count": 0,
+    "latitude": 22.53751,
+    "longitude": 90.6888
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১৭ নং গংগাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 580,
+    "female_count": 426,
+    "hijra_count": 0,
+    "latitude": 22.54136,
+    "longitude": 90.6715
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১৯ নং ধারিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1679,
+    "hijra_count": 0,
+    "latitude": 22.50623,
+    "longitude": 90.67621
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "১৯ নং ধারিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1818,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.50629,
+    "longitude": 90.67623
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "২০ নং পশ্চিম জয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1578,
+    "hijra_count": 0,
+    "latitude": 22.50246,
+    "longitude": 90.67425
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "২১ নং জয়া বোর্ড সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2145,
+    "hijra_count": 0,
+    "latitude": 22.50533,
+    "longitude": 90.68148
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "২১ নং জয়া বোর্ড সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2325,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.50533,
+    "longitude": 90.68152
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "২৫ নং দরুন হাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1896,
+    "hijra_count": 0,
+    "latitude": 22.46167,
+    "longitude": 90.684
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "২৫ নং দরুন হাট সরকারী প্রাথমিক বিদ্যালয় ও সংলগ্ন মুজাম্মেল হক চৌধুরী মাঃ বিঃ",
+    "male_count": 2062,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.46138,
+    "longitude": 90.6839
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "২৭ নং গরীব মাঝি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1932,
+    "female_count": 1797,
+    "hijra_count": 0,
+    "latitude": 22.44717,
+    "longitude": 90.68776
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "২ নং চর টগবী সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1049,
+    "female_count": 980,
+    "hijra_count": 0,
+    "latitude": 22.71472,
+    "longitude": 90.72513
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩১ নং চরআলগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3056,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.43103,
+    "longitude": 90.72072
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩১ নং চরআলগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2814,
+    "hijra_count": 0,
+    "latitude": 22.43106,
+    "longitude": 90.72077
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩২ নং কাচিয়া রেডরোজ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1694,
+    "female_count": 1561,
+    "hijra_count": 0,
+    "latitude": 22.46985,
+    "longitude": 90.74207
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩৩ নং পশ্চিম কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1478,
+    "female_count": 1286,
+    "hijra_count": 0,
+    "latitude": 22.45902,
+    "longitude": 90.73616
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩৪ নং পূর্ব কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1608,
+    "female_count": 1345,
+    "hijra_count": 0,
+    "latitude": 22.47164,
+    "longitude": 90.75517
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩৬ নং ফুল কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1372,
+    "female_count": 1298,
+    "hijra_count": 0,
+    "latitude": 22.44062,
+    "longitude": 90.75768
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩৭ নং দক্ষিন ফুল কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1959,
+    "female_count": 1797,
+    "hijra_count": 0,
+    "latitude": 22.41391,
+    "longitude": 90.7497
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩৮ নং পশ্চিম ফুল কাচিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2227,
+    "female_count": 2100,
+    "hijra_count": 0,
+    "latitude": 22.43535,
+    "longitude": 90.74191
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩৯ নং সিকদার হাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1935,
+    "female_count": 1825,
+    "hijra_count": 0,
+    "latitude": 22.40655,
+    "longitude": 90.78114
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৩ নং মধ্য বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1851,
+    "female_count": 1679,
+    "hijra_count": 0,
+    "latitude": 22.52713,
+    "longitude": 90.73563
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৪০ নং পদ্মা মনসা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1831,
+    "female_count": 1757,
+    "hijra_count": 0,
+    "latitude": 22.41237,
+    "longitude": 90.76357
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৪১ নং দক্ষিন টবগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1972,
+    "female_count": 1722,
+    "hijra_count": 0,
+    "latitude": 22.43219,
+    "longitude": 90.76876
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৪৩ নং মঠখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1628,
+    "female_count": 1574,
+    "hijra_count": 0,
+    "latitude": 22.45813,
+    "longitude": 90.77487
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৪৪ নং উত্তর-পূর্ব টবগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1955,
+    "female_count": 1806,
+    "hijra_count": 0,
+    "latitude": 22.46821,
+    "longitude": 90.78109
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৪৫ নং মুলাইপত্তন সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 3021,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.44675,
+    "longitude": 90.7783
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৪ নং পূর্ব বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1224,
+    "female_count": 1184,
+    "hijra_count": 0,
+    "latitude": 22.52525,
+    "longitude": 90.74583
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৫৮ নং ভৈরবগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1138,
+    "female_count": 1017,
+    "hijra_count": 0,
+    "latitude": 22.45112,
+    "longitude": 90.79262
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৫ নং উত্তর পূর্ব বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1687,
+    "female_count": 1519,
+    "hijra_count": 0,
+    "latitude": 22.54283,
+    "longitude": 90.74204
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৬০ নং মধ্য দালালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1512,
+    "female_count": 1417,
+    "hijra_count": 0,
+    "latitude": 22.48275,
+    "longitude": 90.78922
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৬৯ নং উদয়ন মডেল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 992,
+    "female_count": 980,
+    "hijra_count": 0,
+    "latitude": 22.4914,
+    "longitude": 90.71067
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৭৩ নং (সাবেক ১২ নং) পূর্ব টবগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2120,
+    "female_count": 1877,
+    "hijra_count": 0,
+    "latitude": 22.47772,
+    "longitude": 90.76677
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৭৮ নং (সাবেক ১৭ নং) উত্তর বাটামারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1781,
+    "female_count": 1604,
+    "hijra_count": 0,
+    "latitude": 22.55491,
+    "longitude": 90.73973
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৮০ নং (সাবেক ১৯ নং) উত্তর-পূর্ব বড় মানিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1599,
+    "female_count": 1467,
+    "hijra_count": 0,
+    "latitude": 22.55151,
+    "longitude": 90.71759
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৯৩ নং (সাবেক ৩২ নং) চরগংগাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1958,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.47335,
+    "longitude": 90.68107
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৯৩ নং (সাবেক ৩২ নং) চরগংগাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1725,
+    "hijra_count": 0,
+    "latitude": 22.47338,
+    "longitude": 90.68103
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৯৫ নং (সাবেক ৩৪ নং) দালালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1903,
+    "female_count": 1784,
+    "hijra_count": 0,
+    "latitude": 22.48071,
+    "longitude": 90.79813
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৯৯ নং (সাবেক ৩৮নং) হাসান নগর আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1661,
+    "female_count": 1399,
+    "hijra_count": 0,
+    "latitude": 22.49174,
+    "longitude": 90.79416
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "৯ নং কুতুবা সরকারী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 899,
+    "female_count": 835,
+    "hijra_count": 0,
+    "latitude": 22.48815,
+    "longitude": 90.72749
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "আজাহার আলী মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3095,
+    "hijra_count": 0,
+    "latitude": 22.56342,
+    "longitude": 90.7133
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "আবদুল জব্বার কলেজ",
+    "male_count": 2568,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.49329,
+    "longitude": 90.72045
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "আবদুল জব্বার কলেজ",
+    "male_count": 0,
+    "female_count": 2600,
+    "hijra_count": 0,
+    "latitude": 22.49431,
+    "longitude": 90.71932
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "উত্তর চর ছোটধলী সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 946,
+    "female_count": 828,
+    "hijra_count": 0,
+    "latitude": 22.58046,
+    "longitude": 90.72964
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "উত্তর জয়নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1601,
+    "female_count": 1424,
+    "hijra_count": 0,
+    "latitude": 22.59278,
+    "longitude": 90.68957
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "উত্তর দিদারউল্যাহ সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 2108,
+    "female_count": 1864,
+    "hijra_count": 0,
+    "latitude": 22.61333,
+    "longitude": 90.6939
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "উত্তর পূর্ব চরখলিফা সঃ প্রাঃ বিদ্যালয় ও সংলগ্ন সুকদেব  মদন মোহন মাঃ বিদ্যালয়",
+    "male_count": 1567,
+    "female_count": 1408,
+    "hijra_count": 0,
+    "latitude": 22.60724,
+    "longitude": 90.73959
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "উত্তর পূর্ব মধ্য জয়নগর সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 2255,
+    "female_count": 1972,
+    "hijra_count": 0,
+    "latitude": 22.57104,
+    "longitude": 90.68719
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "উত্তর বিজয়পুর সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1403,
+    "female_count": 1358,
+    "hijra_count": 0,
+    "latitude": 22.58657,
+    "longitude": 90.74704
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "উদয়পুর মাধ্যমিক বিদ্যালয়",
+    "male_count": 1765,
+    "female_count": 1663,
+    "hijra_count": 0,
+    "latitude": 22.48924,
+    "longitude": 90.76517
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "কলাকোপা সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1547,
+    "female_count": 1374,
+    "hijra_count": 0,
+    "latitude": 22.57729,
+    "longitude": 90.71948
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "কাচিয়া টবগী মাধ্যমিক বিদ্যালয়",
+    "male_count": 1366,
+    "female_count": 1218,
+    "hijra_count": 0,
+    "latitude": 22.46035,
+    "longitude": 90.77369
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "কুলসুম রহমান মাধ্যমিক বিদ্যালয়",
+    "male_count": 1196,
+    "female_count": 1107,
+    "hijra_count": 0,
+    "latitude": 22.48772,
+    "longitude": 90.74474
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "খাদিজা খানম মাধ্যমিক বিদ্যালয়",
+    "male_count": 2100,
+    "female_count": 1985,
+    "hijra_count": 0,
+    "latitude": 22.60513,
+    "longitude": 90.71557
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "গুপ্তগঞ্জ সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1072,
+    "female_count": 1045,
+    "hijra_count": 0,
+    "latitude": 22.58905,
+    "longitude": 90.74361
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "চরগংগাপুর ইসলামিয়া দাখিল মাদ্রাসা",
+    "male_count": 1431,
+    "female_count": 1282,
+    "hijra_count": 0,
+    "latitude": 22.47351,
+    "longitude": 90.69363
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "চরগুমানী মাধ্যমিক বিদ্যালয় ও সংলগ্ন সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1615,
+    "female_count": 1377,
+    "hijra_count": 0,
+    "latitude": 22.63765,
+    "longitude": 90.6719
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "চর দিদারউল্যাহ সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1438,
+    "female_count": 1297,
+    "hijra_count": 0,
+    "latitude": 22.59632,
+    "longitude": 90.69592
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "চরপাতা মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2364,
+    "hijra_count": 0,
+    "latitude": 22.61883,
+    "longitude": 90.69598
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "চরপাতা মাঃ বিদ্যালয় সংলগ্ন সঃ প্রাঃ বিঃ",
+    "male_count": 2719,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.61889,
+    "longitude": 90.69594
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "চরলামছিপাতা সঃ প্রাঃ বিদ্যালয় ও সংলগ্ন হাসিনা নিজাম মাঃ বিদ্যালয়",
+    "male_count": 793,
+    "female_count": 762,
+    "hijra_count": 0,
+    "latitude": 22.63952,
+    "longitude": 90.683
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "চরশুভী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1836,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "ছাকিনা আদর্শ একাডেমী",
+    "male_count": 1801,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "ছোটধলী সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1837,
+    "female_count": 1778,
+    "hijra_count": 0,
+    "latitude": 22.56737,
+    "longitude": 90.73126
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "ছোট মানিকা সিনিয়র ফাজিল মাদ্রাসা",
+    "male_count": 1531,
+    "female_count": 1396,
+    "hijra_count": 0,
+    "latitude": 22.52653,
+    "longitude": 90.67297
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "জয়নগর  মাধ্যমিক বিদ্যালয়",
+    "male_count": 3017,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.59706,
+    "longitude": 90.65737
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "জয়নগর হাইসংলগ্ন সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2715,
+    "hijra_count": 0,
+    "latitude": 22.59705,
+    "longitude": 90.65743
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "জয়া মহিলা দাখিল মাদ্রাসা",
+    "male_count": 1358,
+    "female_count": 1205,
+    "hijra_count": 0,
+    "latitude": 22.51117,
+    "longitude": 90.67762
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "জামেয়া মোহাম্মদীয়া দারুচ্ছুন্নাহ মাদ্রাসা",
+    "male_count": 1394,
+    "female_count": 1236,
+    "hijra_count": 0,
+    "latitude": 22.6385,
+    "longitude": 90.6823
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "ডাকাতিয়া সঃ প্রাঃ বিদ্যালয় কাম সাইক্লোন সেন্টার",
+    "male_count": 1719,
+    "female_count": 1497,
+    "hijra_count": 0,
+    "latitude": 22.61153,
+    "longitude": 90.7367
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দক্ষিণ  জয়নগর হোসানিয়া ফাজিল মাদ্রাসা",
+    "male_count": 1223,
+    "female_count": 1179,
+    "hijra_count": 0,
+    "latitude": 22.55983,
+    "longitude": 90.68012
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দক্ষিণ পশ্চিম কলাকোপা সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1375,
+    "female_count": 1204,
+    "hijra_count": 0,
+    "latitude": 22.59498,
+    "longitude": 90.7059
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দক্ষিণ পশ্চিম জয়নগর সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1323,
+    "female_count": 1239,
+    "hijra_count": 0,
+    "latitude": 22.55126,
+    "longitude": 90.67982
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দক্ষিণ পশ্চিম মেদুয়া সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 752,
+    "female_count": 778,
+    "hijra_count": 0,
+    "latitude": 22.66126,
+    "longitude": 90.69031
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দক্ষিণ বড়ধলী আহাম্মদিয়া দাখিল মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 1959,
+    "hijra_count": 0,
+    "latitude": 22.56204,
+    "longitude": 90.73545
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দঃ পঃ সৈয়দপুর হাওলাদার পাড়া সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 2140,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.5611,
+    "longitude": 90.74212
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দিদারউল্যাহ সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1822,
+    "female_count": 1624,
+    "hijra_count": 0,
+    "latitude": 22.61041,
+    "longitude": 90.71567
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দূর্লভপুর সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1622,
+    "female_count": 1542,
+    "hijra_count": 0,
+    "latitude": 22.60449,
+    "longitude": 90.74937
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দেউলা তালুকদার বাড়ী মাধ্যমিক বিদ্যালয়",
+    "male_count": 2801,
+    "female_count": 2605,
+    "hijra_count": 0,
+    "latitude": 22.4466,
+    "longitude": 90.70156
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দেউলা মনোয়ারা বালিকা দাখিল মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 2424,
+    "hijra_count": 0,
+    "latitude": 22.42151,
+    "longitude": 90.69525
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দেউলা মনোয়ারা বালিকা দাখিল মাদ্রাসা",
+    "male_count": 2573,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.42477,
+    "longitude": 90.69523
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দেউলা রজ্জব আলী মাধ্যমিক বিদ্যালয়",
+    "male_count": 2260,
+    "female_count": 2103,
+    "hijra_count": 0,
+    "latitude": 22.42427,
+    "longitude": 90.68076
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দৌলতখান বাজার সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2414,
+    "hijra_count": 0,
+    "latitude": 22.60411,
+    "longitude": 90.74478
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দৌলতখান বালক সরকারী উচ্চ বিদ্যালয়-১",
+    "male_count": 2751,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.59169,
+    "longitude": 90.74763
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "দৌলতখান বালক সরকারী উচ্চ বিদ্যালয়-২",
+    "male_count": 0,
+    "female_count": 2448,
+    "hijra_count": 0,
+    "latitude": 22.59155,
+    "longitude": 90.74771
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "নয়া হাওলা সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 2003,
+    "female_count": 1833,
+    "hijra_count": 0,
+    "latitude": 22.56139,
+    "longitude": 90.6653
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "নলগোড়া সঃ প্রাঃ বিঃ",
+    "male_count": 1417,
+    "female_count": 1236,
+    "hijra_count": 0,
+    "latitude": 22.61719,
+    "longitude": 90.67697
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "নাছিরাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2885,
+    "hijra_count": 0,
+    "latitude": 22.44678,
+    "longitude": 90.77836
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "নুর মিয়ার হাট সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 3403,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.5635,
+    "longitude": 90.71353
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "নেছারিয়া হাফিজিয়া মাদ্রাসা",
+    "male_count": 1139,
+    "female_count": 992,
+    "hijra_count": 0,
+    "latitude": 22.4865,
+    "longitude": 90.75587
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "পক্ষিয়া মাধ্যমিক বিদ্যালয়",
+    "male_count": 2211,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.50174,
+    "longitude": 90.74751
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "পক্ষিয়া মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1950,
+    "hijra_count": 2,
+    "latitude": 22.51368,
+    "longitude": 90.72978
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "পশ্চিম চরখলিফা সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 897,
+    "female_count": 751,
+    "hijra_count": 0,
+    "latitude": 22.6079,
+    "longitude": 90.72462
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "পশ্চিম মেদুয়া সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 686,
+    "female_count": 704,
+    "hijra_count": 0,
+    "latitude": 22.66175,
+    "longitude": 90.69413
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "পশ্চিম রামরতন সঃ প্রাঃ বিদ্যালয়  ও  উপজেলা রিসোর্স সেন্টার",
+    "male_count": 1800,
+    "female_count": 1598,
+    "hijra_count": 0,
+    "latitude": 22.59805,
+    "longitude": 90.74747
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "পূর্ব নলগোড়া সঃ প্রাঃ বিঃ ও সংলগ্ন নলগোড়া শরীফ বাড়ী মাধ্যমিক বিদ্যালয়",
+    "male_count": 1753,
+    "female_count": 1564,
+    "hijra_count": 0,
+    "latitude": 22.61696,
+    "longitude": 90.6769
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "ফকিরবাড়ী সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1364,
+    "female_count": 1225,
+    "hijra_count": 0,
+    "latitude": 22.59355,
+    "longitude": 90.67995
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "বড়ধলী সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1831,
+    "female_count": 1763,
+    "hijra_count": 0,
+    "latitude": 22.56888,
+    "longitude": 90.74321
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "বড়মানিকা কাসেমিয়া দাখিল মাদ্রাসা",
+    "male_count": 1582,
+    "female_count": 1583,
+    "hijra_count": 0,
+    "latitude": 22.52584,
+    "longitude": 90.70486
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "বামনপুর সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1179,
+    "female_count": 1198,
+    "hijra_count": 0,
+    "latitude": 22.6005,
+    "longitude": 90.75096
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "বীরশ্রেষ্ঠ মোস্তফা কামাল মাধ্যমিক বিদ্যালয়",
+    "male_count": 2754,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.6041,
+    "longitude": 90.74485
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "বোরহানউদ্দিন আলীয়া মাদ্রাসা",
+    "male_count": 1749,
+    "female_count": 1685,
+    "hijra_count": 0,
+    "latitude": 22.52038,
+    "longitude": 90.71755
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "বোরহানউদ্দিন রহমানিয়া দাখিল মাদ্রাসা",
+    "male_count": 1184,
+    "female_count": 1205,
+    "hijra_count": 0,
+    "latitude": 22.49916,
+    "longitude": 90.71452
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "বোরহানউদ্দিন সরকারি উচ্চ বিদ্যালয়",
+    "male_count": 1392,
+    "female_count": 1402,
+    "hijra_count": 0,
+    "latitude": 22.50051,
+    "longitude": 90.71581
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "ভবানীপুর ইউনিয়ন পরিষদ ও সংলগ্ন মধ্য ভবানীপুর সঃ প্রাঃ বিঃ",
+    "male_count": 980,
+    "female_count": 1051,
+    "hijra_count": 0,
+    "latitude": 22.59038,
+    "longitude": 90.75281
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মজমহাট ফাজিল (বিএ) মাদ্রাসা",
+    "male_count": 2347,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.42201,
+    "longitude": 90.69895
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মজমহাট ফাজিল (বিএ) মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 2082,
+    "hijra_count": 0,
+    "latitude": 22.42202,
+    "longitude": 90.69895
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মদনপুর ৩৮নং চরপদ্মা মকবুল আহাম্মদ সরকারি প্রাথমিক বিদ্যালয় কাম সাইক্লোন সেন্টার",
+    "male_count": 1234,
+    "female_count": 1209,
+    "hijra_count": 0,
+    "latitude": 22.7152,
+    "longitude": 90.71512
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মদনপুর দ্বায়রা সঃ প্রাঃ বিঃ",
+    "male_count": 1710,
+    "female_count": 1602,
+    "hijra_count": 0,
+    "latitude": 22.63604,
+    "longitude": 90.68781
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মদনপুর বোর্ড সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1657,
+    "female_count": 1476,
+    "hijra_count": 0,
+    "latitude": 22.58484,
+    "longitude": 90.74645
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মধ্য কলাকোপা সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1930,
+    "female_count": 1704,
+    "hijra_count": 0,
+    "latitude": 22.59747,
+    "longitude": 90.72569
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মধ্য জয়নগর আজিমবাড়ী হাওলা দাখিল মাদ্রাসা",
+    "male_count": 2314,
+    "female_count": 2149,
+    "hijra_count": 0,
+    "latitude": 22.5853,
+    "longitude": 90.67592
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মহীউসুন্নাহ নুরানী মাদ্রাসা",
+    "male_count": 994,
+    "female_count": 875,
+    "hijra_count": 0,
+    "latitude": 22.63744,
+    "longitude": 90.6944
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মানিকারহাট মাধ্যমিক বিদ্যালয়",
+    "male_count": 1450,
+    "female_count": 1366,
+    "hijra_count": 0,
+    "latitude": 22.52491,
+    "longitude": 90.70046
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মির্জা কালু বালিকা মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2396,
+    "hijra_count": 0,
+    "latitude": 22.47031,
+    "longitude": 90.79963
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মির্জা কালু বালিকা মাধ্যমিক বিদ্যালয়",
+    "male_count": 2718,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.47032,
+    "longitude": 90.79962
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মেদুয়া বায়তুন নূর দাখিল মাদ্রাসা",
+    "male_count": 762,
+    "female_count": 770,
+    "hijra_count": 0,
+    "latitude": 22.64773,
+    "longitude": 90.68829
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "মোহনপুর সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1589,
+    "female_count": 1526,
+    "hijra_count": 0,
+    "latitude": 22.55444,
+    "longitude": 90.68553
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "সর্দারহাট সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 845,
+    "female_count": 806,
+    "hijra_count": 0,
+    "latitude": 22.58336,
+    "longitude": 90.67881
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "সুকদেব সঃ প্রাঃ বিদ্যালয়",
+    "male_count": 1849,
+    "female_count": 1714,
+    "hijra_count": 0,
+    "latitude": 22.57593,
+    "longitude": 90.74107
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "স্বরাজগঞ্জ মাধ্যমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2057,
+    "hijra_count": 0,
+    "latitude": 22.50528,
+    "longitude": 90.76565
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "স্বরাজগঞ্জ মাধ্যমিক বিদ্যালয়",
+    "male_count": 2206,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.50532,
+    "longitude": 90.7657
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "স্বরাজগঞ্জ মাধ্যমিক বিদ্যালয়",
+    "male_count": 1209,
+    "female_count": 1207,
+    "hijra_count": 0,
+    "latitude": 22.50533,
+    "longitude": 90.76563
+  },
+  {
+    "settings_code": 116,
+    "settings_name": "ভোলা-২",
+    "center_name": "হাসান নগর সেরাজিয়া দাখিল মাদ্রাসা",
+    "male_count": 1469,
+    "female_count": 1320,
+    "hijra_count": 0,
+    "latitude": 22.46711,
+    "longitude": 90.81362
+  }
 ]

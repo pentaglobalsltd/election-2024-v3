@@ -1,1642 +1,1642 @@
 [
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "০৭নং ধনপর্দ্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1616,
-        "female_count": 1424,
-        "hijra_count": 0,
-        "latitude": 23.30058,
-        "longitude": 90.68094
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১০০নং পূর্ব বাখরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1059,
-        "female_count": 934,
-        "hijra_count": 0,
-        "latitude": 23.13326,
-        "longitude": 90.67197
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১০১ নং দঃ বাখরপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1303,
-        "female_count": 1033,
-        "hijra_count": 0,
-        "latitude": 23.12721,
-        "longitude": 90.66257
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১০৬নং সাদুল্যাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1329,
-        "female_count": 1213,
-        "hijra_count": 0,
-        "latitude": 23.15663,
-        "longitude": 90.66628
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১০৭ নং মধ্য ইচলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1422,
-        "female_count": 1225,
-        "hijra_count": 0,
-        "latitude": 23.20947,
-        "longitude": 90.66748
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১০নং ছোটলক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2183,
-        "female_count": 1960,
-        "hijra_count": 0,
-        "latitude": 23.10417,
-        "longitude": 90.65843
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১১০ নং সাপলেজা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1173,
-        "female_count": 896,
-        "hijra_count": 0,
-        "latitude": 23.16309,
-        "longitude": 90.64871
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১১১ নং গোয়ালনগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1190,
-        "female_count": 968,
-        "hijra_count": 0,
-        "latitude": 23.26284,
-        "longitude": 90.57999
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১১৩ নং রাজরাজেশ্বর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1705,
-        "female_count": 1417,
-        "hijra_count": 0,
-        "latitude": 23.22858,
-        "longitude": 90.59789
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১১৪ নং বলাশিয়া ডি. কে. সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1608,
-        "female_count": 1383,
-        "hijra_count": 0,
-        "latitude": 23.27448,
-        "longitude": 90.57084
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৩২ নং হিন্দুলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1126,
-        "female_count": 748,
-        "hijra_count": 0,
-        "latitude": 23.17497,
-        "longitude": 90.58122
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৩৪ নং চরফতেজংপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 781,
-        "female_count": 662,
-        "hijra_count": 0,
-        "latitude": 23.15713,
-        "longitude": 90.56511
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৩নং মধ্য ভিঙ্গুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2228,
-        "female_count": 1827,
-        "hijra_count": 0,
-        "latitude": 23.12592,
-        "longitude": 90.67046
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৪নং পশ্চিম চরকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1587,
-        "female_count": 1532,
-        "hijra_count": 0,
-        "latitude": 23.08745,
-        "longitude": 90.67182
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৪ নংপূর্ব ডাসাদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2582,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.26301,
-        "longitude": 90.67351
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৫২নং দক্ষিণ আশিকাটি শহীদ মোঃ খান সঃপ্রাঃবিঃ",
-        "male_count": 1351,
-        "female_count": 1204,
-        "hijra_count": 0,
-        "latitude": 23.25977,
-        "longitude": 90.70726
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৫নং পশ্চিম চরকৃষ্ণপুর কাটাখালী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1446,
-        "female_count": 1257,
-        "hijra_count": 0,
-        "latitude": 23.11264,
-        "longitude": 90.64645
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৭ নং দাসদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1852,
-        "female_count": 1814,
-        "hijra_count": 0,
-        "latitude": 23.27063,
-        "longitude": 90.68766
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৯নং উত্তর গন্ডামারা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1276,
-        "female_count": 1192,
-        "hijra_count": 0,
-        "latitude": 23.08483,
-        "longitude": 90.67627
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "১৯নং হাপানীয়া রুশদী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1456,
-        "female_count": 1373,
-        "hijra_count": 0,
-        "latitude": 23.25795,
-        "longitude": 90.71463
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২০নং উত্তর চরভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1733,
-        "female_count": 1664,
-        "hijra_count": 0,
-        "latitude": 23.07936,
-        "longitude": 90.65322
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২১নং চরপোড়ামুখী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1464,
-        "female_count": 1283,
-        "hijra_count": 0,
-        "latitude": 23.06507,
-        "longitude": 90.68368
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২২নং মধ্য আলগী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1874,
-        "female_count": 1719,
-        "hijra_count": 0,
-        "latitude": 23.08292,
-        "longitude": 90.67664
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২৫নং মধ্য চরকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1702,
-        "female_count": 1622,
-        "hijra_count": 0,
-        "latitude": 23.09177,
-        "longitude": 90.65189
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২৫নং রালদিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2313,
-        "female_count": 2217,
-        "hijra_count": 0,
-        "latitude": 23.27782,
-        "longitude": 90.69772
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২৭নং কুমারডুগী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 908,
-        "female_count": 949,
-        "hijra_count": 0,
-        "latitude": 23.25848,
-        "longitude": 90.73175
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২৮ নং পাইকদী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2503,
-        "hijra_count": 0,
-        "latitude": 23.23552,
-        "longitude": 90.73077
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২ নং বালক সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3680,
-        "hijra_count": 0,
-        "latitude": 23.22498,
-        "longitude": 90.64383
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "২নং রামপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1815,
-        "female_count": 1673,
-        "hijra_count": 0,
-        "latitude": 23.31958,
-        "longitude": 90.64807
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৩২ নং লোধেরগাঁও সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2404,
-        "female_count": 2349,
-        "hijra_count": 0,
-        "latitude": 23.24437,
-        "longitude": 90.74828
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৩৮ নং চরকোড়ালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1357,
-        "female_count": 1184,
-        "hijra_count": 0,
-        "latitude": 23.05547,
-        "longitude": 90.56951
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৩৯নং দক্ষিণ নীলকমল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1106,
-        "female_count": 1035,
-        "hijra_count": 0,
-        "latitude": 23.16141,
-        "longitude": 90.60813
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৩ নং বালক সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2736,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.21847,
-        "longitude": 90.65272
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৩ নং বালিকা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2762,
-        "hijra_count": 0,
-        "latitude": 23.21999,
-        "longitude": 90.64916
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৪০নং ঈশানবালা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1428,
-        "female_count": 1296,
-        "hijra_count": 0,
-        "latitude": 23.16234,
-        "longitude": 90.65492
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৪২ নং বদরখোলা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2082,
-        "female_count": 2021,
-        "hijra_count": 0,
-        "latitude": 23.23203,
-        "longitude": 90.76621
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৪৫নং উত্তর চরভৈরবী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2021,
-        "female_count": 1980,
-        "hijra_count": 0,
-        "latitude": 23.05875,
-        "longitude": 90.65329
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৪৭নং দক্ষিণ বগুলা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1516,
-        "female_count": 1437,
-        "hijra_count": 0,
-        "latitude": 23.03429,
-        "longitude": 90.65611
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৪৯নং উত্তর জালিয়ারচর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 935,
-        "female_count": 890,
-        "hijra_count": 0,
-        "latitude": 23.03035,
-        "longitude": 90.66452
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৪নং উত্তর বিষ্ণুপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1972,
-        "female_count": 1907,
-        "hijra_count": 0,
-        "latitude": 23.31389,
-        "longitude": 90.66993
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৪নং মনিপুর সরকারি প্রাথমিক বিদ্যালয় ও মুজিব কেল্লা",
-        "male_count": 1643,
-        "female_count": 1578,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৫৭ নং শিলন্দিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1739,
-        "female_count": 1693,
-        "hijra_count": 0,
-        "latitude": 23.24654,
-        "longitude": 90.69681
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৫৯ নং পূর্ব তরপুরচন্ডী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1856,
-        "female_count": 1862,
-        "hijra_count": 0,
-        "latitude": 23.24901,
-        "longitude": 90.67942
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৫নং খুদিয়া বাজাপ্তি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1534,
-        "female_count": 1350,
-        "hijra_count": 0,
-        "latitude": 23.10435,
-        "longitude": 90.6555
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৬১নং উত্তর আলগী রশিদিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1588,
-        "female_count": 1401,
-        "hijra_count": 0,
-        "latitude": 23.11231,
-        "longitude": 90.65077
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৬২ নং গুনরাজদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1772,
-        "female_count": 1911,
-        "hijra_count": 0,
-        "latitude": 23.22819,
-        "longitude": 90.67101
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৬৩নং উত্তর চরকোড়ালিয়া সাহেব কান্দি সরকারি প্রাথমিক বিদ্যালয় এবং হাইমচর আদর্শ মাধ্যমিক বিদ্যালয়",
-        "male_count": 1022,
-        "female_count": 976,
-        "hijra_count": 0,
-        "latitude": 23.2341,
-        "longitude": 90.6739
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৬৫নং দঃ তরপুরচন্ডী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1223,
-        "female_count": 1172,
-        "hijra_count": 0,
-        "latitude": 23.24539,
-        "longitude": 90.6696
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৬৫নং নেপালকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1649,
-        "female_count": 1434,
-        "hijra_count": 0,
-        "latitude": 23.05388,
-        "longitude": 90.59629
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৬৮ নং নানুপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2062,
-        "female_count": 1927,
-        "hijra_count": 0,
-        "latitude": 23.20748,
-        "longitude": 90.69639
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৬৯ নং বাগাদী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3449,
-        "hijra_count": 0,
-        "latitude": 23.19946,
-        "longitude": 90.68998
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৬নং কমলাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1798,
-        "female_count": 1565,
-        "hijra_count": 0,
-        "latitude": 23.11179,
-        "longitude": 90.67653
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৭১ নং চাঁদপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1382,
-        "female_count": 1245,
-        "hijra_count": 0,
-        "latitude": 23.22514,
-        "longitude": 90.71342
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৭২ নং পশ্চিম সকদি সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1563,
-        "female_count": 1404,
-        "hijra_count": 0,
-        "latitude": 23.21458,
-        "longitude": 90.7175
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৭৪ নং ইসলামপুর গাছতলা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 2407,
-        "female_count": 2083,
-        "hijra_count": 0,
-        "latitude": 23.22134,
-        "longitude": 90.68405
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৭৬নং উত্তর বালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1965,
-        "female_count": 1742,
-        "hijra_count": 0,
-        "latitude": 23.19844,
-        "longitude": 90.67789
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৭৭ নং পশ্চিম সাপদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2147,
-        "female_count": 1942,
-        "hijra_count": 0,
-        "latitude": 23.17882,
-        "longitude": 90.68924
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৭৯ নং গুলিশা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1216,
-        "female_count": 1141,
-        "hijra_count": 0,
-        "latitude": 23.15599,
-        "longitude": 90.68233
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৮০ নং উঃ বালিয়া (দঃ) সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2751,
-        "hijra_count": 0,
-        "latitude": 23.17126,
-        "longitude": 90.67227
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৮৪নং রামদাসদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2020,
-        "female_count": 1884,
-        "hijra_count": 0,
-        "latitude": 23.20101,
-        "longitude": 90.65316
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৮৬ নং উত্তর রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2831,
-        "hijra_count": 0,
-        "latitude": 23.20809,
-        "longitude": 90.66264
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৮৮ নং ঘারুয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 876,
-        "female_count": 780,
-        "hijra_count": 0,
-        "latitude": 23.17988,
-        "longitude": 90.65386
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৯৪ নং পূর্ব জাফরাবাদ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1840,
-        "female_count": 1652,
-        "hijra_count": 0,
-        "latitude": 23.21443,
-        "longitude": 90.64625
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৯৫ নং মধ্য মদনা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2286,
-        "female_count": 1978,
-        "hijra_count": 0,
-        "latitude": 23.15024,
-        "longitude": 90.68147
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৯৭ নং দক্ষিণ বালিয়া নরসিংহপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1896,
-        "female_count": 1620,
-        "hijra_count": 0,
-        "latitude": 23.16073,
-        "longitude": 90.65571
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৯নং নয়ানী লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1916,
-        "female_count": 1794,
-        "hijra_count": 0,
-        "latitude": 23.1174,
-        "longitude": 90.66059
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "৯নং লালপুর বালুধুম সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 848,
-        "female_count": 803,
-        "hijra_count": 0,
-        "latitude": 23.30076,
-        "longitude": 90.65647
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "আক্কাছ আলী রেলওয়ে একাডেমী",
-        "male_count": 2977,
-        "female_count": 2876,
-        "hijra_count": 0,
-        "latitude": 23.22833,
-        "longitude": 90.64738
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "আক্কাছ আলী রেলওয়ে সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2572,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.22763,
-        "longitude": 90.64828
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "আক্কাছ আলী রেলওয়ে সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2552,
-        "hijra_count": 0,
-        "latitude": 23.22783,
-        "longitude": 90.64859
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "আখনেরহাট সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1347,
-        "female_count": 1109,
-        "hijra_count": 0,
-        "latitude": 23.1385,
-        "longitude": 90.67481
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "আব্দুল আউয়াল গাজী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1159,
-        "female_count": 1084,
-        "hijra_count": 0,
-        "latitude": 23.24635,
-        "longitude": 90.66189
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "আমিরাবাদ জি কে উচ্চ বিদ্যালয়",
-        "male_count": 1130,
-        "female_count": 1154,
-        "hijra_count": 0,
-        "latitude": 23.31909,
-        "longitude": 90.65721
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "আরাজিবালিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2167,
-        "female_count": 1927,
-        "hijra_count": 0,
-        "latitude": 23.19183,
-        "longitude": 90.66041
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "উঃ চরফতেজংপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1674,
-        "female_count": 1294,
-        "hijra_count": 0,
-        "latitude": 23.16235,
-        "longitude": 90.57128
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "উত্তর পশ্চিম তরপুরচন্ডী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1452,
-        "female_count": 1382,
-        "hijra_count": 0,
-        "latitude": 23.25161,
-        "longitude": 90.66974
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "উঃ পঃ মৈশাদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2843,
-        "hijra_count": 0,
-        "latitude": 23.24068,
-        "longitude": 90.69794
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "উঃ পঃ মৈশাদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2940,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.24068,
-        "longitude": 90.69795
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "এমজেএস ঈশানবালা নিম্ন মাধ্যমিক বিদ্যালয়",
-        "male_count": 1710,
-        "female_count": 1563,
-        "hijra_count": 0,
-        "latitude": 23.17985,
-        "longitude": 90.55489
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ওছমানিয়া কামিল মাদ্রাসা",
-        "male_count": 4607,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.22383,
-        "longitude": 90.64157
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "কমলাপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2340,
-        "female_count": 1949,
-        "hijra_count": 0,
-        "latitude": 23.17397,
-        "longitude": 90.65836
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "কামরাঙ্গা ফাযিল ডিগ্রী মাদ্রাসা ও সংলগ্ন কামরাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2236,
-        "female_count": 2050,
-        "hijra_count": 0,
-        "latitude": 23.22637,
-        "longitude": 90.77797
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "কুমুরুয়া সূর্য্য রায় নন্দী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1092,
-        "female_count": 963,
-        "hijra_count": 0,
-        "latitude": 23.17001,
-        "longitude": 90.69601
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "কৃষ্ণপুর জোহরা বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1489,
-        "female_count": 1432,
-        "hijra_count": 0,
-        "latitude": 23.25807,
-        "longitude": 90.73597
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "খলিশাডুলি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2890,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.24564,
-        "longitude": 90.68668
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "খেরুদিয়া দেলোয়ার হোসেন হাই স্কুল এন্ড কলেজ",
-        "male_count": 2703,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.29001,
-        "longitude": 90.66693
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "খেরুদিয়া দেলোয়ার হোসেন হাই স্কুল এন্ড কলেজ",
-        "male_count": 0,
-        "female_count": 2507,
-        "hijra_count": 0,
-        "latitude": 23.29002,
-        "longitude": 90.66691
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "গনি মডেল উচ্চ বিদ্যালয়",
-        "male_count": 4431,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.2272,
-        "longitude": 90.65567
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "গাজীপুর (হরিপুর) নেছারিয়া ফাযিল মাদ্রাসা",
-        "male_count": 1571,
-        "female_count": 1399,
-        "hijra_count": 0,
-        "latitude": 23.13757,
-        "longitude": 90.68929
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "চরভাঙ্গা উচ্চ বিদ্যালয়",
-        "male_count": 2496,
-        "female_count": 2319,
-        "hijra_count": 0,
-        "latitude": 23.05837,
-        "longitude": 90.66161
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "চরভৈরবী উচ্চ বিদ্যালয়",
-        "male_count": 1615,
-        "female_count": 1595,
-        "hijra_count": 0,
-        "latitude": 23.01477,
-        "longitude": 90.60103
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "চরমুকুন্দী কমিউনিটি প্রাথমিক বিদ্যালয়",
-        "male_count": 280,
-        "female_count": 227,
-        "hijra_count": 0,
-        "latitude": 23.2091,
-        "longitude": 90.59792
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "চাঁদপুর নূরিয়া পাইলট উচ্চ বিদ্যালয়",
-        "male_count": 2055,
-        "female_count": 1986,
-        "hijra_count": 0,
-        "latitude": 23.2187,
-        "longitude": 90.64724
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "চাঁদপুর পৌর শহীদ জাবেদ উচ্চ বিদ্যালয়",
-        "male_count": 1250,
-        "female_count": 1346,
-        "hijra_count": 0,
-        "latitude": 23.22138,
-        "longitude": 90.66342
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "চাঁদপুর সরকারি কলেজ",
-        "male_count": 2051,
-        "female_count": 2314,
-        "hijra_count": 0,
-        "latitude": 23.22883,
-        "longitude": 90.65976
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "চান্দ্রা বাজার ইয়াকুব আলী স্মারক উচ্চ বিদ্যালয়",
-        "male_count": 1689,
-        "female_count": 1406,
-        "hijra_count": 0,
-        "latitude": 23.14436,
-        "longitude": 90.66708
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "চান্দ্রা বাজার নূরীয়া ফাযিল (ডিগ্রী)মাদ্রাসা",
-        "male_count": 2118,
-        "female_count": 1769,
-        "hijra_count": 0,
-        "latitude": 23.14259,
-        "longitude": 90.66591
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ছোট সুন্দর এ আলী উচ্চ বিদ্যালয়",
-        "male_count": 3129,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.2329,
-        "longitude": 90.7576
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ছোট সুন্দর এ আলী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3116,
-        "hijra_count": 0,
-        "latitude": 23.23313,
-        "longitude": 90.75775
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "জাফরাবাদ জামে আরাবিয়া এমদাদিয়া মাদ্রাসা",
-        "male_count": 1447,
-        "female_count": 1363,
-        "hijra_count": 0,
-        "latitude": 23.20805,
-        "longitude": 90.64519
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "জাবালেনুর ফোরকানিয়া হাফেজিয়া মাদ্রাসা",
-        "male_count": 2553,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.2355,
-        "longitude": 90.73106
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "জামিলায়ে মহিলা দাখিল মাদ্রাসা",
-        "male_count": 2068,
-        "female_count": 1788,
-        "hijra_count": 0,
-        "latitude": 23.12249,
-        "longitude": 90.66342
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "জামেয়া আরাবিয়্যা দারুল উলুম রঘুনাথপুর(আরজি বালিয়া) মাদরাসা",
-        "male_count": 1669,
-        "female_count": 1444,
-        "hijra_count": 0,
-        "latitude": 23.18874,
-        "longitude": 90.6589
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "জিলানী চিশতী উচ্চ বিদ্যালয়",
-        "male_count": 2205,
-        "female_count": 2224,
-        "hijra_count": 0,
-        "latitude": 23.24463,
-        "longitude": 90.72554
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ডাসাদী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2495,
-        "hijra_count": 0,
-        "latitude": 23.26307,
-        "longitude": 90.67291
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ডি এন উচ্চ বিদ্যালয়",
-        "male_count": 3597,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.22403,
-        "longitude": 90.6603
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "দক্ষিণ ইচলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2105,
-        "female_count": 1818,
-        "hijra_count": 0,
-        "latitude": 23.20295,
-        "longitude": 90.67491
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "দক্ষিণ গুনরাজদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2379,
-        "female_count": 2357,
-        "hijra_count": 0,
-        "latitude": 23.21815,
-        "longitude": 90.66958
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "দক্ষিণ গোবিন্দিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1928,
-        "female_count": 1561,
-        "hijra_count": 0,
-        "latitude": 23.14883,
-        "longitude": 90.65059
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "দেবপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1698,
-        "female_count": 1625,
-        "hijra_count": 0,
-        "latitude": 23.24945,
-        "longitude": 90.76521
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "নীলকমল ওছমানিয়া উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2974,
-        "hijra_count": 1,
-        "latitude": 23.08261,
-        "longitude": 90.66098
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "নীলকমল ওছমানিয়া উচ্চ বিদ্যালয়",
-        "male_count": 3224,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.08262,
-        "longitude": 90.66091
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "পশ্চিম সকদী মাদানিয়া সিনিয়র আলিম মাদ্রাসা",
-        "male_count": 1831,
-        "female_count": 1666,
-        "hijra_count": 0,
-        "latitude": 23.20677,
-        "longitude": 90.71469
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "পাইকাস্তা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2131,
-        "female_count": 2087,
-        "hijra_count": 0,
-        "latitude": 23.27621,
-        "longitude": 90.71013
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "পাড়া বগুলা সাজলীয়া দাখিল মাদ্রাসা",
-        "male_count": 1814,
-        "female_count": 1687,
-        "hijra_count": 0,
-        "latitude": 23.03035,
-        "longitude": 90.66452
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "পীর বাদশা মিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2470,
-        "female_count": 2253,
-        "hijra_count": 0,
-        "latitude": 23.19924,
-        "longitude": 90.64681
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "পুরান বাজার বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4445,
-        "hijra_count": 0,
-        "latitude": 23.22374,
-        "longitude": 90.64501
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "পূর্ব গুলিশা সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1933,
-        "female_count": 1725,
-        "hijra_count": 0,
-        "latitude": 23.15752,
-        "longitude": 90.69801
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ফরক্কাবাদ উচ্চ বিদ্যালয়",
-        "male_count": 1851,
-        "female_count": 1722,
-        "hijra_count": 0,
-        "latitude": 23.16837,
-        "longitude": 90.68968
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বহরিয়া উচ্চ বিদ্যালয়",
-        "male_count": 1133,
-        "female_count": 905,
-        "hijra_count": 0,
-        "latitude": 23.18737,
-        "longitude": 90.6486
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বহরিয়া উচ্চ বিদ্যালয়",
-        "male_count": 2786,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.18738,
-        "longitude": 90.6486
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বহরিয়া উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2377,
-        "hijra_count": 0,
-        "latitude": 23.18738,
-        "longitude": 90.64861
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বাগাদী গণি উচ্চ বিদ্যালয়",
-        "male_count": 3832,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.19953,
-        "longitude": 90.69019
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বাবুরহাট উচ্চ বিদ্যালয় ও কলেজ",
-        "male_count": 0,
-        "female_count": 2648,
-        "hijra_count": 0,
-        "latitude": 23.25756,
-        "longitude": 90.69456
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বাবুরহাট উচ্চ বিদ্যালয় ও কলেজ",
-        "male_count": 2791,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.25798,
-        "longitude": 90.69447
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বালিয়া আদর্শ উচ্চ বিদ্যালয়",
-        "male_count": 3170,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.17126,
-        "longitude": 90.67227
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বিষ্ণুদী আজিমিয়া সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1608,
-        "female_count": 1635,
-        "hijra_count": 0,
-        "latitude": 23.23265,
-        "longitude": 90.66259
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বিষ্ণুদী ইসলামিয়া ফাজিল মাদ্রাসা",
-        "male_count": 1081,
-        "female_count": 1089,
-        "hijra_count": 0,
-        "latitude": 23.23014,
-        "longitude": 90.66658
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "বিষ্ণুদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1931,
-        "female_count": 1805,
-        "hijra_count": 0,
-        "latitude": 23.24043,
-        "longitude": 90.66456
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ব্রাহ্মণ সাখুয়া আর্দশ সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1944,
-        "female_count": 1657,
-        "hijra_count": 0,
-        "latitude": 23.1852,
-        "longitude": 90.68249
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মধুসুদন উচ্চ বিদ্যালয়",
-        "male_count": 3852,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.22556,
-        "longitude": 90.64424
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মধ্য আশিকাটি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 904,
-        "female_count": 903,
-        "hijra_count": 0,
-        "latitude": 23.26419,
-        "longitude": 90.7093
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মধ্য তরপুরচন্ডী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1382,
-        "female_count": 1499,
-        "hijra_count": 0,
-        "latitude": 23.23808,
-        "longitude": 90.68036
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মনিহার সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1275,
-        "female_count": 1191,
-        "hijra_count": 0,
-        "latitude": 23.22863,
-        "longitude": 90.78721
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মহামায়া হানাফিয়া উচ্চ বিদ্যালয়",
-        "male_count": 2216,
-        "female_count": 2059,
-        "hijra_count": 0,
-        "latitude": 23.25219,
-        "longitude": 90.75541
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মাতৃপীঠ সরকারি বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 515,
-        "female_count": 578,
-        "hijra_count": 0,
-        "latitude": 23.22712,
-        "longitude": 90.65947
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মৈশাদী উচ্চ বিদ্যালয়",
-        "male_count": 1689,
-        "female_count": 1671,
-        "hijra_count": 0,
-        "latitude": 23.23356,
-        "longitude": 90.69909
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মোয়াজ্জেম হোসেন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1044,
-        "female_count": 1008,
-        "hijra_count": 0,
-        "latitude": 23.06965,
-        "longitude": 90.68644
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "মোল্যা কান্দি যুব সমাজ কল্যান সংঘ নুরুল হক মঞ্জিলা জুনিয়র হাই স্কুল",
-        "male_count": 952,
-        "female_count": 856,
-        "hijra_count": 0,
-        "latitude": 23.08566,
-        "longitude": 90.6567
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "রঘুনাথপুর হাজী এ করিম খান উচ্চ বিদ্যালয়",
-        "male_count": 2977,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.20803,
-        "longitude": 90.66263
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "রাজরাজেশ্বর মোজাফ্ফরিয়া ইসলামিয়া দাখিল মাদ্রাসা",
-        "male_count": 2003,
-        "female_count": 1634,
-        "hijra_count": 0,
-        "latitude": 23.22714,
-        "longitude": 90.59802
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "লক্ষ্মীপুর মোহাম্মদিয়া দাখিল মাদ্রাসা",
-        "male_count": 1603,
-        "female_count": 1269,
-        "hijra_count": 0,
-        "latitude": 23.18212,
-        "longitude": 90.64799
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "লক্ষ্মীপুর সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1975,
-        "female_count": 1698,
-        "hijra_count": 0,
-        "latitude": 23.17325,
-        "longitude": 90.64801
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "লালপুর বালুধুম উচ্চ বিদ্যালয়",
-        "male_count": 2612,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.30887,
-        "longitude": 90.67314
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "লালপুর বালুধুম উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2441,
-        "hijra_count": 0,
-        "latitude": 23.30965,
-        "longitude": 90.6739
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "লেডি দেহলভী বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3727,
-        "hijra_count": 0,
-        "latitude": 23.22428,
-        "longitude": 90.66131
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "লেডি প্রতিমা মিত্র বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 2522,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.22388,
-        "longitude": 90.65257
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "লেডি প্রতিমা মিত্র বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2484,
-        "hijra_count": 0,
-        "latitude": 23.2239,
-        "longitude": 90.65265
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "শাহতলী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2632,
-        "hijra_count": 0,
-        "latitude": 23.23911,
-        "longitude": 90.71474
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "শিলারচর হাজী হাসেদ প্রধানীয়া সরকারি প্রাঃ বিদ্যালয়",
-        "male_count": 1141,
-        "female_count": 923,
-        "hijra_count": 0,
-        "latitude": 23.27111,
-        "longitude": 90.5723
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ষোলঘর আর্দশ উচ্চ বিদ্যালয়",
-        "male_count": 3854,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.23699,
-        "longitude": 90.67305
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "ষোলঘর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3838,
-        "hijra_count": 0,
-        "latitude": 23.2372,
-        "longitude": 90.67346
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "সফরমালী উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2615,
-        "hijra_count": 0,
-        "latitude": 23.28107,
-        "longitude": 90.66918
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "সফরমালী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2669,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.28061,
-        "longitude": 90.669
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "সব্দারখান সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1274,
-        "female_count": 1367,
-        "hijra_count": 0,
-        "latitude": 23.23142,
-        "longitude": 90.65755
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "সরকারি কারিগরি উচ্চ বিদ্যালয়",
-        "male_count": 1462,
-        "female_count": 1321,
-        "hijra_count": 0,
-        "latitude": 23.24137,
-        "longitude": 90.68358
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "সরকারি শিশু পরিবার বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2736,
-        "hijra_count": 1,
-        "latitude": 23.25066,
-        "longitude": 90.68897
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "সেনগাঁও সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1246,
-        "female_count": 1203,
-        "hijra_count": 0,
-        "latitude": 23.26917,
-        "longitude": 90.72371
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "হরিনা চালিতাতলী এডওয়ার্ড ইন্সটিটিউশন",
-        "male_count": 1189,
-        "female_count": 954,
-        "hijra_count": 0,
-        "latitude": 23.16188,
-        "longitude": 90.6457
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "হাইমচর মোল্লাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1103,
-        "female_count": 996,
-        "hijra_count": 0,
-        "latitude": 23.08365,
-        "longitude": 90.59807
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "হামানকর্দি পল্লী মঙ্গল উচ্চ বিদ্যালয়",
-        "male_count": 2727,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 23.23931,
-        "longitude": 90.71415
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "হাসাদী সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 1315,
-        "female_count": 1212,
-        "hijra_count": 0,
-        "latitude": 23.29215,
-        "longitude": 90.68149
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "হাসান আলী সরকারি উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4425,
-        "hijra_count": 0,
-        "latitude": 23.22831,
-        "longitude": 90.65777
-    },
-    {
-        "settings_code": 262,
-        "settings_name": "চাঁদপুর-৩",
-        "center_name": "হোসেনপুর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2156,
-        "female_count": 2084,
-        "hijra_count": 0,
-        "latitude": 23.26941,
-        "longitude": 90.71478
-    }
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "০৭নং ধনপর্দ্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1616,
+    "female_count": 1424,
+    "hijra_count": 0,
+    "latitude": 23.30058,
+    "longitude": 90.68094
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১০০নং পূর্ব বাখরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1059,
+    "female_count": 934,
+    "hijra_count": 0,
+    "latitude": 23.13326,
+    "longitude": 90.67197
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১০১ নং দঃ বাখরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1303,
+    "female_count": 1033,
+    "hijra_count": 0,
+    "latitude": 23.12721,
+    "longitude": 90.66257
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১০৬নং সাদুল্যাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1329,
+    "female_count": 1213,
+    "hijra_count": 0,
+    "latitude": 23.15663,
+    "longitude": 90.66628
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১০৭ নং মধ্য ইচলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1422,
+    "female_count": 1225,
+    "hijra_count": 0,
+    "latitude": 23.20947,
+    "longitude": 90.66748
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১০নং ছোটলক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2183,
+    "female_count": 1960,
+    "hijra_count": 0,
+    "latitude": 23.10417,
+    "longitude": 90.65843
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১১০ নং সাপলেজা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1173,
+    "female_count": 896,
+    "hijra_count": 0,
+    "latitude": 23.16309,
+    "longitude": 90.64871
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১১১ নং গোয়ালনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1190,
+    "female_count": 968,
+    "hijra_count": 0,
+    "latitude": 23.26284,
+    "longitude": 90.57999
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১১৩ নং রাজরাজেশ্বর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1705,
+    "female_count": 1417,
+    "hijra_count": 0,
+    "latitude": 23.22858,
+    "longitude": 90.59789
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১১৪ নং বলাশিয়া ডি. কে. সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1608,
+    "female_count": 1383,
+    "hijra_count": 0,
+    "latitude": 23.27448,
+    "longitude": 90.57084
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৩২ নং হিন্দুলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1126,
+    "female_count": 748,
+    "hijra_count": 0,
+    "latitude": 23.17497,
+    "longitude": 90.58122
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৩৪ নং চরফতেজংপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 781,
+    "female_count": 662,
+    "hijra_count": 0,
+    "latitude": 23.15713,
+    "longitude": 90.56511
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৩নং মধ্য ভিঙ্গুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2228,
+    "female_count": 1827,
+    "hijra_count": 0,
+    "latitude": 23.12592,
+    "longitude": 90.67046
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৪নং পশ্চিম চরকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1587,
+    "female_count": 1532,
+    "hijra_count": 0,
+    "latitude": 23.08745,
+    "longitude": 90.67182
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৪ নংপূর্ব ডাসাদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2582,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.26301,
+    "longitude": 90.67351
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৫২নং দক্ষিণ আশিকাটি শহীদ মোঃ খান সঃপ্রাঃবিঃ",
+    "male_count": 1351,
+    "female_count": 1204,
+    "hijra_count": 0,
+    "latitude": 23.25977,
+    "longitude": 90.70726
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৫নং পশ্চিম চরকৃষ্ণপুর কাটাখালী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1446,
+    "female_count": 1257,
+    "hijra_count": 0,
+    "latitude": 23.11264,
+    "longitude": 90.64645
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৭ নং দাসদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1852,
+    "female_count": 1814,
+    "hijra_count": 0,
+    "latitude": 23.27063,
+    "longitude": 90.68766
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৯নং উত্তর গন্ডামারা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1276,
+    "female_count": 1192,
+    "hijra_count": 0,
+    "latitude": 23.08483,
+    "longitude": 90.67627
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "১৯নং হাপানীয়া রুশদী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1456,
+    "female_count": 1373,
+    "hijra_count": 0,
+    "latitude": 23.25795,
+    "longitude": 90.71463
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২০নং উত্তর চরভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1733,
+    "female_count": 1664,
+    "hijra_count": 0,
+    "latitude": 23.07936,
+    "longitude": 90.65322
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২১নং চরপোড়ামুখী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1464,
+    "female_count": 1283,
+    "hijra_count": 0,
+    "latitude": 23.06507,
+    "longitude": 90.68368
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২২নং মধ্য আলগী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1874,
+    "female_count": 1719,
+    "hijra_count": 0,
+    "latitude": 23.08292,
+    "longitude": 90.67664
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২৫নং মধ্য চরকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1702,
+    "female_count": 1622,
+    "hijra_count": 0,
+    "latitude": 23.09177,
+    "longitude": 90.65189
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২৫নং রালদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2313,
+    "female_count": 2217,
+    "hijra_count": 0,
+    "latitude": 23.27782,
+    "longitude": 90.69772
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২৭নং কুমারডুগী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 908,
+    "female_count": 949,
+    "hijra_count": 0,
+    "latitude": 23.25848,
+    "longitude": 90.73175
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২৮ নং পাইকদী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2503,
+    "hijra_count": 0,
+    "latitude": 23.23552,
+    "longitude": 90.73077
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২ নং বালক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3680,
+    "hijra_count": 0,
+    "latitude": 23.22498,
+    "longitude": 90.64383
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "২নং রামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1815,
+    "female_count": 1673,
+    "hijra_count": 0,
+    "latitude": 23.31958,
+    "longitude": 90.64807
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৩২ নং লোধেরগাঁও সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2404,
+    "female_count": 2349,
+    "hijra_count": 0,
+    "latitude": 23.24437,
+    "longitude": 90.74828
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৩৮ নং চরকোড়ালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1357,
+    "female_count": 1184,
+    "hijra_count": 0,
+    "latitude": 23.05547,
+    "longitude": 90.56951
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৩৯নং দক্ষিণ নীলকমল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1106,
+    "female_count": 1035,
+    "hijra_count": 0,
+    "latitude": 23.16141,
+    "longitude": 90.60813
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৩ নং বালক সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2736,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.21847,
+    "longitude": 90.65272
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৩ নং বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2762,
+    "hijra_count": 0,
+    "latitude": 23.21999,
+    "longitude": 90.64916
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৪০নং ঈশানবালা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1428,
+    "female_count": 1296,
+    "hijra_count": 0,
+    "latitude": 23.16234,
+    "longitude": 90.65492
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৪২ নং বদরখোলা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2082,
+    "female_count": 2021,
+    "hijra_count": 0,
+    "latitude": 23.23203,
+    "longitude": 90.76621
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৪৫নং উত্তর চরভৈরবী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2021,
+    "female_count": 1980,
+    "hijra_count": 0,
+    "latitude": 23.05875,
+    "longitude": 90.65329
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৪৭নং দক্ষিণ বগুলা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1516,
+    "female_count": 1437,
+    "hijra_count": 0,
+    "latitude": 23.03429,
+    "longitude": 90.65611
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৪৯নং উত্তর জালিয়ারচর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 935,
+    "female_count": 890,
+    "hijra_count": 0,
+    "latitude": 23.03035,
+    "longitude": 90.66452
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৪নং উত্তর বিষ্ণুপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1972,
+    "female_count": 1907,
+    "hijra_count": 0,
+    "latitude": 23.31389,
+    "longitude": 90.66993
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৪নং মনিপুর সরকারি প্রাথমিক বিদ্যালয় ও মুজিব কেল্লা",
+    "male_count": 1643,
+    "female_count": 1578,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৫৭ নং শিলন্দিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1739,
+    "female_count": 1693,
+    "hijra_count": 0,
+    "latitude": 23.24654,
+    "longitude": 90.69681
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৫৯ নং পূর্ব তরপুরচন্ডী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1856,
+    "female_count": 1862,
+    "hijra_count": 0,
+    "latitude": 23.24901,
+    "longitude": 90.67942
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৫নং খুদিয়া বাজাপ্তি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1534,
+    "female_count": 1350,
+    "hijra_count": 0,
+    "latitude": 23.10435,
+    "longitude": 90.6555
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৬১নং উত্তর আলগী রশিদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1588,
+    "female_count": 1401,
+    "hijra_count": 0,
+    "latitude": 23.11231,
+    "longitude": 90.65077
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৬২ নং গুনরাজদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1772,
+    "female_count": 1911,
+    "hijra_count": 0,
+    "latitude": 23.22819,
+    "longitude": 90.67101
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৬৩নং উত্তর চরকোড়ালিয়া সাহেব কান্দি সরকারি প্রাথমিক বিদ্যালয় এবং হাইমচর আদর্শ মাধ্যমিক বিদ্যালয়",
+    "male_count": 1022,
+    "female_count": 976,
+    "hijra_count": 0,
+    "latitude": 23.2341,
+    "longitude": 90.6739
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৬৫নং দঃ তরপুরচন্ডী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1223,
+    "female_count": 1172,
+    "hijra_count": 0,
+    "latitude": 23.24539,
+    "longitude": 90.6696
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৬৫নং নেপালকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1649,
+    "female_count": 1434,
+    "hijra_count": 0,
+    "latitude": 23.05388,
+    "longitude": 90.59629
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৬৮ নং নানুপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2062,
+    "female_count": 1927,
+    "hijra_count": 0,
+    "latitude": 23.20748,
+    "longitude": 90.69639
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৬৯ নং বাগাদী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3449,
+    "hijra_count": 0,
+    "latitude": 23.19946,
+    "longitude": 90.68998
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৬নং কমলাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1798,
+    "female_count": 1565,
+    "hijra_count": 0,
+    "latitude": 23.11179,
+    "longitude": 90.67653
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৭১ নং চাঁদপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1382,
+    "female_count": 1245,
+    "hijra_count": 0,
+    "latitude": 23.22514,
+    "longitude": 90.71342
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৭২ নং পশ্চিম সকদি সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1563,
+    "female_count": 1404,
+    "hijra_count": 0,
+    "latitude": 23.21458,
+    "longitude": 90.7175
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৭৪ নং ইসলামপুর গাছতলা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 2407,
+    "female_count": 2083,
+    "hijra_count": 0,
+    "latitude": 23.22134,
+    "longitude": 90.68405
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৭৬নং উত্তর বালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1965,
+    "female_count": 1742,
+    "hijra_count": 0,
+    "latitude": 23.19844,
+    "longitude": 90.67789
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৭৭ নং পশ্চিম সাপদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2147,
+    "female_count": 1942,
+    "hijra_count": 0,
+    "latitude": 23.17882,
+    "longitude": 90.68924
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৭৯ নং গুলিশা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1216,
+    "female_count": 1141,
+    "hijra_count": 0,
+    "latitude": 23.15599,
+    "longitude": 90.68233
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৮০ নং উঃ বালিয়া (দঃ) সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2751,
+    "hijra_count": 0,
+    "latitude": 23.17126,
+    "longitude": 90.67227
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৮৪নং রামদাসদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2020,
+    "female_count": 1884,
+    "hijra_count": 0,
+    "latitude": 23.20101,
+    "longitude": 90.65316
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৮৬ নং উত্তর রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2831,
+    "hijra_count": 0,
+    "latitude": 23.20809,
+    "longitude": 90.66264
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৮৮ নং ঘারুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 876,
+    "female_count": 780,
+    "hijra_count": 0,
+    "latitude": 23.17988,
+    "longitude": 90.65386
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৯৪ নং পূর্ব জাফরাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1840,
+    "female_count": 1652,
+    "hijra_count": 0,
+    "latitude": 23.21443,
+    "longitude": 90.64625
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৯৫ নং মধ্য মদনা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2286,
+    "female_count": 1978,
+    "hijra_count": 0,
+    "latitude": 23.15024,
+    "longitude": 90.68147
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৯৭ নং দক্ষিণ বালিয়া নরসিংহপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1896,
+    "female_count": 1620,
+    "hijra_count": 0,
+    "latitude": 23.16073,
+    "longitude": 90.65571
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৯নং নয়ানী লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1916,
+    "female_count": 1794,
+    "hijra_count": 0,
+    "latitude": 23.1174,
+    "longitude": 90.66059
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "৯নং লালপুর বালুধুম সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 848,
+    "female_count": 803,
+    "hijra_count": 0,
+    "latitude": 23.30076,
+    "longitude": 90.65647
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "আক্কাছ আলী রেলওয়ে একাডেমী",
+    "male_count": 2977,
+    "female_count": 2876,
+    "hijra_count": 0,
+    "latitude": 23.22833,
+    "longitude": 90.64738
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "আক্কাছ আলী রেলওয়ে সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2572,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.22763,
+    "longitude": 90.64828
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "আক্কাছ আলী রেলওয়ে সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2552,
+    "hijra_count": 0,
+    "latitude": 23.22783,
+    "longitude": 90.64859
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "আখনেরহাট সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1347,
+    "female_count": 1109,
+    "hijra_count": 0,
+    "latitude": 23.1385,
+    "longitude": 90.67481
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "আব্দুল আউয়াল গাজী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1159,
+    "female_count": 1084,
+    "hijra_count": 0,
+    "latitude": 23.24635,
+    "longitude": 90.66189
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "আমিরাবাদ জি কে উচ্চ বিদ্যালয়",
+    "male_count": 1130,
+    "female_count": 1154,
+    "hijra_count": 0,
+    "latitude": 23.31909,
+    "longitude": 90.65721
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "আরাজিবালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2167,
+    "female_count": 1927,
+    "hijra_count": 0,
+    "latitude": 23.19183,
+    "longitude": 90.66041
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "উঃ চরফতেজংপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1674,
+    "female_count": 1294,
+    "hijra_count": 0,
+    "latitude": 23.16235,
+    "longitude": 90.57128
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "উত্তর পশ্চিম তরপুরচন্ডী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1452,
+    "female_count": 1382,
+    "hijra_count": 0,
+    "latitude": 23.25161,
+    "longitude": 90.66974
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "উঃ পঃ মৈশাদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2843,
+    "hijra_count": 0,
+    "latitude": 23.24068,
+    "longitude": 90.69794
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "উঃ পঃ মৈশাদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2940,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.24068,
+    "longitude": 90.69795
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "এমজেএস ঈশানবালা নিম্ন মাধ্যমিক বিদ্যালয়",
+    "male_count": 1710,
+    "female_count": 1563,
+    "hijra_count": 0,
+    "latitude": 23.17985,
+    "longitude": 90.55489
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ওছমানিয়া কামিল মাদ্রাসা",
+    "male_count": 4607,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.22383,
+    "longitude": 90.64157
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "কমলাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2340,
+    "female_count": 1949,
+    "hijra_count": 0,
+    "latitude": 23.17397,
+    "longitude": 90.65836
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "কামরাঙ্গা ফাযিল ডিগ্রী মাদ্রাসা ও সংলগ্ন কামরাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2236,
+    "female_count": 2050,
+    "hijra_count": 0,
+    "latitude": 23.22637,
+    "longitude": 90.77797
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "কুমুরুয়া সূর্য্য রায় নন্দী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1092,
+    "female_count": 963,
+    "hijra_count": 0,
+    "latitude": 23.17001,
+    "longitude": 90.69601
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "কৃষ্ণপুর জোহরা বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1489,
+    "female_count": 1432,
+    "hijra_count": 0,
+    "latitude": 23.25807,
+    "longitude": 90.73597
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "খলিশাডুলি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2890,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.24564,
+    "longitude": 90.68668
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "খেরুদিয়া দেলোয়ার হোসেন হাই স্কুল এন্ড কলেজ",
+    "male_count": 2703,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.29001,
+    "longitude": 90.66693
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "খেরুদিয়া দেলোয়ার হোসেন হাই স্কুল এন্ড কলেজ",
+    "male_count": 0,
+    "female_count": 2507,
+    "hijra_count": 0,
+    "latitude": 23.29002,
+    "longitude": 90.66691
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "গনি মডেল উচ্চ বিদ্যালয়",
+    "male_count": 4431,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.2272,
+    "longitude": 90.65567
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "গাজীপুর (হরিপুর) নেছারিয়া ফাযিল মাদ্রাসা",
+    "male_count": 1571,
+    "female_count": 1399,
+    "hijra_count": 0,
+    "latitude": 23.13757,
+    "longitude": 90.68929
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "চরভাঙ্গা উচ্চ বিদ্যালয়",
+    "male_count": 2496,
+    "female_count": 2319,
+    "hijra_count": 0,
+    "latitude": 23.05837,
+    "longitude": 90.66161
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "চরভৈরবী উচ্চ বিদ্যালয়",
+    "male_count": 1615,
+    "female_count": 1595,
+    "hijra_count": 0,
+    "latitude": 23.01477,
+    "longitude": 90.60103
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "চরমুকুন্দী কমিউনিটি প্রাথমিক বিদ্যালয়",
+    "male_count": 280,
+    "female_count": 227,
+    "hijra_count": 0,
+    "latitude": 23.2091,
+    "longitude": 90.59792
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "চাঁদপুর নূরিয়া পাইলট উচ্চ বিদ্যালয়",
+    "male_count": 2055,
+    "female_count": 1986,
+    "hijra_count": 0,
+    "latitude": 23.2187,
+    "longitude": 90.64724
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "চাঁদপুর পৌর শহীদ জাবেদ উচ্চ বিদ্যালয়",
+    "male_count": 1250,
+    "female_count": 1346,
+    "hijra_count": 0,
+    "latitude": 23.22138,
+    "longitude": 90.66342
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "চাঁদপুর সরকারি কলেজ",
+    "male_count": 2051,
+    "female_count": 2314,
+    "hijra_count": 0,
+    "latitude": 23.22883,
+    "longitude": 90.65976
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "চান্দ্রা বাজার ইয়াকুব আলী স্মারক উচ্চ বিদ্যালয়",
+    "male_count": 1689,
+    "female_count": 1406,
+    "hijra_count": 0,
+    "latitude": 23.14436,
+    "longitude": 90.66708
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "চান্দ্রা বাজার নূরীয়া ফাযিল (ডিগ্রী)মাদ্রাসা",
+    "male_count": 2118,
+    "female_count": 1769,
+    "hijra_count": 0,
+    "latitude": 23.14259,
+    "longitude": 90.66591
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ছোট সুন্দর এ আলী উচ্চ বিদ্যালয়",
+    "male_count": 3129,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.2329,
+    "longitude": 90.7576
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ছোট সুন্দর এ আলী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3116,
+    "hijra_count": 0,
+    "latitude": 23.23313,
+    "longitude": 90.75775
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "জাফরাবাদ জামে আরাবিয়া এমদাদিয়া মাদ্রাসা",
+    "male_count": 1447,
+    "female_count": 1363,
+    "hijra_count": 0,
+    "latitude": 23.20805,
+    "longitude": 90.64519
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "জাবালেনুর ফোরকানিয়া হাফেজিয়া মাদ্রাসা",
+    "male_count": 2553,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.2355,
+    "longitude": 90.73106
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "জামিলায়ে মহিলা দাখিল মাদ্রাসা",
+    "male_count": 2068,
+    "female_count": 1788,
+    "hijra_count": 0,
+    "latitude": 23.12249,
+    "longitude": 90.66342
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "জামেয়া আরাবিয়্যা দারুল উলুম রঘুনাথপুর(আরজি বালিয়া) মাদরাসা",
+    "male_count": 1669,
+    "female_count": 1444,
+    "hijra_count": 0,
+    "latitude": 23.18874,
+    "longitude": 90.6589
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "জিলানী চিশতী উচ্চ বিদ্যালয়",
+    "male_count": 2205,
+    "female_count": 2224,
+    "hijra_count": 0,
+    "latitude": 23.24463,
+    "longitude": 90.72554
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ডাসাদী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2495,
+    "hijra_count": 0,
+    "latitude": 23.26307,
+    "longitude": 90.67291
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ডি এন উচ্চ বিদ্যালয়",
+    "male_count": 3597,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.22403,
+    "longitude": 90.6603
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "দক্ষিণ ইচলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2105,
+    "female_count": 1818,
+    "hijra_count": 0,
+    "latitude": 23.20295,
+    "longitude": 90.67491
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "দক্ষিণ গুনরাজদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2379,
+    "female_count": 2357,
+    "hijra_count": 0,
+    "latitude": 23.21815,
+    "longitude": 90.66958
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "দক্ষিণ গোবিন্দিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1928,
+    "female_count": 1561,
+    "hijra_count": 0,
+    "latitude": 23.14883,
+    "longitude": 90.65059
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "দেবপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1698,
+    "female_count": 1625,
+    "hijra_count": 0,
+    "latitude": 23.24945,
+    "longitude": 90.76521
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "নীলকমল ওছমানিয়া উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2974,
+    "hijra_count": 1,
+    "latitude": 23.08261,
+    "longitude": 90.66098
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "নীলকমল ওছমানিয়া উচ্চ বিদ্যালয়",
+    "male_count": 3224,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.08262,
+    "longitude": 90.66091
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "পশ্চিম সকদী মাদানিয়া সিনিয়র আলিম মাদ্রাসা",
+    "male_count": 1831,
+    "female_count": 1666,
+    "hijra_count": 0,
+    "latitude": 23.20677,
+    "longitude": 90.71469
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "পাইকাস্তা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2131,
+    "female_count": 2087,
+    "hijra_count": 0,
+    "latitude": 23.27621,
+    "longitude": 90.71013
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "পাড়া বগুলা সাজলীয়া দাখিল মাদ্রাসা",
+    "male_count": 1814,
+    "female_count": 1687,
+    "hijra_count": 0,
+    "latitude": 23.03035,
+    "longitude": 90.66452
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "পীর বাদশা মিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2470,
+    "female_count": 2253,
+    "hijra_count": 0,
+    "latitude": 23.19924,
+    "longitude": 90.64681
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "পুরান বাজার বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4445,
+    "hijra_count": 0,
+    "latitude": 23.22374,
+    "longitude": 90.64501
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "পূর্ব গুলিশা সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1933,
+    "female_count": 1725,
+    "hijra_count": 0,
+    "latitude": 23.15752,
+    "longitude": 90.69801
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ফরক্কাবাদ উচ্চ বিদ্যালয়",
+    "male_count": 1851,
+    "female_count": 1722,
+    "hijra_count": 0,
+    "latitude": 23.16837,
+    "longitude": 90.68968
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বহরিয়া উচ্চ বিদ্যালয়",
+    "male_count": 1133,
+    "female_count": 905,
+    "hijra_count": 0,
+    "latitude": 23.18737,
+    "longitude": 90.6486
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বহরিয়া উচ্চ বিদ্যালয়",
+    "male_count": 2786,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.18738,
+    "longitude": 90.6486
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বহরিয়া উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2377,
+    "hijra_count": 0,
+    "latitude": 23.18738,
+    "longitude": 90.64861
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বাগাদী গণি উচ্চ বিদ্যালয়",
+    "male_count": 3832,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.19953,
+    "longitude": 90.69019
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বাবুরহাট উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 0,
+    "female_count": 2648,
+    "hijra_count": 0,
+    "latitude": 23.25756,
+    "longitude": 90.69456
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বাবুরহাট উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 2791,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.25798,
+    "longitude": 90.69447
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বালিয়া আদর্শ উচ্চ বিদ্যালয়",
+    "male_count": 3170,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.17126,
+    "longitude": 90.67227
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বিষ্ণুদী আজিমিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1608,
+    "female_count": 1635,
+    "hijra_count": 0,
+    "latitude": 23.23265,
+    "longitude": 90.66259
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বিষ্ণুদী ইসলামিয়া ফাজিল মাদ্রাসা",
+    "male_count": 1081,
+    "female_count": 1089,
+    "hijra_count": 0,
+    "latitude": 23.23014,
+    "longitude": 90.66658
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "বিষ্ণুদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1931,
+    "female_count": 1805,
+    "hijra_count": 0,
+    "latitude": 23.24043,
+    "longitude": 90.66456
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ব্রাহ্মণ সাখুয়া আর্দশ সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1944,
+    "female_count": 1657,
+    "hijra_count": 0,
+    "latitude": 23.1852,
+    "longitude": 90.68249
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মধুসুদন উচ্চ বিদ্যালয়",
+    "male_count": 3852,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.22556,
+    "longitude": 90.64424
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মধ্য আশিকাটি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 904,
+    "female_count": 903,
+    "hijra_count": 0,
+    "latitude": 23.26419,
+    "longitude": 90.7093
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মধ্য তরপুরচন্ডী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1382,
+    "female_count": 1499,
+    "hijra_count": 0,
+    "latitude": 23.23808,
+    "longitude": 90.68036
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মনিহার সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1275,
+    "female_count": 1191,
+    "hijra_count": 0,
+    "latitude": 23.22863,
+    "longitude": 90.78721
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মহামায়া হানাফিয়া উচ্চ বিদ্যালয়",
+    "male_count": 2216,
+    "female_count": 2059,
+    "hijra_count": 0,
+    "latitude": 23.25219,
+    "longitude": 90.75541
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মাতৃপীঠ সরকারি বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 515,
+    "female_count": 578,
+    "hijra_count": 0,
+    "latitude": 23.22712,
+    "longitude": 90.65947
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মৈশাদী উচ্চ বিদ্যালয়",
+    "male_count": 1689,
+    "female_count": 1671,
+    "hijra_count": 0,
+    "latitude": 23.23356,
+    "longitude": 90.69909
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মোয়াজ্জেম হোসেন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1044,
+    "female_count": 1008,
+    "hijra_count": 0,
+    "latitude": 23.06965,
+    "longitude": 90.68644
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "মোল্যা কান্দি যুব সমাজ কল্যান সংঘ নুরুল হক মঞ্জিলা জুনিয়র হাই স্কুল",
+    "male_count": 952,
+    "female_count": 856,
+    "hijra_count": 0,
+    "latitude": 23.08566,
+    "longitude": 90.6567
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "রঘুনাথপুর হাজী এ করিম খান উচ্চ বিদ্যালয়",
+    "male_count": 2977,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.20803,
+    "longitude": 90.66263
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "রাজরাজেশ্বর মোজাফ্ফরিয়া ইসলামিয়া দাখিল মাদ্রাসা",
+    "male_count": 2003,
+    "female_count": 1634,
+    "hijra_count": 0,
+    "latitude": 23.22714,
+    "longitude": 90.59802
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "লক্ষ্মীপুর মোহাম্মদিয়া দাখিল মাদ্রাসা",
+    "male_count": 1603,
+    "female_count": 1269,
+    "hijra_count": 0,
+    "latitude": 23.18212,
+    "longitude": 90.64799
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "লক্ষ্মীপুর সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1975,
+    "female_count": 1698,
+    "hijra_count": 0,
+    "latitude": 23.17325,
+    "longitude": 90.64801
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "লালপুর বালুধুম উচ্চ বিদ্যালয়",
+    "male_count": 2612,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.30887,
+    "longitude": 90.67314
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "লালপুর বালুধুম উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2441,
+    "hijra_count": 0,
+    "latitude": 23.30965,
+    "longitude": 90.6739
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "লেডি দেহলভী বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3727,
+    "hijra_count": 0,
+    "latitude": 23.22428,
+    "longitude": 90.66131
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "লেডি প্রতিমা মিত্র বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2522,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.22388,
+    "longitude": 90.65257
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "লেডি প্রতিমা মিত্র বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2484,
+    "hijra_count": 0,
+    "latitude": 23.2239,
+    "longitude": 90.65265
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "শাহতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2632,
+    "hijra_count": 0,
+    "latitude": 23.23911,
+    "longitude": 90.71474
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "শিলারচর হাজী হাসেদ প্রধানীয়া সরকারি প্রাঃ বিদ্যালয়",
+    "male_count": 1141,
+    "female_count": 923,
+    "hijra_count": 0,
+    "latitude": 23.27111,
+    "longitude": 90.5723
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ষোলঘর আর্দশ উচ্চ বিদ্যালয়",
+    "male_count": 3854,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.23699,
+    "longitude": 90.67305
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "ষোলঘর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3838,
+    "hijra_count": 0,
+    "latitude": 23.2372,
+    "longitude": 90.67346
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "সফরমালী উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2615,
+    "hijra_count": 0,
+    "latitude": 23.28107,
+    "longitude": 90.66918
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "সফরমালী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2669,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.28061,
+    "longitude": 90.669
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "সব্দারখান সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1274,
+    "female_count": 1367,
+    "hijra_count": 0,
+    "latitude": 23.23142,
+    "longitude": 90.65755
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "সরকারি কারিগরি উচ্চ বিদ্যালয়",
+    "male_count": 1462,
+    "female_count": 1321,
+    "hijra_count": 0,
+    "latitude": 23.24137,
+    "longitude": 90.68358
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "সরকারি শিশু পরিবার বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2736,
+    "hijra_count": 1,
+    "latitude": 23.25066,
+    "longitude": 90.68897
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "সেনগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1246,
+    "female_count": 1203,
+    "hijra_count": 0,
+    "latitude": 23.26917,
+    "longitude": 90.72371
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "হরিনা চালিতাতলী এডওয়ার্ড ইন্সটিটিউশন",
+    "male_count": 1189,
+    "female_count": 954,
+    "hijra_count": 0,
+    "latitude": 23.16188,
+    "longitude": 90.6457
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "হাইমচর মোল্লাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1103,
+    "female_count": 996,
+    "hijra_count": 0,
+    "latitude": 23.08365,
+    "longitude": 90.59807
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "হামানকর্দি পল্লী মঙ্গল উচ্চ বিদ্যালয়",
+    "male_count": 2727,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 23.23931,
+    "longitude": 90.71415
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "হাসাদী সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 1315,
+    "female_count": 1212,
+    "hijra_count": 0,
+    "latitude": 23.29215,
+    "longitude": 90.68149
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "হাসান আলী সরকারি উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4425,
+    "hijra_count": 0,
+    "latitude": 23.22831,
+    "longitude": 90.65777
+  },
+  {
+    "settings_code": 262,
+    "settings_name": "চাঁদপুর-৩",
+    "center_name": "হোসেনপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2156,
+    "female_count": 2084,
+    "hijra_count": 0,
+    "latitude": 23.26941,
+    "longitude": 90.71478
+  }
 ]

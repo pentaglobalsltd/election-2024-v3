@@ -1,1092 +1,1092 @@
 [
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "২০ নং দেওয়ানবাজার ওয়ার্ড অফিস ও প্রাথমিকস্বাস্থ্য সেবা কেন্দ্র",
-        "male_count": 2266,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34347,
-        "longitude": 91.83722
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "অপর্ণাচরণ সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয় ও কলেজ",
-        "male_count": 2102,
-        "female_count": 2209,
-        "hijra_count": 0,
-        "latitude": 22.33681,
-        "longitude": 91.83229
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আঞ্চলিক অফিস রাজস্ব সার্কেল নং-৪ চট্টগ্রাম সিটি কর্পোরেশন",
-        "male_count": 1558,
-        "female_count": 109,
-        "hijra_count": 0,
-        "latitude": 22.33415,
-        "longitude": 91.83188
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আঞ্চলিক লোক প্রশাসন প্রশিক্ষণ কেন্দ্র",
-        "male_count": 5717,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34838,
-        "longitude": 91.82841
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আন্দরকিল্লা ওয়ার্ড কমিশনার অফিস ও আনসার ক্লাব",
-        "male_count": 2053,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33815,
-        "longitude": 91.84148
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আবদুল বারী সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 4436,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.3469,
-        "longitude": 91.84973
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আমির ফোরকানিয়া মাদ্রাসা",
-        "male_count": 1630,
-        "female_count": 2266,
-        "hijra_count": 0,
-        "latitude": 22.33788,
-        "longitude": 91.85058
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আলকরণ নুর আহ্‌মদ সিটি কর্পোরেশন বালক উচ্চ বিদ্যালয়",
-        "male_count": 2510,
-        "female_count": 2557,
-        "hijra_count": 0,
-        "latitude": 22.3332,
-        "longitude": 91.83406
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আলকরণ সুলতান আহ্‌মদ দেওয়ান সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 3031,
-        "female_count": 2826,
-        "hijra_count": 0,
-        "latitude": 22.33174,
-        "longitude": 91.83434
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আল জামেয়াতুল ইসলামিয়া আল আরাবীয়া মোজাহেরুল উলুম মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 3224,
-        "hijra_count": 0,
-        "latitude": 22.34335,
-        "longitude": 91.84722
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আল জামেয়াতুল ইসলামিয়া আল আরাবীয়া মোজাহেরুল উলুম মাদ্রাসা",
-        "male_count": 3696,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34347,
-        "longitude": 91.84729
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আল জামেয়াতুল ইসলামিয়া আল আরাবীয়া মোজাহেরুল উলুম মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 3156,
-        "hijra_count": 0,
-        "latitude": 22.3435,
-        "longitude": 91.8473
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "আহমদিয়া করিমিয়া সুন্নিয়া মাদ্রাসা",
-        "male_count": 1376,
-        "female_count": 1289,
-        "hijra_count": 0,
-        "latitude": 22.35895,
-        "longitude": 91.86867
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ইউসেফ চর চাক্তাই টেকনিক্যাল স্কুল",
-        "male_count": 3293,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.3388,
-        "longitude": 91.84825
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "এনায়েতবাজার ওয়ার্ড কমিশনার অফিস",
-        "male_count": 0,
-        "female_count": 2936,
-        "hijra_count": 0,
-        "latitude": 22.34182,
-        "longitude": 91.82678
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "এবাদুল্লাহ পন্ডিত সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2489,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33814,
-        "longitude": 91.83027
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "এয়াকুব আলী দোভাষ বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 2273,
-        "female_count": 2454,
-        "hijra_count": 0,
-        "latitude": 22.33149,
-        "longitude": 91.83668
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ওয়াইজার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2580,
-        "hijra_count": 0,
-        "latitude": 22.36188,
-        "longitude": 91.86584
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কদম মোবারক এম ওয়াই (বালক বালিকা) উচ্চ বিদ্যালয়",
-        "male_count": 2554,
-        "female_count": 2198,
-        "hijra_count": 0,
-        "latitude": 22.34408,
-        "longitude": 91.83376
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কলিম উল্লাহ মাষ্টার সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3068,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33848,
-        "longitude": 91.8296
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কাজীর দেউরী বালক সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3586,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35022,
-        "longitude": 91.82729
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কাজীর দেউরী বালিকা সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3330,
-        "hijra_count": 0,
-        "latitude": 22.35307,
-        "longitude": 91.82165
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কাজেম আলী স্কুল এন্ড কলেজ",
-        "male_count": 2484,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35153,
-        "longitude": 91.83644
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কাতালগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2962,
-        "hijra_count": 0,
-        "latitude": 22.35867,
-        "longitude": 91.83753
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কাপাসগোলা বালক সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3227,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35997,
-        "longitude": 91.84137
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কাপাসগোলা সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয় ও মহিলা কলেজ",
-        "male_count": 2863,
-        "female_count": 3249,
-        "hijra_count": 0,
-        "latitude": 22.35987,
-        "longitude": 91.84139
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কায়সার নিলুফার কলেজ",
-        "male_count": 4037,
-        "female_count": 3608,
-        "hijra_count": 0,
-        "latitude": 22.33975,
-        "longitude": 91.84272
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "কৃষ্ণচূড়া স্কুল",
-        "male_count": 0,
-        "female_count": 2189,
-        "hijra_count": 0,
-        "latitude": 22.34396,
-        "longitude": 91.83634
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "গভ. মুসলিম হাই স্কুল",
-        "male_count": 2651,
-        "female_count": 1849,
-        "hijra_count": 0,
-        "latitude": 22.33499,
-        "longitude": 91.83695
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "গুল এজার বেগম সিটি কর্পোরেশন মুসলিম বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2574,
-        "hijra_count": 0,
-        "latitude": 22.35158,
-        "longitude": 91.83848
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ঘাটকুল সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2876,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.36389,
-        "longitude": 91.8697
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ঘাট ফরহাদবেগ বালক সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2163,
-        "hijra_count": 0,
-        "latitude": 22.34142,
-        "longitude": 91.83981
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ঘাটফরহাদবেগ সরকারী বালিকা প্রাথমিক বিদ্যালয়",
-        "male_count": 2638,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34142,
-        "longitude": 91.83971
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ঘাটফরহাদবেগ সরকারী বালিকা প্রাথমিক বিদ্যালয়",
-        "male_count": 2313,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34142,
-        "longitude": 91.8398
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চউক শিশু কানন স্কুল",
-        "male_count": 1601,
-        "female_count": 1459,
-        "hijra_count": 0,
-        "latitude": 22.35728,
-        "longitude": 91.82396
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চট্টগ্রাম মহিলা মাদ্রাসা",
-        "male_count": 2939,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34826,
-        "longitude": 91.84467
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চট্টগ্রাম মেডিকেল কলেজ শাহ আলম বীর উত্তম মিলনায়তন",
-        "male_count": 3729,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চট্টগ্রাম মেডিকেল কলেজ হাসপাতাল মডেল সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3543,
-        "hijra_count": 0,
-        "latitude": 22.35948,
-        "longitude": 91.83476
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চট্টগ্রাম সরকারী উচ্চ বিদ্যালয়",
-        "male_count": 2276,
-        "female_count": 2326,
-        "hijra_count": 0,
-        "latitude": 22.35215,
-        "longitude": 91.83679
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চট্টগ্রাম সিটি কর্পোরেশন ৮ নং সংরক্ষিত ওয়ার্ড কাউন্সিলরের কার্যালয়",
-        "male_count": 0,
-        "female_count": 1648,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চট্টগ্রাম সিটি কর্পোরেশন মিউনিসিপ্যাল মডেল স্কুল এন্ড কলেজ",
-        "male_count": 1911,
-        "female_count": 479,
-        "hijra_count": 0,
-        "latitude": NaN,
-        "longitude": NaN
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চর চাক্তাই আদর্শ শিশু শিক্ষা নিকেতন",
-        "male_count": 3488,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33796,
-        "longitude": 91.85077
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চর চাক্তাই সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 3835,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33865,
-        "longitude": 91.84797
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চর চাক্তাই সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3576,
-        "hijra_count": 0,
-        "latitude": 22.3393,
-        "longitude": 91.84774
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চর চাক্তাই সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4035,
-        "hijra_count": 1,
-        "latitude": 22.33953,
-        "longitude": 91.84801
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চাক্‌তাই আইডিয়্যাল গ্রামার স্কুল",
-        "male_count": 0,
-        "female_count": 2444,
-        "hijra_count": 7,
-        "latitude": 22.33496,
-        "longitude": 91.8495
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চাক্‌তাই শিশু শিক্ষা নিকেতন",
-        "male_count": 0,
-        "female_count": 2065,
-        "hijra_count": 0,
-        "latitude": 22.33364,
-        "longitude": 91.84905
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "চিটাগাং স্কলারস স্কুল এন্ড কলেজ",
-        "male_count": 1927,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33069,
-        "longitude": 91.83185
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ছালেহ জহুর সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 5396,
-        "hijra_count": 0,
-        "latitude": 22.34609,
-        "longitude": 91.82851
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ছোবহানীয়া আলীয়া (কামিল) মাদ্রাসা",
-        "male_count": 2294,
-        "female_count": 2295,
-        "hijra_count": 0,
-        "latitude": 22.3373,
-        "longitude": 91.84361
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "জামালখান কুসুম কুমারী সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 2736,
-        "female_count": 2937,
-        "hijra_count": 0,
-        "latitude": 22.34606,
-        "longitude": 91.83608
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "জুলেখা আমিনুর রহমান সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
-        "male_count": 2992,
-        "female_count": 1615,
-        "hijra_count": 0,
-        "latitude": 22.33778,
-        "longitude": 91.84785
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "জে,এম, সেন স্কুল এন্ড কলেজ",
-        "male_count": 1284,
-        "female_count": 1042,
-        "hijra_count": 0,
-        "latitude": 22.33164,
-        "longitude": 91.83718
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "জেলা শিল্প কলা একাডেমী",
-        "male_count": 0,
-        "female_count": 2368,
-        "hijra_count": 0,
-        "latitude": 22.35665,
-        "longitude": 91.82303
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "টিচার্স ট্রেনিং কলেজ",
-        "male_count": 6065,
-        "female_count": 3749,
-        "hijra_count": 0,
-        "latitude": 22.35635,
-        "longitude": 91.84342
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ডাঃ খাস্তগীর সরকারী বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1956,
-        "female_count": 2019,
-        "hijra_count": 0,
-        "latitude": 22.34775,
-        "longitude": 91.83435
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ডাঃ জাকির হোসেন হোমিওপ্যাথিক কলেজ",
-        "male_count": 1704,
-        "female_count": 1312,
-        "hijra_count": 0,
-        "latitude": 22.32962,
-        "longitude": 91.83605
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "দক্ষিণ পশ্চিম বাকলিয়া উচ্চ বিদ্যালয়",
-        "male_count": 4618,
-        "female_count": 2406,
-        "hijra_count": 0,
-        "latitude": 22.34324,
-        "longitude": 91.84366
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পশ্চিম বাকলিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2662,
-        "hijra_count": 0,
-        "latitude": 22.35786,
-        "longitude": 91.84221
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পাঠানটুলী খান সাহেব বালক সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1609,
-        "female_count": 1666,
-        "hijra_count": 0,
-        "latitude": 22.33254,
-        "longitude": 91.81425
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পাঠানটুলী খান সাহেব সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 3380,
-        "female_count": 3258,
-        "hijra_count": 0,
-        "latitude": 22.33254,
-        "longitude": 91.81403
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পাথরঘাটা ওয়ার্ড কমিশনার অফিস ও কমিউনিটি সেন্টার",
-        "male_count": 1388,
-        "female_count": 1445,
-        "hijra_count": 0,
-        "latitude": 22.33197,
-        "longitude": 91.841
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পাথরঘাটা জে.ডি প্রাথমিক বিদ্যালয়",
-        "male_count": 715,
-        "female_count": 815,
-        "hijra_count": 0,
-        "latitude": 22.33194,
-        "longitude": 91.83984
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পাথরঘাটা বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1559,
-        "female_count": 1586,
-        "hijra_count": 0,
-        "latitude": 22.33433,
-        "longitude": 91.84341
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পাথরঘাটা মেনকা সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 966,
-        "female_count": 944,
-        "hijra_count": 0,
-        "latitude": 22.33573,
-        "longitude": 91.83995
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পাথরঘাটা সিটি কর্পোরেশন কলেজ",
-        "male_count": 3164,
-        "female_count": 3495,
-        "hijra_count": 0,
-        "latitude": 22.33484,
-        "longitude": 91.84402
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পূর্ব বাকলিয়া সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
-        "male_count": 3813,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35106,
-        "longitude": 91.85812
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পূর্ব বাকলিয়া সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 2987,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35134,
-        "longitude": 91.85958
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পূর্ব বাকলিয়া সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1952,
-        "female_count": 1875,
-        "hijra_count": 0,
-        "latitude": 22.35142,
-        "longitude": 91.85977
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পোস্তারপাড় আছমা খাতুন সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 1190,
-        "female_count": 1057,
-        "hijra_count": 0,
-        "latitude": 22.33757,
-        "longitude": 91.81713
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পোস্তারপাড় আছমা খাতুন সিটি কর্পোরেশন মহিলা ডিগ্রী কলেজ",
-        "male_count": 1252,
-        "female_count": 1137,
-        "hijra_count": 0,
-        "latitude": 22.33765,
-        "longitude": 91.81771
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "পোস্তারপাড় সিটি কর্পোরেশন বালক উচ্চ বিদ্যালয়",
-        "male_count": 2479,
-        "female_count": 2231,
-        "hijra_count": 0,
-        "latitude": 22.33808,
-        "longitude": 91.8173
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ফকির মোহাম্মদ মাদ্রাসা",
-        "male_count": 761,
-        "female_count": 822,
-        "hijra_count": 0,
-        "latitude": 22.34601,
-        "longitude": 91.83839
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "ফিরিংগীবাজার সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 1394,
-        "female_count": 1414,
-        "hijra_count": 0,
-        "latitude": 22.33073,
-        "longitude": 91.8365
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বকশিরহাট ওয়ার্ড কমিশনার অফিস",
-        "male_count": 1369,
-        "female_count": 388,
-        "hijra_count": 0,
-        "latitude": 22.33747,
-        "longitude": 91.84655
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বঙ্গবন্ধু সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3087,
-        "hijra_count": 0,
-        "latitude": 22.35656,
-        "longitude": 91.84283
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাকলিয়া আদর্শ বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 6579,
-        "female_count": 4389,
-        "hijra_count": 0,
-        "latitude": 22.35652,
-        "longitude": 91.84276
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাকলিয়া মুসলিম সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2713,
-        "hijra_count": 0,
-        "latitude": 22.35148,
-        "longitude": 91.86582
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাকলিয়া শহীদ এন,এম, এম. জে কলেজ",
-        "male_count": 5389,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33181,
-        "longitude": 91.85249
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাকলিয়া সরকারী উচ্চ বিদ্যালয়",
-        "male_count": 5154,
-        "female_count": 5429,
-        "hijra_count": 0,
-        "latitude": 22.35603,
-        "longitude": 91.84428
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাকলিয়া সরকারী কলেজ",
-        "male_count": 4056,
-        "female_count": 4345,
-        "hijra_count": 0,
-        "latitude": 22.35869,
-        "longitude": 91.85304
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাগমনিরাম আবদুর রশীদ সিটি কর্পোরেশন বালক উচ্চ বিদ্যালয়",
-        "male_count": 1977,
-        "female_count": 1865,
-        "hijra_count": 0,
-        "latitude": 22.35211,
-        "longitude": 91.8227
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাগমনিরাম সিরাজা খাতুন সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 3220,
-        "female_count": 3039,
-        "hijra_count": 0,
-        "latitude": 22.35232,
-        "longitude": 91.82273
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বান্ডেল সরকারি প্রাথমিক বালক বিদ্যালয়",
-        "male_count": 1774,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33233,
-        "longitude": 91.83815
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বান্ডেল সরকারি প্রাথমিক বালিকা বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 1791,
-        "hijra_count": 0,
-        "latitude": 22.33247,
-        "longitude": 91.83825
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বায়তুশশরফ আদর্শ কামিল মাদ্রাসা",
-        "male_count": 0,
-        "female_count": 2278,
-        "hijra_count": 0,
-        "latitude": 22.33617,
-        "longitude": 91.81657
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বায়তুশশরফ আদর্শ কামিল মাদ্রাসা",
-        "male_count": 2408,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.33633,
-        "longitude": 91.81656
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাংলাদেশ মহিলা সমিতি বালিকা উচ্চ বিদ্যালয় ও কলেজ",
-        "male_count": 2855,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35354,
-        "longitude": 91.82217
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "বাংলাদেশ শিশু একাডেমী",
-        "male_count": 3419,
-        "female_count": 3078,
-        "hijra_count": 0,
-        "latitude": 22.36074,
-        "longitude": 91.82717
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "মধ্যম বাকলিয়া সরকারী প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 3813,
-        "hijra_count": 0,
-        "latitude": 22.35051,
-        "longitude": 91.856
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "মহিলা কলেজ চট্টগ্রাম",
-        "male_count": 1708,
-        "female_count": 1603,
-        "hijra_count": 0,
-        "latitude": 22.34145,
-        "longitude": 91.83004
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "মুসলিম এডুকেশন সোসাইটি উচ্চ বিদ্যালয়",
-        "male_count": 3216,
-        "female_count": 1963,
-        "hijra_count": 0,
-        "latitude": 22.34092,
-        "longitude": 91.83604
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "যাত্রা মোহন সেন হল (জে. এম. সেন হল)",
-        "male_count": 2117,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34471,
-        "longitude": 91.83583
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "রেলওয়ে পাবলিক হাই স্কুল",
-        "male_count": 2341,
-        "female_count": 2050,
-        "hijra_count": 0,
-        "latitude": 22.33832,
-        "longitude": 91.82083
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "রেলওয়ে ম্যানস ষ্টোর ক্লাব",
-        "male_count": 2273,
-        "female_count": 167,
-        "hijra_count": 0,
-        "latitude": 22.33623,
-        "longitude": 91.82407
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "রেলওয়ে হাসপাতাল কলোনী সিটি কর্পোরেশন উচ্চ বিদ্যালয় ও কলেজ",
-        "male_count": 3352,
-        "female_count": 5672,
-        "hijra_count": 0,
-        "latitude": 22.3376,
-        "longitude": 91.82539
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "লিটল ফ্লাওয়ার টিউটোরিয়াল হোম",
-        "male_count": 0,
-        "female_count": 4638,
-        "hijra_count": 0,
-        "latitude": 22.34519,
-        "longitude": 91.83764
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "শাহ ওয়ালী উল্লাহ ইন্সটিটিউট",
-        "male_count": 1235,
-        "female_count": 1343,
-        "hijra_count": 0,
-        "latitude": 22.34701,
-        "longitude": 91.83428
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "সরকারী ন্যাশনাল প্রাথমিক বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2475,
-        "hijra_count": 0,
-        "latitude": 22.34216,
-        "longitude": 91.83009
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "সরকারী ন্যাশনাল প্রাথমিক বিদ্যালয়",
-        "male_count": 2396,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.34219,
-        "longitude": 91.82994
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "সলিমা সিরাজ মহিলা ফাজিল (ডিগ্রী) মাদ্রাসা ও ইসলামিক কিন্ডারগার্টেন",
-        "male_count": 1934,
-        "female_count": 1791,
-        "hijra_count": 0,
-        "latitude": 22.34841,
-        "longitude": 91.83164
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "সানরাইজ কে.জি এন্ড হাই স্কুল",
-        "male_count": 0,
-        "female_count": 3426,
-        "hijra_count": 0,
-        "latitude": 22.34616,
-        "longitude": 91.84158
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "সানোয়ারা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 2519,
-        "hijra_count": 0,
-        "latitude": 22.36389,
-        "longitude": 91.86975
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "সিনিয়র সহকারী পরিচালক (নিরাপত্তা ও অনুসন্ধান) এর দপ্তর , বিদ্যুৎ উন্নয়ন বোর্ড",
-        "male_count": 1811,
-        "female_count": 620,
-        "hijra_count": 0,
-        "latitude": 22.33533,
-        "longitude": 91.82952
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "সেন্ট স্কলাসটিকা বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 3729,
-        "female_count": 3510,
-        "hijra_count": 0,
-        "latitude": 22.33211,
-        "longitude": 91.84095
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "হযরত শাহ আমানত (রাঃ) ইনস্টিটিউট",
-        "male_count": 0,
-        "female_count": 3182,
-        "hijra_count": 0,
-        "latitude": 22.3381,
-        "longitude": 91.85143
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "হাজী আবদুল মান্নান সওদাগর সরকারি প্রাথমিক বিদ্যালয়",
-        "male_count": 2735,
-        "female_count": 0,
-        "hijra_count": 0,
-        "latitude": 22.35691,
-        "longitude": 91.86553
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "হাজী খুইল্ল্যা মিয়া মেমোরিয়াল কে.জি. স্কুল",
-        "male_count": 0,
-        "female_count": 1230,
-        "hijra_count": 0,
-        "latitude": 22.33543,
-        "longitude": 91.84632
-    },
-    {
-        "settings_code": 286,
-        "settings_name": "চট্রগ্রাম-৯",
-        "center_name": "হাসনা হেনা বালিকা উচ্চ বিদ্যালয়",
-        "male_count": 0,
-        "female_count": 4577,
-        "hijra_count": 0,
-        "latitude": 22.34948,
-        "longitude": 91.8499
-    }
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "২০ নং দেওয়ানবাজার ওয়ার্ড অফিস ও প্রাথমিকস্বাস্থ্য সেবা কেন্দ্র",
+    "male_count": 2266,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34347,
+    "longitude": 91.83722
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "অপর্ণাচরণ সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 2102,
+    "female_count": 2209,
+    "hijra_count": 0,
+    "latitude": 22.33681,
+    "longitude": 91.83229
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আঞ্চলিক অফিস রাজস্ব সার্কেল নং-৪ চট্টগ্রাম সিটি কর্পোরেশন",
+    "male_count": 1558,
+    "female_count": 109,
+    "hijra_count": 0,
+    "latitude": 22.33415,
+    "longitude": 91.83188
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আঞ্চলিক লোক প্রশাসন প্রশিক্ষণ কেন্দ্র",
+    "male_count": 5717,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34838,
+    "longitude": 91.82841
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আন্দরকিল্লা ওয়ার্ড কমিশনার অফিস ও আনসার ক্লাব",
+    "male_count": 2053,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33815,
+    "longitude": 91.84148
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আবদুল বারী সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 4436,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.3469,
+    "longitude": 91.84973
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আমির ফোরকানিয়া মাদ্রাসা",
+    "male_count": 1630,
+    "female_count": 2266,
+    "hijra_count": 0,
+    "latitude": 22.33788,
+    "longitude": 91.85058
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আলকরণ নুর আহ্‌মদ সিটি কর্পোরেশন বালক উচ্চ বিদ্যালয়",
+    "male_count": 2510,
+    "female_count": 2557,
+    "hijra_count": 0,
+    "latitude": 22.3332,
+    "longitude": 91.83406
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আলকরণ সুলতান আহ্‌মদ দেওয়ান সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 3031,
+    "female_count": 2826,
+    "hijra_count": 0,
+    "latitude": 22.33174,
+    "longitude": 91.83434
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আল জামেয়াতুল ইসলামিয়া আল আরাবীয়া মোজাহেরুল উলুম মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 3224,
+    "hijra_count": 0,
+    "latitude": 22.34335,
+    "longitude": 91.84722
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আল জামেয়াতুল ইসলামিয়া আল আরাবীয়া মোজাহেরুল উলুম মাদ্রাসা",
+    "male_count": 3696,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34347,
+    "longitude": 91.84729
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আল জামেয়াতুল ইসলামিয়া আল আরাবীয়া মোজাহেরুল উলুম মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 3156,
+    "hijra_count": 0,
+    "latitude": 22.3435,
+    "longitude": 91.8473
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "আহমদিয়া করিমিয়া সুন্নিয়া মাদ্রাসা",
+    "male_count": 1376,
+    "female_count": 1289,
+    "hijra_count": 0,
+    "latitude": 22.35895,
+    "longitude": 91.86867
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ইউসেফ চর চাক্তাই টেকনিক্যাল স্কুল",
+    "male_count": 3293,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.3388,
+    "longitude": 91.84825
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "এনায়েতবাজার ওয়ার্ড কমিশনার অফিস",
+    "male_count": 0,
+    "female_count": 2936,
+    "hijra_count": 0,
+    "latitude": 22.34182,
+    "longitude": 91.82678
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "এবাদুল্লাহ পন্ডিত সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2489,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33814,
+    "longitude": 91.83027
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "এয়াকুব আলী দোভাষ বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2273,
+    "female_count": 2454,
+    "hijra_count": 0,
+    "latitude": 22.33149,
+    "longitude": 91.83668
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ওয়াইজার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2580,
+    "hijra_count": 0,
+    "latitude": 22.36188,
+    "longitude": 91.86584
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কদম মোবারক এম ওয়াই (বালক বালিকা) উচ্চ বিদ্যালয়",
+    "male_count": 2554,
+    "female_count": 2198,
+    "hijra_count": 0,
+    "latitude": 22.34408,
+    "longitude": 91.83376
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কলিম উল্লাহ মাষ্টার সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3068,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33848,
+    "longitude": 91.8296
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কাজীর দেউরী বালক সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3586,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35022,
+    "longitude": 91.82729
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কাজীর দেউরী বালিকা সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3330,
+    "hijra_count": 0,
+    "latitude": 22.35307,
+    "longitude": 91.82165
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কাজেম আলী স্কুল এন্ড কলেজ",
+    "male_count": 2484,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35153,
+    "longitude": 91.83644
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কাতালগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2962,
+    "hijra_count": 0,
+    "latitude": 22.35867,
+    "longitude": 91.83753
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কাপাসগোলা বালক সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3227,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35997,
+    "longitude": 91.84137
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কাপাসগোলা সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয় ও মহিলা কলেজ",
+    "male_count": 2863,
+    "female_count": 3249,
+    "hijra_count": 0,
+    "latitude": 22.35987,
+    "longitude": 91.84139
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কায়সার নিলুফার কলেজ",
+    "male_count": 4037,
+    "female_count": 3608,
+    "hijra_count": 0,
+    "latitude": 22.33975,
+    "longitude": 91.84272
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "কৃষ্ণচূড়া স্কুল",
+    "male_count": 0,
+    "female_count": 2189,
+    "hijra_count": 0,
+    "latitude": 22.34396,
+    "longitude": 91.83634
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "গভ. মুসলিম হাই স্কুল",
+    "male_count": 2651,
+    "female_count": 1849,
+    "hijra_count": 0,
+    "latitude": 22.33499,
+    "longitude": 91.83695
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "গুল এজার বেগম সিটি কর্পোরেশন মুসলিম বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2574,
+    "hijra_count": 0,
+    "latitude": 22.35158,
+    "longitude": 91.83848
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ঘাটকুল সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2876,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.36389,
+    "longitude": 91.8697
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ঘাট ফরহাদবেগ বালক সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2163,
+    "hijra_count": 0,
+    "latitude": 22.34142,
+    "longitude": 91.83981
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ঘাটফরহাদবেগ সরকারী বালিকা প্রাথমিক বিদ্যালয়",
+    "male_count": 2638,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34142,
+    "longitude": 91.83971
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ঘাটফরহাদবেগ সরকারী বালিকা প্রাথমিক বিদ্যালয়",
+    "male_count": 2313,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34142,
+    "longitude": 91.8398
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চউক শিশু কানন স্কুল",
+    "male_count": 1601,
+    "female_count": 1459,
+    "hijra_count": 0,
+    "latitude": 22.35728,
+    "longitude": 91.82396
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চট্টগ্রাম মহিলা মাদ্রাসা",
+    "male_count": 2939,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34826,
+    "longitude": 91.84467
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চট্টগ্রাম মেডিকেল কলেজ শাহ আলম বীর উত্তম মিলনায়তন",
+    "male_count": 3729,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চট্টগ্রাম মেডিকেল কলেজ হাসপাতাল মডেল সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3543,
+    "hijra_count": 0,
+    "latitude": 22.35948,
+    "longitude": 91.83476
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চট্টগ্রাম সরকারী উচ্চ বিদ্যালয়",
+    "male_count": 2276,
+    "female_count": 2326,
+    "hijra_count": 0,
+    "latitude": 22.35215,
+    "longitude": 91.83679
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চট্টগ্রাম সিটি কর্পোরেশন ৮ নং সংরক্ষিত ওয়ার্ড কাউন্সিলরের কার্যালয়",
+    "male_count": 0,
+    "female_count": 1648,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চট্টগ্রাম সিটি কর্পোরেশন মিউনিসিপ্যাল মডেল স্কুল এন্ড কলেজ",
+    "male_count": 1911,
+    "female_count": 479,
+    "hijra_count": 0,
+    "latitude": "NaN",
+    "longitude": "NaN"
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চর চাক্তাই আদর্শ শিশু শিক্ষা নিকেতন",
+    "male_count": 3488,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33796,
+    "longitude": 91.85077
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চর চাক্তাই সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 3835,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33865,
+    "longitude": 91.84797
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চর চাক্তাই সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3576,
+    "hijra_count": 0,
+    "latitude": 22.3393,
+    "longitude": 91.84774
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চর চাক্তাই সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4035,
+    "hijra_count": 1,
+    "latitude": 22.33953,
+    "longitude": 91.84801
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চাক্‌তাই আইডিয়্যাল গ্রামার স্কুল",
+    "male_count": 0,
+    "female_count": 2444,
+    "hijra_count": 7,
+    "latitude": 22.33496,
+    "longitude": 91.8495
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চাক্‌তাই শিশু শিক্ষা নিকেতন",
+    "male_count": 0,
+    "female_count": 2065,
+    "hijra_count": 0,
+    "latitude": 22.33364,
+    "longitude": 91.84905
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "চিটাগাং স্কলারস স্কুল এন্ড কলেজ",
+    "male_count": 1927,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33069,
+    "longitude": 91.83185
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ছালেহ জহুর সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 5396,
+    "hijra_count": 0,
+    "latitude": 22.34609,
+    "longitude": 91.82851
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ছোবহানীয়া আলীয়া (কামিল) মাদ্রাসা",
+    "male_count": 2294,
+    "female_count": 2295,
+    "hijra_count": 0,
+    "latitude": 22.3373,
+    "longitude": 91.84361
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "জামালখান কুসুম কুমারী সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2736,
+    "female_count": 2937,
+    "hijra_count": 0,
+    "latitude": 22.34606,
+    "longitude": 91.83608
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "জুলেখা আমিনুর রহমান সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
+    "male_count": 2992,
+    "female_count": 1615,
+    "hijra_count": 0,
+    "latitude": 22.33778,
+    "longitude": 91.84785
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "জে,এম, সেন স্কুল এন্ড কলেজ",
+    "male_count": 1284,
+    "female_count": 1042,
+    "hijra_count": 0,
+    "latitude": 22.33164,
+    "longitude": 91.83718
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "জেলা শিল্প কলা একাডেমী",
+    "male_count": 0,
+    "female_count": 2368,
+    "hijra_count": 0,
+    "latitude": 22.35665,
+    "longitude": 91.82303
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "টিচার্স ট্রেনিং কলেজ",
+    "male_count": 6065,
+    "female_count": 3749,
+    "hijra_count": 0,
+    "latitude": 22.35635,
+    "longitude": 91.84342
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ডাঃ খাস্তগীর সরকারী বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1956,
+    "female_count": 2019,
+    "hijra_count": 0,
+    "latitude": 22.34775,
+    "longitude": 91.83435
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ডাঃ জাকির হোসেন হোমিওপ্যাথিক কলেজ",
+    "male_count": 1704,
+    "female_count": 1312,
+    "hijra_count": 0,
+    "latitude": 22.32962,
+    "longitude": 91.83605
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "দক্ষিণ পশ্চিম বাকলিয়া উচ্চ বিদ্যালয়",
+    "male_count": 4618,
+    "female_count": 2406,
+    "hijra_count": 0,
+    "latitude": 22.34324,
+    "longitude": 91.84366
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পশ্চিম বাকলিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2662,
+    "hijra_count": 0,
+    "latitude": 22.35786,
+    "longitude": 91.84221
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পাঠানটুলী খান সাহেব বালক সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1609,
+    "female_count": 1666,
+    "hijra_count": 0,
+    "latitude": 22.33254,
+    "longitude": 91.81425
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পাঠানটুলী খান সাহেব সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 3380,
+    "female_count": 3258,
+    "hijra_count": 0,
+    "latitude": 22.33254,
+    "longitude": 91.81403
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পাথরঘাটা ওয়ার্ড কমিশনার অফিস ও কমিউনিটি সেন্টার",
+    "male_count": 1388,
+    "female_count": 1445,
+    "hijra_count": 0,
+    "latitude": 22.33197,
+    "longitude": 91.841
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পাথরঘাটা জে.ডি প্রাথমিক বিদ্যালয়",
+    "male_count": 715,
+    "female_count": 815,
+    "hijra_count": 0,
+    "latitude": 22.33194,
+    "longitude": 91.83984
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পাথরঘাটা বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1559,
+    "female_count": 1586,
+    "hijra_count": 0,
+    "latitude": 22.33433,
+    "longitude": 91.84341
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পাথরঘাটা মেনকা সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 966,
+    "female_count": 944,
+    "hijra_count": 0,
+    "latitude": 22.33573,
+    "longitude": 91.83995
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পাথরঘাটা সিটি কর্পোরেশন কলেজ",
+    "male_count": 3164,
+    "female_count": 3495,
+    "hijra_count": 0,
+    "latitude": 22.33484,
+    "longitude": 91.84402
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পূর্ব বাকলিয়া সিটি কর্পোরেশন উচ্চ বিদ্যালয়",
+    "male_count": 3813,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35106,
+    "longitude": 91.85812
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পূর্ব বাকলিয়া সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 2987,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35134,
+    "longitude": 91.85958
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পূর্ব বাকলিয়া সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1952,
+    "female_count": 1875,
+    "hijra_count": 0,
+    "latitude": 22.35142,
+    "longitude": 91.85977
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পোস্তারপাড় আছমা খাতুন সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 1190,
+    "female_count": 1057,
+    "hijra_count": 0,
+    "latitude": 22.33757,
+    "longitude": 91.81713
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পোস্তারপাড় আছমা খাতুন সিটি কর্পোরেশন মহিলা ডিগ্রী কলেজ",
+    "male_count": 1252,
+    "female_count": 1137,
+    "hijra_count": 0,
+    "latitude": 22.33765,
+    "longitude": 91.81771
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "পোস্তারপাড় সিটি কর্পোরেশন বালক উচ্চ বিদ্যালয়",
+    "male_count": 2479,
+    "female_count": 2231,
+    "hijra_count": 0,
+    "latitude": 22.33808,
+    "longitude": 91.8173
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ফকির মোহাম্মদ মাদ্রাসা",
+    "male_count": 761,
+    "female_count": 822,
+    "hijra_count": 0,
+    "latitude": 22.34601,
+    "longitude": 91.83839
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "ফিরিংগীবাজার সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 1394,
+    "female_count": 1414,
+    "hijra_count": 0,
+    "latitude": 22.33073,
+    "longitude": 91.8365
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বকশিরহাট ওয়ার্ড কমিশনার অফিস",
+    "male_count": 1369,
+    "female_count": 388,
+    "hijra_count": 0,
+    "latitude": 22.33747,
+    "longitude": 91.84655
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বঙ্গবন্ধু সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3087,
+    "hijra_count": 0,
+    "latitude": 22.35656,
+    "longitude": 91.84283
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাকলিয়া আদর্শ বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 6579,
+    "female_count": 4389,
+    "hijra_count": 0,
+    "latitude": 22.35652,
+    "longitude": 91.84276
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাকলিয়া মুসলিম সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2713,
+    "hijra_count": 0,
+    "latitude": 22.35148,
+    "longitude": 91.86582
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাকলিয়া শহীদ এন,এম, এম. জে কলেজ",
+    "male_count": 5389,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33181,
+    "longitude": 91.85249
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাকলিয়া সরকারী উচ্চ বিদ্যালয়",
+    "male_count": 5154,
+    "female_count": 5429,
+    "hijra_count": 0,
+    "latitude": 22.35603,
+    "longitude": 91.84428
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাকলিয়া সরকারী কলেজ",
+    "male_count": 4056,
+    "female_count": 4345,
+    "hijra_count": 0,
+    "latitude": 22.35869,
+    "longitude": 91.85304
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাগমনিরাম আবদুর রশীদ সিটি কর্পোরেশন বালক উচ্চ বিদ্যালয়",
+    "male_count": 1977,
+    "female_count": 1865,
+    "hijra_count": 0,
+    "latitude": 22.35211,
+    "longitude": 91.8227
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাগমনিরাম সিরাজা খাতুন সিটি কর্পোরেশন বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 3220,
+    "female_count": 3039,
+    "hijra_count": 0,
+    "latitude": 22.35232,
+    "longitude": 91.82273
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বান্ডেল সরকারি প্রাথমিক বালক বিদ্যালয়",
+    "male_count": 1774,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33233,
+    "longitude": 91.83815
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বান্ডেল সরকারি প্রাথমিক বালিকা বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 1791,
+    "hijra_count": 0,
+    "latitude": 22.33247,
+    "longitude": 91.83825
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বায়তুশশরফ আদর্শ কামিল মাদ্রাসা",
+    "male_count": 0,
+    "female_count": 2278,
+    "hijra_count": 0,
+    "latitude": 22.33617,
+    "longitude": 91.81657
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বায়তুশশরফ আদর্শ কামিল মাদ্রাসা",
+    "male_count": 2408,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.33633,
+    "longitude": 91.81656
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাংলাদেশ মহিলা সমিতি বালিকা উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 2855,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35354,
+    "longitude": 91.82217
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "বাংলাদেশ শিশু একাডেমী",
+    "male_count": 3419,
+    "female_count": 3078,
+    "hijra_count": 0,
+    "latitude": 22.36074,
+    "longitude": 91.82717
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "মধ্যম বাকলিয়া সরকারী প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 3813,
+    "hijra_count": 0,
+    "latitude": 22.35051,
+    "longitude": 91.856
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "মহিলা কলেজ চট্টগ্রাম",
+    "male_count": 1708,
+    "female_count": 1603,
+    "hijra_count": 0,
+    "latitude": 22.34145,
+    "longitude": 91.83004
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "মুসলিম এডুকেশন সোসাইটি উচ্চ বিদ্যালয়",
+    "male_count": 3216,
+    "female_count": 1963,
+    "hijra_count": 0,
+    "latitude": 22.34092,
+    "longitude": 91.83604
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "যাত্রা মোহন সেন হল (জে. এম. সেন হল)",
+    "male_count": 2117,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34471,
+    "longitude": 91.83583
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "রেলওয়ে পাবলিক হাই স্কুল",
+    "male_count": 2341,
+    "female_count": 2050,
+    "hijra_count": 0,
+    "latitude": 22.33832,
+    "longitude": 91.82083
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "রেলওয়ে ম্যানস ষ্টোর ক্লাব",
+    "male_count": 2273,
+    "female_count": 167,
+    "hijra_count": 0,
+    "latitude": 22.33623,
+    "longitude": 91.82407
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "রেলওয়ে হাসপাতাল কলোনী সিটি কর্পোরেশন উচ্চ বিদ্যালয় ও কলেজ",
+    "male_count": 3352,
+    "female_count": 5672,
+    "hijra_count": 0,
+    "latitude": 22.3376,
+    "longitude": 91.82539
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "লিটল ফ্লাওয়ার টিউটোরিয়াল হোম",
+    "male_count": 0,
+    "female_count": 4638,
+    "hijra_count": 0,
+    "latitude": 22.34519,
+    "longitude": 91.83764
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "শাহ ওয়ালী উল্লাহ ইন্সটিটিউট",
+    "male_count": 1235,
+    "female_count": 1343,
+    "hijra_count": 0,
+    "latitude": 22.34701,
+    "longitude": 91.83428
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "সরকারী ন্যাশনাল প্রাথমিক বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2475,
+    "hijra_count": 0,
+    "latitude": 22.34216,
+    "longitude": 91.83009
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "সরকারী ন্যাশনাল প্রাথমিক বিদ্যালয়",
+    "male_count": 2396,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.34219,
+    "longitude": 91.82994
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "সলিমা সিরাজ মহিলা ফাজিল (ডিগ্রী) মাদ্রাসা ও ইসলামিক কিন্ডারগার্টেন",
+    "male_count": 1934,
+    "female_count": 1791,
+    "hijra_count": 0,
+    "latitude": 22.34841,
+    "longitude": 91.83164
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "সানরাইজ কে.জি এন্ড হাই স্কুল",
+    "male_count": 0,
+    "female_count": 3426,
+    "hijra_count": 0,
+    "latitude": 22.34616,
+    "longitude": 91.84158
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "সানোয়ারা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 2519,
+    "hijra_count": 0,
+    "latitude": 22.36389,
+    "longitude": 91.86975
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "সিনিয়র সহকারী পরিচালক (নিরাপত্তা ও অনুসন্ধান) এর দপ্তর , বিদ্যুৎ উন্নয়ন বোর্ড",
+    "male_count": 1811,
+    "female_count": 620,
+    "hijra_count": 0,
+    "latitude": 22.33533,
+    "longitude": 91.82952
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "সেন্ট স্কলাসটিকা বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 3729,
+    "female_count": 3510,
+    "hijra_count": 0,
+    "latitude": 22.33211,
+    "longitude": 91.84095
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "হযরত শাহ আমানত (রাঃ) ইনস্টিটিউট",
+    "male_count": 0,
+    "female_count": 3182,
+    "hijra_count": 0,
+    "latitude": 22.3381,
+    "longitude": 91.85143
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "হাজী আবদুল মান্নান সওদাগর সরকারি প্রাথমিক বিদ্যালয়",
+    "male_count": 2735,
+    "female_count": 0,
+    "hijra_count": 0,
+    "latitude": 22.35691,
+    "longitude": 91.86553
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "হাজী খুইল্ল্যা মিয়া মেমোরিয়াল কে.জি. স্কুল",
+    "male_count": 0,
+    "female_count": 1230,
+    "hijra_count": 0,
+    "latitude": 22.33543,
+    "longitude": 91.84632
+  },
+  {
+    "settings_code": 286,
+    "settings_name": "চট্রগ্রাম-৯",
+    "center_name": "হাসনা হেনা বালিকা উচ্চ বিদ্যালয়",
+    "male_count": 0,
+    "female_count": 4577,
+    "hijra_count": 0,
+    "latitude": 22.34948,
+    "longitude": 91.8499
+  }
 ]
