@@ -1,0 +1,852 @@
+[
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "***",
+        "male_count": 1709,
+        "female_count": 1663,
+        "hijra_count": 0,
+        "latitude": 23.0915,
+        "longitude": 90.86575
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "আইয়েনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 905,
+        "female_count": 856,
+        "hijra_count": 0,
+        "latitude": 23.06375,
+        "longitude": 90.88027
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "আলীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1686,
+        "female_count": 1598,
+        "hijra_count": 0,
+        "latitude": 23.07575,
+        "longitude": 90.89843
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "আশারকোটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1286,
+        "female_count": 1150,
+        "hijra_count": 0,
+        "latitude": 23.14484,
+        "longitude": 90.9086
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "উত্তরগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1388,
+        "female_count": 1320,
+        "hijra_count": 0,
+        "latitude": 23.11524,
+        "longitude": 90.88427
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "উত্তর দরবেশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 891,
+        "female_count": 822,
+        "hijra_count": 0,
+        "latitude": 23.08528,
+        "longitude": 90.8728
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "উত্তর হরিশ্চর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1512,
+        "female_count": 1363,
+        "hijra_count": 0,
+        "latitude": 23.08654,
+        "longitude": 90.80376
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "করপাড়া পূর্ব গ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 746,
+        "female_count": 723,
+        "hijra_count": 0,
+        "latitude": 23.05509,
+        "longitude": 90.90627
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "কলচমা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2260,
+        "female_count": 2079,
+        "hijra_count": 0,
+        "latitude": 23.12129,
+        "longitude": 90.86897
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "কাওয়ালীডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1350,
+        "female_count": 1241,
+        "hijra_count": 0,
+        "latitude": 23.12767,
+        "longitude": 90.86127
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "কাঞ্চনপুর উচ্চ বিদ্যালয়",
+        "male_count": 1769,
+        "female_count": 1681,
+        "hijra_count": 0,
+        "latitude": 23.1432,
+        "longitude": 90.84565
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "কালিকাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1700,
+        "female_count": 1625,
+        "hijra_count": 0,
+        "latitude": 23.03304,
+        "longitude": 90.85689
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "কোমরতলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1134,
+        "female_count": 1040,
+        "hijra_count": 0,
+        "latitude": 23.14337,
+        "longitude": 90.91605
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "গাজীপুর রাজ্জাকিয়া জনকল্যাণ উচ্চ বিদ্যালয়",
+        "male_count": 1295,
+        "female_count": 1097,
+        "hijra_count": 0,
+        "latitude": 23.03223,
+        "longitude": 90.88289
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "গাজীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1436,
+        "female_count": 1287,
+        "hijra_count": 0,
+        "latitude": 23.03204,
+        "longitude": 90.88295
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "চন্ডিপুর মনসা উচ্চ বিদ্যালয়",
+        "male_count": 1739,
+        "female_count": 1680,
+        "hijra_count": 0,
+        "latitude": 23.08263,
+        "longitude": 90.82811
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "চন্ডিপুর সুরেরবাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1411,
+        "female_count": 1333,
+        "hijra_count": 0,
+        "latitude": 23.08558,
+        "longitude": 90.83866
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "চাঙ্গিরগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1132,
+        "female_count": 968,
+        "hijra_count": 0,
+        "latitude": 23.08242,
+        "longitude": 90.81701
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "জয়পুরা এস আর এম এস স্কুল এন্ড কলেজ",
+        "male_count": 2181,
+        "female_count": 1955,
+        "hijra_count": 0,
+        "latitude": 23.16262,
+        "longitude": 90.86262
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "টামটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1761,
+        "female_count": 1709,
+        "hijra_count": 0,
+        "latitude": 23.08081,
+        "longitude": 90.86022
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "টিউরী বহুমূখী উচ্চ বিদ্যালয়",
+        "male_count": 1323,
+        "female_count": 1289,
+        "hijra_count": 0,
+        "latitude": 23.10875,
+        "longitude": 90.92175
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "ডিএসএ ইউনাইটেড একাডেমি",
+        "male_count": 902,
+        "female_count": 919,
+        "hijra_count": 0,
+        "latitude": 23.06774,
+        "longitude": 90.88749
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "দক্ষিণ চন্ডিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2068,
+        "female_count": 1897,
+        "hijra_count": 0,
+        "latitude": 23.07638,
+        "longitude": 90.83571
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "দক্ষিণ ভোলাকোট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2148,
+        "female_count": 2011,
+        "hijra_count": 0,
+        "latitude": 23.09805,
+        "longitude": 90.9238
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "দরবেশপুর উচ্চ বিদ্যালয়",
+        "male_count": 1325,
+        "female_count": 1250,
+        "hijra_count": 0,
+        "latitude": 23.0859,
+        "longitude": 90.8786
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "দরবেশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1095,
+        "female_count": 1117,
+        "hijra_count": 0,
+        "latitude": 23.0779,
+        "longitude": 90.87932
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "দল্টা রহমানিয়া উচ্চ বিদ্যালয়",
+        "male_count": 1704,
+        "female_count": 1600,
+        "hijra_count": 0,
+        "latitude": 23.12506,
+        "longitude": 90.94803
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "দেবনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1186,
+        "female_count": 1046,
+        "hijra_count": 0,
+        "latitude": 23.0919,
+        "longitude": 90.92549
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "দেহলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2060,
+        "female_count": 1863,
+        "hijra_count": 0,
+        "latitude": 23.0934,
+        "longitude": 90.91645
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নন্দনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1675,
+        "female_count": 1662,
+        "hijra_count": 0,
+        "latitude": 23.10356,
+        "longitude": 90.86666
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নয়নপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1839,
+        "female_count": 1721,
+        "hijra_count": 0,
+        "latitude": 23.11223,
+        "longitude": 90.80625
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নাগমুদ বাজার কে আই ফাযিল মাদ্রাসা",
+        "male_count": 1892,
+        "female_count": 1913,
+        "hijra_count": 0,
+        "latitude": 23.10677,
+        "longitude": 90.90788
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নাগমুদ মধ্যপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1246,
+        "female_count": 1279,
+        "hijra_count": 0,
+        "latitude": 23.11634,
+        "longitude": 90.90186
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নান্দিয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1351,
+        "female_count": 1344,
+        "hijra_count": 0,
+        "latitude": 23.13645,
+        "longitude": 90.93051
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নারায়নপুর স্কুল এন্ড কলেজ",
+        "male_count": 2118,
+        "female_count": 1853,
+        "hijra_count": 0,
+        "latitude": 23.10146,
+        "longitude": 90.80951
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নিচহরা সমাজকল্যাণ উচ্চ বিদ্যালয়",
+        "male_count": 1372,
+        "female_count": 1333,
+        "hijra_count": 0,
+        "latitude": 23.12715,
+        "longitude": 90.84568
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নুনিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1810,
+        "female_count": 1630,
+        "hijra_count": 0,
+        "latitude": 23.10825,
+        "longitude": 90.81315
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নোয়াগাঁও জনকল্যাণ বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1965,
+        "female_count": 1869,
+        "hijra_count": 0,
+        "latitude": 23.15203,
+        "longitude": 90.88016
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নোয়াগাঁও বাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2168,
+        "female_count": 2050,
+        "hijra_count": 0,
+        "latitude": 23.15211,
+        "longitude": 90.88038
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "নোয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1166,
+        "female_count": 1161,
+        "hijra_count": 0,
+        "latitude": 23.12405,
+        "longitude": 90.89754
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পশ্চিম করপাড়া নূরে মদিনা ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1398,
+        "female_count": 1311,
+        "hijra_count": 0,
+        "latitude": 23.05087,
+        "longitude": 90.88716
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পশ্চিম কাজিরখিল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1742,
+        "female_count": 1753,
+        "hijra_count": 0,
+        "latitude": 23.09411,
+        "longitude": 90.87026
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পশ্চিম কাশিমনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1538,
+        "female_count": 1417,
+        "hijra_count": 0,
+        "latitude": 23.05047,
+        "longitude": 90.86096
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পশ্চিম ভাদুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1157,
+        "female_count": 1162,
+        "hijra_count": 0,
+        "latitude": 23.11067,
+        "longitude": 90.87066
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পশ্চিম শোশালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1019,
+        "female_count": 958,
+        "hijra_count": 0,
+        "latitude": 23.06358,
+        "longitude": 90.89382
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পাঁচরূখী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1668,
+        "female_count": 1575,
+        "hijra_count": 0,
+        "latitude": 23.11247,
+        "longitude": 90.92649
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পানপাড়া হাইস্কুল এন্ড কলেজ",
+        "male_count": 2148,
+        "female_count": 2075,
+        "hijra_count": 0,
+        "latitude": 23.05233,
+        "longitude": 90.83281
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পানিয়ালা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1166,
+        "female_count": 1137,
+        "hijra_count": 0,
+        "latitude": 23.1342,
+        "longitude": 90.91479
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পূর্ব করপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1278,
+        "female_count": 1193,
+        "hijra_count": 0,
+        "latitude": 23.05432,
+        "longitude": 90.89509
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পূর্ব দরবেশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 773,
+        "female_count": 745,
+        "hijra_count": 0,
+        "latitude": 23.08239,
+        "longitude": 90.89043
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পূর্ব বিঘা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2002,
+        "female_count": 2045,
+        "hijra_count": 0,
+        "latitude": 23.13995,
+        "longitude": 90.87097
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "পূর্ব সোন্দড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1637,
+        "female_count": 1485,
+        "hijra_count": 0,
+        "latitude": 23.11683,
+        "longitude": 90.8237
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "ফতেপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1191,
+        "female_count": 1170,
+        "hijra_count": 0,
+        "latitude": 23.06771,
+        "longitude": 90.83457
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "বদরপুর দারুল কোরআন ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 2807,
+        "female_count": 2372,
+        "hijra_count": 0,
+        "latitude": 23.02674,
+        "longitude": 90.86972
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "বাউরখাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1734,
+        "female_count": 1645,
+        "hijra_count": 0,
+        "latitude": 23.11772,
+        "longitude": 90.94621
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "বাঁশঘর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1430,
+        "female_count": 1360,
+        "hijra_count": 0,
+        "latitude": 23.11394,
+        "longitude": 90.84487
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "বিঘা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1786,
+        "female_count": 1775,
+        "hijra_count": 0,
+        "latitude": 23.14412,
+        "longitude": 90.85688
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "ব্রহ্মপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1382,
+        "female_count": 1234,
+        "hijra_count": 0,
+        "latitude": 23.14703,
+        "longitude": 90.8526
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "ভাটরা মাইজপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1218,
+        "female_count": 1147,
+        "hijra_count": 0,
+        "latitude": 23.11794,
+        "longitude": 90.93411
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "ভাটরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1610,
+        "female_count": 1451,
+        "hijra_count": 0,
+        "latitude": 23.12525,
+        "longitude": 90.93625
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "ভাটিয়ালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1619,
+        "female_count": 1540,
+        "hijra_count": 0,
+        "latitude": 23.04424,
+        "longitude": 90.91003
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "ভাদুর উচ্চ বিদ্যালয়",
+        "male_count": 2604,
+        "female_count": 2432,
+        "hijra_count": 0,
+        "latitude": 23.10083,
+        "longitude": 90.87986
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "ভাস্করপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1414,
+        "female_count": 1299,
+        "hijra_count": 0,
+        "latitude": 23.13521,
+        "longitude": 90.95559
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "মধ্য আঙ্গারপাড়া সরকারি প্রাথমিক বিদ্যালয় ",
+        "male_count": 2095,
+        "female_count": 2124,
+        "hijra_count": 0,
+        "latitude": 23.09015,
+        "longitude": 90.86129
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "মধ্য দাসপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1790,
+        "female_count": 1774,
+        "hijra_count": 0,
+        "latitude": 23.06131,
+        "longitude": 90.84819
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "মধ্য সোনাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2913,
+        "female_count": 2598,
+        "hijra_count": 0,
+        "latitude": 23.11496,
+        "longitude": 90.85641
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "মাছিমপুর এ এল এম উচ্চ বিদ্যালয়",
+        "male_count": 2617,
+        "female_count": 2432,
+        "hijra_count": 0,
+        "latitude": 23.07435,
+        "longitude": 90.7992
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "মাঝিরগাঁও কে এম ইউনাইটেড একাডেমী",
+        "male_count": 2103,
+        "female_count": 2028,
+        "hijra_count": 0,
+        "latitude": 23.06485,
+        "longitude": 90.8639
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "মুক্তারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1064,
+        "female_count": 939,
+        "hijra_count": 0,
+        "latitude": 23.08867,
+        "longitude": 90.93758
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "রসুলপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 985,
+        "female_count": 964,
+        "hijra_count": 0,
+        "latitude": 23.04225,
+        "longitude": 90.84829
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "রাঘবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1519,
+        "female_count": 1335,
+        "hijra_count": 0,
+        "latitude": 23.12439,
+        "longitude": 90.8384
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "রামগঞ্জ এম ইউ সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 546,
+        "female_count": 566,
+        "hijra_count": 0,
+        "latitude": 23.09733,
+        "longitude": 90.85299
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "রামগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2033,
+        "female_count": 1892,
+        "hijra_count": 0,
+        "latitude": 23.09738,
+        "longitude": 90.85301
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "রামগঞ্জ স্টেশন মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1567,
+        "female_count": 1519,
+        "hijra_count": 0,
+        "latitude": 23.10034,
+        "longitude": 90.85769
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2421,
+        "female_count": 2262,
+        "hijra_count": 0,
+        "latitude": 23.0671,
+        "longitude": 90.82346
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "লামচর উচ্চ বিদ্যালয়",
+        "male_count": 1240,
+        "female_count": 1165,
+        "hijra_count": 0,
+        "latitude": 23.05526,
+        "longitude": 90.87887
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "শাকতলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 979,
+        "female_count": 867,
+        "hijra_count": 0,
+        "latitude": 23.10203,
+        "longitude": 90.89997
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "শাহ্‌জকি উদ্দিন উচ্চ বিদ্যালয়্",
+        "male_count": 1284,
+        "female_count": 1327,
+        "hijra_count": 0,
+        "latitude": 23.04235,
+        "longitude": 90.89636
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "শৈরশৈ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1300,
+        "female_count": 1222,
+        "hijra_count": 0,
+        "latitude": 23.13421,
+        "longitude": 90.88734
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "শ্রীরামপুর উচ্চ বিদ্যালয়",
+        "male_count": 2134,
+        "female_count": 1976,
+        "hijra_count": 0,
+        "latitude": 23.10587,
+        "longitude": 90.8302
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "সাউধেরখিল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1812,
+        "female_count": 1665,
+        "hijra_count": 0,
+        "latitude": 23.12924,
+        "longitude": 90.87639
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "সিরন্দী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1420,
+        "female_count": 1316,
+        "hijra_count": 0,
+        "latitude": 23.09621,
+        "longitude": 90.89679
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "হানুবাইশ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2118,
+        "female_count": 2061,
+        "hijra_count": 0,
+        "latitude": 23.08689,
+        "longitude": 90.89516
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "হোটাটিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1388,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": 23.13781,
+        "longitude": 90.89523
+    },
+    {
+        "settings_code": 274,
+        "settings_name": "লক্ষীপুর-১",
+        "center_name": "হোসনাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1481,
+        "female_count": 1375,
+        "hijra_count": 0,
+        "latitude": 23.06897,
+        "longitude": 90.85064
+    }
+]

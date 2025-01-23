@@ -1,0 +1,1262 @@
+[
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১০।  ফতেমোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3861,
+        "hijra_count": 1,
+        "latitude": 24.1416,
+        "longitude": 89.06488
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১১।  রেলওয়ে নাজিমুদ্দিন সরকারী উচ্চ বিদ্যালয়, ফতেমোহাম্মদপুর",
+        "male_count": 3844,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.13368,
+        "longitude": 89.06317
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১২।  নারিচা সরকারী প্রাথমিক বিদ্যালয়, নারিচা।",
+        "male_count": 0,
+        "female_count": 2338,
+        "hijra_count": 0,
+        "latitude": 24.13913,
+        "longitude": 89.07914
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১৩।  নারিচা উচ্চ বিদ্যালয়",
+        "male_count": 2326,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.13923,
+        "longitude": 89.07926
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১৪।  ঈশ্বরদী সরকারী প্রাথমিক বিদ্যালয়, পূর্বটেংরী।",
+        "male_count": 4344,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.12736,
+        "longitude": 89.06466
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১৫।  ঈশ্বরদী ইসলামিয়া আলিম মাদ্রাসা, পূর্বটেংরী",
+        "male_count": 0,
+        "female_count": 4705,
+        "hijra_count": 0,
+        "latitude": 24.12503,
+        "longitude": 89.07037
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১৬।  ঈশ্বরদী মহিলা ডিগ্রী কলেজ, মধ্যঅরণকোলা।",
+        "male_count": 1984,
+        "female_count": 2150,
+        "hijra_count": 0,
+        "latitude": 24.11791,
+        "longitude": 89.07375
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১৭।  ঈশ্বরদী সাউথ সরকারী প্রাথমিক বিদ্যালয়, দরিনারিচা।",
+        "male_count": 1391,
+        "female_count": 1440,
+        "hijra_count": 0,
+        "latitude": 24.12016,
+        "longitude": 89.06698
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১৮।  ভেলুপাড়া সরকারী প্রাথমিক বিদ্যালয়, ভেলুপাড়া।",
+        "male_count": 1801,
+        "female_count": 1841,
+        "hijra_count": 0,
+        "latitude": 24.10895,
+        "longitude": 89.0775
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১৯।  আরামবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, আরামবাড়ীয়া।",
+        "male_count": 0,
+        "female_count": 2265,
+        "hijra_count": 0,
+        "latitude": 24.15739,
+        "longitude": 89.01811
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "১।  শৈলবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, দ্বিতল ভবন, শৈলবাড়ীয়া",
+        "male_count": 2362,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.14112,
+        "longitude": 89.05871
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২০।  আরমবাড়ীয়া উচ্চ বিদ্যালয়, আরামবাড়ীয়া।",
+        "male_count": 2269,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.15761,
+        "longitude": 89.0177
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২১।  আসনা সরকারী প্রাথমিক বিদ্যালয় আসনা।",
+        "male_count": 2087,
+        "female_count": 2031,
+        "hijra_count": 1,
+        "latitude": 24.16005,
+        "longitude": 89.02372
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২২।  মাজদিয়া সরকারী প্রাথমিক বিদ্যালয়, মাজদিয়া পশ্চিম।",
+        "male_count": 0,
+        "female_count": 2587,
+        "hijra_count": 1,
+        "latitude": 24.13686,
+        "longitude": 89.03138
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২৩।  মাজদিয়া উচ্চ বিদ্যালয়, মাজদিয়া পশ্চিম",
+        "male_count": 2654,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.13747,
+        "longitude": 89.03165
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২৪।  মাজদিয়া বাবুল উলুম ইসলামিয়া ফাজিলা মাদ্রাসা, মাজদিয়া পূর্ব।",
+        "male_count": 2193,
+        "female_count": 2051,
+        "hijra_count": 0,
+        "latitude": 24.13135,
+        "longitude": 89.03781
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২৫।  সাঁড়া সরকারী প্রাথমিক বিদ্যালয়, ঝাউদিয়া।",
+        "male_count": 2226,
+        "female_count": 2281,
+        "hijra_count": 0,
+        "latitude": 24.11128,
+        "longitude": 89.03181
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২৬।  পাকশী রেলওয়ে উচ্চ বালিকা বিদ্যালয়, ২য় তলা, পাকশী।",
+        "male_count": 2571,
+        "female_count": 2536,
+        "hijra_count": 0,
+        "latitude": 24.08227,
+        "longitude": 89.0387
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২৭ নং বাঐকোলা সরকারী প্রাথমিক বিদ্যালয়, বাঐকোলা।",
+        "male_count": 979,
+        "female_count": 911,
+        "hijra_count": 0,
+        "latitude": 24.11334,
+        "longitude": 89.38955
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২৮।  যুক্তিতলা সরকারী প্রাথমিক বিদ্যালয়, যুক্তিতলা।",
+        "male_count": 1354,
+        "female_count": 1398,
+        "hijra_count": 0,
+        "latitude": 24.09198,
+        "longitude": 89.03964
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২৯।  রুপপুর বালিকা উচ্চ বিদ্যালয়, চররুপপুর পশ্চিমপাড়া।",
+        "male_count": 2008,
+        "female_count": 2099,
+        "hijra_count": 0,
+        "latitude": 24.06044,
+        "longitude": 89.04941
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "২।  শৈলবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয় , নিচতলা ভবন, শৈলবাড়ীয়া",
+        "male_count": 0,
+        "female_count": 2524,
+        "hijra_count": 0,
+        "latitude": 24.13666,
+        "longitude": 89.06322
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩০।  চররুপপুর সারেংপাড়া সরকারী প্রাথমিক বিদ্যালয়, চররুপপুর দক্ষিণপাড়া।",
+        "male_count": 1730,
+        "female_count": 1821,
+        "hijra_count": 0,
+        "latitude": 24.05766,
+        "longitude": 89.06016
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩১।  নতুন রুপপুর সরকারী প্রাথমিক বিদ্যালয়, চররুপপুর উত্তরপাড়া",
+        "male_count": 0,
+        "female_count": 2394,
+        "hijra_count": 0,
+        "latitude": 24.06579,
+        "longitude": 89.05613
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩৩।  পাকশী ইউনিয়ন পরিষদ কার্যালয়, দিয়ার বাঘইল।",
+        "male_count": 0,
+        "female_count": 2307,
+        "hijra_count": 0,
+        "latitude": 24.07515,
+        "longitude": 89.0539
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩৪।  দিয়ার বাঘইল সরকারী প্রাথমিক বিদ্যালয়, দিয়ার বাঘইল",
+        "male_count": 2295,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.07537,
+        "longitude": 89.05458
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩৫।  আবুল হোসেন উচ্চ বিদ্যালয়, উত্তর বাঘইল",
+        "male_count": 2048,
+        "female_count": 1895,
+        "hijra_count": 0,
+        "latitude": 24.10284,
+        "longitude": 89.06312
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩৬।  বাঘইল উচ্চ বিদ্যালয়, বাঘইল",
+        "male_count": 0,
+        "female_count": 2239,
+        "hijra_count": 0,
+        "latitude": 24.08822,
+        "longitude": 89.0565
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩৭।  বাঘইল-২ সরকারী প্রাথমিক বিদ্যালয়, বাঘইল",
+        "male_count": 2259,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.08803,
+        "longitude": 89.05657
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩৮।  বড়ইচারা সরকারী প্রাথমিক বিদ্যালয়,",
+        "male_count": 1712,
+        "female_count": 1720,
+        "hijra_count": 0,
+        "latitude": 24.10175,
+        "longitude": 89.0744
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩৯।  ভাষা শহীদ উচ্চ বিদ্যালয়, চরমিরকামারী",
+        "male_count": 1647,
+        "female_count": 1631,
+        "hijra_count": 0,
+        "latitude": 24.10134,
+        "longitude": 89.08348
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৩।  এস এম স্কুল এন্ড কলেজ (কলেজ শাখা) স্কুলপাড়া",
+        "male_count": 3093,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.13357,
+        "longitude": 89.0583
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪০।  চরমিরকামারী সরকারী প্রাথমিক বিদ্যালয়, চরমিরকামারী",
+        "male_count": 2166,
+        "female_count": 1999,
+        "hijra_count": 0,
+        "latitude": 24.10624,
+        "longitude": 89.09804
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪১।  মিরকামারী আদর্শ উচ্চ বিদ্যালয়, মিরকামারী",
+        "male_count": 1786,
+        "female_count": 1731,
+        "hijra_count": 0,
+        "latitude": 24.0902,
+        "longitude": 89.09871
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪৩।  ছলিমপুর ইউনিয়ন পরিষদ কার্যালয়, নিচতলা, জয়নগর",
+        "male_count": 3177,
+        "female_count": 3174,
+        "hijra_count": 0,
+        "latitude": 24.09019,
+        "longitude": 89.09871
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪৪।  মানিকনগর পশ্চিম সরকারী প্রাথমিক বিদ্যালয়, মানিকনগর পশ্চিমপাড়া",
+        "male_count": 1660,
+        "female_count": 1698,
+        "hijra_count": 0,
+        "latitude": 24.0731,
+        "longitude": 89.09205
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪৫।  মানিকনগর পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়, মানিকনগর পূর্বপাড়া",
+        "male_count": 1932,
+        "female_count": 1921,
+        "hijra_count": 0,
+        "latitude": 24.08846,
+        "longitude": 89.07572
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪৬।  জগন্নাথপুর সরকারী প্রাথমিক বিদ্যালয়, জগন্নাথপুর।",
+        "male_count": 1525,
+        "female_count": 1428,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪৭।  শেখের দাইড় সরকারী প্রাথমিক বিদ্যালয়, শেখের দাইড়",
+        "male_count": 1001,
+        "female_count": 905,
+        "hijra_count": 0,
+        "latitude": 24.10049,
+        "longitude": 89.11103
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪৮।  ভাড়ইমারী সরকারী প্রাথমিক বিদ্যালয়, ভাড়ইমারী।",
+        "male_count": 2224,
+        "female_count": 2091,
+        "hijra_count": 0,
+        "latitude": 24.08173,
+        "longitude": 89.12721
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪৯।  ছলিমপুর সরকারী প্রাথমিক বিদ্যালয়, ছলিমপুর (বক্তারপুর)",
+        "male_count": 1449,
+        "female_count": 1310,
+        "hijra_count": 0,
+        "latitude": 24.06556,
+        "longitude": 89.11148
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৪।  এস এম স্কুল এন্ড কলেজ, (স্কুল শাখা), স্কুলপাড়া।",
+        "male_count": 0,
+        "female_count": 3254,
+        "hijra_count": 0,
+        "latitude": 24.13386,
+        "longitude": 89.05844
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫০।  কাঁঠালবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, কাঁঠালবাড়ীয়া।",
+        "male_count": 1161,
+        "female_count": 1085,
+        "hijra_count": 0,
+        "latitude": 24.05598,
+        "longitude": 89.11747
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫১।  দাশুড়িয়া এম এম উচ্চ বিদ্যালয়, দাশুড়িয়া।",
+        "male_count": 2126,
+        "female_count": 2097,
+        "hijra_count": 0,
+        "latitude": 24.10902,
+        "longitude": 89.12669
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫২।  নওদাপাড়া সরকারী প্রাথমিক বিদ্যালয়, নওদাপাড়া।",
+        "male_count": 1747,
+        "female_count": 1781,
+        "hijra_count": 0,
+        "latitude": 24.10568,
+        "longitude": 89.12014
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫২ নং বাঐকোলা পশ্চিমপাড়া সরকারী প্রাথমিক বিদ্যালয়, বাঐকোলা পশ্চিমপাড়া।",
+        "male_count": 843,
+        "female_count": 790,
+        "hijra_count": 0,
+        "latitude": 24.11238,
+        "longitude": 89.38031
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫৩।  দাদপুর খারজানী সরকারী প্রাথমিক বিদ্যালয়, দাদপুর।",
+        "male_count": 1123,
+        "female_count": 1167,
+        "hijra_count": 0,
+        "latitude": 24.077,
+        "longitude": 89.1412
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫৪।  আথাইল শিমুল সরকারী প্রাথমিক বিদ্যালয়, আথাইলশিমুল",
+        "male_count": 1492,
+        "female_count": 1454,
+        "hijra_count": 0,
+        "latitude": 24.11126,
+        "longitude": 89.14623
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫৫।  মাড়মী সুলতানপুর সরকারী প্রাথমিক বিদ্যালয়, সুলতানপুর",
+        "male_count": 1593,
+        "female_count": 1570,
+        "hijra_count": 0,
+        "latitude": 24.11339,
+        "longitude": 89.16164
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫৬।  কালিকাপুর আব্দুল জব্বার খাঁন স্মৃতি উচ্চ বিদ্যালয়, কালিকাপুর",
+        "male_count": 0,
+        "female_count": 2628,
+        "hijra_count": 0,
+        "latitude": 24.09231,
+        "longitude": 89.15945
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫৭।  কালিকাপুর সরকারী প্রাথমিক বিদ্যালয়, কালিকাপুর",
+        "male_count": 2659,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.09277,
+        "longitude": 89.15893
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫৮।  বাগবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, বাগবাড়ীয়া।",
+        "male_count": 2223,
+        "female_count": 2156,
+        "hijra_count": 0,
+        "latitude": 24.10075,
+        "longitude": 89.1739
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫৯।  চরসাহাপুর সরকারী প্রাথমিক বিদ্যালয়, চরসাহাপুর",
+        "male_count": 0,
+        "female_count": 2530,
+        "hijra_count": 0,
+        "latitude": 24.07816,
+        "longitude": 89.06943
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৫।  পিয়ারাখালী সরকারী প্রাথমিক বিদ্যালয়, পিয়ারাখালী।",
+        "male_count": 2044,
+        "female_count": 2129,
+        "hijra_count": 0,
+        "latitude": 24.1244,
+        "longitude": 89.05731
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬০।  শেখ মেহেরউল্লাহ স্মৃতি নিম্ন মাধ্যমিক বিদ্যালয়, চরসাহাপুর",
+        "male_count": 2504,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.07828,
+        "longitude": 89.0695
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬১।  শহীদ আবুল কাশেম উচ্চ বিদ্যালয়, সাহাপুর",
+        "male_count": 3793,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.06243,
+        "longitude": 89.07948
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬২।  সাহাপুর সরকারী প্রাথমিক বিদ্যালয়, সাহাপুর",
+        "male_count": 0,
+        "female_count": 3625,
+        "hijra_count": 0,
+        "latitude": 24.06257,
+        "longitude": 89.07941
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬৩।  মহাদেবপুর সরকারী প্রাথমিক বিদ্যালয়, মহাদেবপুর",
+        "male_count": 1710,
+        "female_count": 1616,
+        "hijra_count": 0,
+        "latitude": 24.06036,
+        "longitude": 89.08672
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬৪।  তিলকপুর সরকারী প্রাথমিক বিদ্যালয়, তিলকপুর।",
+        "male_count": 1859,
+        "female_count": 1734,
+        "hijra_count": 0,
+        "latitude": 24.04669,
+        "longitude": 89.0992
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬৫।  দীঘা সরকারী প্রাথমিক বিদ্যালয়, দীঘা।",
+        "male_count": 1602,
+        "female_count": 1478,
+        "hijra_count": 0,
+        "latitude": 24.04863,
+        "longitude": 89.10744
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬৬।  বাবুলচারা সরকারী প্রাথমিক বিদ্যালয়, বাবুলচারা।",
+        "male_count": 1886,
+        "female_count": 1765,
+        "hijra_count": 0,
+        "latitude": 24.0335,
+        "longitude": 89.09885
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬৭। নুরজাহান উচ্চ বালিকা বিদ্যা নিকেতন এন্ড মহিলা কলেজ, আওতাপাড়া। ",
+        "male_count": 1879,
+        "female_count": 1773,
+        "hijra_count": 0,
+        "latitude": 24.05092,
+        "longitude": 89.11408
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬৮।  চরগড়গড়ি দাখিল মাদ্রাসা, পূর্ব বিল্ডিং চরগড়গড়ি",
+        "male_count": 0,
+        "female_count": 3047,
+        "hijra_count": 0,
+        "latitude": 24.01565,
+        "longitude": 89.12951
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬৯।  চরগড়গড়ি দাখিল মাদ্রাসা উত্তর বিল্ডিং  চরগড়গড়ি",
+        "male_count": 3482,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.0156,
+        "longitude": 89.12966
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৬।  সাঁড়া গোপালপুর সরকারী প্রাথমিক বিদ্যালয়, সাড়া গোপালপুর।",
+        "male_count": 1717,
+        "female_count": 1684,
+        "hijra_count": 0,
+        "latitude": 24.1106,
+        "longitude": 89.0489
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭০।  বাঁশেরবাদা সরকারী প্রাথমিক বিদ্যালয় সংযুক্ত বাঁশেরবাদা বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1288,
+        "female_count": 1221,
+        "hijra_count": 0,
+        "latitude": 24.04816,
+        "longitude": 89.13566
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭১।  লক্ষীকুন্ডা সরকারী প্রাথমিক বিদ্যালয়, লক্ষীকুন্ডা।",
+        "male_count": 1993,
+        "female_count": 1952,
+        "hijra_count": 0,
+        "latitude": 24.03429,
+        "longitude": 89.06688
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭২।  পাকুড়িয়া উচ্চ বিদ্যালয়, পাকুড়িয়া",
+        "male_count": 2157,
+        "female_count": 2063,
+        "hijra_count": 0,
+        "latitude": 24.04771,
+        "longitude": 89.07006
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭৩।  বিলকেদার সরকারী প্রাথমিক বিদ্যালয়, বিলকেদার।",
+        "male_count": 1134,
+        "female_count": 1073,
+        "hijra_count": 0,
+        "latitude": 24.02353,
+        "longitude": 89.08568
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭৪।  কামালপুর টি,এম উচ্চ বিদ্যালয় কামালপুর।",
+        "male_count": 1921,
+        "female_count": 1665,
+        "hijra_count": 0,
+        "latitude": 24.01968,
+        "longitude": 89.10522
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭৫।  চরকুড়ুলিয়া উচ্চ বিদ্যালয় চরকুড়ুলিয়া।",
+        "male_count": 2254,
+        "female_count": 2009,
+        "hijra_count": 0,
+        "latitude": 24.01743,
+        "longitude": 89.13547
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭৬।  মুলাডুলি উচ্চ বিদ্যালয়, মুলাডুলি।",
+        "male_count": 3799,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.16236,
+        "longitude": 89.14208
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭৭।  মুলাডুলি দারুল উলুম সিনিয়র মাদ্রাসা, মুলাডুলি",
+        "male_count": 0,
+        "female_count": 3881,
+        "hijra_count": 0,
+        "latitude": 24.16242,
+        "longitude": 89.14249
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭৮।  নিকড়হাটা সরকারী প্রাথমিক বিদ্যালয়, নিকড়হাটা।",
+        "male_count": 2540,
+        "female_count": 2496,
+        "hijra_count": 0,
+        "latitude": 24.16249,
+        "longitude": 89.13083
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭৯।  চাঁদপুর লক্ষীকোলা সরকারী প্রাথমিক বিদ্যালয়, চাঁদপুর",
+        "male_count": 1196,
+        "female_count": 1108,
+        "hijra_count": 0,
+        "latitude": 24.12339,
+        "longitude": 89.13358
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৭।  ঈশ্বরদী সরকারী কলেজ কলাভবন, মশুড়িয়াপাড়া।",
+        "male_count": 4081,
+        "female_count": 1904,
+        "hijra_count": 0,
+        "latitude": 24.12893,
+        "longitude": 89.07424
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৮০।  সরাইকান্দি সরকারী প্রাথমিক বিদ্যালয়, সরাইকান্দি",
+        "male_count": 2232,
+        "female_count": 2146,
+        "hijra_count": 0,
+        "latitude": 24.13145,
+        "longitude": 89.12261
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৮১।  শেখপাড়া সরকারী প্রাথমিক বিদ্যালয়, শেখপাড়া।",
+        "male_count": 2242,
+        "female_count": 2248,
+        "hijra_count": 0,
+        "latitude": 24.14144,
+        "longitude": 89.13213
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৮২।  পতিরাজপুর সরকারী প্রাথমিক বিদ্যালয়, পতিরাজপুর",
+        "male_count": 2143,
+        "female_count": 1966,
+        "hijra_count": 0,
+        "latitude": 24.1457,
+        "longitude": 89.10258
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৮৩।  রামচন্দ্র বহরপুর সরকারী প্রাথমিক বিদ্যালয়, নতুন ভবন, রামচন্দ্রপুর",
+        "male_count": 0,
+        "female_count": 2424,
+        "hijra_count": 0,
+        "latitude": 24.11693,
+        "longitude": 89.11008
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৮৪।  রামচন্দ্র বহরপুর সরকারী প্রাথমিক বিদ্যালয়, পুরাতন ভবন , রামচন্দ্রপুর",
+        "male_count": 2557,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.11661,
+        "longitude": 89.11054
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "৮।  ঈশ্বরদী সরকারী কলেজ বিজ্ঞান ভবন, মশুড়িয়াপাড়া।",
+        "male_count": 0,
+        "female_count": 2406,
+        "hijra_count": 0,
+        "latitude": 24.12862,
+        "longitude": 89.07467
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "অভিরামপুর সরকারী প্রাথমিক বিদ্যালয়, অভিরামপুর।",
+        "male_count": 1142,
+        "female_count": 1127,
+        "hijra_count": 0,
+        "latitude": 24.12139,
+        "longitude": 89.26299
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "আটঘরিয়া পাইলট উচ্চ বিদ্যালয়, আটঘরিয়া",
+        "male_count": 1300,
+        "female_count": 1390,
+        "hijra_count": 0,
+        "latitude": 24.11287,
+        "longitude": 89.24335
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "আশরাফ উচ্চ বিদ্যালয়, শিবপুর।",
+        "male_count": 1969,
+        "female_count": 1863,
+        "hijra_count": 0,
+        "latitude": 24.05567,
+        "longitude": 89.35432
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "একদন্ত উচ্চ বিদ্যালয়, একদন্ত।",
+        "male_count": 1648,
+        "female_count": 1655,
+        "hijra_count": 0,
+        "latitude": 24.07036,
+        "longitude": 89.33761
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "একদন্ত বারইপাড়া সরকারী প্রাথমিক বিদ্যালয়,একদন্ত বারইপাড়া।",
+        "male_count": 1716,
+        "female_count": 1671,
+        "hijra_count": 0,
+        "latitude": 24.07797,
+        "longitude": 89.35468
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "কচুয়ারামপুর সরকারী প্রাথমিক বিদ্যালয়, কচুয়ারামপুর।",
+        "male_count": 2039,
+        "female_count": 2004,
+        "hijra_count": 0,
+        "latitude": 24.16964,
+        "longitude": 89.18165
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "কয়রাবাড়ী সরকারী প্রাথমিক বিদ্যালয়, কয়রাবাড়ী।",
+        "male_count": 1720,
+        "female_count": 1689,
+        "hijra_count": 0,
+        "latitude": 24.07919,
+        "longitude": 89.27347
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "খিদিরপুর সরকারী প্রাথমিক বিদ্যালয়, খিদিরপুর।",
+        "male_count": 1749,
+        "female_count": 1804,
+        "hijra_count": 0,
+        "latitude": 24.12854,
+        "longitude": 89.18899
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "গোড়রী সরকারী প্রাথমিক বিদ্যালয়, গোড়রী।",
+        "male_count": 1016,
+        "female_count": 1015,
+        "hijra_count": 1,
+        "latitude": 24.10939,
+        "longitude": 89.28417
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "গোপালপুর সরকারী প্রাথমিক বিদ্যালয়, গোপালপুর।",
+        "male_count": 2656,
+        "female_count": 2508,
+        "hijra_count": 0,
+        "latitude": 24.06118,
+        "longitude": 89.3196
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "চাঁদভা ইসলামিয়া সিনিয়র মাদ্রাসা, চাঁদভা।",
+        "male_count": 768,
+        "female_count": 830,
+        "hijra_count": 0,
+        "latitude": 24.12419,
+        "longitude": 89.24787
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "চাঁদভা সরকারী প্রাথমিক বিদ্যালয়, চাঁদভা।",
+        "male_count": 1640,
+        "female_count": 1735,
+        "hijra_count": 0,
+        "latitude": 24.11303,
+        "longitude": 89.24317
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "চাঁন্দাই সরকারী প্রাথমিক বিদ্যালয়, চাঁন্দাই।",
+        "male_count": 1406,
+        "female_count": 1291,
+        "hijra_count": 0,
+        "latitude": 24.08869,
+        "longitude": 89.36205
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "চৌবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, চৌবাড়ীয়া।",
+        "male_count": 1592,
+        "female_count": 1467,
+        "hijra_count": 0,
+        "latitude": 24.08668,
+        "longitude": 89.31419
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "জুমাইখিরী গোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়, জুমাইখিরী।",
+        "male_count": 1452,
+        "female_count": 1397,
+        "hijra_count": 0,
+        "latitude": 24.09142,
+        "longitude": 89.29924
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "ডেংগারগ্রাম সরকারী প্রাথমিক বিদ্যালয়, ডেংগারগ্রাম।",
+        "male_count": 1401,
+        "female_count": 1302,
+        "hijra_count": 0,
+        "latitude": 24.07724,
+        "longitude": 89.30388
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "দাপুনিয়া সরকারী প্রাথমিক বিদ্যালয়, দাপুনিয়া।",
+        "male_count": 1282,
+        "female_count": 1171,
+        "hijra_count": 0,
+        "latitude": 24.04709,
+        "longitude": 89.40925
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "দুর্গাপুর সরকারী প্রাথমিক বিদ্যালয়, দুর্গাপুর।",
+        "male_count": 1200,
+        "female_count": 1110,
+        "hijra_count": 0,
+        "latitude": 24.19851,
+        "longitude": 89.18471
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "দেবোত্তর পাইলট বালিকা উচ্চ বিদ্যালয়, দেবোত্তর।",
+        "male_count": 2175,
+        "female_count": 2413,
+        "hijra_count": 0,
+        "latitude": 24.08741,
+        "longitude": 89.22121
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "ধলেশ্বর ইসলামিয়া দাখিল মাদ্রাসা, ধলেশ্বর।",
+        "male_count": 1405,
+        "female_count": 1480,
+        "hijra_count": 0,
+        "latitude": 24.09966,
+        "longitude": 89.23882
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "নগর চাচকিয়া সরকারী প্রাথমিক বিদ্যালয়, নগর চাচকিয়া।",
+        "male_count": 2017,
+        "female_count": 1891,
+        "hijra_count": 0,
+        "latitude": 24.08472,
+        "longitude": 89.33749
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "নাগদহ সরকারী প্রাথমিক বিদ্যালয়, নাগদহ।",
+        "male_count": 1557,
+        "female_count": 1558,
+        "hijra_count": 0,
+        "latitude": 24.104,
+        "longitude": 89.22419
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "নাদুরিয়া ইসলামিয়া দাখিল মাদ্রাসা, নাদুরিয়া।",
+        "male_count": 1582,
+        "female_count": 1562,
+        "hijra_count": 0,
+        "latitude": 24.14627,
+        "longitude": 89.17522
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "পশ্চিম পাড়াসিধাই সরকারী প্রাথমিক বিদ্যালয়, পাড়াসিধাই।",
+        "male_count": 1624,
+        "female_count": 1555,
+        "hijra_count": 0,
+        "latitude": 24.12821,
+        "longitude": 89.17818
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "পারখিদিরপুর সরকারী প্রাথমিক বিদ্যালয়, পারখিদিরপুর।",
+        "male_count": 1788,
+        "female_count": 1762,
+        "hijra_count": 0,
+        "latitude": 24.08854,
+        "longitude": 89.22336
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "বাচামারা সরকারী প্রাথমিক বিদ্যালয়, বাচামারা।",
+        "male_count": 1793,
+        "female_count": 1765,
+        "hijra_count": 0,
+        "latitude": 24.12744,
+        "longitude": 89.22552
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "বালুঘাটা সরকারী প্রাথমিক বিদ্যালয়, বালুঘাটা।",
+        "male_count": 1668,
+        "female_count": 1559,
+        "hijra_count": 0,
+        "latitude": 24.11544,
+        "longitude": 89.3745
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "বি, এল, কে উচ্চ বিদ্যালয়, ভরতপুর।",
+        "male_count": 0,
+        "female_count": 2521,
+        "hijra_count": 0,
+        "latitude": 24.14199,
+        "longitude": 89.22876
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "বেরুয়ান সরকারী প্রাথমিক বিদ্যালয়, বেরুয়ান।",
+        "male_count": 925,
+        "female_count": 1033,
+        "hijra_count": 0,
+        "latitude": 24.10877,
+        "longitude": 89.19441
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "ভরতপুর সরকারী প্রাথমিক বিদ্যালয়, ভরতপুর।",
+        "male_count": 2565,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.14234,
+        "longitude": 89.22904
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "মতিঝিল উচ্চ বিদ্যালয়, সিরাজপুর মতিগাছা।",
+        "male_count": 1161,
+        "female_count": 1117,
+        "hijra_count": 0,
+        "latitude": 24.09809,
+        "longitude": 89.26611
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "মাজপাড়া সিনিয়র মাদ্রাসা, মাজপাড়া।",
+        "male_count": 1875,
+        "female_count": 1818,
+        "hijra_count": 0,
+        "latitude": 24.13288,
+        "longitude": 89.20507
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "যাত্রাপুর মানছুরিয়া দাখিল মাদ্রাসা, যাত্রাপুর।",
+        "male_count": 1226,
+        "female_count": 1128,
+        "hijra_count": 0,
+        "latitude": 24.07807,
+        "longitude": 89.36148
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "রঘুনাথপুর সরকারী প্রাথমিক বিদ্যালয়, রঘুনাথপুর।",
+        "male_count": 1608,
+        "female_count": 1604,
+        "hijra_count": 0,
+        "latitude": 24.09641,
+        "longitude": 89.26008
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "রামচন্দ্রপুর উচ্চ বিদ্যালয়, রামচন্দ্রপুর।",
+        "male_count": 1523,
+        "female_count": 1563,
+        "hijra_count": 0,
+        "latitude": 24.15821,
+        "longitude": 89.21089
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "রামেশ্বরপুর সরকারী প্রাথমিক বিদ্যালয়, রামেশ্বরপুর।",
+        "male_count": 1646,
+        "female_count": 1619,
+        "hijra_count": 0,
+        "latitude": 24.18357,
+        "longitude": 89.17157
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "রুপপুর উচ্চ বিদ্যালয়",
+        "male_count": 2404,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.06537,
+        "longitude": 89.05711
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "লক্ষীপুর সরকারী প্রাথমিক বিদ্যালয়, লক্ষীপুর।",
+        "male_count": 2083,
+        "female_count": 2065,
+        "hijra_count": 0,
+        "latitude": 24.04853,
+        "longitude": 89.39785
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "শ্রীকান্তপুর সরকারী প্রাথমিক বিদ্যালয়, শ্রীকান্তপুর।",
+        "male_count": 1157,
+        "female_count": 1189,
+        "hijra_count": 0,
+        "latitude": 24.08499,
+        "longitude": 89.24463
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "শ্রীপুর রঘুরামপুর দাখিল মাদ্রাসা, শ্রীপুর।",
+        "male_count": 1416,
+        "female_count": 1325,
+        "hijra_count": 0,
+        "latitude": 24.05562,
+        "longitude": 89.37796
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "শ্রীপুর সরকারী প্রাথমিক বিদ্যালয়,কৈজুরী।",
+        "male_count": 1434,
+        "female_count": 1342,
+        "hijra_count": 0,
+        "latitude": 24.05478,
+        "longitude": 89.37286
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "ষাটগাছা সরকারী প্রাথমিক বিদ্যালয়, ষাটগাছা।",
+        "male_count": 1913,
+        "female_count": 1732,
+        "hijra_count": 0,
+        "latitude": 24.09986,
+        "longitude": 89.32903
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "সঞ্জয়পুর সরকারী প্রাথমিক বিদ্যালয়, সঞ্জয়পুর।",
+        "male_count": 1907,
+        "female_count": 1931,
+        "hijra_count": 0,
+        "latitude": 24.14195,
+        "longitude": 89.24705
+    },
+    {
+        "settings_code": 71,
+        "settings_name": "পাবনা-৪",
+        "center_name": "সড়াবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়, সড়াবাড়ীয়া।",
+        "male_count": 1574,
+        "female_count": 1660,
+        "hijra_count": 0,
+        "latitude": 24.10411,
+        "longitude": 89.21009
+    }
+]

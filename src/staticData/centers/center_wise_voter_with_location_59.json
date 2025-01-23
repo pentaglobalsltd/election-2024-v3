@@ -1,0 +1,1562 @@
+[
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "অর্জুনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1518,
+        "female_count": 1482,
+        "hijra_count": 0,
+        "latitude": 24.38264,
+        "longitude": 89.04711
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "আওড়াইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1547,
+        "female_count": 1450,
+        "hijra_count": 0,
+        "latitude": 24.37345,
+        "longitude": 89.07735
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "আগদিঘা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2199,
+        "hijra_count": 0,
+        "latitude": 24.42568,
+        "longitude": 88.91325
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "আগদিঘা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2271,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.42572,
+        "longitude": 88.91329
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "আঁচড়াখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 711,
+        "female_count": 689,
+        "hijra_count": 0,
+        "latitude": 24.48266,
+        "longitude": 89.0142
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "আবদানপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1075,
+        "female_count": 1110,
+        "hijra_count": 0,
+        "latitude": 24.53857,
+        "longitude": 88.93373
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "আমহাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 673,
+        "female_count": 706,
+        "hijra_count": 0,
+        "latitude": 24.43284,
+        "longitude": 88.98568
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ইব্রাহিমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1231,
+        "female_count": 1290,
+        "hijra_count": 0,
+        "latitude": 24.34975,
+        "longitude": 89.0407
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "একডালা নারায়ণপুর সরকারি প্রাথমিক বিদ্যালয়, একডালা (পূর্বমুখী ভবন)",
+        "male_count": 2249,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.39897,
+        "longitude": 88.94211
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "একডালা নারায়ণপুর সরকারি প্রাথমিক বিদ্যালয়, (পশ্চিমমুখী ভবন)",
+        "male_count": 0,
+        "female_count": 2378,
+        "hijra_count": 0,
+        "latitude": 24.39901,
+        "longitude": 88.94221
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "করেরগ্রাম দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1257,
+        "female_count": 1175,
+        "hijra_count": 0,
+        "latitude": 24.52548,
+        "longitude": 89.0545
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "করোটা এ.রহিম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1093,
+        "female_count": 1140,
+        "hijra_count": 0,
+        "latitude": 24.4128,
+        "longitude": 89.0221
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "কাজিপুর দিয়ার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1334,
+        "female_count": 1360,
+        "hijra_count": 0,
+        "latitude": 24.4548,
+        "longitude": 88.95788
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "কাফুরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2229,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.35567,
+        "longitude": 88.8842
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "কাফুরিয়া হোসেন শহীদ সোহ্‌রাওয়ার্দী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2176,
+        "hijra_count": 0,
+        "latitude": 24.35563,
+        "longitude": 88.88416
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "কালিগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 1392,
+        "female_count": 1267,
+        "hijra_count": 0,
+        "latitude": 24.47492,
+        "longitude": 89.04298
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "কালেক্টরেট স্কুল এন্ড কলেজ (টিনশেড ভবন)",
+        "male_count": 2069,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41993,
+        "longitude": 89.00302
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "কালেক্টরেট স্কুল এন্ড কলেজ নাটোর (দোতলা ভবন)",
+        "male_count": 0,
+        "female_count": 2209,
+        "hijra_count": 0,
+        "latitude": 24.41992,
+        "longitude": 89.00296
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "কৈগাড়ী কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 712,
+        "female_count": 716,
+        "hijra_count": 0,
+        "latitude": 24.38093,
+        "longitude": 88.97015
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "খাজুরা ইসলামিয়া আলিম মাদ্রাসা",
+        "male_count": 2152,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.54846,
+        "longitude": 89.01592
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "খাজুরা উজানপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2149,
+        "hijra_count": 0,
+        "latitude": 24.54883,
+        "longitude": 89.01523
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "খোলাবাড়ীয়া উচ্চ বিদ্যালয়",
+        "male_count": 826,
+        "female_count": 854,
+        "hijra_count": 0,
+        "latitude": 24.51647,
+        "longitude": 89.00881
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "গুনারীগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1018,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 24.42005,
+        "longitude": 89.01528
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "গোকুল নগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1278,
+        "female_count": 1247,
+        "hijra_count": 0,
+        "latitude": 24.39587,
+        "longitude": 89.05437
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "গোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1739,
+        "female_count": 1794,
+        "hijra_count": 1,
+        "latitude": 24.44275,
+        "longitude": 89.05571
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "গোয়ালডাংগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 784,
+        "female_count": 741,
+        "hijra_count": 0,
+        "latitude": 24.41245,
+        "longitude": 89.03454
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ঘোড়াগাছা আমহাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1731,
+        "female_count": 1669,
+        "hijra_count": 0,
+        "latitude": 24.4337,
+        "longitude": 88.99607
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "চন্দ্রকোলা এস, আই উচ্চ বিদ্যালয় (ভবনের উত্তর মুখি অংশ)",
+        "male_count": 2448,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.40866,
+        "longitude": 88.91138
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "চন্দ্রকোলা এস, আই উচ্চ বিদ্যালয় (ভবনের পশ্চিমমুখী অংশ)",
+        "male_count": 0,
+        "female_count": 2397,
+        "hijra_count": 0,
+        "latitude": 24.40862,
+        "longitude": 88.9114
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "চাঁদপুর উচ্চ বিদ্যালয়",
+        "male_count": 1090,
+        "female_count": 1142,
+        "hijra_count": 0,
+        "latitude": 24.39023,
+        "longitude": 88.92866
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "চাঁদপুর দাখিল মাদ্রাসা",
+        "male_count": 1467,
+        "female_count": 1444,
+        "hijra_count": 0,
+        "latitude": 24.54002,
+        "longitude": 89.03836
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "চেরাগে চিশতিয়া এবতেদায়ী মাদ্রাসা",
+        "male_count": 1024,
+        "female_count": 919,
+        "hijra_count": 0,
+        "latitude": 24.40601,
+        "longitude": 89.01932
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "চৌগাছি সরকারি প্রাথমিক বিদ্যালয় (দোতলা)",
+        "male_count": 1928,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.38831,
+        "longitude": 88.90982
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "চৌগাছি সরকারি প্রাথমিক বিদ্যালয় (নিচতলা)",
+        "male_count": 0,
+        "female_count": 1866,
+        "hijra_count": 0,
+        "latitude": 24.38836,
+        "longitude": 88.90981
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "চৌরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1336,
+        "female_count": 1334,
+        "hijra_count": 0,
+        "latitude": 24.37988,
+        "longitude": 89.02876
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ছাতনী উচ্চ বিদ্যালয়",
+        "male_count": 1643,
+        "female_count": 1559,
+        "hijra_count": 0,
+        "latitude": 24.42375,
+        "longitude": 88.94282
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ছাতনী দিয়ার এবতেদায়ী মাদ্রাসা",
+        "male_count": 1545,
+        "female_count": 1530,
+        "hijra_count": 0,
+        "latitude": 24.42734,
+        "longitude": 88.93211
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ছাতারভাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1868,
+        "female_count": 1746,
+        "hijra_count": 0,
+        "latitude": 24.49561,
+        "longitude": 88.9398
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "জংলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1422,
+        "female_count": 1412,
+        "hijra_count": 0,
+        "latitude": 24.39575,
+        "longitude": 88.96055
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "জাঠিয়ান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 565,
+        "female_count": 517,
+        "hijra_count": 0,
+        "latitude": 24.38594,
+        "longitude": 88.99173
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "জালালাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1501,
+        "female_count": 1526,
+        "hijra_count": 0,
+        "latitude": 24.35785,
+        "longitude": 88.91132
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ঝিনাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 868,
+        "female_count": 798,
+        "hijra_count": 0,
+        "latitude": 24.41688,
+        "longitude": 89.08361
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ঠাকুরলক্ষ্মীকোল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1222,
+        "female_count": 1180,
+        "hijra_count": 0,
+        "latitude": 24.4647,
+        "longitude": 88.99805
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ডাঙ্গাপাড়া সরকারি প্রাথমিক বিদ্যালয় (ড. মোহাম্মদ শহিদুল্লাহ ভবন)",
+        "male_count": 1947,
+        "female_count": 1823,
+        "hijra_count": 0,
+        "latitude": 24.41362,
+        "longitude": 89.05117
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ঢাকোপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1214,
+        "female_count": 1181,
+        "hijra_count": 0,
+        "latitude": 24.44205,
+        "longitude": 89.04404
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "তেগাছি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 896,
+        "female_count": 854,
+        "hijra_count": 0,
+        "latitude": 24.44855,
+        "longitude": 89.02802
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "তেঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1073,
+        "female_count": 1105,
+        "hijra_count": 0,
+        "latitude": 24.35932,
+        "longitude": 88.9733
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "তেবাড়ীয়া উচ্চ বিদ্যালয়",
+        "male_count": 1218,
+        "female_count": 1179,
+        "hijra_count": 0,
+        "latitude": 24.39536,
+        "longitude": 88.96795
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "তেবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1238,
+        "female_count": 1345,
+        "hijra_count": 0,
+        "latitude": 24.3996,
+        "longitude": 88.96892
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "তেলকুপি উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2145,
+        "hijra_count": 0,
+        "latitude": 24.45178,
+        "longitude": 88.98158
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "তেলকুপি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2139,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.45178,
+        "longitude": 88.98158
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দত্তপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1546,
+        "female_count": 1554,
+        "hijra_count": 0,
+        "latitude": 24.40116,
+        "longitude": 89.03107
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দরাপপুর উচ্চ বিদ্যালয়",
+        "male_count": 1431,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 24.33912,
+        "longitude": 89.01401
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দস্তানাবাদ আলিম মাদ্রাসা, (দক্ষিণ মুখি ভবন)",
+        "male_count": 0,
+        "female_count": 2230,
+        "hijra_count": 0,
+        "latitude": 24.36717,
+        "longitude": 88.90344
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দস্তানাবাদ আলিম মাদ্রাসা, (পূর্বমুখী ভবন)",
+        "male_count": 2260,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.36713,
+        "longitude": 88.90346
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দিঘাপতিয়া পিএন উচ্চ বিদ্যালয়",
+        "male_count": 1457,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 24.44084,
+        "longitude": 89.0185
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দিঘাপতিয়া সরকারি প্রাথমিক বিদ্যালয়, (পশ্চিম মুখী নজরুল ভবন)",
+        "male_count": 2163,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.43854,
+        "longitude": 89.0137
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দিঘাপতিয়া সরকারি প্রাথমিক বিদ্যালয়, (পূর্বমুখী রোকেয়া ভবন)",
+        "male_count": 0,
+        "female_count": 2065,
+        "hijra_count": 0,
+        "latitude": 24.43859,
+        "longitude": 89.01376
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দিঘীরপাড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 911,
+        "female_count": 869,
+        "hijra_count": 0,
+        "latitude": 24.52527,
+        "longitude": 89.02267
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "দুর্লভপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1840,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.56115,
+        "longitude": 88.9721
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ধরাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1839,
+        "female_count": 1756,
+        "hijra_count": 0,
+        "latitude": 24.40984,
+        "longitude": 89.07244
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ধলাট আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1317,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 24.38116,
+        "longitude": 89.01252
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ধামনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1252,
+        "female_count": 1261,
+        "hijra_count": 0,
+        "latitude": 24.45289,
+        "longitude": 88.93604
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নববিধান উচ্চ বালিকা বিদ্যালয়",
+        "male_count": 1326,
+        "female_count": 1450,
+        "hijra_count": 0,
+        "latitude": 24.41467,
+        "longitude": 88.98991
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নবাব সিরাজ-উদ-দৌলা কলেজ",
+        "male_count": 0,
+        "female_count": 3757,
+        "hijra_count": 0,
+        "latitude": 24.41135,
+        "longitude": 88.97211
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নবীন কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1061,
+        "female_count": 1055,
+        "hijra_count": 0,
+        "latitude": 24.36227,
+        "longitude": 89.06438
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নলডাঙ্গা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1968,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.5045,
+        "longitude": 88.96066
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নলডাঙ্গা সরকারী উচ্চ বিদ্যালয়",
+        "male_count": 1537,
+        "female_count": 1616,
+        "hijra_count": 0,
+        "latitude": 24.50239,
+        "longitude": 88.96055
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নাটোর চিনিকল উচ্চ বিদ্যালয়",
+        "male_count": 2185,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.39871,
+        "longitude": 88.9568
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নাটোর চিনিকল প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2257,
+        "hijra_count": 0,
+        "latitude": 24.39822,
+        "longitude": 88.95672
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নাটোর টেকনিক্যাল স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 3582,
+        "hijra_count": 0,
+        "latitude": 24.41181,
+        "longitude": 88.99606
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নাটোর মহারাজা জগদিন্দ্রনাথ উচ্চ বিদ্যালয় ও কলেজ (নতুন ভবন)",
+        "male_count": 3066,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.42024,
+        "longitude": 88.99965
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নাটোর মহারাজা জগদিন্দ্রনাথ উচ্চ বিদ্যালয় ও কলেজ (পুরাতন ভবন)",
+        "male_count": 1593,
+        "female_count": 1719,
+        "hijra_count": 0,
+        "latitude": 24.4199,
+        "longitude": 88.99568
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নাটোর সরকারী বালিকা উচ্চবিদ্যালয় (দক্ষিণমুখী অংশ)",
+        "male_count": 0,
+        "female_count": 2318,
+        "hijra_count": 0,
+        "latitude": 24.41504,
+        "longitude": 88.982
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নাটোর সরকারী বালিকা উচ্চবিদ্যালয় (পশ্চিমমুখী অংশ)",
+        "male_count": 2235,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41526,
+        "longitude": 88.98215
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "নিশ্চিন্তপুর উচ্চ বিদ্যালয়",
+        "male_count": 1252,
+        "female_count": 1205,
+        "hijra_count": 0,
+        "latitude": 24.39494,
+        "longitude": 89.06132
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পন্ডিতগ্রাম উচ্চ বিদ্যালয়",
+        "male_count": 2011,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.42856,
+        "longitude": 88.96014
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পন্ডিতগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2061,
+        "hijra_count": 0,
+        "latitude": 24.42848,
+        "longitude": 88.95968
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পশ্চিম মাধনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1027,
+        "female_count": 1054,
+        "hijra_count": 0,
+        "latitude": 24.52882,
+        "longitude": 88.95229
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পাইকপাড়া দাখিল মাদ্রাসা",
+        "male_count": 1565,
+        "female_count": 1485,
+        "hijra_count": 0,
+        "latitude": 24.35913,
+        "longitude": 88.86829
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পাইকেরদোল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1228,
+        "female_count": 1198,
+        "hijra_count": 0,
+        "latitude": 24.37243,
+        "longitude": 88.98903
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পাটুল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1173,
+        "female_count": 1176,
+        "hijra_count": 0,
+        "latitude": 24.48679,
+        "longitude": 89.00255
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পার আটঘরিয়া সরকারি প্রাথমিক বিদ্যালয় (উত্তর মুখী ভবন)",
+        "male_count": 2118,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.34625,
+        "longitude": 89.05137
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পার আটঘরিয়া সরকারি প্রাথমিক বিদ্যালয় (দক্ষিণ মুখী ভবন)",
+        "male_count": 0,
+        "female_count": 2094,
+        "hijra_count": 0,
+        "latitude": 24.34633,
+        "longitude": 89.05149
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পারভীন পাবলিক উচ্চ বিদ্যালয়",
+        "male_count": 1026,
+        "female_count": 1121,
+        "hijra_count": 0,
+        "latitude": 24.40287,
+        "longitude": 88.9835
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পিটিআই পরীক্ষণ বিদ্যালয় (দক্ষিণ মুখী ভবন)",
+        "male_count": 2014,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.40567,
+        "longitude": 88.98546
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পিটিআই পরীক্ষণ বিদ্যালয় (পূর্বমুখী ভবন)",
+        "male_count": 0,
+        "female_count": 2267,
+        "hijra_count": 0,
+        "latitude": 24.40518,
+        "longitude": 88.98524
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পিপরুল বাবর আলী দেছের আলী এবতেদায়ী মাদ্রাসা",
+        "male_count": 1624,
+        "female_count": 1621,
+        "hijra_count": 0,
+        "latitude": 24.47635,
+        "longitude": 89.01002
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পীরগঞ্জ উচ্চ বিদ্যালয় (দক্ষিণ মুখি ভবন)",
+        "male_count": 0,
+        "female_count": 2243,
+        "hijra_count": 0,
+        "latitude": 24.36753,
+        "longitude": 88.93148
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পীরগঞ্জ উচ্চ বিদ্যালয় (পূর্বমুখী ভবন)",
+        "male_count": 2225,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.36701,
+        "longitude": 88.93106
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পীরগাছা(কোমরপুর) মডেল হাইস্কুল",
+        "male_count": 1278,
+        "female_count": 1249,
+        "hijra_count": 0,
+        "latitude": 24.52211,
+        "longitude": 88.89643
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পুরুষোত্তমবাটি উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2293,
+        "hijra_count": 0,
+        "latitude": 24.53653,
+        "longitude": 88.9547
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "পুরুষোত্তমবাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2186,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.53736,
+        "longitude": 88.95443
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ফরিদপুর আমহাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1516,
+        "female_count": 1429,
+        "hijra_count": 0,
+        "latitude": 24.43611,
+        "longitude": 88.97286
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বড়গাছা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 3369,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41262,
+        "longitude": 88.96974
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বড়গাছা সরকারি প্রাথমিক বিদ্যালয় (পশ্চিমমুখী দোতলা ভবন)",
+        "male_count": 2031,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41169,
+        "longitude": 88.97436
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বড়গাছা সরকারী প্রাথমিক বিদ্যালয় (দক্ষিণমুখী দোতলা ভবন)",
+        "male_count": 0,
+        "female_count": 2316,
+        "hijra_count": 1,
+        "latitude": 24.41168,
+        "longitude": 88.97431
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বড়বাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1763,
+        "female_count": 1790,
+        "hijra_count": 0,
+        "latitude": 24.33444,
+        "longitude": 89.04445
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বড়হরিশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2889,
+        "hijra_count": 1,
+        "latitude": 24.41045,
+        "longitude": 89.00576
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বনবেলঘরিয়া শহীদ রেজা-উন-নবী উচ্চ বিদ্যালয়",
+        "male_count": 1578,
+        "female_count": 1526,
+        "hijra_count": 0,
+        "latitude": 24.40756,
+        "longitude": 88.95945
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বনবেলঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1610,
+        "female_count": 1776,
+        "hijra_count": 2,
+        "latitude": 24.40817,
+        "longitude": 88.95863
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বনলতা উচ্চ বালিকা বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3358,
+        "hijra_count": 0,
+        "latitude": 24.41849,
+        "longitude": 88.99491
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বাকশোর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1271,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": 24.45685,
+        "longitude": 89.03203
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বাগরোম দাখিল বালিকা মাদ্রাসা",
+        "male_count": 1002,
+        "female_count": 995,
+        "hijra_count": 0,
+        "latitude": 24.39462,
+        "longitude": 89.06579
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বাংগালখলসী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 616,
+        "female_count": 558,
+        "hijra_count": 0,
+        "latitude": 24.51899,
+        "longitude": 88.93326
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বারঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1273,
+        "female_count": 1243,
+        "hijra_count": 0,
+        "latitude": 24.44475,
+        "longitude": 88.94937
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বাঁশভাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1459,
+        "female_count": 1435,
+        "hijra_count": 0,
+        "latitude": 24.47909,
+        "longitude": 88.99074
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বাঁশিলা উচ্চ বিদ্যালয়",
+        "male_count": 1236,
+        "female_count": 1209,
+        "hijra_count": 0,
+        "latitude": 24.49394,
+        "longitude": 88.98823
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বাঁশিলা দারুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 789,
+        "female_count": 738,
+        "hijra_count": 0,
+        "latitude": 24.49821,
+        "longitude": 88.98751
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বাসুদেবপুর উচ্চ বিদ্যালয় (শ্রীশচন্দ্র বিদ্যা নিকেতন)",
+        "male_count": 1687,
+        "female_count": 1730,
+        "hijra_count": 0,
+        "latitude": 24.47199,
+        "longitude": 88.9609
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বিলযোয়ানী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 572,
+        "female_count": 568,
+        "hijra_count": 0,
+        "latitude": 24.49151,
+        "longitude": 88.99513
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বুড়িরভাগ উচ্চ বিদ্যালয়",
+        "male_count": 1110,
+        "female_count": 1195,
+        "hijra_count": 0,
+        "latitude": 24.49238,
+        "longitude": 88.95132
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "বৈদ্যবেলঘরিয়া দারুল আরকাম এবতেদায়ী মাদ্রাসা",
+        "male_count": 1506,
+        "female_count": 1483,
+        "hijra_count": 0,
+        "latitude": 24.47133,
+        "longitude": 88.94262
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ব্রহ্মপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1765,
+        "female_count": 1684,
+        "hijra_count": 0,
+        "latitude": 24.51965,
+        "longitude": 88.93975
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ব্রাক শিশু নিকেতন (ইউবিএস)",
+        "male_count": 749,
+        "female_count": 790,
+        "hijra_count": 0,
+        "latitude": 24.42236,
+        "longitude": 88.97438
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ভট্টপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1225,
+        "female_count": 1199,
+        "hijra_count": 0,
+        "latitude": 24.5454,
+        "longitude": 88.97349
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "ভূষণগাছা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 887,
+        "female_count": 870,
+        "hijra_count": 0,
+        "latitude": 24.47962,
+        "longitude": 89.0307
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মছিরন নেছা সককারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3201,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41079,
+        "longitude": 88.9863
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মদনহাট পাবনাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 944,
+        "female_count": 945,
+        "hijra_count": 0,
+        "latitude": 24.45455,
+        "longitude": 88.99151
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মল্লিকহাটি সরকারি প্রাথমিক বিদ্যালয় (দোতলা)",
+        "male_count": 1782,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.40776,
+        "longitude": 88.98056
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মল্লিকহাটি সরকারি প্রাথমিক বিদ্যালয় (নিচতলা)",
+        "male_count": 0,
+        "female_count": 1959,
+        "hijra_count": 0,
+        "latitude": 24.40861,
+        "longitude": 88.98059
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মহিষডাঙ্গা গৌরীপুর উচ্চ বিদ্যালয়",
+        "male_count": 1158,
+        "female_count": 1104,
+        "hijra_count": 0,
+        "latitude": 24.57086,
+        "longitude": 88.99578
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মাঝদিঘা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1788,
+        "female_count": 1745,
+        "hijra_count": 0,
+        "latitude": 24.43998,
+        "longitude": 88.918
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মাটিয়াপাড়া দাখিল মাদ্রাসা",
+        "male_count": 1292,
+        "female_count": 1302,
+        "hijra_count": 0,
+        "latitude": 24.37867,
+        "longitude": 88.92568
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মাধনগর শামসুল ইসলাম উচ্চ বিদ্যালয়",
+        "male_count": 1811,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.53444,
+        "longitude": 88.96425
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মাধনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1830,
+        "hijra_count": 0,
+        "latitude": 24.53529,
+        "longitude": 88.96433
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মাধবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 886,
+        "female_count": 829,
+        "hijra_count": 0,
+        "latitude": 24.49618,
+        "longitude": 88.97704
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মির্জাপুরদিঘা উচ্চ বিদ্যালয়",
+        "male_count": 1327,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": 24.45072,
+        "longitude": 88.91998
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "মোমিনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1431,
+        "female_count": 1397,
+        "hijra_count": 0,
+        "latitude": 24.45195,
+        "longitude": 88.90589
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "রহিমকুড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1693,
+        "female_count": 1657,
+        "hijra_count": 0,
+        "latitude": 24.39102,
+        "longitude": 89.01723
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "রাজাপুর কামারদিয়াড় সরকারি প্রাথমিক বিদ্যালয় (উত্তর মুখী ভবন)",
+        "male_count": 0,
+        "female_count": 2047,
+        "hijra_count": 0,
+        "latitude": 24.39432,
+        "longitude": 89.00653
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "রাজাপুর কামারদিয়াড় সরকারি প্রাথমিক বিদ্যালয় (দক্ষিণ মুখী ভবন)",
+        "male_count": 2010,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.39438,
+        "longitude": 89.00677
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "রামনগর সরকারি প্রাথমিক বিদ্যালয় (দক্ষিণমুখি ভবন)",
+        "male_count": 1768,
+        "female_count": 1802,
+        "hijra_count": 0,
+        "latitude": 24.36229,
+        "longitude": 88.95378
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "রামশার কাজীপুর আমতলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1951,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.4865,
+        "longitude": 88.89855
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "রামশার কাজীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1843,
+        "hijra_count": 0,
+        "latitude": 24.49088,
+        "longitude": 88.91999
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "রায়হালসা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1266,
+        "female_count": 1270,
+        "hijra_count": 0,
+        "latitude": 24.40069,
+        "longitude": 89.0889
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "লক্ষীপুর খোলাবাড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1791,
+        "female_count": 1831,
+        "hijra_count": 0,
+        "latitude": 24.35236,
+        "longitude": 89.03047
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "লক্ষীপুর দারুল উলুম সিনিয়র মাদ্রাসা",
+        "male_count": 1418,
+        "female_count": 1460,
+        "hijra_count": 0,
+        "latitude": 24.37109,
+        "longitude": 89.03343
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "লালবাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1129,
+        "female_count": 1201,
+        "hijra_count": 0,
+        "latitude": 24.41611,
+        "longitude": 88.99122
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "লালমণিপুর বে-সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 882,
+        "female_count": 887,
+        "hijra_count": 0,
+        "latitude": 24.4117,
+        "longitude": 89.04485
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "লোচনগড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1296,
+        "female_count": 1292,
+        "hijra_count": 0,
+        "latitude": 24.41043,
+        "longitude": 88.93358
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "শংকরভাগ সরকারি প্রাথমিক বিদ্যালয় (উত্তর পাশে ৩তলা ভবন-নজরুল ভবন)",
+        "male_count": 1782,
+        "female_count": 1816,
+        "hijra_count": 0,
+        "latitude": 24.35508,
+        "longitude": 88.9982
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "শিবদুরগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1902,
+        "female_count": 1858,
+        "hijra_count": 0,
+        "latitude": 24.43143,
+        "longitude": 89.02031
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "শেরে বাংলা উচ্চ বিদ্যালয়",
+        "male_count": 2690,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41079,
+        "longitude": 89.00583
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "শ্যামনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 525,
+        "female_count": 487,
+        "hijra_count": 0,
+        "latitude": 24.4853,
+        "longitude": 88.98609
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "সড়কুতিয়া স্কুল এন্ড কলেজ",
+        "male_count": 1881,
+        "female_count": 1845,
+        "hijra_count": 0,
+        "latitude": 24.54012,
+        "longitude": 88.92247
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "সমস খলসী উচ্চ বিদ্যালয়",
+        "male_count": 1270,
+        "female_count": 1225,
+        "hijra_count": 0,
+        "latitude": 24.47303,
+        "longitude": 88.91036
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "সাধনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1892,
+        "hijra_count": 0,
+        "latitude": 24.56147,
+        "longitude": 88.97535
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "সিংহারদহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1687,
+        "female_count": 1651,
+        "hijra_count": 0,
+        "latitude": 24.38678,
+        "longitude": 88.94313
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "সূর্যবাড়ী বনগ্রাম দাখিল মাদ্রাসা",
+        "male_count": 473,
+        "female_count": 450,
+        "hijra_count": 0,
+        "latitude": 24.48578,
+        "longitude": 88.96224
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "সেনভাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1000,
+        "female_count": 968,
+        "hijra_count": 0,
+        "latitude": 24.46798,
+        "longitude": 88.98411
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "সোনাপাতিল নলডাঙ্গা মহিলা কলেজ",
+        "male_count": 0,
+        "female_count": 2041,
+        "hijra_count": 0,
+        "latitude": 24.50339,
+        "longitude": 88.96178
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "হয়রতপুর বহুমুখী উচ্চ বিদ্যালয় এন্ড কলেজ",
+        "male_count": 1800,
+        "female_count": 1949,
+        "hijra_count": 0,
+        "latitude": 24.36975,
+        "longitude": 89.05223
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "হরিদাখলসী সরকারি প্রাথমিক বিদ্যালয় ও হরিদা খলসী উচ্চ বিদ্যালয়",
+        "male_count": 1602,
+        "female_count": 1559,
+        "hijra_count": 0,
+        "latitude": 24.47182,
+        "longitude": 88.92355
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "হলুদঘর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 913,
+        "female_count": 871,
+        "hijra_count": 0,
+        "latitude": 24.5097,
+        "longitude": 88.94253
+    },
+    {
+        "settings_code": 59,
+        "settings_name": "নাটোর-২",
+        "center_name": "হালসা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1766,
+        "female_count": 1798,
+        "hijra_count": 0,
+        "latitude": 24.38731,
+        "longitude": 89.08794
+    }
+]

@@ -1,0 +1,1182 @@
+[
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "অনুপমপুর উচ্চ বিদ্যালয়",
+        "male_count": 1154,
+        "female_count": 1165,
+        "hijra_count": 0,
+        "latitude": 24.28633,
+        "longitude": 88.77278
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "অনুপমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2115,
+        "female_count": 2056,
+        "hijra_count": 0,
+        "latitude": 24.28641,
+        "longitude": 88.77788
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "আটঘরি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 684,
+        "female_count": 693,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "আড়পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1328,
+        "female_count": 1326,
+        "hijra_count": 0,
+        "latitude": 24.23213,
+        "longitude": 88.83085
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "আড়ানী মনোমোহিনী সরকারি উচ্চ বিদ্যালয়(নতুন ভবন)",
+        "male_count": 0,
+        "female_count": 2971,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "আড়ানী মনোমোহিনী সরকারি উচ্চ বিদ্যালয়(পুরাতন ভবন)",
+        "male_count": 2858,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "আড়ানী সরকারি প্রাথমিক বিদ্যালয় (পশ্চিম ভবন)",
+        "male_count": 0,
+        "female_count": 2549,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "আড়ানী সরকারি প্রাথমিক বিদ্যালয় ( পূর্ব ভবন)",
+        "male_count": 2481,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "আতারপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 188,
+        "female_count": 210,
+        "hijra_count": 0,
+        "latitude": 24.17108,
+        "longitude": 88.73497
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "আলাইপুর উচ্চ বিদ্যালয়",
+        "male_count": 1962,
+        "female_count": 1888,
+        "hijra_count": 0,
+        "latitude": 24.20377,
+        "longitude": 88.769
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ইউসুফপুর কৃষি উচ্চ বিদ্যালয়",
+        "male_count": 1765,
+        "female_count": 1769,
+        "hijra_count": 0,
+        "latitude": 24.32472,
+        "longitude": 88.70737
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "উত্তর মেরামতপুর উচ্চ বিদ্যালয়",
+        "male_count": 2038,
+        "female_count": 2124,
+        "hijra_count": 0,
+        "latitude": 24.27273,
+        "longitude": 88.75457
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "কাদিরপুর উচ্চ বিদ্যালয়",
+        "male_count": 3058,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.18269,
+        "longitude": 88.79329
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "কাদিরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2919,
+        "hijra_count": 0,
+        "latitude": 24.1827,
+        "longitude": 88.79327
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "কামিনী গংগারামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1830,
+        "female_count": 1806,
+        "hijra_count": 0,
+        "latitude": 24.31695,
+        "longitude": 88.80155
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "কালিদাসখালী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4007,
+        "hijra_count": 0,
+        "latitude": 24.18211,
+        "longitude": 88.81763
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "কালিদাসখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3948,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.18217,
+        "longitude": 88.81777
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "কালুহাটি উচ্চ বিদ্যালয়",
+        "male_count": 2401,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.28179,
+        "longitude": 88.8359
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "কালুহাটি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2460,
+        "hijra_count": 0,
+        "latitude": 24.28238,
+        "longitude": 88.83571
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "কেশবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1218,
+        "female_count": 1195,
+        "hijra_count": 0,
+        "latitude": 24.1956,
+        "longitude": 88.78202
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "খাগড়বাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 691,
+        "female_count": 705,
+        "hijra_count": 0,
+        "latitude": 24.26402,
+        "longitude": 88.89857
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "খানপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2053,
+        "female_count": 1968,
+        "hijra_count": 0,
+        "latitude": 24.15702,
+        "longitude": 88.88406
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "খায়েরহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1649,
+        "female_count": 1648,
+        "hijra_count": 0,
+        "latitude": 24.17804,
+        "longitude": 88.85112
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "খোর্দ্দগোবিন্দপুর উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2111,
+        "hijra_count": 0,
+        "latitude": 24.2931,
+        "longitude": 88.78317
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "খোর্দ্দগোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2174,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.29343,
+        "longitude": 88.78356
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "গাওপাড়া হাফেজিয়া মাদ্রাসা",
+        "male_count": 1224,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": 24.18861,
+        "longitude": 88.83238
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 973,
+        "female_count": 1041,
+        "hijra_count": 0,
+        "latitude": 24.27372,
+        "longitude": 88.74668
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চককাপাশিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1342,
+        "female_count": 1314,
+        "hijra_count": 0,
+        "latitude": 24.34381,
+        "longitude": 88.69732
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চক ছাতারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1078,
+        "female_count": 1118,
+        "hijra_count": 0,
+        "latitude": 24.19366,
+        "longitude": 88.82463
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চকরাজাপুর উচ্চ বিদ্যালয়",
+        "male_count": 456,
+        "female_count": 429,
+        "hijra_count": 0,
+        "latitude": 24.15013,
+        "longitude": 88.834
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চকরাজাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 918,
+        "female_count": 817,
+        "hijra_count": 0,
+        "latitude": 24.15536,
+        "longitude": 88.84038
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চন্ডিপুর উচ্চ বিদ্যালয়",
+        "male_count": 2350,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.19932,
+        "longitude": 88.86618
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চন্ডিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2410,
+        "hijra_count": 0,
+        "latitude": 24.1985,
+        "longitude": 88.86625
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চর কালিদাসখালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 670,
+        "female_count": 640,
+        "hijra_count": 0,
+        "latitude": 24.15499,
+        "longitude": 88.83398
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চাঁদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1521,
+        "female_count": 1516,
+        "hijra_count": 0,
+        "latitude": 24.1628,
+        "longitude": 88.87436
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চারঘাট পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 1314,
+        "female_count": 1472,
+        "hijra_count": 0,
+        "latitude": 24.28367,
+        "longitude": 88.75289
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চারঘাট মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1739,
+        "female_count": 1868,
+        "hijra_count": 0,
+        "latitude": 24.28237,
+        "longitude": 88.7528
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চৌমহনী বেগম জায়েদা জলিল বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1665,
+        "female_count": 1654,
+        "hijra_count": 0,
+        "latitude": 24.34563,
+        "longitude": 88.69618
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "চৌমাদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 283,
+        "female_count": 330,
+        "hijra_count": 0,
+        "latitude": 24.12126,
+        "longitude": 88.75767
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ছাতারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 978,
+        "female_count": 974,
+        "hijra_count": 0,
+        "latitude": 24.19489,
+        "longitude": 88.81285
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "জয়পুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1683,
+        "female_count": 1640,
+        "hijra_count": 0,
+        "latitude": 24.33045,
+        "longitude": 88.72741
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "জাগিরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1946,
+        "female_count": 1932,
+        "hijra_count": 0,
+        "latitude": 24.33564,
+        "longitude": 88.84545
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "জোতনসী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 978,
+        "female_count": 984,
+        "hijra_count": 0,
+        "latitude": 24.19559,
+        "longitude": 88.79818
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ঝিকরা উচ্চ বিদ্যালয়",
+        "male_count": 1350,
+        "female_count": 1389,
+        "hijra_count": 0,
+        "latitude": 24.29266,
+        "longitude": 88.77425
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ঝিকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1406,
+        "female_count": 1499,
+        "hijra_count": 0,
+        "latitude": 24.29248,
+        "longitude": 88.77442
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ঝিনা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1786,
+        "female_count": 1799,
+        "hijra_count": 0,
+        "latitude": 24.27755,
+        "longitude": 88.89656
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "টাংগন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1641,
+        "female_count": 1618,
+        "hijra_count": 0,
+        "latitude": 24.33535,
+        "longitude": 88.69331
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ডাকরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1938,
+        "female_count": 2000,
+        "hijra_count": 0,
+        "latitude": 24.26228,
+        "longitude": 88.81966
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "তাঁতারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1140,
+        "female_count": 1114,
+        "hijra_count": 0,
+        "latitude": 24.35105,
+        "longitude": 88.76282
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "তুলশীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1626,
+        "female_count": 1510,
+        "hijra_count": 0,
+        "latitude": 24.22705,
+        "longitude": 88.81336
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "তেথুলিয়া উচ্চ বিদ্যালয়",
+        "male_count": 2587,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.24772,
+        "longitude": 88.85499
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "দাদপুর কওমী মাদ্রাসা",
+        "male_count": 789,
+        "female_count": 655,
+        "hijra_count": 0,
+        "latitude": 24.15009,
+        "longitude": 88.84806
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "দাদপুর গড়গড়ি উচ্চ বিদ্যালয় ও দাদপুর গড়গড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1672,
+        "female_count": 1760,
+        "hijra_count": 0,
+        "latitude": 24.17442,
+        "longitude": 88.85895
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "দিঘা সরকারি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1636,
+        "female_count": 1613,
+        "hijra_count": 0,
+        "latitude": 24.25104,
+        "longitude": 88.90932
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ধন্দহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1211,
+        "female_count": 1246,
+        "hijra_count": 0,
+        "latitude": 24.2393,
+        "longitude": 88.89062
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "নওটিকা আরিফপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1351,
+        "female_count": 1391,
+        "hijra_count": 0,
+        "latitude": 24.22568,
+        "longitude": 88.8658
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "নওদাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1618,
+        "female_count": 1581,
+        "hijra_count": 0,
+        "latitude": 24.34675,
+        "longitude": 88.68438
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "নন্দনগাছি বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1338,
+        "female_count": 1340,
+        "hijra_count": 0,
+        "latitude": 24.28246,
+        "longitude": 88.74954
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "নন্দনগাছী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1252,
+        "female_count": 1212,
+        "hijra_count": 0,
+        "latitude": 24.30692,
+        "longitude": 88.82321
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "নারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1792,
+        "female_count": 1908,
+        "hijra_count": 0,
+        "latitude": 24.18817,
+        "longitude": 88.82797
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "নিমপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1924,
+        "female_count": 1984,
+        "hijra_count": 0,
+        "latitude": 24.32452,
+        "longitude": 88.83574
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পরানপুর সরকারি প্রাথিমক বিদ্যালয়",
+        "male_count": 1801,
+        "female_count": 1830,
+        "hijra_count": 0,
+        "latitude": 24.25189,
+        "longitude": 88.7764
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পলাশী ফতেপুর উচ্চ বিদ্যালয়",
+        "male_count": 825,
+        "female_count": 833,
+        "hijra_count": 0,
+        "latitude": 24.15197,
+        "longitude": 88.85483
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পাঁচপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1428,
+        "female_count": 1489,
+        "hijra_count": 0,
+        "latitude": 24.26245,
+        "longitude": 88.84696
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পাটিয়াকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1943,
+        "female_count": 1868,
+        "hijra_count": 0,
+        "latitude": 24.29642,
+        "longitude": 88.79511
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পান্নাপাড়া উচ্চ বিদ্যালয়",
+        "male_count": 1899,
+        "female_count": 1887,
+        "hijra_count": 0,
+        "latitude": 24.26655,
+        "longitude": 88.83447
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পারসাওতা বিনোদপুর উচ্চ বিদ্যালয়",
+        "male_count": 2644,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.22337,
+        "longitude": 88.77897
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পিরোজপুর-১ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1593,
+        "female_count": 1623,
+        "hijra_count": 0,
+        "latitude": 24.25868,
+        "longitude": 88.75965
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পুঠিমারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1236,
+        "female_count": 1208,
+        "hijra_count": 0,
+        "latitude": 24.27992,
+        "longitude": 88.81765
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "পূর্ব চকরাজাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 249,
+        "female_count": 258,
+        "hijra_count": 0,
+        "latitude": 24.16241,
+        "longitude": 88.83123
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ফতেপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1696,
+        "female_count": 1583,
+        "hijra_count": 0,
+        "latitude": 24.34316,
+        "longitude": 88.78817
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বড়বড়িয়া উচ্চ বিদ্যালয়",
+        "male_count": 1699,
+        "female_count": 1607,
+        "hijra_count": 0,
+        "latitude": 24.2413,
+        "longitude": 88.79872
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বনকিশোর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2170,
+        "female_count": 2105,
+        "hijra_count": 0,
+        "latitude": 24.28095,
+        "longitude": 88.79791
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বলিহার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1484,
+        "female_count": 1454,
+        "hijra_count": 0,
+        "latitude": 24.2139,
+        "longitude": 88.8231
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বাউসা মাঝপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2080,
+        "female_count": 2024,
+        "hijra_count": 0,
+        "latitude": 24.26377,
+        "longitude": 88.8827
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বাঁকড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1587,
+        "female_count": 1444,
+        "hijra_count": 0,
+        "latitude": 24.24527,
+        "longitude": 88.81291
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বাগসায়েস্তা তফের উদ্দিন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1720,
+        "female_count": 1656,
+        "hijra_count": 0,
+        "latitude": 24.18516,
+        "longitude": 88.85242
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বাঘা উচ্চ বিদ্যালয়",
+        "male_count": 3301,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.19593,
+        "longitude": 88.83557
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বাঘা মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3381,
+        "hijra_count": 0,
+        "latitude": 24.1962,
+        "longitude": 88.8366
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বাঘা হযরত শাহ্‌ আব্দুল হামিদ দানিশমন্দ (ডিগ্রী) মাদ্রাসা",
+        "male_count": 1960,
+        "female_count": 2044,
+        "hijra_count": 0,
+        "latitude": 24.19507,
+        "longitude": 88.84001
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বাজুবাঘা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1759,
+        "female_count": 1802,
+        "hijra_count": 0,
+        "latitude": 24.21759,
+        "longitude": 88.84327
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বাদুড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1777,
+        "female_count": 1717,
+        "hijra_count": 0,
+        "latitude": 24.3402,
+        "longitude": 88.71081
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বামনদিঘী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1070,
+        "female_count": 1080,
+        "hijra_count": 0,
+        "latitude": 24.31256,
+        "longitude": 88.76885
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বিনোদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2480,
+        "hijra_count": 0,
+        "latitude": 24.223,
+        "longitude": 88.77863
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বুধিরহাট উচ্চ বিদ্যালয়",
+        "male_count": 2004,
+        "female_count": 2018,
+        "hijra_count": 0,
+        "latitude": 24.25998,
+        "longitude": 88.79245
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বেড়েরবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1602,
+        "female_count": 1629,
+        "hijra_count": 0,
+        "latitude": 24.28358,
+        "longitude": 88.88173
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বেলঘরিয়া আব্দুস সাত্তার উচ্চ বিদ্যালয়",
+        "male_count": 1571,
+        "female_count": 1541,
+        "hijra_count": 0,
+        "latitude": 24.35345,
+        "longitude": 88.6713
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "বেলঘরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1349,
+        "female_count": 1417,
+        "hijra_count": 0,
+        "latitude": 24.35347,
+        "longitude": 88.67135
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ভাটপাড়া উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1942,
+        "hijra_count": 0,
+        "latitude": 24.3288,
+        "longitude": 88.8202
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "ভাটপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2045,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.32946,
+        "longitude": 88.82007
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মনিগ্রাম সরকারি প্রাথমিক বিদ্যালয় ও মনিগ্রাম উচ্চ বিদ্যালয়",
+        "male_count": 2314,
+        "female_count": 2253,
+        "hijra_count": 0,
+        "latitude": 24.21016,
+        "longitude": 88.80432
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মরকুটি কিশোরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1827,
+        "female_count": 1773,
+        "hijra_count": 0,
+        "latitude": 24.18677,
+        "longitude": 88.7723
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মহদীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1600,
+        "female_count": 1565,
+        "hijra_count": 0,
+        "latitude": 24.21838,
+        "longitude": 88.75924
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1733,
+        "female_count": 1767,
+        "hijra_count": 0,
+        "latitude": 24.36287,
+        "longitude": 88.78149
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মীরগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1360,
+        "hijra_count": 0,
+        "latitude": 24.22845,
+        "longitude": 88.74888
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মীরগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1415,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.2289,
+        "longitude": 88.74993
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মোক্তারপুর উচ্চ বিদ্যালয়",
+        "male_count": 1717,
+        "female_count": 1789,
+        "hijra_count": 0,
+        "latitude": 24.30175,
+        "longitude": 88.73051
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মোক্তারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1355,
+        "female_count": 1463,
+        "hijra_count": 0,
+        "latitude": 24.30569,
+        "longitude": 88.72149
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "মৌলভাগ বাসুদেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1424,
+        "female_count": 1402,
+        "hijra_count": 0,
+        "latitude": 24.30899,
+        "longitude": 88.84927
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "রাওথা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1381,
+        "female_count": 1303,
+        "hijra_count": 0,
+        "latitude": 24.23785,
+        "longitude": 88.75038
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "রাজশাহী সরকারি প্রাথমিক বিদ্যালয়, (রাজশাহী ক্যাডেট কলেজ ক্যাম্পাস)",
+        "male_count": 1802,
+        "female_count": 1817,
+        "hijra_count": 0,
+        "latitude": 24.30774,
+        "longitude": 88.71924
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "রায়পুর উচ্চ বিদ্যালয়",
+        "male_count": 1770,
+        "female_count": 1683,
+        "hijra_count": 0,
+        "latitude": 24.24718,
+        "longitude": 88.82608
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "রুস্তমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1859,
+        "female_count": 1983,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "লক্ষীনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 619,
+        "female_count": 569,
+        "hijra_count": 0,
+        "latitude": 24.14545,
+        "longitude": 88.84577
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "শরিফাবাদ মহাবিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2632,
+        "hijra_count": 0,
+        "latitude": 24.24718,
+        "longitude": 88.8559
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "শলুয়া উচ্চ বিদ্যালয়",
+        "male_count": 1422,
+        "female_count": 1487,
+        "hijra_count": 0,
+        "latitude": 24.33755,
+        "longitude": 88.77407
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "শলুয়া ডিগ্রি কলেজ",
+        "male_count": 1279,
+        "female_count": 1303,
+        "hijra_count": 0,
+        "latitude": 24.3384,
+        "longitude": 88.77293
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "শিবপুর ভোকেশনাল এন্ড বিজনেস ম্যানেজমেন্ট ইনস্টিটিউট",
+        "male_count": 1593,
+        "female_count": 1547,
+        "hijra_count": 0,
+        "latitude": 24.35626,
+        "longitude": 88.75666
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "সরদহ উচ্চ বিদ্যালয়",
+        "male_count": 1572,
+        "female_count": 1533,
+        "hijra_count": 0,
+        "latitude": 24.2988,
+        "longitude": 88.7508
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "সরদহ সরকারি পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 2397,
+        "female_count": 1933,
+        "hijra_count": 1,
+        "latitude": 24.29697,
+        "longitude": 88.74176
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "সরদহ সরকারি মহাবিদ্যালয়",
+        "male_count": 1997,
+        "female_count": 2125,
+        "hijra_count": 0,
+        "latitude": 24.29971,
+        "longitude": 88.73823
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "হরিনা সরকারি প্রাথমিক বিদ্যালয় ও হরিনা মাধ্যমিক বিদ্যালয়",
+        "male_count": 973,
+        "female_count": 952,
+        "hijra_count": 0,
+        "latitude": 24.24471,
+        "longitude": 88.84222
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "হরিরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1649,
+        "female_count": 1692,
+        "hijra_count": 0,
+        "latitude": 24.20856,
+        "longitude": 88.76719
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "হলিদাগাছী দ্বিমুখী উচ্চ বিদ্যালয়",
+        "male_count": 3150,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.33632,
+        "longitude": 88.74533
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "হলিদাগাছী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3153,
+        "hijra_count": 0,
+        "latitude": 24.33957,
+        "longitude": 88.74586
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "হাবিবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1277,
+        "female_count": 1286,
+        "hijra_count": 0,
+        "latitude": 24.3129,
+        "longitude": 88.82062
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "হারুন অর রশিদ উচ্চ বিদ্যালয়",
+        "male_count": 2318,
+        "female_count": 2343,
+        "hijra_count": 0,
+        "latitude": 24.26427,
+        "longitude": 88.88317
+    },
+    {
+        "settings_code": 57,
+        "settings_name": "রাজশাহী-৬",
+        "center_name": "হিলালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 822,
+        "female_count": 818,
+        "hijra_count": 0,
+        "latitude": 24.23692,
+        "longitude": 88.76614
+    }
+]

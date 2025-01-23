@@ -1,0 +1,1562 @@
+[
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আখতারিয়া ফোরকানিয়া মাদ্রাসা",
+        "male_count": 646,
+        "female_count": 573,
+        "hijra_count": 0,
+        "latitude": 22.08867,
+        "longitude": 92.03862
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আজিমপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1578,
+        "female_count": 1265,
+        "hijra_count": 0,
+        "latitude": 22.08009,
+        "longitude": 92.08655
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আদারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 914,
+        "female_count": 885,
+        "hijra_count": 0,
+        "latitude": 21.99414,
+        "longitude": 92.16176
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আধুনগর উচ্চ বিদ্যালয়",
+        "male_count": 2219,
+        "female_count": 1993,
+        "hijra_count": 0,
+        "latitude": 21.99257,
+        "longitude": 92.07702
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আফজল নগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1703,
+        "female_count": 1456,
+        "hijra_count": 0,
+        "latitude": 22.08873,
+        "longitude": 92.08597
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আবু হুরাইরা (রাঃ) মাদ্রাসা",
+        "male_count": 1520,
+        "female_count": 1184,
+        "hijra_count": 0,
+        "latitude": 22.06898,
+        "longitude": 92.02804
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আমিরাবাদ জনকল্যাণ উচ্চ বিদ্যালয়",
+        "male_count": 2172,
+        "female_count": 1958,
+        "hijra_count": 0,
+        "latitude": 22.02879,
+        "longitude": 92.08361
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আমিরাবাদ সুফিয়া আলিয়া মাদ্রাসা",
+        "male_count": 2750,
+        "female_count": 2438,
+        "hijra_count": 0,
+        "latitude": 22.0231,
+        "longitude": 92.0903
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আমিলাইষ ইউনিয়ন পরিষদ",
+        "male_count": 1503,
+        "female_count": 1326,
+        "hijra_count": 0,
+        "latitude": 22.14035,
+        "longitude": 92.01013
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "আলীনগর শহীদ জামাল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1512,
+        "female_count": 1218,
+        "hijra_count": 0,
+        "latitude": 22.08361,
+        "longitude": 92.01703
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ইউনাইটেড আইডিয়াল ইন্সটিটিউট",
+        "male_count": 1393,
+        "female_count": 1286,
+        "hijra_count": 0,
+        "latitude": 22.15698,
+        "longitude": 91.95124
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ইছামতি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 872,
+        "female_count": 843,
+        "hijra_count": 0,
+        "latitude": 22.09828,
+        "longitude": 92.04063
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উজিরভিটা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1182,
+        "female_count": 1033,
+        "hijra_count": 0,
+        "latitude": 21.9897,
+        "longitude": 92.10345
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর আমিরাবাদ এম বি উচ্চ বিদ্যালয়",
+        "male_count": 1892,
+        "female_count": 1661,
+        "hijra_count": 0,
+        "latitude": 22.04198,
+        "longitude": 92.1006
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর আমিরাবাদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1848,
+        "female_count": 1693,
+        "hijra_count": 0,
+        "latitude": 22.04213,
+        "longitude": 92.10052
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর কাঞ্চনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1217,
+        "female_count": 1142,
+        "hijra_count": 0,
+        "latitude": 22.11938,
+        "longitude": 92.00289
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর গাটিয়া ডেংগা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1038,
+        "female_count": 825,
+        "hijra_count": 0,
+        "latitude": 22.12275,
+        "longitude": 92.02239
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর ছদাহা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2132,
+        "female_count": 1701,
+        "hijra_count": 0,
+        "latitude": 22.10429,
+        "longitude": 92.09623
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর পদুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1843,
+        "female_count": 1569,
+        "hijra_count": 0,
+        "latitude": 22.06803,
+        "longitude": 92.1162
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর পশ্চিম গাটিয়া ডেংগা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 886,
+        "female_count": 749,
+        "hijra_count": 0,
+        "latitude": 22.1123,
+        "longitude": 92.02887
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর পূর্ব এওচিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 796,
+        "female_count": 715,
+        "hijra_count": 0,
+        "latitude": 22.08907,
+        "longitude": 92.03168
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর বড়হাতিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2103,
+        "female_count": 1813,
+        "hijra_count": 0,
+        "latitude": 22.02052,
+        "longitude": 92.04774
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর ব্রাহ্মণডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1394,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": 22.16148,
+        "longitude": 91.96457
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "উত্তর হরিণা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2119,
+        "female_count": 1866,
+        "hijra_count": 0,
+        "latitude": 21.98192,
+        "longitude": 92.09103
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "এমদাদুল উলুম হাফেজিয়া মাদ্রাসা ও এতিমখানা",
+        "male_count": 1074,
+        "female_count": 931,
+        "hijra_count": 0,
+        "latitude": 22.07231,
+        "longitude": 92.03694
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "এয়াকুব মরিয়ম উচ্চ বিদ্যালয়",
+        "male_count": 724,
+        "female_count": 654,
+        "hijra_count": 0,
+        "latitude": 22.0983,
+        "longitude": 92.04
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "এস, বি, টংকাবতী সরকারী প্রাঃ বিদ্যালয়",
+        "male_count": 1158,
+        "female_count": 1004,
+        "hijra_count": 0,
+        "latitude": 22.04513,
+        "longitude": 92.0686
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "করইয়ানগর বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1322,
+        "female_count": 1177,
+        "hijra_count": 0,
+        "latitude": 22.06911,
+        "longitude": 92.09515
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "কলাউজান গৌরসুন্দর উচ্চ বিদ্যালয়",
+        "male_count": 3193,
+        "female_count": 2786,
+        "hijra_count": 0,
+        "latitude": 21.99787,
+        "longitude": 92.12268
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "কলাউজান নিজতালুক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1597,
+        "female_count": 1390,
+        "hijra_count": 0,
+        "latitude": 21.99844,
+        "longitude": 92.13924
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "কাঞ্চনা আনোয়ারুল উলুম সিনিয়র মাদ্রাসা",
+        "male_count": 1980,
+        "female_count": 1810,
+        "hijra_count": 0,
+        "latitude": 22.10422,
+        "longitude": 92.00953
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "কাঞ্চনা পালপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1110,
+        "female_count": 915,
+        "hijra_count": 0,
+        "latitude": 22.09965,
+        "longitude": 92.01164
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "কাঞ্চনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1341,
+        "female_count": 1151,
+        "hijra_count": 0,
+        "latitude": 22.10988,
+        "longitude": 91.99398
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "কামাল উদ্দীন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1230,
+        "female_count": 1030,
+        "hijra_count": 0,
+        "latitude": 22.12061,
+        "longitude": 91.99444
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "খালাসী পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1360,
+        "female_count": 1286,
+        "hijra_count": 0,
+        "latitude": 21.98643,
+        "longitude": 92.1268
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "খোর্দ্দ কেঁওচিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1478,
+        "female_count": 1313,
+        "hijra_count": 0,
+        "latitude": 22.0791,
+        "longitude": 92.10868
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "গারাংগিয়া আলিয়া মাদ্রাসা",
+        "male_count": 1138,
+        "female_count": 998,
+        "hijra_count": 0,
+        "latitude": 22.04449,
+        "longitude": 92.06295
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "গারাংগিয়া উচ্চ বিদ্যালয়",
+        "male_count": 1217,
+        "female_count": 1022,
+        "hijra_count": 0,
+        "latitude": 22.01612,
+        "longitude": 92.0744
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "গারাংগিয়া সোনাকানিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1042,
+        "female_count": 907,
+        "hijra_count": 0,
+        "latitude": 22.03977,
+        "longitude": 92.04783
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "গৌড়স্থান আখতারুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 2089,
+        "female_count": 1851,
+        "hijra_count": 0,
+        "latitude": 21.95382,
+        "longitude": 92.14329
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চরম্বা উচ্চ বিদ্যালয়",
+        "male_count": 2377,
+        "female_count": 2066,
+        "hijra_count": 0,
+        "latitude": 22.02083,
+        "longitude": 92.1488
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চরম্বা ছিদ্দিকীয়া মদিনাতুল উলুম মাদ্রাসা",
+        "male_count": 2283,
+        "female_count": 2021,
+        "hijra_count": 0,
+        "latitude": 22.02169,
+        "longitude": 92.14762
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চরম্বা বাইয়ার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1315,
+        "female_count": 1198,
+        "hijra_count": 0,
+        "latitude": 22.02013,
+        "longitude": 92.16392
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চরম্বা বিবিরবিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 995,
+        "female_count": 908,
+        "hijra_count": 0,
+        "latitude": 22.00366,
+        "longitude": 92.14664
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চাকফিরানী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1681,
+        "female_count": 1434,
+        "hijra_count": 0,
+        "latitude": 22.0109,
+        "longitude": 92.04363
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চিববাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1864,
+        "female_count": 1661,
+        "hijra_count": 0,
+        "latitude": 22.05566,
+        "longitude": 92.09022
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চুড়ামনি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1350,
+        "female_count": 1124,
+        "hijra_count": 0,
+        "latitude": 22.09564,
+        "longitude": 91.98582
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চুনতি আনসার ভিডিপি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1426,
+        "female_count": 1234,
+        "hijra_count": 0,
+        "latitude": 21.95772,
+        "longitude": 92.07156
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চুনতি উচ্চ বিদ্যালয়",
+        "male_count": 2593,
+        "female_count": 2286,
+        "hijra_count": 0,
+        "latitude": 21.96929,
+        "longitude": 92.07358
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "চুনতি হাফিজিয়া আদর্শ মাদ্রাসা",
+        "male_count": 2608,
+        "female_count": 2304,
+        "hijra_count": 0,
+        "latitude": 21.97613,
+        "longitude": 92.06488
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ছদাহা আদর্শ মহিলা দাখিল মাদ্রাসা",
+        "male_count": 2224,
+        "female_count": 1813,
+        "hijra_count": 0,
+        "latitude": 22.08994,
+        "longitude": 92.09569
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ছদাহা কেফায়েত উল্লাহ কবির আহমদ (কে কে) উচ্চ বিদ্যালয়",
+        "male_count": 1612,
+        "female_count": 1372,
+        "hijra_count": 0,
+        "latitude": 22.08018,
+        "longitude": 92.099
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ছনখোলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1406,
+        "female_count": 1068,
+        "hijra_count": 0,
+        "latitude": 22.10103,
+        "longitude": 91.96422
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ছমদর পাড়া আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 2157,
+        "female_count": 2057,
+        "hijra_count": 0,
+        "latitude": 22.08514,
+        "longitude": 92.04529
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ছোট ঢেমশা ফকির পাড়া ফোরকানিয়া মাদ্রাসা",
+        "male_count": 1450,
+        "female_count": 1245,
+        "hijra_count": 0,
+        "latitude": 22.07054,
+        "longitude": 92.08424
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ছোট বারদোনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 833,
+        "female_count": 776,
+        "hijra_count": 0,
+        "latitude": 22.04538,
+        "longitude": 92.08814
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ছোট হাতিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1606,
+        "female_count": 1361,
+        "hijra_count": 0,
+        "latitude": 22.04486,
+        "longitude": 92.03815
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ঠাকুর দিঘী নুরুল কুরআন দাখিল মহিলা মাদ্রাসা",
+        "male_count": 1160,
+        "female_count": 1003,
+        "hijra_count": 0,
+        "latitude": 22.06588,
+        "longitude": 92.10338
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ডাঃ এয়াকুব বজলুর রহমান উচ্চ বিদ্যালয়",
+        "male_count": 1910,
+        "female_count": 1721,
+        "hijra_count": 0,
+        "latitude": 21.98634,
+        "longitude": 92.14623
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ঢেমশা আলমগীর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1936,
+        "female_count": 1548,
+        "hijra_count": 0,
+        "latitude": 22.09647,
+        "longitude": 92.06004
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ঢেমশা বড়ুয়া পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1166,
+        "female_count": 1081,
+        "hijra_count": 0,
+        "latitude": 22.1099,
+        "longitude": 92.0617
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ঢেমশা বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1236,
+        "female_count": 1143,
+        "hijra_count": 0,
+        "latitude": 22.10868,
+        "longitude": 92.0522
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ঢেমশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1832,
+        "female_count": 1727,
+        "hijra_count": 0,
+        "latitude": 22.08311,
+        "longitude": 92.05353
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "তৈয়ব আশরাফ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 878,
+        "female_count": 771,
+        "hijra_count": 0,
+        "latitude": 21.99558,
+        "longitude": 92.08769
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিণ আধুনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1143,
+        "female_count": 1020,
+        "hijra_count": 0,
+        "latitude": 21.98085,
+        "longitude": 92.08014
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিণ কেশুয়া নুরুল হোছাইন চৌধুরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1262,
+        "female_count": 1108,
+        "hijra_count": 0,
+        "latitude": 22.16537,
+        "longitude": 91.94878
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিণ চাকফিরানী চিংগীশাহ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1743,
+        "female_count": 1485,
+        "hijra_count": 0,
+        "latitude": 21.98954,
+        "longitude": 92.05313
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিণ ঢেমশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2770,
+        "hijra_count": 0,
+        "latitude": 22.07192,
+        "longitude": 92.06532
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিণ ব্রাহ্মণডাঙ্গা ইন্দ্রা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1023,
+        "female_count": 860,
+        "hijra_count": 0,
+        "latitude": 22.15104,
+        "longitude": 91.97346
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিণ সাতকানিয়া গোলাম বারী উচ্চ বিদ্যালয়",
+        "male_count": 2155,
+        "female_count": 1874,
+        "hijra_count": 0,
+        "latitude": 22.02483,
+        "longitude": 92.08772
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিণ সুখছড়ি শাহ সাহেব সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1687,
+        "female_count": 1433,
+        "hijra_count": 0,
+        "latitude": 21.98575,
+        "longitude": 92.11228
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিন কাঞ্চনা এন, এ, চৌধুরী উচ্চ বিদ্যালয়",
+        "male_count": 1119,
+        "female_count": 1001,
+        "hijra_count": 0,
+        "latitude": 22.09387,
+        "longitude": 92.01357
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিন কাঞ্চনা গুরগুরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1250,
+        "female_count": 1038,
+        "hijra_count": 0,
+        "latitude": 22.09419,
+        "longitude": 92.00798
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিন গাটিয়া ডেংগা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 962,
+        "female_count": 827,
+        "hijra_count": 0,
+        "latitude": 22.11096,
+        "longitude": 92.03201
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিন চরতী পশ্চিম পাড়া ফোরকানিয়া মাদ্রাসা",
+        "male_count": 1164,
+        "female_count": 1000,
+        "hijra_count": 0,
+        "latitude": 22.14249,
+        "longitude": 91.99077
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিন চরতী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1151,
+        "female_count": 1003,
+        "hijra_count": 0,
+        "latitude": 22.13957,
+        "longitude": 91.99427
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিন ছদাহা ফোরকানিয়া মাদ্রাসা ও সংলগ্ন প্রেসিডেন্সি স্কুল এন্ড কলেজ",
+        "male_count": 1252,
+        "female_count": 1081,
+        "hijra_count": 0,
+        "latitude": 22.07067,
+        "longitude": 92.10334
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দক্ষিন মরফলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 862,
+        "female_count": 773,
+        "hijra_count": 0,
+        "latitude": 22.11666,
+        "longitude": 92.05287
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দঃ রূপকানিয়া আদর্শ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2071,
+        "female_count": 1792,
+        "hijra_count": 0,
+        "latitude": 22.05082,
+        "longitude": 92.0608
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দাইমারখীল ইসলামীয়া আদর্শ দাখিল মাদ্রাসা",
+        "male_count": 1210,
+        "female_count": 925,
+        "hijra_count": 0,
+        "latitude": 22.09684,
+        "longitude": 92.06882
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দুরদুরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2375,
+        "female_count": 2097,
+        "hijra_count": 0,
+        "latitude": 22.15205,
+        "longitude": 91.96647
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দেওদিঘি কে. এম. উচ্চ বিদ্যালয়",
+        "male_count": 1365,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 22.07534,
+        "longitude": 92.02899
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "দ্বীপ চরতী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2098,
+        "female_count": 1701,
+        "hijra_count": 0,
+        "latitude": 22.1546,
+        "longitude": 91.98272
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ধলিবিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3069,
+        "female_count": 2663,
+        "hijra_count": 0,
+        "latitude": 22.04534,
+        "longitude": 92.1498
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "নজুমুন্নিছা সরকারী আদর্শ প্রাথমিক বিদ্যালয়",
+        "male_count": 1477,
+        "female_count": 1346,
+        "hijra_count": 0,
+        "latitude": 22.01271,
+        "longitude": 92.09812
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "নারিশ্চা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1041,
+        "female_count": 899,
+        "hijra_count": 0,
+        "latitude": 21.95042,
+        "longitude": 92.11985
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "নোয়ারবিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2301,
+        "female_count": 2078,
+        "hijra_count": 0,
+        "latitude": 21.99463,
+        "longitude": 92.17765
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পটিয়াখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1385,
+        "female_count": 1096,
+        "hijra_count": 0,
+        "latitude": 22.08732,
+        "longitude": 92.07554
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পদুয়া আইনুল উলুম দারুস সুন্নাহ মাদ্রাসা",
+        "male_count": 1526,
+        "female_count": 1355,
+        "hijra_count": 0,
+        "latitude": 22.05306,
+        "longitude": 92.10978
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পদুয়া এ সি এম উচ্চ বিদ্যালয়",
+        "male_count": 1856,
+        "female_count": 1605,
+        "hijra_count": 0,
+        "latitude": 22.04923,
+        "longitude": 92.10912
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পদুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2064,
+        "female_count": 1714,
+        "hijra_count": 0,
+        "latitude": 22.05795,
+        "longitude": 92.10891
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পশ্চিম আমিলাইষ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1352,
+        "female_count": 1178,
+        "hijra_count": 0,
+        "latitude": 22.14028,
+        "longitude": 92.00166
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পশ্চিম কলাউজান শাহ মজিদিয়া উচ্চ বিদ্যালয়",
+        "male_count": 1742,
+        "female_count": 1545,
+        "hijra_count": 0,
+        "latitude": 21.98602,
+        "longitude": 92.12675
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পশ্চিম গাটিয়াডেংগা ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1812,
+        "female_count": 1522,
+        "hijra_count": 0,
+        "latitude": 22.09817,
+        "longitude": 92.03269
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পশ্চিম ডলু সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1013,
+        "female_count": 915,
+        "hijra_count": 0,
+        "latitude": 22.1278,
+        "longitude": 92.01657
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পশ্চিম ঢেমশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1903,
+        "female_count": 1884,
+        "hijra_count": 0,
+        "latitude": 22.09237,
+        "longitude": 92.04797
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পশ্চিম নলুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 857,
+        "female_count": 726,
+        "hijra_count": 0,
+        "latitude": 22.13586,
+        "longitude": 92.01656
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পশ্চিম পদুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2053,
+        "female_count": 1692,
+        "hijra_count": 0,
+        "latitude": 22.05037,
+        "longitude": 92.10574
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পশ্চিম সোনাকানিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1486,
+        "female_count": 1242,
+        "hijra_count": 0,
+        "latitude": 22.05163,
+        "longitude": 92.03646
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পহরচান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 969,
+        "female_count": 932,
+        "hijra_count": 0,
+        "latitude": 21.96501,
+        "longitude": 92.16727
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পানত্রিশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1592,
+        "female_count": 1340,
+        "hijra_count": 0,
+        "latitude": 21.93545,
+        "longitude": 92.13115
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পুটিবিলা উচ্চ বিদ্যালয়",
+        "male_count": 2073,
+        "female_count": 1876,
+        "hijra_count": 0,
+        "latitude": 21.96345,
+        "longitude": 92.11787
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পুটিবিলা পশ্চিম তাতী পাড়া আমতলী পুকুর পাড় ফোরকানিয়া মাদ্রাসা",
+        "male_count": 1248,
+        "female_count": 1067,
+        "hijra_count": 0,
+        "latitude": 21.97021,
+        "longitude": 92.12145
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পুটিবিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 948,
+        "female_count": 838,
+        "hijra_count": 0,
+        "latitude": 21.97426,
+        "longitude": 92.10519
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পূর্ব কলাউজান সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1202,
+        "female_count": 1131,
+        "hijra_count": 0,
+        "latitude": 21.98752,
+        "longitude": 92.16245
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পূর্ব গাটিয়া ডেংগা হাবিবুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 977,
+        "female_count": 796,
+        "hijra_count": 0,
+        "latitude": 22.10863,
+        "longitude": 92.03926
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পূর্ব ছদাহা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1870,
+        "female_count": 1607,
+        "hijra_count": 0,
+        "latitude": 22.09278,
+        "longitude": 92.11365
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পূর্ব ডলু সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 626,
+        "female_count": 470,
+        "hijra_count": 0,
+        "latitude": 22.13086,
+        "longitude": 92.0199
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পূর্ব নলুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1252,
+        "female_count": 1125,
+        "hijra_count": 0,
+        "latitude": 22.13053,
+        "longitude": 92.0467
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "পূর্ব পুটিবিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1388,
+        "female_count": 1256,
+        "hijra_count": 0,
+        "latitude": 21.96969,
+        "longitude": 92.12641
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ফরিয়াদিরকূল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1859,
+        "female_count": 1590,
+        "hijra_count": 0,
+        "latitude": 22.05555,
+        "longitude": 92.12495
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বড়হাতিয়া কমিউনিটি ক্লিনিক",
+        "male_count": 2668,
+        "female_count": 2349,
+        "hijra_count": 0,
+        "latitude": 22.00618,
+        "longitude": 92.05467
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বড়হাতিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1506,
+        "female_count": 1253,
+        "hijra_count": 0,
+        "latitude": 21.99574,
+        "longitude": 92.06026
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বণিক পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2341,
+        "hijra_count": 0,
+        "latitude": 22.07141,
+        "longitude": 92.04015
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বলি পাড়া মগদিঘির পাড় ফোরকানিয়া মাদ্রাসা",
+        "male_count": 1279,
+        "female_count": 1172,
+        "hijra_count": 0,
+        "latitude": 21.98356,
+        "longitude": 92.14482
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বাঘমুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2363,
+        "female_count": 1993,
+        "hijra_count": 0,
+        "latitude": 22.03747,
+        "longitude": 92.13246
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বাবু নগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2146,
+        "female_count": 1787,
+        "hijra_count": 0,
+        "latitude": 22.07204,
+        "longitude": 92.01871
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বারদোনা শিশুকল্যান সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1489,
+        "female_count": 1285,
+        "hijra_count": 0,
+        "latitude": 22.04586,
+        "longitude": 92.0788
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বারদোনা হক মেমোরিয়াল উচ্চ বিদ্যালয়",
+        "male_count": 1602,
+        "female_count": 1465,
+        "hijra_count": 0,
+        "latitude": 22.05334,
+        "longitude": 92.06546
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "বি জি সেনেরহাট উচ্চ বিদ্যালয়",
+        "male_count": 1833,
+        "female_count": 1560,
+        "hijra_count": 0,
+        "latitude": 22.02756,
+        "longitude": 92.05313
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "ভবানীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2211,
+        "female_count": 1936,
+        "hijra_count": 0,
+        "latitude": 22.01581,
+        "longitude": 92.0583
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মছদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2850,
+        "female_count": 2541,
+        "hijra_count": 0,
+        "latitude": 22.00746,
+        "longitude": 92.07659
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মধ্য এওচিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1223,
+        "female_count": 1064,
+        "hijra_count": 0,
+        "latitude": 22.08531,
+        "longitude": 92.02235
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মধ্য কাঞ্চনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 741,
+        "female_count": 668,
+        "hijra_count": 0,
+        "latitude": 22.11126,
+        "longitude": 92.00809
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মধ্য গারাংগিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2202,
+        "female_count": 1935,
+        "hijra_count": 0,
+        "latitude": 22.02585,
+        "longitude": 92.06605
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মধ্য নলুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 921,
+        "female_count": 795,
+        "hijra_count": 0,
+        "latitude": 22.13847,
+        "longitude": 92.03249
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মধ্য রূপকানিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2390,
+        "female_count": 2173,
+        "hijra_count": 0,
+        "latitude": 22.06516,
+        "longitude": 92.05769
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মরফলা আর, এম, এন, উচ্চ বিদ্যালয়",
+        "male_count": 1516,
+        "female_count": 1280,
+        "hijra_count": 0,
+        "latitude": 22.13232,
+        "longitude": 92.05195
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মল্লিক ছোয়াং সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1332,
+        "female_count": 1200,
+        "hijra_count": 0,
+        "latitude": 22.03446,
+        "longitude": 92.10421
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মাইজবিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1273,
+        "female_count": 1165,
+        "hijra_count": 0,
+        "latitude": 22.00424,
+        "longitude": 92.16489
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মাদার্শা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1410,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": 22.06383,
+        "longitude": 92.02785
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মির্জাখীল উচ্চ বিদ্যালয়",
+        "male_count": 1530,
+        "female_count": 1247,
+        "hijra_count": 0,
+        "latitude": 22.05325,
+        "longitude": 92.04275
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "মুহাম্মদীয়া তামিরুল উম্মাহ মাদরাসা ও হেফজখানা",
+        "male_count": 1096,
+        "female_count": 1056,
+        "hijra_count": 0,
+        "latitude": 22.09027,
+        "longitude": 92.04072
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "রশিদার ঘোনা উচ্চ বিদ্যালয়",
+        "male_count": 1131,
+        "female_count": 1014,
+        "hijra_count": 0,
+        "latitude": 21.98646,
+        "longitude": 92.05756
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "রশিদার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1739,
+        "female_count": 1467,
+        "hijra_count": 0,
+        "latitude": 22.01506,
+        "longitude": 92.09324
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "রামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2547,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.0771,
+        "longitude": 92.04761
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "রুপনগর-সুইপুরা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1580,
+        "female_count": 1382,
+        "hijra_count": 0,
+        "latitude": 22.13242,
+        "longitude": 91.98184
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "লস্কর পাড়া মিছবাহুল উলুম আদর্শ ফোরকানিয়া মাদ্রাসা",
+        "male_count": 1612,
+        "female_count": 1326,
+        "hijra_count": 0,
+        "latitude": 21.9958,
+        "longitude": 92.05391
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "লোহাগাড়া ইসলামিয়া সিনিয়র মাদ্রাসা",
+        "male_count": 1412,
+        "female_count": 1285,
+        "hijra_count": 0,
+        "latitude": 22.0019,
+        "longitude": 92.09617
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "লোহাগাড়া মজিদার পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1872,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 21.99511,
+        "longitude": 92.11103
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "লোহাগাড়া শাহপীর এবতেদায়ী মাদ্রাসা",
+        "male_count": 2060,
+        "female_count": 1700,
+        "hijra_count": 0,
+        "latitude": 22.01151,
+        "longitude": 92.10555
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "লোহাগাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1696,
+        "female_count": 1426,
+        "hijra_count": 0,
+        "latitude": 22.00659,
+        "longitude": 92.10564
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "শাহসুফি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1674,
+        "female_count": 1455,
+        "hijra_count": 0,
+        "latitude": 21.96394,
+        "longitude": 92.06166
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সড়াইয়া এবতেদায়ী মাদ্রাসা",
+        "male_count": 945,
+        "female_count": 876,
+        "hijra_count": 0,
+        "latitude": 21.94219,
+        "longitude": 92.13506
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সাতকানিয়া আলিয়া মাহমুদুল উলুম ফাজিল মাদ্রাসা",
+        "male_count": 1899,
+        "female_count": 1761,
+        "hijra_count": 0,
+        "latitude": 22.07976,
+        "longitude": 92.05414
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সাতকানিয়া মডেল উচ্চ বিদ্যালয়",
+        "male_count": 2716,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.07499,
+        "longitude": 92.05383
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সাতকানিয়া মডেল উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2605,
+        "hijra_count": 0,
+        "latitude": 22.07502,
+        "longitude": 92.05351
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সাতকানিয়া সরকারী কলেজ",
+        "male_count": 3243,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.07734,
+        "longitude": 92.05801
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সাতগড় সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2294,
+        "female_count": 1878,
+        "hijra_count": 0,
+        "latitude": 22.00707,
+        "longitude": 92.10545
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সুখছড়ি উচ্চ বিদ্যালয়",
+        "male_count": 2947,
+        "female_count": 2682,
+        "hijra_count": 0,
+        "latitude": 22.01264,
+        "longitude": 92.11856
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সুখছড়ি মৌলভী পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1928,
+        "female_count": 1772,
+        "hijra_count": 0,
+        "latitude": 22.01906,
+        "longitude": 92.11806
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সোনাকানিয়া ইউনিয়ন পরিষদ ভবন",
+        "male_count": 1280,
+        "female_count": 1106,
+        "hijra_count": 0,
+        "latitude": 22.0418,
+        "longitude": 92.0454
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "সোনাকানিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3290,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.06894,
+        "longitude": 92.04831
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "হাজী সৈয়দ হোসেন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2858,
+        "hijra_count": 0,
+        "latitude": 22.06227,
+        "longitude": 92.0479
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "হিলিমিলি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 799,
+        "female_count": 661,
+        "hijra_count": 0,
+        "latitude": 22.11877,
+        "longitude": 92.02409
+    },
+    {
+        "settings_code": 292,
+        "settings_name": "চট্রগ্রাম-১৫",
+        "center_name": "হোছননগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1448,
+        "female_count": 1278,
+        "hijra_count": 0,
+        "latitude": 22.05701,
+        "longitude": 92.08022
+    }
+]

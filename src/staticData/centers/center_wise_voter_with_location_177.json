@@ -1,0 +1,472 @@
+[
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "৩৫ সানরাইজ প্রিপারেটরী স্কুল",
+        "male_count": 0,
+        "female_count": 3827,
+        "hijra_count": 0,
+        "latitude": 23.69652,
+        "longitude": 90.43898
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "আবু হাজী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 4328,
+        "female_count": 3929,
+        "hijra_count": 0,
+        "latitude": 23.70396,
+        "longitude": 90.43115
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "আর, কে চৌধুরী বিশ্ববিদ্যালয় কলেজ",
+        "male_count": 0,
+        "female_count": 4557,
+        "hijra_count": 0,
+        "latitude": 23.71484,
+        "longitude": 90.42898
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "আশ্রাফ মাস্টার উচ্চ বিদ্যালয়",
+        "male_count": 4294,
+        "female_count": 4238,
+        "hijra_count": 0,
+        "latitude": 23.69066,
+        "longitude": 90.43918
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "আশ্রাফিয়া আরাবিয়া মাদ্রাসা",
+        "male_count": 1990,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.69534,
+        "longitude": 90.43358
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "এইচ ইউসুফ মেমোরিয়াল হাই স্কুল",
+        "male_count": 4054,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.68939,
+        "longitude": 90.45741
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "করিমুল্লারবাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4166,
+        "hijra_count": 0,
+        "latitude": 23.69447,
+        "longitude": 90.42533
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "কে, এম সিরাজ উদ্দিন জ্ঞানের আলো আদর্শ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2146,
+        "hijra_count": 0,
+        "latitude": 23.69328,
+        "longitude": 90.42974
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "জুরাইন আদর্শ একাডেমী",
+        "male_count": 0,
+        "female_count": 4127,
+        "hijra_count": 0,
+        "latitude": 23.69193,
+        "longitude": 90.44434
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "জুরাইন বালক বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 5180,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.69328,
+        "longitude": 90.43682
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "জুরাইন শেখ কামাল সরকারী উচ্চ বিদ্যালয়",
+        "male_count": 1971,
+        "female_count": 3578,
+        "hijra_count": 0,
+        "latitude": 23.69605,
+        "longitude": 90.43272
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "ডলফিন প্রি ক্যাডেট এন্ড হাই স্কুল",
+        "male_count": 0,
+        "female_count": 6072,
+        "hijra_count": 0,
+        "latitude": 23.69052,
+        "longitude": 90.44497
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "ডা.আঃ রউফ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 4153,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.69025,
+        "longitude": 90.43117
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "ঢাকা আইডিয়াল স্কুল",
+        "male_count": 0,
+        "female_count": 2457,
+        "hijra_count": 0,
+        "latitude": 23.69379,
+        "longitude": 90.42596
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "ঢাকা কটন মিল আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 10250,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.69325,
+        "longitude": 90.42664
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "ঢাকা নেছারিয়াবাদ কামিল মাদ্রাসা",
+        "male_count": 5787,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.69743,
+        "longitude": 90.42769
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "তামিরুল মিল্লাত কামিল মাদ্রাসা",
+        "male_count": 5829,
+        "female_count": 5388,
+        "hijra_count": 0,
+        "latitude": 23.70591,
+        "longitude": 90.42843
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "দোলাইর পাড় উচ্চ বিদ্যালয়",
+        "male_count": 9347,
+        "female_count": 4497,
+        "hijra_count": 0,
+        "latitude": 23.70339,
+        "longitude": 90.43372
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "দোলাইর পাড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4608,
+        "hijra_count": 0,
+        "latitude": 23.70254,
+        "longitude": 90.43343
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "নতুন জুরাইন কে, এম, মঈনুদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 4497,
+        "female_count": 4331,
+        "hijra_count": 1,
+        "latitude": 23.68859,
+        "longitude": 90.43686
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "পূর্ব কদমতলী ইসলামিয়া আলিম মাদ্রাসা",
+        "male_count": 2678,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.68072,
+        "longitude": 90.45869
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "পূর্ব জুরাইন আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 6238,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.68982,
+        "longitude": 90.44891
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "ফরিদাবাদ উচ্চ বিদ্যালয়",
+        "male_count": 3390,
+        "female_count": 3424,
+        "hijra_count": 0,
+        "latitude": 23.69765,
+        "longitude": 90.42255
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "বাইতুল মামুর কওমী মাদ্রাসা লিল্লাহ বোডিং ও এতিম খানা",
+        "male_count": 3477,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.68556,
+        "longitude": 90.43923
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "বাকচর উচ্চ বিদ্যালয়",
+        "male_count": 1759,
+        "female_count": 980,
+        "hijra_count": 0,
+        "latitude": 23.67395,
+        "longitude": 90.44807
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "বাকচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1665,
+        "female_count": 1202,
+        "hijra_count": 0,
+        "latitude": 23.67395,
+        "longitude": 90.4482
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "বাংলাদেশ ব্যাংক আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 3743,
+        "female_count": 3513,
+        "hijra_count": 0,
+        "latitude": 23.69675,
+        "longitude": 90.42571
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "ভাষা প্রদীপ উচ্চবিদ্যালয়",
+        "male_count": 1994,
+        "female_count": 1699,
+        "hijra_count": 0,
+        "latitude": 23.68862,
+        "longitude": 90.4304
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "মাজেদা জলিল মডেল স্কুল",
+        "male_count": 4871,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.68588,
+        "longitude": 90.45566
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "মীরহাজীরবাগ আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1583,
+        "female_count": 1621,
+        "hijra_count": 0,
+        "latitude": 23.70679,
+        "longitude": 90.42779
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "মুরাদপুর আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 4020,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.69779,
+        "longitude": 90.43959
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "মুরাদপুর আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2740,
+        "female_count": 6520,
+        "hijra_count": 0,
+        "latitude": 23.69779,
+        "longitude": 90.43959
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "মুরাদপুর ইসলামিয়া আলিম মাদ্রাসা",
+        "male_count": 4101,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.69628,
+        "longitude": 90.43853
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "মুরাদপুর সমিরুন্নেছা উচ্চ বিদ্যালয়",
+        "male_count": 4033,
+        "female_count": 3934,
+        "hijra_count": 0,
+        "latitude": 23.69543,
+        "longitude": 90.44157
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "মোহাম্মদবাগ আদর্শ স্কুল ও মোহাম্মদবাগ আদর্শ কলেজ",
+        "male_count": 0,
+        "female_count": 4671,
+        "hijra_count": 1,
+        "latitude": 23.68861,
+        "longitude": 90.45845
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "লহ্মী বিবি বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2907,
+        "hijra_count": 0,
+        "latitude": 23.69892,
+        "longitude": 90.42868
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "শ্যামপুর আইডিয়াল হাই স্কুল",
+        "male_count": 917,
+        "female_count": 930,
+        "hijra_count": 0,
+        "latitude": 23.68786,
+        "longitude": 90.44075
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "শ্যামপুর বহুমুখী হাই স্কুল এন্ড কলেজ",
+        "male_count": 3980,
+        "female_count": 3867,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "শ্যামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1936,
+        "female_count": 1539,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "শ্যামপুর সরকারী মডেল স্কুল এন্ড কলেজ",
+        "male_count": 6385,
+        "female_count": 4073,
+        "hijra_count": 0,
+        "latitude": 23.68292,
+        "longitude": 90.44004
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "সলিমুল্লাহ সেলিম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2547,
+        "hijra_count": 1,
+        "latitude": 23.68563,
+        "longitude": 90.45647
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "সানফ্লাওয়ার প্রিপারেটরী স্কুল",
+        "male_count": 2213,
+        "female_count": 2202,
+        "hijra_count": 0,
+        "latitude": 23.88798,
+        "longitude": 90.3868
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "সালাহউদ্দিন আহমেদ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 6700,
+        "hijra_count": 1,
+        "latitude": 23.68738,
+        "longitude": 90.4463
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "সিরাজুল ইসলাম একাডেমী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2472,
+        "female_count": 5227,
+        "hijra_count": 0,
+        "latitude": 23.70054,
+        "longitude": 90.42754
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "হাজী শরীয়ত উল্লাহ আদর্শ উচ্চ বিঃ",
+        "male_count": 0,
+        "female_count": 4061,
+        "hijra_count": 0,
+        "latitude": 23.68994,
+        "longitude": 90.45883
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "হাজী সলিমুল্লাহ মডেল স্কুল",
+        "male_count": 3319,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.6852,
+        "longitude": 90.4462
+    },
+    {
+        "settings_code": 177,
+        "settings_name": "ঢাকা-৪",
+        "center_name": "হাজেরা উচ্চ বিদ্যালয়",
+        "male_count": 3216,
+        "female_count": 2624,
+        "hijra_count": 1,
+        "latitude": 23.69135,
+        "longitude": 90.43479
+    }
+]

@@ -1,0 +1,1332 @@
+[
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "১নং পুটিহারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1333,
+        "female_count": 1322,
+        "hijra_count": 0,
+        "latitude": 25.86288,
+        "longitude": 88.84038
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "১ নং রামনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2441,
+        "hijra_count": 0,
+        "latitude": 25.96572,
+        "longitude": 88.89215
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "২ নং কচুকাটা সরকারী প্রাথমিক বিদ্যালয়, ( মহিলা কেন্দ্র )",
+        "male_count": 0,
+        "female_count": 2827,
+        "hijra_count": 0,
+        "latitude": 25.95591,
+        "longitude": 88.95859
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "২নং নতিব চাপড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1110,
+        "female_count": 1102,
+        "hijra_count": 0,
+        "latitude": 25.88687,
+        "longitude": 88.93287
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "আকাশকুড়ি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 959,
+        "female_count": 935,
+        "hijra_count": 0,
+        "latitude": 26.01497,
+        "longitude": 88.87775
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "আংগারপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1425,
+        "female_count": 1424,
+        "hijra_count": 0,
+        "latitude": 25.89921,
+        "longitude": 88.80424
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "আরাজী দলুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1082,
+        "female_count": 1053,
+        "hijra_count": 0,
+        "latitude": 26.03262,
+        "longitude": 88.76552
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ইটাখোলা কালিতলা উচ্চ বিদ্যালয়",
+        "male_count": 1387,
+        "female_count": 1328,
+        "hijra_count": 0,
+        "latitude": 25.95161,
+        "longitude": 88.86582
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ইটাখোলা চৌধুরী পাড়া স্বতন্ত্র এবতেদায়ী মাদ্রাসা",
+        "male_count": 1369,
+        "female_count": 1329,
+        "hijra_count": 0,
+        "latitude": 25.95433,
+        "longitude": 88.85786
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ইটাখোলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1853,
+        "female_count": 1913,
+        "hijra_count": 0,
+        "latitude": 25.93166,
+        "longitude": 88.86955
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "উওর  চওড়া বড়গাছা স্কুল এন্ড কলেজ",
+        "male_count": 1398,
+        "female_count": 1367,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "উত্তর কানিয়ালখাতা উচ্চ বিদ্যালয়",
+        "male_count": 1239,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": 25.94108,
+        "longitude": 88.85871
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "উত্তর রামকলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 850,
+        "female_count": 807,
+        "hijra_count": 0,
+        "latitude": 25.95871,
+        "longitude": 88.78459
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "উত্তর হাড়োয়া সরকারী প্রাথমিক বিদ্যালয় (পুরুষ কেন্দ্র)",
+        "male_count": 2513,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.94647,
+        "longitude": 88.83169
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "উত্তরাশশী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2094,
+        "hijra_count": 0,
+        "latitude": 25.91213,
+        "longitude": 88.92298
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "উত্তরাশশী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2046,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.91197,
+        "longitude": 88.92309
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "উদয়ন বিদ্যাপীঠ",
+        "male_count": 1566,
+        "female_count": 1746,
+        "hijra_count": 0,
+        "latitude": 25.92881,
+        "longitude": 88.85461
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ককইবড়গাছা পিসি উচ্চ বিদ্যালয়",
+        "male_count": 1550,
+        "female_count": 1529,
+        "hijra_count": 0,
+        "latitude": 26.01883,
+        "longitude": 88.85083
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কচুকাটা উচ্চ বিদ্যালয়, (পুরুষ কেন্দ্র)",
+        "male_count": 2916,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.95588,
+        "longitude": 88.95877
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কচুকাটা মাঝাপাড়া ফাজিল মাদ্রাসা",
+        "male_count": 1977,
+        "female_count": 1933,
+        "hijra_count": 0,
+        "latitude": 25.94889,
+        "longitude": 88.9587
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কচুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1275,
+        "female_count": 1279,
+        "hijra_count": 0,
+        "latitude": 26.03442,
+        "longitude": 88.8398
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কাজী আব্দুর রশিদ উচ্চ বিদ্যালয়",
+        "male_count": 1775,
+        "female_count": 1789,
+        "hijra_count": 0,
+        "latitude": 25.84955,
+        "longitude": 88.87303
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কাজীরহাট ফাজিল মাদ্রাসা",
+        "male_count": 1451,
+        "female_count": 1430,
+        "hijra_count": 0,
+        "latitude": 25.87176,
+        "longitude": 88.81841
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কাঞ্চনপাড়া বি. এম কলেজ",
+        "male_count": 1405,
+        "female_count": 1342,
+        "hijra_count": 0,
+        "latitude": 26.00727,
+        "longitude": 88.79051
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কানিয়াল খাতা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1803,
+        "female_count": 1716,
+        "hijra_count": 0,
+        "latitude": 25.91911,
+        "longitude": 88.89579
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কির্ত্তনিয়া পাড়া উচ্চ বিদ্যালয় ",
+        "male_count": 0,
+        "female_count": 2567,
+        "hijra_count": 0,
+        "latitude": 25.98392,
+        "longitude": 88.78453
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কির্ত্তনিয়া পাড়া উচ্চ বিদ্যালয় (পুরষ কেন্দ্র)",
+        "male_count": 2631,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কির্ত্তনিয়া পাড়া সরকারী প্রা: বিদ্যালয়",
+        "male_count": 1597,
+        "female_count": 1512,
+        "hijra_count": 0,
+        "latitude": 25.99647,
+        "longitude": 88.797
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কিসামত চড়াইখোলা দাখিল মাদ্রাসা",
+        "male_count": 1141,
+        "female_count": 1206,
+        "hijra_count": 0,
+        "latitude": 25.88616,
+        "longitude": 88.91224
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কিসামত দলুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1189,
+        "female_count": 1129,
+        "hijra_count": 0,
+        "latitude": 26.04316,
+        "longitude": 88.78007
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কিসামত দোগাছি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1361,
+        "female_count": 1301,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কিসামত পঁচাপুকুর সরকারী  প্রাথমিক বিদ্যালয় মিলবাজার",
+        "male_count": 1371,
+        "female_count": 1260,
+        "hijra_count": 0,
+        "latitude": 25.92718,
+        "longitude": 88.91344
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কুখাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1006,
+        "female_count": 1060,
+        "hijra_count": 0,
+        "latitude": 25.91785,
+        "longitude": 88.84717
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "কুন্দপুকুর উচ্চ বিদ্যালয়",
+        "male_count": 1348,
+        "female_count": 1311,
+        "hijra_count": 0,
+        "latitude": 25.9155,
+        "longitude": 88.81858
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "খলিশাপচা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2125,
+        "hijra_count": 0,
+        "latitude": 25.99386,
+        "longitude": 88.81597
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "খলিশাপচা সরকারী প্রাথমিক বিদ্যালয়,",
+        "male_count": 2168,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.99386,
+        "longitude": 88.81597
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "খোকশাবাড়ী এম ইউ উচ্চ বিদ্যালয়",
+        "male_count": 1411,
+        "female_count": 1416,
+        "hijra_count": 0,
+        "latitude": 25.96964,
+        "longitude": 88.81014
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "খোকশাবাড়ী সন্যাসীতলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1449,
+        "female_count": 1450,
+        "hijra_count": 0,
+        "latitude": 25.96627,
+        "longitude": 88.7988
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "গুড়গুড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1479,
+        "female_count": 1461,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "গোড়গ্রাম মাঝপাড়া মিফতাহুল উলুম হাফিজিয়া মাদ্রাসা",
+        "male_count": 1385,
+        "female_count": 1301,
+        "hijra_count": 0,
+        "latitude": 25.97626,
+        "longitude": 88.76085
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "গোড়গ্রাম স্কুল এন্ড কলেজ পশ্চিম ভবন",
+        "male_count": 0,
+        "female_count": 2465,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "গোড়গ্রাম স্কুল এন্ড কলেজ (পশ্চিম ভবন), (মহিলা কেন্দ্র)",
+        "male_count": 2543,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "\tচওড়া বড়গাছা উচ্চ বিদ্যালয় , (পুরুষ কেন্দ্র)",
+        "male_count": 2728,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "চওড়া বড়গাছা সরকারী প্রাথমিক বিদ্যালয়,(মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2627,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "চকদুবুলিয়া এসসিবি উচ্চ বিদ্যালয়",
+        "male_count": 1015,
+        "female_count": 947,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "চড়চড়া বাড়ী আলিম মাদ্রাসা",
+        "male_count": 1410,
+        "female_count": 1397,
+        "hijra_count": 0,
+        "latitude": 25.9973,
+        "longitude": 88.9031
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "চড়াইখোলা সরকারী প্রাথমিক বিদ্যালয় (মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 4256,
+        "hijra_count": 0,
+        "latitude": 25.86907,
+        "longitude": 88.91447
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "চড়াইখোলা স্কুল এন্ড কলেজ (পুরুষ কেন্দ্র)",
+        "male_count": 4328,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.86877,
+        "longitude": 88.91475
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "চাঁদেরহাট ফাজিল মাদ্রাসা (মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2409,
+        "hijra_count": 0,
+        "latitude": 25.95056,
+        "longitude": 88.90535
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "চাপড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1200,
+        "female_count": 1155,
+        "hijra_count": 0,
+        "latitude": 25.86946,
+        "longitude": 88.93871
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "চাপড়া সরমজানী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1698,
+        "female_count": 1658,
+        "hijra_count": 0,
+        "latitude": 25.87874,
+        "longitude": 88.92835
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ছত্রশাল উচ্চ বিদ্যালয়",
+        "male_count": 1509,
+        "female_count": 1467,
+        "hijra_count": 0,
+        "latitude": 26.01404,
+        "longitude": 88.76835
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ছাড়ার পাড় সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1311,
+        "female_count": 1372,
+        "hijra_count": 0,
+        "latitude": 25.93007,
+        "longitude": 88.88515
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ছিট চাপড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1348,
+        "female_count": 1293,
+        "hijra_count": 0,
+        "latitude": 25.86918,
+        "longitude": 88.889
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "জ্ঞানদাস কানাইকাটা নিম্নমাধ্যমিক বিদ্যালয়",
+        "male_count": 1063,
+        "female_count": 1100,
+        "hijra_count": 0,
+        "latitude": 25.99911,
+        "longitude": 88.8275
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "টুপামারী উচ্চ বিদ্যালয়, (মহিলা ভোটকেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2560,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "টুপামারী সরকারী প্রাথমিক বিদ্যালয়, (পুরুষ ভোটকেন্দ্র)",
+        "male_count": 2661,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ঢেকিয়া বাড়ী মাদ্রাসা, ঢেকিয়া বাড়ী",
+        "male_count": 1364,
+        "female_count": 1304,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "তরনীবাড়ী স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 2024,
+        "hijra_count": 0,
+        "latitude": 25.92824,
+        "longitude": 88.85456
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "তরনীবাড়ী স্কুল এন্ড কলেজ",
+        "male_count": 2053,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 26.0169,
+        "longitude": 88.8284
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দক্ষিণ বালাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2348,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.93687,
+        "longitude": 88.80033
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দক্ষিণ বালাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 849,
+        "female_count": 873,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দক্ষিণ মোক্তারপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1512,
+        "female_count": 1584,
+        "hijra_count": 0,
+        "latitude": 25.88695,
+        "longitude": 88.89175
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দক্ষিণ রামকলা দাখিল মাদ্রাসা (মহিলা কেন্দ্র)",
+        "male_count": 1860,
+        "female_count": 1834,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "\tদলুয়া দোগাছী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 920,
+        "female_count": 927,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দারুলহুদা উচ্চ বিদ্যালয়",
+        "male_count": 1179,
+        "female_count": 1127,
+        "hijra_count": 0,
+        "latitude": 25.91782,
+        "longitude": 88.9428
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দারোয়ানী উচ্চ বিদ্যালয়",
+        "male_count": 1325,
+        "female_count": 1369,
+        "hijra_count": 0,
+        "latitude": 25.88249,
+        "longitude": 88.83555
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দীঘল ডাংগী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1286,
+        "female_count": 1210,
+        "hijra_count": 0,
+        "latitude": 25.8213,
+        "longitude": 88.85925
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দুবাছুরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1694,
+        "female_count": 1693,
+        "hijra_count": 0,
+        "latitude": 26.04377,
+        "longitude": 88.86437
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দুহুলী উচ্চ বিদ্যালয়",
+        "male_count": 1207,
+        "female_count": 1255,
+        "hijra_count": 0,
+        "latitude": 25.95224,
+        "longitude": 88.92762
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দোনদরী দাখিল মাদ্রাসা",
+        "male_count": 1172,
+        "female_count": 1163,
+        "hijra_count": 0,
+        "latitude": 25.94547,
+        "longitude": 88.93212
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "দোনদরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1267,
+        "female_count": 1266,
+        "hijra_count": 0,
+        "latitude": 25.96478,
+        "longitude": 88.93147
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ধোবাডাংগা মদিনাতুল উলুম মাদ্রাসা",
+        "male_count": 1270,
+        "female_count": 1198,
+        "hijra_count": 0,
+        "latitude": 25.99731,
+        "longitude": 88.74607
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ধোবাডাংগা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1095,
+        "female_count": 1051,
+        "hijra_count": 0,
+        "latitude": 26.02202,
+        "longitude": 88.74666
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নগর দারোয়ানী উচ্চ বিদ্যালয় (মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 3008,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নগর দারোয়ানী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2916,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.8869,
+        "longitude": 88.87226
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নতিবাড়ী উচ্চ বিদ্যালয়",
+        "male_count": 1536,
+        "female_count": 1510,
+        "hijra_count": 0,
+        "latitude": 26.0196,
+        "longitude": 88.77627
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নতুন বাজার দ্বি-মুখী উচ্চ বিদ্যালয় (মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2668,
+        "hijra_count": 0,
+        "latitude": 25.92721,
+        "longitude": 88.86122
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নতুন বাজার মডেল সরকারী প্রাথমিক বিদ্যালয় (পুরুষ কেন্দ্র)",
+        "male_count": 2459,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.92743,
+        "longitude": 88.86126
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নীলফামারী আদর্শ উচ্চ বিদ্যালয় (পুরুষ কেন্দ্র)",
+        "male_count": 3386,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.93117,
+        "longitude": 88.83792
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নীলফামারী আলিয়া (ফাজিল) মাদ্রাসা",
+        "male_count": 1355,
+        "female_count": 1481,
+        "hijra_count": 0,
+        "latitude": 25.93695,
+        "longitude": 88.84905
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নীলফামারী কাচারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1609,
+        "female_count": 1680,
+        "hijra_count": 0,
+        "latitude": 25.96556,
+        "longitude": 88.84054
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নীলফামারী টেকনিক্যাল স্কুল এন্ড কলেজ",
+        "male_count": 2223,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.92779,
+        "longitude": 88.84368
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "নীলফামারী টেকনিক্যাল স্কুল এন্ড কলেজ (পূর্ব ও উত্তর অংশ), (মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2518,
+        "hijra_count": 0,
+        "latitude": 25.92761,
+        "longitude": 88.84385
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পঞ্চপুকুর উচ্চ বিদ্যালয়",
+        "male_count": 1782,
+        "female_count": 1736,
+        "hijra_count": 0,
+        "latitude": 25.92965,
+        "longitude": 88.9286
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পঞ্চপুকুর বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1521,
+        "female_count": 1497,
+        "hijra_count": 0,
+        "latitude": 25.92939,
+        "longitude": 88.92906
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পলাশবাড়ী পরশমনি উচ্চ বিদ্যালয়",
+        "male_count": 2111,
+        "female_count": 2170,
+        "hijra_count": 0,
+        "latitude": 25.98949,
+        "longitude": 88.84079
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পশ্চিম কুচিয়ারমোড় ফকিরপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1403,
+        "female_count": 1446,
+        "hijra_count": 0,
+        "latitude": 25.89457,
+        "longitude": 88.87179
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পাটকামুড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1652,
+        "female_count": 1706,
+        "hijra_count": 0,
+        "latitude": 25.88659,
+        "longitude": 88.85699
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পাটকামুড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1676,
+        "female_count": 1547,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পুরানা কাচারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1315,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": 25.91582,
+        "longitude": 88.91175
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পুলিশ লাইন্স একাডেমি",
+        "male_count": 2334,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.94022,
+        "longitude": 88.84865
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পুলিশ লাইন্স একাডেমি, (অফিস ভবন ও পূর্ব ভবন)  (মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2497,
+        "hijra_count": 0,
+        "latitude": 25.9391,
+        "longitude": 88.84805
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পূর্ব গুড়গুড়ী বেগপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1418,
+        "female_count": 1367,
+        "hijra_count": 0,
+        "latitude": 25.90603,
+        "longitude": 88.84318
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পূর্ব চাপড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1001,
+        "female_count": 952,
+        "hijra_count": 0,
+        "latitude": 25.8649,
+        "longitude": 88.94709
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "পূর্ব ধোবাডাংগা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1261,
+        "female_count": 1262,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ফকিরগঞ্জ চকবেড়া দাখিল মাদ্রাসা",
+        "male_count": 1246,
+        "female_count": 1281,
+        "hijra_count": 0,
+        "latitude": 25.85686,
+        "longitude": 88.83169
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "ফুলতলা উচ্চ বিদ্যালয়",
+        "male_count": 1194,
+        "female_count": 1225,
+        "hijra_count": 0,
+        "latitude": 25.90026,
+        "longitude": 88.87073
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বড়ুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 966,
+        "female_count": 952,
+        "hijra_count": 0,
+        "latitude": 25.87532,
+        "longitude": 88.94786
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বাজিত পাড়া এবতেদায়ী নুরানী মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 1826,
+        "hijra_count": 0,
+        "latitude": 25.92821,
+        "longitude": 88.94458
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বাজিত পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1901,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.92785,
+        "longitude": 88.9445
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বাবড়িঝাড় দ্বি- মুখী উচ্চ বিদ্যালয়",
+        "male_count": 2189,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.89231,
+        "longitude": 88.9125
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বাবরিঝাড় সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2302,
+        "hijra_count": 0,
+        "latitude": 25.89231,
+        "longitude": 88.91249
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বারোঘরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1534,
+        "female_count": 1494,
+        "hijra_count": 0,
+        "latitude": 25.88155,
+        "longitude": 88.84593
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বাহালীপাড়া চৌধুরী বাজার দাখিল মাদ্রাসা",
+        "male_count": 1604,
+        "female_count": 1533,
+        "hijra_count": 0,
+        "latitude": 25.97728,
+        "longitude": 88.92001
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বাহালীপাড়া সরকারী প্রাথমিক বিদ্যালয় ও উচ্চ বিদ্যালয়",
+        "male_count": 1181,
+        "female_count": 1153,
+        "hijra_count": 0,
+        "latitude": 25.98125,
+        "longitude": 88.91554
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বিশমুড়ি সরকারী প্রাথমিক বিদ্যালয় (পুরুষ কেন্দ্র)",
+        "male_count": 2360,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.95098,
+        "longitude": 88.90437
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বেড়াকুটি সরকারী প্রাথমিক  বিদ্যালয়",
+        "male_count": 1233,
+        "female_count": 1212,
+        "hijra_count": 0,
+        "latitude": 25.8188,
+        "longitude": 88.83766
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "বেড়াডাংগা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1157,
+        "female_count": 1100,
+        "hijra_count": 0,
+        "latitude": 25.90359,
+        "longitude": 88.94904
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "মদিনাতুল উলুম ফোরকানিয়া হাফিজিয়া একাডেমি মাদ্রাসা",
+        "male_count": 2018,
+        "female_count": 1895,
+        "hijra_count": 0,
+        "latitude": 25.9538,
+        "longitude": 88.83301
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "মশিউর রহমান কলেজ",
+        "male_count": 1064,
+        "female_count": 1133,
+        "hijra_count": 0,
+        "latitude": 25.91772,
+        "longitude": 88.86596
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "মাঝাডাংগা তৈয়মুননেছা ডি.কে.এম. দাখিল মাদ্রাসা",
+        "male_count": 1666,
+        "female_count": 1608,
+        "hijra_count": 0,
+        "latitude": 25.95291,
+        "longitude": 88.80893
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "মুশরত গোড়গ্রাম সরকারী প্রাথমিক বিদ্যালয়, (উত্তর পশিম)",
+        "male_count": 0,
+        "female_count": 1899,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "মুশরত গোড়গ্রাম সরকারী প্রাথমিক বিদ্যালয়, (পূর্ব পশিম)",
+        "male_count": 1901,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "যাদুর হাট স্কুল এন্ড কলেজ",
+        "male_count": 1483,
+        "female_count": 1495,
+        "hijra_count": 0,
+        "latitude": 25.89697,
+        "longitude": 88.93893
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "রাবেয়া বালিকা বিদ্যা নিকেতন",
+        "male_count": 1543,
+        "female_count": 1591,
+        "hijra_count": 0,
+        "latitude": 5.38169,
+        "longitude": 124.02771
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "রামগঞ্জ দ্বিমূখী উচ্চ বিদ্যালয়",
+        "male_count": 2217,
+        "female_count": 2154,
+        "hijra_count": 0,
+        "latitude": 26.00395,
+        "longitude": 88.8607
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "রামগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1357,
+        "female_count": 1276,
+        "hijra_count": 0,
+        "latitude": 26.00404,
+        "longitude": 88.86073
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "রামনগর উচ্চ বিদ্যালয়",
+        "male_count": 2403,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.96541,
+        "longitude": 88.89188
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "রামনগর খামাত পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1004,
+        "female_count": 1010,
+        "hijra_count": 0,
+        "latitude": 25.95867,
+        "longitude": 88.91286
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "লক্ষীচাপ উচ্চ বিদ্যালয়",
+        "male_count": 1629,
+        "female_count": 1646,
+        "hijra_count": 0,
+        "latitude": 26.04337,
+        "longitude": 88.86404
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "লক্ষ্মীচাপ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 954,
+        "female_count": 892,
+        "hijra_count": 0,
+        "latitude": 26.04337,
+        "longitude": 88.86404
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "শাখামাছা সরকারী প্রাথমিক বিদ্যালয় (মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 2664,
+        "hijra_count": 0,
+        "latitude": 25.94644,
+        "longitude": 88.83177
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "শালহাটী সরকারী প্রাথমিক বিদ্যালয় ও শালহাটী উচ্চ বিদ্যালয়",
+        "male_count": 1444,
+        "female_count": 1408,
+        "hijra_count": 0,
+        "latitude": 25.89726,
+        "longitude": 88.82172
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "সংগলশী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1128,
+        "female_count": 1196,
+        "hijra_count": 0,
+        "latitude": 25.85493,
+        "longitude": 88.87601
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "সংগলশী হাজী পাড়া আলিম মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2396,
+        "hijra_count": 0,
+        "latitude": 25.86143,
+        "longitude": 88.87147
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "সরকার পাড়া নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 1276,
+        "female_count": 1216,
+        "hijra_count": 0,
+        "latitude": 25.99181,
+        "longitude": 88.86698
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "সিংদই সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2014,
+        "female_count": 1985,
+        "hijra_count": 0,
+        "latitude": 25.94051,
+        "longitude": 88.88439
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "সুটি পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1294,
+        "female_count": 1292,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "সুবর্ণখুলি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1586,
+        "female_count": 1627,
+        "hijra_count": 0,
+        "latitude": 25.83701,
+        "longitude": 88.86154
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "সোনারায় সংগলশী উচ্চ বিদ্যালয়",
+        "male_count": 1642,
+        "female_count": 1592,
+        "hijra_count": 0,
+        "latitude": 25.86007,
+        "longitude": 88.85951
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "সোনারায় সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1539,
+        "female_count": 1483,
+        "hijra_count": 0,
+        "latitude": 25.84513,
+        "longitude": 88.83097
+    },
+    {
+        "settings_code": 13,
+        "settings_name": "নীলফামারী-২",
+        "center_name": "হাড়োয়া সরকারী প্রাথমিক বিদ্যালয় (মহিলা কেন্দ্র)",
+        "male_count": 0,
+        "female_count": 3555,
+        "hijra_count": 0,
+        "latitude": 25.93112,
+        "longitude": 88.83783
+    }
+]

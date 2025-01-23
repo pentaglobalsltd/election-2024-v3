@@ -1,0 +1,1142 @@
+[
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "অলকা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1160,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 23.21381,
+        "longitude": 91.42172
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "আজমীরি বেগম বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2052,
+        "female_count": 1787,
+        "hijra_count": 0,
+        "latitude": 23.11934,
+        "longitude": 91.43223
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "আনোয়ারা বেগম আদর্শ বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1047,
+        "female_count": 989,
+        "hijra_count": 0,
+        "latitude": 23.01543,
+        "longitude": 91.52354
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "আলী আজম উচ্চ বিদ্যালয় এন্ড কলেজ",
+        "male_count": 2439,
+        "female_count": 2331,
+        "hijra_count": 0,
+        "latitude": 23.10883,
+        "longitude": 91.43097
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর আনন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 982,
+        "female_count": 934,
+        "hijra_count": 0,
+        "latitude": 23.09372,
+        "longitude": 91.43387
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর কুহুমা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1513,
+        "female_count": 1400,
+        "hijra_count": 0,
+        "latitude": 22.9961,
+        "longitude": 91.51629
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর কেতরাংগা ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1448,
+        "female_count": 1343,
+        "hijra_count": 0,
+        "latitude": 23.18061,
+        "longitude": 91.4886
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর তারাকুচা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1907,
+        "female_count": 1871,
+        "hijra_count": 0,
+        "latitude": 23.12041,
+        "longitude": 91.50082
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর ধর্মপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1007,
+        "female_count": 884,
+        "hijra_count": 0,
+        "latitude": 23.1293,
+        "longitude": 91.48437
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর পানুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1281,
+        "female_count": 1181,
+        "hijra_count": 0,
+        "latitude": 23.02778,
+        "longitude": 91.49021
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর বরইয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1522,
+        "female_count": 1446,
+        "hijra_count": 0,
+        "latitude": 23.14497,
+        "longitude": 91.43761
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর মন্দিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1349,
+        "female_count": 1219,
+        "hijra_count": 0,
+        "latitude": 22.97865,
+        "longitude": 91.52202
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর যশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1600,
+        "female_count": 1531,
+        "hijra_count": 0,
+        "latitude": 23.07223,
+        "longitude": 91.51715
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "উত্তর সতর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1613,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 23.07206,
+        "longitude": 91.4988
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "একরাম নগর উত্তর দৌলতপুর মমতাজ বেগম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1926,
+        "female_count": 1822,
+        "hijra_count": 0,
+        "latitude": 23.14856,
+        "longitude": 91.44392
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "কন্ট্রাক্টর মসজিদ আশরাফিয়া ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1367,
+        "female_count": 1236,
+        "hijra_count": 0,
+        "latitude": 23.04022,
+        "longitude": 91.46164
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "কমুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1506,
+        "female_count": 1414,
+        "hijra_count": 0,
+        "latitude": 23.0884,
+        "longitude": 91.42882
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "করইয়া কালিকাপুর সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন উচ্চ বিদ্যালয়",
+        "male_count": 1372,
+        "female_count": 1254,
+        "hijra_count": 0,
+        "latitude": 23.13625,
+        "longitude": 91.41197
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "করৈয়া বহু পার্শ্বিক উচ্চ বিদ্যালয়",
+        "male_count": 1216,
+        "female_count": 1142,
+        "hijra_count": 0,
+        "latitude": 22.97277,
+        "longitude": 91.51115
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "কালিকাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1224,
+        "female_count": 1165,
+        "hijra_count": 0,
+        "latitude": 23.23938,
+        "longitude": 91.43438
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "কাশীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 954,
+        "female_count": 910,
+        "hijra_count": 0,
+        "latitude": 23.0133,
+        "longitude": 91.49216
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "কিসমত ঘনিয়ামোড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1407,
+        "female_count": 1466,
+        "hijra_count": 0,
+        "latitude": 23.15831,
+        "longitude": 91.43847
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "কোলাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2039,
+        "female_count": 2101,
+        "hijra_count": 0,
+        "latitude": 23.20713,
+        "longitude": 91.45182
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "খন্ডল বহুমুখী উচ্চ বিদ্যালয় ও কলেজ",
+        "male_count": 0,
+        "female_count": 3341,
+        "hijra_count": 0,
+        "latitude": 23.17141,
+        "longitude": 91.45828
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "খন্ডল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3389,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.17117,
+        "longitude": 91.45827
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "গুথুমা খান বাহাদুর আবদুল আজিজ আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 2517,
+        "female_count": 2436,
+        "hijra_count": 0,
+        "latitude": 23.19048,
+        "longitude": 91.46868
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "গোসাইপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1364,
+        "female_count": 1299,
+        "hijra_count": 0,
+        "latitude": 23.14994,
+        "longitude": 91.41463
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ঘোপাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1792,
+        "female_count": 1643,
+        "hijra_count": 0,
+        "latitude": 22.96127,
+        "longitude": 91.52121
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ঘোষালহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2043,
+        "female_count": 1857,
+        "hijra_count": 0,
+        "latitude": 23.05289,
+        "longitude": 91.46491
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "চন্দনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1762,
+        "female_count": 1682,
+        "hijra_count": 0,
+        "latitude": 23.20715,
+        "longitude": 91.40047
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "চাঁদগাজী হাইস্কুল এন্ড কলেজ",
+        "male_count": 2096,
+        "female_count": 1937,
+        "hijra_count": 0,
+        "latitude": 23.08127,
+        "longitude": 91.50121
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "চিথলিয়া নাসির উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 891,
+        "female_count": 940,
+        "hijra_count": 0,
+        "latitude": 23.18572,
+        "longitude": 91.43512
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ছলেমা নজির উচ্চ বিদ্যালয়",
+        "male_count": 3056,
+        "female_count": 2771,
+        "hijra_count": 0,
+        "latitude": 23.03782,
+        "longitude": 91.47483
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ছাগলনাইয়া ইসলামিয়া কামিল (এম, এ) মাদ্রাসা",
+        "male_count": 3137,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.03971,
+        "longitude": 91.51529
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ছাগলনাইয়া পাইলট বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4095,
+        "hijra_count": 0,
+        "latitude": 23.03568,
+        "longitude": 91.51469
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ছাগলনাইয়া সরকারি পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 4275,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.03618,
+        "longitude": 91.51528
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জগতপুর ‍উচ্চ বিদ্যালয়",
+        "male_count": 1047,
+        "female_count": 1034,
+        "hijra_count": 0,
+        "latitude": 23.11964,
+        "longitude": 91.46003
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জগন্নাথ সোনাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 695,
+        "female_count": 614,
+        "hijra_count": 0,
+        "latitude": 22.96269,
+        "longitude": 91.56789
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জয়নগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2616,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.08451,
+        "longitude": 91.51715
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জয়নগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2467,
+        "hijra_count": 0,
+        "latitude": 23.08476,
+        "longitude": 91.51733
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জয়পুর সরোজিনী উচ্চ বিদ্যালয়",
+        "male_count": 2598,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.95349,
+        "longitude": 91.52707
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জয়পুর সরোজিনী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2441,
+        "hijra_count": 0,
+        "latitude": 22.9535,
+        "longitude": 91.52586
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জাফর ইমাম আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 2727,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.98506,
+        "longitude": 91.5415
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জাফর ইমাম আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2595,
+        "hijra_count": 0,
+        "latitude": 22.98508,
+        "longitude": 91.54148
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "জিএমহাট উচ্চ বিদ্যালয়",
+        "male_count": 2280,
+        "female_count": 2050,
+        "hijra_count": 0,
+        "latitude": 23.07528,
+        "longitude": 91.45416
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ডি.এম. সাহেবনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2106,
+        "female_count": 1985,
+        "hijra_count": 0,
+        "latitude": 23.24633,
+        "longitude": 91.42155
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ আনন্দপুর সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন উচ্চ বিদ্যালয়",
+        "male_count": 2469,
+        "female_count": 2304,
+        "hijra_count": 0,
+        "latitude": 23.08063,
+        "longitude": 91.43118
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ কেতরাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 981,
+        "female_count": 914,
+        "hijra_count": 0,
+        "latitude": 23.16709,
+        "longitude": 91.48758
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ গুথুমা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2030,
+        "female_count": 1931,
+        "hijra_count": 0,
+        "latitude": 23.18588,
+        "longitude": 91.47333
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ তালবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1644,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 23.13911,
+        "longitude": 91.47648
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ ধর্মপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3225,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.11174,
+        "longitude": 91.48932
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ বল্লভপুর উচ্চ বিদ্যালয় ও কলেজ",
+        "male_count": 2049,
+        "female_count": 2111,
+        "hijra_count": 0,
+        "latitude": 22.97702,
+        "longitude": 91.55209
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ মন্দিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1205,
+        "female_count": 1173,
+        "hijra_count": 0,
+        "latitude": 22.9721,
+        "longitude": 91.52523
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ যশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1817,
+        "female_count": 1723,
+        "hijra_count": 0,
+        "latitude": 23.06387,
+        "longitude": 91.51969
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ লাঙ্গলমোড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1817,
+        "female_count": 1644,
+        "hijra_count": 0,
+        "latitude": 22.93388,
+        "longitude": 91.52479
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দক্ষিণ সতর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2199,
+        "female_count": 2194,
+        "hijra_count": 0,
+        "latitude": 23.03936,
+        "longitude": 91.52007
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দাইয়া বিবি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1968,
+        "female_count": 1933,
+        "hijra_count": 0,
+        "latitude": 23.01821,
+        "longitude": 91.47447
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দুর্গাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 939,
+        "female_count": 966,
+        "hijra_count": 0,
+        "latitude": 23.17446,
+        "longitude": 91.42194
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "দূর্গাপুর সিংহনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2195,
+        "female_count": 2108,
+        "hijra_count": 0,
+        "latitude": 22.96249,
+        "longitude": 91.51016
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ধনীকুন্ডা হোসনে আরা উচ্চ বিদ্যালয়",
+        "male_count": 2391,
+        "female_count": 2272,
+        "hijra_count": 0,
+        "latitude": 23.19541,
+        "longitude": 91.41735
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ধর্মপুর এডুকেশনাল এষ্টেট (উচ্চ বিদ্যালয়)",
+        "male_count": 0,
+        "female_count": 3089,
+        "hijra_count": 0,
+        "latitude": 23.11185,
+        "longitude": 91.48934
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ধলিয়া চকবস্তা এমদাদুল উলুম ইসলামিয়া মাদ্রাসা ও এতিমখানা",
+        "male_count": 2056,
+        "female_count": 1892,
+        "hijra_count": 0,
+        "latitude": 23.10273,
+        "longitude": 91.4587
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "নিজকুঞ্জরা উচ্চ বিদ্যালয়",
+        "male_count": 1921,
+        "female_count": 1771,
+        "hijra_count": 0,
+        "latitude": 22.92396,
+        "longitude": 91.52233
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "নিজকুঞ্জরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1571,
+        "female_count": 1634,
+        "hijra_count": 0,
+        "latitude": 22.9197,
+        "longitude": 91.51761
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "নিজপানুয়া উচ্চ বিদ্যালয়",
+        "male_count": 2423,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.01565,
+        "longitude": 91.52336
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "নিজপানুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2309,
+        "hijra_count": 0,
+        "latitude": 23.02116,
+        "longitude": 91.51335
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "নিলখী অধ্যক্ষ আবদুল মজিদ উচ্চ বিদ্যালয়",
+        "male_count": 1746,
+        "female_count": 1676,
+        "hijra_count": 0,
+        "latitude": 23.16021,
+        "longitude": 91.43184
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "নোয়াপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1042,
+        "female_count": 992,
+        "hijra_count": 0,
+        "latitude": 23.12618,
+        "longitude": 91.41304
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "নোয়াবাজার সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1458,
+        "female_count": 1264,
+        "hijra_count": 0,
+        "latitude": 23.20277,
+        "longitude": 91.46065
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পরশুরাম মডেল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1377,
+        "female_count": 1358,
+        "hijra_count": 0,
+        "latitude": 23.21296,
+        "longitude": 91.44358
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পরশুরাম সরকারী কলেজ",
+        "male_count": 0,
+        "female_count": 2726,
+        "hijra_count": 0,
+        "latitude": 23.21229,
+        "longitude": 91.4392
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পরশুরাম সরকারী কলেজ",
+        "male_count": 2710,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.21231,
+        "longitude": 91.4392
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পশ্চিম দেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2282,
+        "female_count": 2200,
+        "hijra_count": 0,
+        "latitude": 23.09568,
+        "longitude": 91.49756
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পশ্চিম বসন্তপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1945,
+        "female_count": 1846,
+        "hijra_count": 0,
+        "latitude": 23.13386,
+        "longitude": 91.43839
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পশ্চিম বসিকপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2054,
+        "female_count": 1867,
+        "hijra_count": 0,
+        "latitude": 23.0983,
+        "longitude": 91.44512
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পশ্চিম মধুগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1024,
+        "female_count": 951,
+        "hijra_count": 0,
+        "latitude": 23.00072,
+        "longitude": 91.52553
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পশ্চিম সাহেবনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2070,
+        "female_count": 2048,
+        "hijra_count": 0,
+        "latitude": 23.22554,
+        "longitude": 91.4033
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পাঠাননগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2005,
+        "female_count": 1775,
+        "hijra_count": 0,
+        "latitude": 23.0591,
+        "longitude": 91.45325
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পূর্ব ছাগলনাইয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2201,
+        "female_count": 1989,
+        "hijra_count": 0,
+        "latitude": 23.02838,
+        "longitude": 91.53406
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পূর্ব দেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1611,
+        "female_count": 1544,
+        "hijra_count": 0,
+        "latitude": 23.10378,
+        "longitude": 91.50508
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পূর্ব বসন্তপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1538,
+        "female_count": 1420,
+        "hijra_count": 0,
+        "latitude": 23.13477,
+        "longitude": 91.49261
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পূর্ব মধুগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1864,
+        "female_count": 1655,
+        "hijra_count": 0,
+        "latitude": 23.00778,
+        "longitude": 91.53746
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পূর্ব সাহেবনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1301,
+        "female_count": 1247,
+        "hijra_count": 0,
+        "latitude": 23.22242,
+        "longitude": 91.42585
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পূর্ব সোনাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 985,
+        "female_count": 952,
+        "hijra_count": 0,
+        "latitude": 23.05652,
+        "longitude": 91.47458
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "পৈথারা উচ্চ বিদ্যালয়",
+        "male_count": 1865,
+        "female_count": 1658,
+        "hijra_count": 0,
+        "latitude": 23.09437,
+        "longitude": 91.42761
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ফুলগাজী সরকারি কলেজ",
+        "male_count": 1876,
+        "female_count": 1852,
+        "hijra_count": 0,
+        "latitude": 23.14547,
+        "longitude": 91.42466
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ফুলগাজী সরকারি পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 1927,
+        "female_count": 1861,
+        "hijra_count": 0,
+        "latitude": 23.15373,
+        "longitude": 91.43238
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "ফেনাপুষ্করণী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 897,
+        "female_count": 842,
+        "hijra_count": 0,
+        "latitude": 23.11528,
+        "longitude": 91.50662
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "বক্স মাহমুদ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2542,
+        "hijra_count": 0,
+        "latitude": 23.15287,
+        "longitude": 91.4711
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "বক্স মাহমুদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2862,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.15291,
+        "longitude": 91.47138
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "বটতলী ইসলামিয়া সিনিয়র আলিম মাদ্রাসা",
+        "male_count": 1704,
+        "female_count": 1620,
+        "hijra_count": 0,
+        "latitude": 23.24341,
+        "longitude": 91.43664
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "বদরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 881,
+        "female_count": 794,
+        "hijra_count": 0,
+        "latitude": 23.12447,
+        "longitude": 91.43214
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "বন্দুয়া দৌলতপুর সরকারি প্রাথমিক বিদ্যালয় ও সংলগ্ন উচ্চ বিদ্যালয়",
+        "male_count": 2151,
+        "female_count": 2057,
+        "hijra_count": 0,
+        "latitude": 23.05265,
+        "longitude": 91.43124
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "বাউরখুমা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1804,
+        "female_count": 1721,
+        "hijra_count": 0,
+        "latitude": 23.23116,
+        "longitude": 91.44762
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "বাউরপাথর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 891,
+        "female_count": 843,
+        "hijra_count": 0,
+        "latitude": 23.2306,
+        "longitude": 91.46045
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "মধুগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1943,
+        "female_count": 1941,
+        "hijra_count": 0,
+        "latitude": 23.23704,
+        "longitude": 91.40566
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "মধ্য শিলুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2202,
+        "female_count": 1991,
+        "hijra_count": 0,
+        "latitude": 45.43365,
+        "longitude": 11.04423
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "মুহুরীগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2776,
+        "hijra_count": 0,
+        "latitude": 22.94417,
+        "longitude": 91.51235
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "মুহুরীগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 2851,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.94848,
+        "longitude": 91.50589
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "মৌলভী সামছুল করিম কলেজ",
+        "male_count": 3255,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.04219,
+        "longitude": 91.51964
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "মৌলভী সামছুল করিম কলেজ",
+        "male_count": 0,
+        "female_count": 2960,
+        "hijra_count": 0,
+        "latitude": 23.04219,
+        "longitude": 91.51967
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "রাজষপুর আলী আজ্জম চৌধুরী উচ্চ বিদ্যালয়",
+        "male_count": 1438,
+        "female_count": 1356,
+        "hijra_count": 0,
+        "latitude": 23.1875,
+        "longitude": 91.39169
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "রাধানগর উচ্চ বিদ্যালয়",
+        "male_count": 1179,
+        "female_count": 1085,
+        "hijra_count": 1,
+        "latitude": 23.01537,
+        "longitude": 91.52347
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "লক্ষ্মীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1941,
+        "female_count": 1863,
+        "hijra_count": 0,
+        "latitude": 22.99578,
+        "longitude": 91.50032
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "শালধর ইসলামিয়া ফাজিল মাদ্রাসা",
+        "male_count": 2973,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.18527,
+        "longitude": 91.4086
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "শালধর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2697,
+        "hijra_count": 0,
+        "latitude": 23.1853,
+        "longitude": 91.40889
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "শুভপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1423,
+        "female_count": 1281,
+        "hijra_count": 0,
+        "latitude": 22.96122,
+        "longitude": 91.55208
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "শ্রীচন্দ্রপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1737,
+        "female_count": 1511,
+        "hijra_count": 0,
+        "latitude": 23.08694,
+        "longitude": 91.47271
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "সরকারি শিশু পরিবার",
+        "male_count": 0,
+        "female_count": 2817,
+        "hijra_count": 0,
+        "latitude": 23.04016,
+        "longitude": 91.51759
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "সোনাপুর গন্ধব্যপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1345,
+        "female_count": 1279,
+        "hijra_count": 0,
+        "latitude": 23.06301,
+        "longitude": 91.4576
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "হরিপুর আলী আকবর উচ্চ বিদ্যালয়",
+        "male_count": 1549,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 23.02633,
+        "longitude": 91.46462
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "হাজী আমির হোসেন উচ্চ বিদ্যালয়",
+        "male_count": 2084,
+        "female_count": 1945,
+        "hijra_count": 0,
+        "latitude": 23.16117,
+        "longitude": 91.40739
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "হাসানপুর শাহ আলম চৌধুরী উচ্চ বিদ্যালয় ও কলেজ (কলেজ শাখা)",
+        "male_count": 1790,
+        "female_count": 1741,
+        "hijra_count": 0,
+        "latitude": 23.06684,
+        "longitude": 91.43744
+    },
+    {
+        "settings_code": 265,
+        "settings_name": "ফেনী-১",
+        "center_name": "হিছাছরা বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 1935,
+        "female_count": 1793,
+        "hijra_count": 0,
+        "latitude": 23.05468,
+        "longitude": 91.51285
+    }
+]

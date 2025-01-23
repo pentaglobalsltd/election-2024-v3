@@ -1,0 +1,852 @@
+[
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আইডিয়াল মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1703,
+        "female_count": 599,
+        "hijra_count": 0,
+        "latitude": 23.73159,
+        "longitude": 90.40895
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আইডিয়াল স্কুল এন্ড কলেজ",
+        "male_count": 1991,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73537,
+        "longitude": 90.42275
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আইডিয়াল স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 1849,
+        "hijra_count": 0,
+        "latitude": 23.73556,
+        "longitude": 90.42277
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আনন্দ ভবন কমিউনিটি সেন্টা",
+        "male_count": 2001,
+        "female_count": 1071,
+        "hijra_count": 0,
+        "latitude": 23.73671,
+        "longitude": 90.41251
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আনন্দ ভবন কমিউনিটি সেন্টার",
+        "male_count": 0,
+        "female_count": 2294,
+        "hijra_count": 0,
+        "latitude": 23.73664,
+        "longitude": 90.41247
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আনন্দ ভবন কমিউনিটি সেন্টার",
+        "male_count": 2341,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73669,
+        "longitude": 90.41244
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আবদুল গফুর শিক্ষা শিবির",
+        "male_count": 1578,
+        "female_count": 1624,
+        "hijra_count": 0,
+        "latitude": 23.74581,
+        "longitude": 90.42295
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আবুজর গিফারী কলেজ",
+        "male_count": 1397,
+        "female_count": 1320,
+        "hijra_count": 0,
+        "latitude": 23.74768,
+        "longitude": 90.41435
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আবুজর গিফারী কলেজ",
+        "male_count": 0,
+        "female_count": 3066,
+        "hijra_count": 0,
+        "latitude": 23.74769,
+        "longitude": 90.41448
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আবুজর গিফারী কলেজ",
+        "male_count": 3261,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.74772,
+        "longitude": 90.41435
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আবুজর গিফারী কলেজ",
+        "male_count": 2977,
+        "female_count": 2228,
+        "hijra_count": 0,
+        "latitude": 23.74772,
+        "longitude": 90.41436
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আরামবাগ হাইস্কুল এন্ড কলেজ",
+        "male_count": 2129,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.7318,
+        "longitude": 90.41891
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "আরামবাগ হাইস্কুল এন্ড কলেজ",
+        "male_count": 2466,
+        "female_count": 4160,
+        "hijra_count": 0,
+        "latitude": 23.73183,
+        "longitude": 90.41875
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ইউনিভার্সিটি ল্যাবরেটরি স্কুল এন্ড কলেজ",
+        "male_count": 4596,
+        "female_count": 2676,
+        "hijra_count": 0,
+        "latitude": 23.73323,
+        "longitude": 90.38852
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ইস্কাটন গার্ডেন উচ্চ বিদ্যালয়",
+        "male_count": 3639,
+        "female_count": 3640,
+        "hijra_count": 0,
+        "latitude": 23.74525,
+        "longitude": 90.39949
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "উদয়ন উচ্চ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1110,
+        "female_count": 1096,
+        "hijra_count": 0,
+        "latitude": 23.72921,
+        "longitude": 90.39251
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ওয়ারী ক্লাব",
+        "male_count": 2466,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.7287,
+        "longitude": 90.42036
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "কমলাপুর বিআরটিসি বাস ডিপো",
+        "male_count": 3054,
+        "female_count": 2397,
+        "hijra_count": 0,
+        "latitude": 23.7727,
+        "longitude": 90.5583
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "কমলাপুর শেরে বাংলা রেলওয়ে স্কুল এন্ড কলেজ",
+        "male_count": 2159,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.72461,
+        "longitude": 90.42518
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "কমলাপুর শেরে বাংলা রেলওয়ে স্কুল এন্ড কলেজ",
+        "male_count": 2374,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.72466,
+        "longitude": 90.42528
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "কমলাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3562,
+        "hijra_count": 0,
+        "latitude": 23.72481,
+        "longitude": 90.42543
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "খিলগাও সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 945,
+        "female_count": 1004,
+        "hijra_count": 0,
+        "latitude": 23.74374,
+        "longitude": 90.42569
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "খোদেজা খাতুন সরকারি প্রাথমিক বিদ্যালয়,",
+        "male_count": 2821,
+        "female_count": 2550,
+        "hijra_count": 0,
+        "latitude": 23.74556,
+        "longitude": 90.3936
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "গোল্ডেন ইরা কিডস্ স্কুল",
+        "male_count": 2545,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.72144,
+        "longitude": 90.42224
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "চারুকলা অনুষদ",
+        "male_count": 1989,
+        "female_count": 1160,
+        "hijra_count": 0,
+        "latitude": 23.73485,
+        "longitude": 90.3944
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "টিএন্ডটি উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2297,
+        "hijra_count": 0,
+        "latitude": 23.73389,
+        "longitude": 90.41998
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "টিএন্ডটি উচ্চ বিদ্যালয়",
+        "male_count": 2596,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73405,
+        "longitude": 90.42018
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ঢাকা জেলা ক্রীড়া সমিতি ঝিলপাড়, (পুরুষ ও মহিলা ভোটার)",
+        "male_count": 1812,
+        "female_count": 187,
+        "hijra_count": 0,
+        "latitude": 23.73017,
+        "longitude": 90.41749
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ঢাকা বিশ্ববিদ্যালয়, কার্জন হল,",
+        "male_count": 1951,
+        "female_count": 528,
+        "hijra_count": 0,
+        "latitude": 23.72746,
+        "longitude": 90.40164
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ঢাকা মেডিকেল কলেজ",
+        "male_count": 902,
+        "female_count": 954,
+        "hijra_count": 0,
+        "latitude": 23.72578,
+        "longitude": 90.39695
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ঢাকা সরকারি বধির হাইস্কুল",
+        "male_count": 0,
+        "female_count": 2154,
+        "hijra_count": 0,
+        "latitude": 23.73455,
+        "longitude": 90.41037
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ঢাকা সরকারি বধির হাইস্কুল",
+        "male_count": 888,
+        "female_count": 389,
+        "hijra_count": 0,
+        "latitude": 23.73461,
+        "longitude": 90.41038
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "দারুত তাকওয়া মডেল মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2462,
+        "hijra_count": 0,
+        "latitude": 23.72144,
+        "longitude": 90.42224
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "দারুত তাকওয়া মডেল মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2699,
+        "hijra_count": 0,
+        "latitude": 23.73877,
+        "longitude": 90.41525
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "দি মিলোনিয়াম ইউনিভার্সিটি  কেন্দ্র-১",
+        "male_count": 2685,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.7421,
+        "longitude": 90.41827
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "দি মিলোনিয়াম ইউনিভার্সিটি  কেন্দ্র-২",
+        "male_count": 0,
+        "female_count": 2518,
+        "hijra_count": 0,
+        "latitude": 23.74219,
+        "longitude": 90.41823
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "দীপশিখা প্রি ক্যাডেট এন্ড হাইস্কুল",
+        "male_count": 0,
+        "female_count": 2811,
+        "hijra_count": 0,
+        "latitude": 23.72373,
+        "longitude": 90.43529
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "নিধুস্মৃতি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2976,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73458,
+        "longitude": 90.41188
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "নির্বাহী প্রকৌশলীর কার্যালয়",
+        "male_count": 2356,
+        "female_count": 1415,
+        "hijra_count": 0,
+        "latitude": 23.73211,
+        "longitude": 90.41547
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "পরিবার পরিকল্পনা সমিতি মিলনায়তন,",
+        "male_count": 0,
+        "female_count": 2760,
+        "hijra_count": 0,
+        "latitude": 23.73355,
+        "longitude": 90.41272
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "পল্টন কমিউনিটি সেন্টার",
+        "male_count": 2135,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73541,
+        "longitude": 90.41636
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "পল্টন কমিউনিটি সেন্টার",
+        "male_count": 1696,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73544,
+        "longitude": 90.41636
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "পুরানা পল্টন কলেজ",
+        "male_count": 0,
+        "female_count": 1412,
+        "hijra_count": 0,
+        "latitude": 23.72143,
+        "longitude": 90.42223
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "পুরানা পল্টন কলেজ",
+        "male_count": 0,
+        "female_count": 3345,
+        "hijra_count": 0,
+        "latitude": 23.73243,
+        "longitude": 90.41065
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "পোষ্ট অফিস হাইস্কুল",
+        "male_count": 1018,
+        "female_count": 938,
+        "hijra_count": 0,
+        "latitude": 23.73452,
+        "longitude": 90.42074
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "প্রকৌশল বিশ্ববিদ্যালয় পুরাতন একাডেমী",
+        "male_count": 2022,
+        "female_count": 325,
+        "hijra_count": 0,
+        "latitude": 23.72839,
+        "longitude": 90.3926
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ফকিরেরপুল ইয়ংমেনস ক্লাব",
+        "male_count": 2497,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73051,
+        "longitude": 90.41708
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ফকিরেরপুল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1673,
+        "female_count": 1178,
+        "hijra_count": 0,
+        "latitude": 23.73409,
+        "longitude": 90.4171
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "বঙ্গভবন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 731,
+        "female_count": 432,
+        "hijra_count": 0,
+        "latitude": 23.72191,
+        "longitude": 90.42058
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "বাংলাদেশ ব্যাংক ক্লাব",
+        "male_count": 1089,
+        "female_count": 250,
+        "hijra_count": 0,
+        "latitude": 23.72302,
+        "longitude": 90.42253
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "বাংলাদেশ শিল্প কলা একাডেমী",
+        "male_count": 0,
+        "female_count": 3361,
+        "hijra_count": 0,
+        "latitude": 23.73368,
+        "longitude": 90.40525
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "বিজ্ঞান ক্যাফেটরিয়া, আর্থ এন্ড এনভায়রনমেন্টাল সাইন্স অনুষদ",
+        "male_count": 1592,
+        "female_count": 836,
+        "hijra_count": 0,
+        "latitude": 23.72702,
+        "longitude": 90.40065
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "বিজ্ঞান ক্যাফেটরিয়া, ইঞ্জিনিয়ারিং এন্ড টেকনোলজি অনুষদ",
+        "male_count": 728,
+        "female_count": 407,
+        "hijra_count": 0,
+        "latitude": 23.72708,
+        "longitude": 90.4005
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ব্রাদার্স ইউনিয়ন ক্লাব",
+        "male_count": 3000,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.7216,
+        "longitude": 90.42215
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ",
+        "male_count": 2837,
+        "female_count": 2937,
+        "hijra_count": 0,
+        "latitude": 23.74359,
+        "longitude": 90.40712
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "মতিঝিল কলোনী কমিউনিটি সেন্টার",
+        "male_count": 1508,
+        "female_count": 1352,
+        "hijra_count": 0,
+        "latitude": 23.73579,
+        "longitude": 90.42171
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "মতিঝিল মডেল স্কুল এন্ড কলেজ",
+        "male_count": 1909,
+        "female_count": 1729,
+        "hijra_count": 0,
+        "latitude": 23.73228,
+        "longitude": 90.42371
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "মাহবুব আলী ইনষ্টিটিউট",
+        "male_count": 2911,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.7391,
+        "longitude": 90.422
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "মির্জা আববাস মহিলা ডিগ্রী কলেজ",
+        "male_count": 1646,
+        "female_count": 4718,
+        "hijra_count": 0,
+        "latitude": 23.74006,
+        "longitude": 90.42296
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "মির্জা আববাস মহিলা ডিগ্রী কলেজ",
+        "male_count": 0,
+        "female_count": 3063,
+        "hijra_count": 0,
+        "latitude": 23.74031,
+        "longitude": 90.42266
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "রাজারবাগ পুলিশ লাইন্স স্কুল এন্ড কলেজ",
+        "male_count": 2759,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.72144,
+        "longitude": 90.42225
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "রাজারবাগ পুলিশ লাইন্স স্কুল এন্ড কলেজ",
+        "male_count": 3112,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.72145,
+        "longitude": 90.42223
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "রাজারবাগ পুলিশ লাইন্স স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 1519,
+        "hijra_count": 0,
+        "latitude": 23.74349,
+        "longitude": 90.41539
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "লিটল এনজেলস লার্নিং হোম  কেন্দ্র-১",
+        "male_count": 2784,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73922,
+        "longitude": 90.41555
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শহীদ ফারুক ইকবাল বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2457,
+        "female_count": 2329,
+        "hijra_count": 0,
+        "latitude": 23.74843,
+        "longitude": 90.41407
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শহীদ ফারুক ইকবাল বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2612,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.74846,
+        "longitude": 90.41407
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শহীদ শাহজাহান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3401,
+        "hijra_count": 0,
+        "latitude": 23.72234,
+        "longitude": 90.42855
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শান্তিবাগ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2904,
+        "hijra_count": 0,
+        "latitude": 23.74447,
+        "longitude": 90.42006
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শান্তিবাগ উচ্চ বিদ্যালয়",
+        "male_count": 2725,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.74447,
+        "longitude": 90.42013
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শান্তিবাগ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2904,
+        "hijra_count": 0,
+        "latitude": 23.74521,
+        "longitude": 90.42143
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শান্তিবাগ কো-অপারেটিভ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2976,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.74449,
+        "longitude": 90.42008
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শান্তিবাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2663,
+        "hijra_count": 0,
+        "latitude": 23.74557,
+        "longitude": 90.41623
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শাহজাহানপুর রেলওয়ে মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3158,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.73991,
+        "longitude": 90.42288
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শাহজাহানপুর রেলওয়ে মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3160,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.74001,
+        "longitude": 90.42294
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শাহজাহানপুর রেলওয়ে সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 5024,
+        "hijra_count": 0,
+        "latitude": 23.74075,
+        "longitude": 90.42448
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শাহজাহানপুর রেলওয়ে সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 5371,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.74118,
+        "longitude": 90.42465
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "শিশু একাডেমী অডিটরিয়াম",
+        "male_count": 988,
+        "female_count": 524,
+        "hijra_count": 0,
+        "latitude": 23.72892,
+        "longitude": 90.40133
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "সফস একাডেমী",
+        "male_count": 1365,
+        "female_count": 705,
+        "hijra_count": 0,
+        "latitude": 23.72145,
+        "longitude": 90.42225
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "সায়েন্স এনেক্স বিল্ডিং",
+        "male_count": 1079,
+        "female_count": 923,
+        "hijra_count": 0,
+        "latitude": 23.72726,
+        "longitude": 90.39588
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "সিদ্ধেশ্বরী উচ্চ বালিকা বিদ্যালয়",
+        "male_count": 5388,
+        "female_count": 6129,
+        "hijra_count": 1,
+        "latitude": 23.74227,
+        "longitude": 90.4113
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "সিদ্ধেশ্বরী গার্লস কলেজ",
+        "male_count": 3212,
+        "female_count": 3217,
+        "hijra_count": 0,
+        "latitude": 23.74137,
+        "longitude": 90.40763
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "সিদ্ধেশ্বরী বালক উচ্চ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1702,
+        "female_count": 1562,
+        "hijra_count": 0,
+        "latitude": 23.74527,
+        "longitude": 90.41088
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "সেগুন বাগিচা হাই স্কুল",
+        "male_count": 6493,
+        "female_count": 1186,
+        "hijra_count": 0,
+        "latitude": 23.73144,
+        "longitude": 90.40877
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "সোনালী অতীত ক্লাব",
+        "male_count": 0,
+        "female_count": 1509,
+        "hijra_count": 0,
+        "latitude": 23.72942,
+        "longitude": 90.4181
+    },
+    {
+        "settings_code": 181,
+        "settings_name": "ঢাকা-৮",
+        "center_name": "হাবিবুল্লাহ্ বাহার ইউনিভার্সিটি কলেজ",
+        "male_count": 2552,
+        "female_count": 1804,
+        "hijra_count": 0,
+        "latitude": 23.7405,
+        "longitude": 90.41058
+    }
+]

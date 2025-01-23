@@ -1,0 +1,1432 @@
+[
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "৬নং চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1443,
+        "female_count": 1266,
+        "hijra_count": 0,
+        "latitude": 25.00886,
+        "longitude": 89.90128
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "৭নং চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1500,
+        "female_count": 1298,
+        "hijra_count": 0,
+        "latitude": 25.02692,
+        "longitude": 89.89263
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "আন্ধারিয়া উচ্চ বিদ্যালয়",
+        "male_count": 1419,
+        "female_count": 1405,
+        "hijra_count": 0,
+        "latitude": 24.95079,
+        "longitude": 90.10998
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "আন্ধারিয়া সুতিরপাড় সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1553,
+        "female_count": 1567,
+        "hijra_count": 0,
+        "latitude": 24.9593,
+        "longitude": 90.09969
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "আফছর আলী আদর্শ বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1354,
+        "female_count": 1421,
+        "hijra_count": 0,
+        "latitude": 25.02295,
+        "longitude": 89.99399
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "আমতলা উচ্চ বিদ্যালয়",
+        "male_count": 1381,
+        "female_count": 1404,
+        "hijra_count": 0,
+        "latitude": 24.93707,
+        "longitude": 90.10192
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "আল জামিয়াতুল ইসলামিয়া ফাযিল (ডিগ্রি) মাদ্রাসা",
+        "male_count": 1288,
+        "female_count": 1343,
+        "hijra_count": 0,
+        "latitude": 25.03746,
+        "longitude": 90.01716
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "আলফালাহ্ ইসলামী একাডেমি এন্ড হাইস্কুল",
+        "male_count": 1107,
+        "female_count": 1208,
+        "hijra_count": 0,
+        "latitude": 25.02302,
+        "longitude": 89.99392
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ইলশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2010,
+        "female_count": 1978,
+        "hijra_count": 0,
+        "latitude": 24.97367,
+        "longitude": 90.01332
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কসবা মোল্লাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 871,
+        "female_count": 919,
+        "hijra_count": 0,
+        "latitude": 25.02339,
+        "longitude": 90.00248
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কসবা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1308,
+        "female_count": 1392,
+        "hijra_count": 0,
+        "latitude": 25.01204,
+        "longitude": 89.99696
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কাজির চর গাউছিয়া দাখিল মাদ্রাসা",
+        "male_count": 884,
+        "female_count": 891,
+        "hijra_count": 0,
+        "latitude": 24.9911,
+        "longitude": 90.00417
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কামারেরচর কে, এম, আই সিনিয়র মাদ্রাসা",
+        "male_count": 1907,
+        "female_count": 1913,
+        "hijra_count": 0,
+        "latitude": 25.02624,
+        "longitude": 89.93131
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুঠুরাকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1100,
+        "female_count": 1096,
+        "hijra_count": 0,
+        "latitude": 24.96388,
+        "longitude": 90.04861
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুড়ালিয়াকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1272,
+        "female_count": 1257,
+        "hijra_count": 0,
+        "latitude": 25.07465,
+        "longitude": 90.07019
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুমরারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1530,
+        "female_count": 1563,
+        "hijra_count": 0,
+        "latitude": 24.94865,
+        "longitude": 90.02226
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুমরী কাটাজান সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1945,
+        "female_count": 1885,
+        "hijra_count": 0,
+        "latitude": 25.08084,
+        "longitude": 90.03968
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুমরী তেঘরিয়া ফাজিল মাদ্রাসা",
+        "male_count": 1855,
+        "female_count": 1834,
+        "hijra_count": 0,
+        "latitude": 25.07826,
+        "longitude": 90.0528
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুমরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 781,
+        "female_count": 789,
+        "hijra_count": 0,
+        "latitude": 25.06877,
+        "longitude": 90.04735
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুলুরচর বেপারীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 986,
+        "female_count": 1163,
+        "hijra_count": 0,
+        "latitude": 24.93204,
+        "longitude": 89.94714
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুসুমহাটি উচ্চ বিদ্যালয়",
+        "male_count": 1289,
+        "female_count": 1352,
+        "hijra_count": 0,
+        "latitude": 25.001,
+        "longitude": 90.01467
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কুসুমহাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1337,
+        "female_count": 1343,
+        "hijra_count": 0,
+        "latitude": 25.001,
+        "longitude": 90.01468
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কৃষি প্রশিক্ষণ ইনস্টিটিউট",
+        "male_count": 1927,
+        "female_count": 2128,
+        "hijra_count": 0,
+        "latitude": 25.01927,
+        "longitude": 90.02164
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "কৃষ্ণপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1521,
+        "female_count": 1463,
+        "hijra_count": 0,
+        "latitude": 24.99601,
+        "longitude": 89.98911
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "খড়মপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1010,
+        "female_count": 1131,
+        "hijra_count": 0,
+        "latitude": 25.01501,
+        "longitude": 90.01236
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "খরখড়িয়া শহিদ গোলাম মোস্তফা উচ্চ বিদ্যালয়",
+        "male_count": 1113,
+        "female_count": 1020,
+        "hijra_count": 0,
+        "latitude": 25.07056,
+        "longitude": 90.06098
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "খাসপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1274,
+        "female_count": 1285,
+        "hijra_count": 0,
+        "latitude": 24.96181,
+        "longitude": 89.96462
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "খুজিউড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2192,
+        "female_count": 2211,
+        "hijra_count": 0,
+        "latitude": 25.05343,
+        "longitude": 90.07123
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "খুনুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1974,
+        "female_count": 1867,
+        "hijra_count": 0,
+        "latitude": 24.9532,
+        "longitude": 90.06657
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "গনই ভরুয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1135,
+        "female_count": 1287,
+        "hijra_count": 0,
+        "latitude": 25.02494,
+        "longitude": 90.03898
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "গনই শহীদ মোতালেব উচ্চ বিদ্যালয়",
+        "male_count": 959,
+        "female_count": 1095,
+        "hijra_count": 0,
+        "latitude": 25.02612,
+        "longitude": 90.04147
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "গাজীর খামার উচ্চ বিদ্যালয়",
+        "male_count": 2387,
+        "female_count": 2515,
+        "hijra_count": 0,
+        "latitude": 25.0505,
+        "longitude": 90.08983
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "গাজীর খামার চকপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1222,
+        "female_count": 1236,
+        "hijra_count": 0,
+        "latitude": 25.04124,
+        "longitude": 90.11373
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "গোয়ালপাড়া পঁয়েস্তিরচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 867,
+        "female_count": 777,
+        "hijra_count": 0,
+        "latitude": 25.01051,
+        "longitude": 89.90696
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "গৌরীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3030,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.02794,
+        "longitude": 90.01018
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ঘুঘুরাকান্দি উচ্চ বিদ্যালয় (চারতলা নতুন ভবন)",
+        "male_count": 2492,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.9215,
+        "longitude": 90.01867
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ঘুঘুরাকান্দি উচ্চ বিদ্যালয় (তিনতলা পুরাতন ভবন)",
+        "male_count": 0,
+        "female_count": 2441,
+        "hijra_count": 0,
+        "latitude": 24.92221,
+        "longitude": 90.01774
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ঘুঘুরাকান্দি নয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1442,
+        "female_count": 1423,
+        "hijra_count": 0,
+        "latitude": 24.91941,
+        "longitude": 90.0315
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ঘুঘুরাকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1297,
+        "female_count": 1124,
+        "hijra_count": 0,
+        "latitude": 24.92617,
+        "longitude": 90.02399
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চকসাহাব্দি মোহাম্মদ আলী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2411,
+        "hijra_count": 0,
+        "latitude": 24.94458,
+        "longitude": 90.0051
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চকসাহাব্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2535,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.94458,
+        "longitude": 90.0051
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চরখারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2434,
+        "female_count": 2463,
+        "hijra_count": 0,
+        "latitude": 24.90979,
+        "longitude": 90.07736
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চর জংগলদী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1531,
+        "female_count": 1419,
+        "hijra_count": 0,
+        "latitude": 24.94119,
+        "longitude": 90.05129
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চরপক্ষীমারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1734,
+        "female_count": 1724,
+        "hijra_count": 0,
+        "latitude": 24.95559,
+        "longitude": 89.95108
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চর মোচারিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1710,
+        "female_count": 1727,
+        "hijra_count": 0,
+        "latitude": 24.99349,
+        "longitude": 89.95972
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চরশেরপুর নয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1586,
+        "female_count": 1546,
+        "hijra_count": 0,
+        "latitude": 25.04283,
+        "longitude": 89.96071
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চরশেরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2227,
+        "female_count": 2169,
+        "hijra_count": 0,
+        "latitude": 25.03301,
+        "longitude": 89.96601
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চরশেরপুর সাতানীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1704,
+        "female_count": 1594,
+        "hijra_count": 0,
+        "latitude": 25.03913,
+        "longitude": 89.94938
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চরশ্রীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1508,
+        "female_count": 1412,
+        "hijra_count": 0,
+        "latitude": 24.959,
+        "longitude": 89.98881
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চর সাপমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1409,
+        "female_count": 1494,
+        "hijra_count": 0,
+        "latitude": 24.97288,
+        "longitude": 90.07959
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চান্দেরনগর বন্দেরপাড়া সরকরাী প্রাথমিক বিদ্যালয়",
+        "male_count": 926,
+        "female_count": 972,
+        "hijra_count": 0,
+        "latitude": 25.00225,
+        "longitude": 90.12362
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চান্দের নগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2240,
+        "female_count": 2226,
+        "hijra_count": 0,
+        "latitude": 25.01652,
+        "longitude": 90.10519
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চাপাতলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1827,
+        "female_count": 2058,
+        "hijra_count": 0,
+        "latitude": 25.01595,
+        "longitude": 90.00964
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "চৈতনখিলা জব্বারিয়া আলিম মাদ্রাসা",
+        "male_count": 1644,
+        "female_count": 1868,
+        "hijra_count": 0,
+        "latitude": 25.03371,
+        "longitude": 90.0549
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ছনকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1269,
+        "female_count": 1275,
+        "hijra_count": 0,
+        "latitude": 24.97042,
+        "longitude": 90.03431
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "জংগলদী(১) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1805,
+        "female_count": 1690,
+        "hijra_count": 0,
+        "latitude": 24.97698,
+        "longitude": 89.92319
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "জংগলদী-২ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2225,
+        "female_count": 2202,
+        "hijra_count": 0,
+        "latitude": 24.95063,
+        "longitude": 90.0436
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "জমশেদ আলী মেমোরিয়াল ডিগ্রী কলেজ",
+        "male_count": 1405,
+        "female_count": 1389,
+        "hijra_count": 0,
+        "latitude": 24.9844,
+        "longitude": 89.99385
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "জি কে পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 1438,
+        "female_count": 1623,
+        "hijra_count": 0,
+        "latitude": 25.01126,
+        "longitude": 90.01744
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "টাকিমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1350,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 24.96881,
+        "longitude": 89.94812
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ডুবারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1379,
+        "female_count": 1361,
+        "hijra_count": 0,
+        "latitude": 25.04275,
+        "longitude": 89.92663
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ঢাকলহাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2180,
+        "female_count": 2330,
+        "hijra_count": 0,
+        "latitude": 25.02373,
+        "longitude": 90.02159
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "তারাকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1604,
+        "female_count": 1636,
+        "hijra_count": 0,
+        "latitude": 24.9884,
+        "longitude": 90.1112
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "তারাগড় সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1188,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 25.03689,
+        "longitude": 90.05686
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "তিরছা বসারিয়া জনকল্যাণ উচ্চ বিদ্যালয়",
+        "male_count": 579,
+        "female_count": 564,
+        "hijra_count": 0,
+        "latitude": 25.00635,
+        "longitude": 90.08697
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "তিলকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1689,
+        "female_count": 1716,
+        "hijra_count": 0,
+        "latitude": 24.99815,
+        "longitude": 90.06612
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দক্ষিণ তারাকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1816,
+        "female_count": 1927,
+        "hijra_count": 0,
+        "latitude": 24.98003,
+        "longitude": 90.10656
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দড়িপাড়া নূর হোসাইন আশরাফুল উলুম কওমি মাদরাসা",
+        "male_count": 1592,
+        "female_count": 1675,
+        "hijra_count": 0,
+        "latitude": 24.99601,
+        "longitude": 89.98911
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দড়িপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2178,
+        "female_count": 2000,
+        "hijra_count": 0,
+        "latitude": 25.03044,
+        "longitude": 89.95501
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দমদমা কালিগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 980,
+        "female_count": 1054,
+        "hijra_count": 0,
+        "latitude": 25.04398,
+        "longitude": 90.01129
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দিকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1053,
+        "female_count": 1054,
+        "hijra_count": 0,
+        "latitude": 24.95558,
+        "longitude": 89.95111
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দিঘলদী মোল্লাপাড়া জব্বার আলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 732,
+        "female_count": 721,
+        "hijra_count": 0,
+        "latitude": 24.97562,
+        "longitude": 89.99023
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দিঘলদী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1471,
+        "female_count": 1434,
+        "hijra_count": 0,
+        "latitude": 24.97562,
+        "longitude": 89.99023
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দিঘারপাড় কান্দাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1722,
+        "female_count": 1734,
+        "hijra_count": 0,
+        "latitude": 25.04163,
+        "longitude": 90.02215
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দিঘারপাড় বালক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1979,
+        "female_count": 2231,
+        "hijra_count": 0,
+        "latitude": 25.04153,
+        "longitude": 90.02206
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "দোছরা ছনকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 835,
+        "female_count": 803,
+        "hijra_count": 0,
+        "latitude": 24.95734,
+        "longitude": 90.00107
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ধলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1340,
+        "female_count": 1289,
+        "hijra_count": 0,
+        "latitude": 25.03676,
+        "longitude": 90.06957
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ধাতিয়াপাড়া উচ্চ বিদ্যালয়",
+        "male_count": 1383,
+        "female_count": 1382,
+        "hijra_count": 0,
+        "latitude": 25.00514,
+        "longitude": 89.96567
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ধানুরপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1100,
+        "female_count": 1151,
+        "hijra_count": 0,
+        "latitude": 24.96237,
+        "longitude": 89.96437
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ধোপার চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1514,
+        "female_count": 1516,
+        "hijra_count": 0,
+        "latitude": 24.95366,
+        "longitude": 90.0185
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "নবারুন পাবলিক স্কুল",
+        "male_count": 1585,
+        "female_count": 1651,
+        "hijra_count": 0,
+        "latitude": 25.01173,
+        "longitude": 90.02079
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "নবীনগর আদর্শ বিদ্যাপীঠ",
+        "male_count": 0,
+        "female_count": 3289,
+        "hijra_count": 0,
+        "latitude": 25.00383,
+        "longitude": 90.02449
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "নবীনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3013,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.00449,
+        "longitude": 90.02535
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "নলবাইদ দক্ষিণ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1690,
+        "female_count": 1615,
+        "hijra_count": 0,
+        "latitude": 25.01264,
+        "longitude": 89.95365
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "নাওভাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 885,
+        "female_count": 941,
+        "hijra_count": 0,
+        "latitude": 24.94609,
+        "longitude": 90.09738
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "নাগপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1985,
+        "female_count": 2007,
+        "hijra_count": 0,
+        "latitude": 25.04536,
+        "longitude": 89.98267
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "পলাশিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1954,
+        "female_count": 1993,
+        "hijra_count": 0,
+        "latitude": 25.05565,
+        "longitude": 90.08841
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "পাকুরিয়া খামারপাড়া এবতেদায়ী মাদ্রাসা",
+        "male_count": 969,
+        "female_count": 951,
+        "hijra_count": 1,
+        "latitude": 25.00982,
+        "longitude": 90.04942
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "পাকুরিয়া চকপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1401,
+        "female_count": 1504,
+        "hijra_count": 0,
+        "latitude": 25.01752,
+        "longitude": 90.04304
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "পাকুরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1458,
+        "female_count": 1380,
+        "hijra_count": 0,
+        "latitude": 25.00951,
+        "longitude": 90.05933
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "পাঞ্জরভাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1995,
+        "female_count": 1857,
+        "hijra_count": 0,
+        "latitude": 25.03,
+        "longitude": 90.1051
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "পূর্ব কুমরী হাফেজিয়া মাদ্রাসা",
+        "male_count": 983,
+        "female_count": 991,
+        "hijra_count": 0,
+        "latitude": 25.05795,
+        "longitude": 90.05659
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "প্রতাবিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1473,
+        "female_count": 1504,
+        "hijra_count": 0,
+        "latitude": 25.0394,
+        "longitude": 90.04948
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ফটিয়ামারী নজগর আলী উচ্চ বিদ্যালয়",
+        "male_count": 1497,
+        "female_count": 1469,
+        "hijra_count": 0,
+        "latitude": 24.92873,
+        "longitude": 90.08621
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বয়ড়া পরানপুর দাখিল মাদ্রাসা",
+        "male_count": 1394,
+        "female_count": 1448,
+        "hijra_count": 0,
+        "latitude": 24.99196,
+        "longitude": 90.02201
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বলাইর চর পাইকর তলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1991,
+        "female_count": 1855,
+        "hijra_count": 0,
+        "latitude": 24.93615,
+        "longitude": 89.98392
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বাকারকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1863,
+        "female_count": 1968,
+        "hijra_count": 0,
+        "latitude": 24.98448,
+        "longitude": 90.07687
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বাঘের চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1620,
+        "female_count": 1558,
+        "hijra_count": 0,
+        "latitude": 25.02147,
+        "longitude": 89.97042
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বাজিতখিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2049,
+        "female_count": 2145,
+        "hijra_count": 0,
+        "latitude": 25.06753,
+        "longitude": 90.03079
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বাদাতেঘরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1414,
+        "female_count": 1483,
+        "hijra_count": 0,
+        "latitude": 25.02823,
+        "longitude": 90.06973
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বামনের চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1678,
+        "female_count": 1707,
+        "hijra_count": 0,
+        "latitude": 25.03545,
+        "longitude": 89.99109
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বালিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1838,
+        "female_count": 1819,
+        "hijra_count": 0,
+        "latitude": 25.04993,
+        "longitude": 90.04188
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বালুয়াকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1373,
+        "female_count": 1432,
+        "hijra_count": 0,
+        "latitude": 25.03019,
+        "longitude": 90.07832
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "বেতমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2095,
+        "female_count": 2082,
+        "hijra_count": 0,
+        "latitude": 24.92871,
+        "longitude": 90.05467
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ভাটপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 927,
+        "female_count": 957,
+        "hijra_count": 0,
+        "latitude": 24.97409,
+        "longitude": 90.07633
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ভাতশালা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1091,
+        "female_count": 1147,
+        "hijra_count": 0,
+        "latitude": 24.98181,
+        "longitude": 90.04574
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "ভীমগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 1279,
+        "female_count": 1295,
+        "hijra_count": 0,
+        "latitude": 24.95829,
+        "longitude": 90.07387
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মধ্য আলিনাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1227,
+        "female_count": 1308,
+        "hijra_count": 0,
+        "latitude": 24.97735,
+        "longitude": 90.1241
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মধ্য বয়ড়া উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3098,
+        "hijra_count": 0,
+        "latitude": 24.98588,
+        "longitude": 90.03706
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মধ্য বয়ড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3013,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.00108,
+        "longitude": 90.01453
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মির্জাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1009,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 25.05242,
+        "longitude": 90.02431
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মীরগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1811,
+        "female_count": 1825,
+        "hijra_count": 0,
+        "latitude": 25.03003,
+        "longitude": 90.0022
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মুকুল একাডেমী",
+        "male_count": 736,
+        "female_count": 819,
+        "hijra_count": 0,
+        "latitude": 25.01062,
+        "longitude": 90.01178
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মুন্সির চর মতিজাহান উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2653,
+        "hijra_count": 0,
+        "latitude": 24.99424,
+        "longitude": 89.93148
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মুন্সির চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2664,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.99425,
+        "longitude": 89.93149
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "মোবারকপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1284,
+        "female_count": 1287,
+        "hijra_count": 1,
+        "latitude": 25.05247,
+        "longitude": 89.99991
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "যোগিনীমুড়া উচ্চ বিদ্যালয়",
+        "male_count": 1193,
+        "female_count": 1227,
+        "hijra_count": 0,
+        "latitude": 25.05556,
+        "longitude": 89.99202
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "রঘুনাথপুর তাজুল ইসলাম দাখিল মাদ্রাসা",
+        "male_count": 1377,
+        "female_count": 1446,
+        "hijra_count": 0,
+        "latitude": 24.96056,
+        "longitude": 90.08529
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "রাজবল্লভপুর আর, কে সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 607,
+        "female_count": 667,
+        "hijra_count": 0,
+        "latitude": 25.01502,
+        "longitude": 90.01244
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "রামের চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1083,
+        "female_count": 1069,
+        "hijra_count": 0,
+        "latitude": 24.94461,
+        "longitude": 89.98491
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "রৌহা এইচ, এ মোল্লা একাডেমী",
+        "male_count": 1598,
+        "female_count": 1681,
+        "hijra_count": 0,
+        "latitude": 24.93583,
+        "longitude": 90.11409
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "লছমনপুর তালুকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 730,
+        "female_count": 762,
+        "hijra_count": 0,
+        "latitude": 25.01289,
+        "longitude": 89.9769
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "লছমনপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1222,
+        "female_count": 1332,
+        "hijra_count": 0,
+        "latitude": 24.97365,
+        "longitude": 90.01335
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "লতারিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1022,
+        "female_count": 971,
+        "hijra_count": 0,
+        "latitude": 25.03464,
+        "longitude": 89.93853
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "শেখহাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1749,
+        "female_count": 1919,
+        "hijra_count": 0,
+        "latitude": 25.02213,
+        "longitude": 90.03434
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "শেরপুর উচ্চ বিদ্যালয়",
+        "male_count": 1602,
+        "female_count": 1729,
+        "hijra_count": 6,
+        "latitude": 25.02239,
+        "longitude": 90.00818
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "শেরপুর মেমোরিয়াল হাই স্কুল",
+        "male_count": 1540,
+        "female_count": 1574,
+        "hijra_count": 0,
+        "latitude": 24.99566,
+        "longitude": 90.01378
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "শেরপুর সরকারি বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1962,
+        "female_count": 2051,
+        "hijra_count": 0,
+        "latitude": 25.01296,
+        "longitude": 90.01384
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "শেরপুর সরকারী ভিক্টোরিয়া একাডেমী",
+        "male_count": 1553,
+        "female_count": 1521,
+        "hijra_count": 0,
+        "latitude": 25.02126,
+        "longitude": 90.01751
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সন্যাসির চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1386,
+        "female_count": 1373,
+        "hijra_count": 0,
+        "latitude": 25.05434,
+        "longitude": 89.9302
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সাতপাকিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1815,
+        "female_count": 1759,
+        "hijra_count": 0,
+        "latitude": 24.94332,
+        "longitude": 89.96752
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সাপমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2211,
+        "female_count": 2376,
+        "hijra_count": 0,
+        "latitude": 24.97124,
+        "longitude": 90.06165
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সাহাব্দির চর উত্তর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1829,
+        "female_count": 1783,
+        "hijra_count": 0,
+        "latitude": 25.03488,
+        "longitude": 89.92538
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সাহাব্দিরচর মধ্যপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2180,
+        "female_count": 2027,
+        "hijra_count": 1,
+        "latitude": 25.02683,
+        "longitude": 89.92517
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সুরেন্দ্র মোহন মডেল স্কুল",
+        "male_count": 0,
+        "female_count": 3311,
+        "hijra_count": 0,
+        "latitude": 25.02212,
+        "longitude": 90.01694
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সূর্যদি উত্তরপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 853,
+        "female_count": 859,
+        "hijra_count": 0,
+        "latitude": 24.98515,
+        "longitude": 90.09317
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সূর্যদী অছিমদ্দিন আহমদ উচ্চ বিদ্যালয়",
+        "male_count": 2252,
+        "female_count": 2397,
+        "hijra_count": 0,
+        "latitude": 24.97683,
+        "longitude": 90.09746
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "সৈকত গুচ্ছগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 833,
+        "female_count": 819,
+        "hijra_count": 0,
+        "latitude": 24.93205,
+        "longitude": 89.94715
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "হরিণধরা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2356,
+        "hijra_count": 0,
+        "latitude": 24.97671,
+        "longitude": 89.93454
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "হরিণধরা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2398,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.97724,
+        "longitude": 89.93599
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "হাওড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1419,
+        "female_count": 1435,
+        "hijra_count": 0,
+        "latitude": 24.98445,
+        "longitude": 90.06854
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "হালগড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 954,
+        "female_count": 931,
+        "hijra_count": 0,
+        "latitude": 24.9208,
+        "longitude": 90.10246
+    },
+    {
+        "settings_code": 143,
+        "settings_name": "শেরপুর-১",
+        "center_name": "হেরুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1393,
+        "female_count": 1276,
+        "hijra_count": 0,
+        "latitude": 25.06058,
+        "longitude": 89.96051
+    }
+]

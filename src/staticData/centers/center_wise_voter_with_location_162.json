@@ -1,0 +1,1712 @@
+[
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "০৪ নং হলিমা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1732,
+        "female_count": 1598,
+        "hijra_count": 0,
+        "latitude": 24.4928,
+        "longitude": 90.60238
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "০৫নং চর হটর আলগী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1760,
+        "female_count": 1469,
+        "hijra_count": 0,
+        "latitude": 24.46061,
+        "longitude": 90.58881
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "০৭নং চর হাজীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1490,
+        "female_count": 1350,
+        "hijra_count": 0,
+        "latitude": 24.4688,
+        "longitude": 90.59147
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "১২নং নামা সিদলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1946,
+        "female_count": 1698,
+        "hijra_count": 0,
+        "latitude": 24.45932,
+        "longitude": 90.65731
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "১৫ নং তারাপাশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1722,
+        "female_count": 1578,
+        "hijra_count": 0,
+        "latitude": 24.47623,
+        "longitude": 90.63196
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "১৭ নং টান সিদলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1565,
+        "female_count": 1438,
+        "hijra_count": 0,
+        "latitude": 24.41955,
+        "longitude": 90.65587
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "২১নং গোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3132,
+        "hijra_count": 0,
+        "latitude": 24.47642,
+        "longitude": 90.69534
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "২৪নং গাংগাটিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1956,
+        "female_count": 1834,
+        "hijra_count": 0,
+        "latitude": 24.45973,
+        "longitude": 90.70478
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "২৯ নং লাখুহাটী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1431,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": 24.44996,
+        "longitude": 90.71527
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "৫১ নং উত্তর চরপুমদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1654,
+        "female_count": 1595,
+        "hijra_count": 0,
+        "latitude": 24.43241,
+        "longitude": 90.71711
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "আউলিয়া পাড়া ফাজিল মাদ্রাসা",
+        "male_count": 1056,
+        "female_count": 966,
+        "hijra_count": 0,
+        "latitude": 24.40729,
+        "longitude": 90.71923
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "আজিম উদ্দিন উচ্চ বিদ্যালয় (দক্ষিণের ৩ তলা ভবন)",
+        "male_count": 3561,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.43507,
+        "longitude": 90.78749
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "আজিম উদ্দিন উচ্চ বিদ্যালয় (পশ্চিম ও উত্তর পাশের ভবন)",
+        "male_count": 0,
+        "female_count": 3628,
+        "hijra_count": 0,
+        "latitude": 24.43514,
+        "longitude": 90.78746
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "আতিরা সরকারি প্রাথমিক বিদ্যালয় ",
+        "male_count": 2346,
+        "female_count": 2180,
+        "hijra_count": 0,
+        "latitude": 24.43583,
+        "longitude": 90.6827
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "আলহাজ্ব আমির উদ্দিন উচ্চ বিদ্যালয়, (পূর্ব পাশের ভবন) ",
+        "male_count": 2256,
+        "female_count": 2074,
+        "hijra_count": 0,
+        "latitude": 24.38011,
+        "longitude": 90.83519
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "আলহাজ্ব ওয়াজেদুল ইসলাম উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2713,
+        "hijra_count": 0,
+        "latitude": 24.38624,
+        "longitude": 90.82499
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "আশুতিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1779,
+        "female_count": 1752,
+        "hijra_count": 0,
+        "latitude": 24.39195,
+        "longitude": 90.6999
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "উত্তর গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2167,
+        "female_count": 1929,
+        "hijra_count": 0,
+        "latitude": 24.50112,
+        "longitude": 90.69344
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "উত্তর মুকসেদপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2354,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.47044,
+        "longitude": 90.77348
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "একরাম হোসেন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1667,
+        "female_count": 1628,
+        "hijra_count": 0,
+        "latitude": 24.41661,
+        "longitude": 90.82166
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "এস.আই. মেমোরিয়াল সরকারী প্রাথমিক বিদ্যালয় (একাডেমিক ভবন-পূর্ব ও উত্তর)",
+        "male_count": 0,
+        "female_count": 2583,
+        "hijra_count": 0,
+        "latitude": 24.39878,
+        "longitude": 90.80592
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "এস.আই. মেমোরিয়াল সরকারী প্রাথমিক বিদ্যালয় (পশ্চিম পাশের নতুন একাডেমিক ভবন)",
+        "male_count": 2617,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.39862,
+        "longitude": 90.80596
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "এস,আর,ডি শামছ উদ্দিন ভূইয়া স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 2142,
+        "hijra_count": 0,
+        "latitude": 24.40687,
+        "longitude": 90.71541
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "ওয়ালীনেওয়াজ খান কলেজ",
+        "male_count": 1886,
+        "female_count": 2110,
+        "hijra_count": 0,
+        "latitude": 24.42848,
+        "longitude": 90.78554
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কড়িয়াইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2809,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.38617,
+        "longitude": 90.82492
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কাজীরগাঁও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1958,
+        "female_count": 1847,
+        "hijra_count": 0,
+        "latitude": 24.36383,
+        "longitude": 90.77175
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কাটাবাড়ীয়া এ আর খান উচ্চ বিদ্যালয়",
+        "male_count": 1005,
+        "female_count": 1006,
+        "hijra_count": 0,
+        "latitude": 24.15474,
+        "longitude": 90.76168
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কাতিয়ারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2250,
+        "female_count": 2243,
+        "hijra_count": 0,
+        "latitude": 24.44021,
+        "longitude": 90.75517
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কামালিয়ারচর উচ্চ বিদ্যালয়",
+        "male_count": 1642,
+        "female_count": 1480,
+        "hijra_count": 0,
+        "latitude": 24.41399,
+        "longitude": 90.73857
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কালাইহাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 978,
+        "female_count": 897,
+        "hijra_count": 0,
+        "latitude": 24.48427,
+        "longitude": 90.80658
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কালিয়ারকান্দা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1742,
+        "female_count": 1511,
+        "hijra_count": 0,
+        "latitude": 24.36608,
+        "longitude": 90.85319
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কাশরারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1867,
+        "female_count": 1849,
+        "hijra_count": 0,
+        "latitude": 24.46093,
+        "longitude": 90.79696
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ উচ্চ বালিকা বিদ্যালয় (একাডেমিক ভবন-১)",
+        "male_count": 2141,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.43704,
+        "longitude": 90.77854
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ উচ্চ বালিকা বিদ্যালয় (একাডেমিক ভবন-৩)",
+        "male_count": 0,
+        "female_count": 2274,
+        "hijra_count": 0,
+        "latitude": 24.43685,
+        "longitude": 90.77884
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ টেকনিক্যাল স্কুল ও কলেজ (একাডেমিক ভবন-৩য় তলা)",
+        "male_count": 2861,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.42415,
+        "longitude": 90.77957
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ টেকনিক্যাল স্কুল ও কলেজ (একাডেমিক ভবন নীচতলা ও দুতলা)",
+        "male_count": 2852,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.42401,
+        "longitude": 90.77949
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ টেক্সটাইল মিলস্‌ আদর্শ উচ্চ বিদ্যালয় (উত্তর পাশের নতুন ভবন)",
+        "male_count": 0,
+        "female_count": 2699,
+        "hijra_count": 0,
+        "latitude": 24.41102,
+        "longitude": 90.79193
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ টেক্সটাইল মিলস্‌ আদর্শ উচ্চ বিদ্যালয় (দক্ষিণ পাশের টিনসেড ভবন)",
+        "male_count": 2558,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41105,
+        "longitude": 90.79167
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ পৌর কলেজিয়েট স্কুল",
+        "male_count": 0,
+        "female_count": 3041,
+        "hijra_count": 0,
+        "latitude": 24.43364,
+        "longitude": 90.79512
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ মডেল হাই স্কুল",
+        "male_count": 1041,
+        "female_count": 1078,
+        "hijra_count": 0,
+        "latitude": 24.44198,
+        "longitude": 90.75507
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কিশোরগঞ্জ সরকারী বালক উচ্চ বিদ্যালয়",
+        "male_count": 3992,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.43866,
+        "longitude": 90.77919
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কুট্টাগড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1121,
+        "female_count": 1064,
+        "hijra_count": 0,
+        "latitude": 24.41024,
+        "longitude": 90.72493
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কুড়িমারা সরকারী প্রাথমিক বিদ্যালয় ",
+        "male_count": 1527,
+        "female_count": 1516,
+        "hijra_count": 0,
+        "latitude": 24.39603,
+        "longitude": 90.68076
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কুতকাইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1590,
+        "female_count": 1443,
+        "hijra_count": 0,
+        "latitude": 24.40322,
+        "longitude": 90.78215
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "কোদালাটিয়া সরকারী প্রথামিক বিদ্যালয়",
+        "male_count": 1398,
+        "female_count": 1138,
+        "hijra_count": 0,
+        "latitude": 24.36464,
+        "longitude": 90.80306
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "খাজা মঈন উদ্দিন চিশতি (র:) দারুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 1961,
+        "female_count": 1811,
+        "hijra_count": 0,
+        "latitude": 24.46429,
+        "longitude": 90.74737
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "খিলপাড়া সাহেদ আলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1115,
+        "female_count": 1038,
+        "hijra_count": 0,
+        "latitude": 24.42592,
+        "longitude": 90.74421
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "গড়বিশুদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1599,
+        "female_count": 1534,
+        "hijra_count": 0,
+        "latitude": 24.45037,
+        "longitude": 90.63151
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "গলাচিপা মাধ্যমিক বিদ্যালয় ",
+        "male_count": 1276,
+        "female_count": 1231,
+        "hijra_count": 0,
+        "latitude": 24.39432,
+        "longitude": 90.69412
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "গাইটাল আঃ ওয়াহেদ জনতা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1673,
+        "female_count": 1801,
+        "hijra_count": 0,
+        "latitude": 24.45492,
+        "longitude": 90.77903
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "গাইটাল সাবুতাজ মামুদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3470,
+        "hijra_count": 0,
+        "latitude": 24.44788,
+        "longitude": 90.77365
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "গাগলাইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1140,
+        "female_count": 1089,
+        "hijra_count": 0,
+        "latitude": 24.3793,
+        "longitude": 90.84032
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "গুরুদয়াল সরকারী কলেজ (এস.টি হল)",
+        "male_count": 0,
+        "female_count": 2459,
+        "hijra_count": 0,
+        "latitude": 24.44133,
+        "longitude": 90.77506
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "গুরুদয়াল সরকারী কলেজ (গণিত ভবন)",
+        "male_count": 2321,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.44114,
+        "longitude": 90.77514
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "গোবিন্দপুর উচ্চ বিদ্যালয়",
+        "male_count": 3329,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.47636,
+        "longitude": 90.69569
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "চরকাটিহারী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1010,
+        "female_count": 1044,
+        "hijra_count": 0,
+        "latitude": 24.44793,
+        "longitude": 90.60814
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "চরবিশ্বনাথপুর মধ্যপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1053,
+        "female_count": 877,
+        "hijra_count": 0,
+        "latitude": 24.42524,
+        "longitude": 90.64849
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "চংশোলাকিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1982,
+        "female_count": 1888,
+        "hijra_count": 0,
+        "latitude": 24.4505,
+        "longitude": 90.80812
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "চারুয়াকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1510,
+        "female_count": 1370,
+        "hijra_count": 0,
+        "latitude": 24.37278,
+        "longitude": 90.79679
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "চিকনীর চর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1450,
+        "female_count": 1365,
+        "hijra_count": 0,
+        "latitude": 24.38183,
+        "longitude": 90.81192
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "চৌদ্দশত উচ্চ বিদ্যালয়",
+        "male_count": 2803,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.38157,
+        "longitude": 90.75899
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "চৌদ্দশত সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2800,
+        "hijra_count": 0,
+        "latitude": 24.38118,
+        "longitude": 90.75972
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "চৌধুরীহাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1219,
+        "female_count": 1208,
+        "hijra_count": 0,
+        "latitude": 24.48554,
+        "longitude": 90.79741
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "জহুরুল হক মইনুল উলুম ইসলামিয়া মাদ্রাসা ",
+        "male_count": 1234,
+        "female_count": 1273,
+        "hijra_count": 0,
+        "latitude": 24.39451,
+        "longitude": 90.65896
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "জালুয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়, জালুয়াপাড়া",
+        "male_count": 1662,
+        "female_count": 1599,
+        "hijra_count": 0,
+        "latitude": 24.35028,
+        "longitude": 90.76481
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "জিনারাই সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2172,
+        "female_count": 1991,
+        "hijra_count": 0,
+        "latitude": 24.39277,
+        "longitude": 90.78308
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "জিনারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2041,
+        "female_count": 1870,
+        "hijra_count": 0,
+        "latitude": 24.48825,
+        "longitude": 90.59429
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "জিয়াউদ্দিন স্কুল এন্ড কলেজ",
+        "male_count": 1357,
+        "female_count": 1227,
+        "hijra_count": 0,
+        "latitude": 24.48062,
+        "longitude": 90.74647
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "জেলা স্মরণী বালিকা উচ্চ বিদ্যালয় (একাডেমিক ভবন-১)",
+        "male_count": 0,
+        "female_count": 2978,
+        "hijra_count": 1,
+        "latitude": 24.42783,
+        "longitude": 90.78051
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "জেলা স্মরণী বালিকা উচ্চ বিদ্যালয় (একাডেমিক ভবন-২)",
+        "male_count": 0,
+        "female_count": 2982,
+        "hijra_count": 0,
+        "latitude": 24.42741,
+        "longitude": 90.78059
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "টিচার্স ট্রেনিং কলেজ",
+        "male_count": 1495,
+        "female_count": 1451,
+        "hijra_count": 0,
+        "latitude": 24.40055,
+        "longitude": 90.76829
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "টেক্সটাইল ভোকেশনাল ইনস্টিটিউট",
+        "male_count": 1777,
+        "female_count": 1708,
+        "hijra_count": 0,
+        "latitude": 24.41705,
+        "longitude": 90.76298
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "তারাপাশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 920,
+        "female_count": 954,
+        "hijra_count": 0,
+        "latitude": 24.43092,
+        "longitude": 90.79102
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "দক্ষিণ মুকসেদপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2299,
+        "hijra_count": 0,
+        "latitude": 24.46393,
+        "longitude": 90.77407
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "দক্ষিন পুমদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1560,
+        "female_count": 1582,
+        "hijra_count": 0,
+        "latitude": 24.42551,
+        "longitude": 90.69062
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "দনাইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1283,
+        "female_count": 1113,
+        "hijra_count": 0,
+        "latitude": 24.41299,
+        "longitude": 90.73082
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "দানাপাটুলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 918,
+        "female_count": 983,
+        "hijra_count": 0,
+        "latitude": 24.35644,
+        "longitude": 90.82789
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "দাপুনিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2254,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.40689,
+        "longitude": 90.71539
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "দামপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1037,
+        "female_count": 1013,
+        "hijra_count": 0,
+        "latitude": 24.38741,
+        "longitude": 90.80945
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "ধনকুড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1306,
+        "female_count": 1370,
+        "hijra_count": 0,
+        "latitude": 24.40938,
+        "longitude": 90.67166
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "ধুলজুরী আয়শা আক্তার খাতুন ও ইসহাক ফুরকানিয়া মাদ্রাসা",
+        "male_count": 1017,
+        "female_count": 1055,
+        "hijra_count": 0,
+        "latitude": 24.41652,
+        "longitude": 90.67556
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "ধুলিহর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 861,
+        "female_count": 802,
+        "hijra_count": 0,
+        "latitude": 24.43749,
+        "longitude": 90.64868
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "নান্দলা অছম উদ্দিন উচ্চ বিদ্যালয় (অফিস ভবন সংলগ্ন নতুন ভবন)",
+        "male_count": 0,
+        "female_count": 2930,
+        "hijra_count": 1,
+        "latitude": 24.36453,
+        "longitude": 90.75748
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "নান্দলা অছম উদ্দিন উচ্চ বিদ্যালয় (উত্তর পাশের টিনসেড ভবন)",
+        "male_count": 3014,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.36459,
+        "longitude": 90.75757
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "নারায়নডহর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1638,
+        "female_count": 1605,
+        "hijra_count": 0,
+        "latitude": 24.41706,
+        "longitude": 90.68254
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "নীলগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1365,
+        "female_count": 1362,
+        "hijra_count": 0,
+        "latitude": 24.50287,
+        "longitude": 90.80791
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "নোহার নান্দলা আলিম মাদ্রাসা (টিনসেড ভবন) নোহার।  কেন্দ্র-১",
+        "male_count": 2095,
+        "female_count": 1906,
+        "hijra_count": 0,
+        "latitude": 24.37526,
+        "longitude": 90.76019
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পশ্চিম কুড়িমাড়া সরকারী প্রাথমিক বিদ্যালয় ",
+        "male_count": 1698,
+        "female_count": 1506,
+        "hijra_count": 0,
+        "latitude": 24.39893,
+        "longitude": 90.66836
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পশ্চিম গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয় ",
+        "male_count": 1347,
+        "female_count": 1130,
+        "hijra_count": 0,
+        "latitude": 24.49093,
+        "longitude": 90.6875
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পাঁচধা সরকারী প্রাথমিক বিদ্যালয় (উত্তর দিকের ভবন)",
+        "male_count": 0,
+        "female_count": 2407,
+        "hijra_count": 0,
+        "latitude": 24.50532,
+        "longitude": 90.76663
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পাঁচধা সরকারী প্রাথমিক বিদ্যালয় (পূর্ব দিকের ভবন)",
+        "male_count": 2587,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.50518,
+        "longitude": 90.76679
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পাটধা উচ্চ বিদ্যালয় (উত্তর পাশের টিনসেড ভবন)",
+        "male_count": 0,
+        "female_count": 2582,
+        "hijra_count": 0,
+        "latitude": 24.41734,
+        "longitude": 90.84441
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পাটধা উচ্চ বিদ্যালয় (পশ্চিম পাশের ভবন)",
+        "male_count": 2589,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41662,
+        "longitude": 90.84425
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পাটধা নয়াপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2140,
+        "female_count": 2038,
+        "hijra_count": 0,
+        "latitude": 24.41343,
+        "longitude": 90.83486
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পাটাবুকা কয়ারখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1259,
+        "female_count": 1238,
+        "hijra_count": 0,
+        "latitude": 24.38868,
+        "longitude": 90.72595
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পাঠানকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1393,
+        "female_count": 1292,
+        "hijra_count": 0,
+        "latitude": 24.43309,
+        "longitude": 90.74448
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পাতুয়াইর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1722,
+        "female_count": 1689,
+        "hijra_count": 0,
+        "latitude": 24.49456,
+        "longitude": 90.80918
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পানান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2378,
+        "female_count": 2131,
+        "hijra_count": 0,
+        "latitude": 24.48601,
+        "longitude": 90.71089
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পিতলগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 1822,
+        "female_count": 1744,
+        "hijra_count": 0,
+        "latitude": 24.44682,
+        "longitude": 90.63883
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পিপলাকান্দি উচ্চ বিদ্যালয়",
+        "male_count": 1544,
+        "female_count": 1396,
+        "hijra_count": 0,
+        "latitude": 24.47934,
+        "longitude": 90.61855
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "পুমদী ইসলামিয়া উচ্চ বিদ্যালয়",
+        "male_count": 2866,
+        "female_count": 2873,
+        "hijra_count": 0,
+        "latitude": 24.44107,
+        "longitude": 90.69782
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "প্যারাভাঙ্গা সরকারী প্রাথামিক বিদ্যালয়",
+        "male_count": 1568,
+        "female_count": 1481,
+        "hijra_count": 0,
+        "latitude": 24.42519,
+        "longitude": 90.73532
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বড়খাপন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2058,
+        "hijra_count": 0,
+        "latitude": 24.49707,
+        "longitude": 90.79183
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বড়ভাগ এমদাদুল উলুম আলিম মাদ্রাসা",
+        "male_count": 1666,
+        "female_count": 1555,
+        "hijra_count": 0,
+        "latitude": 24.49193,
+        "longitude": 90.75602
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বত্রিশ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1163,
+        "female_count": 1248,
+        "hijra_count": 0,
+        "latitude": 24.42931,
+        "longitude": 90.78309
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বাদে কড়িয়াইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1968,
+        "female_count": 1783,
+        "hijra_count": 0,
+        "latitude": 24.3778,
+        "longitude": 90.82199
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বিন্নগাঁও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1398,
+        "female_count": 1420,
+        "hijra_count": 0,
+        "latitude": 24.42347,
+        "longitude": 90.7656
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বিন্নাটি আঃ মজিদ মোল্লা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2957,
+        "hijra_count": 0,
+        "latitude": 24.39719,
+        "longitude": 90.74893
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বিন্নাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2839,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.39739,
+        "longitude": 90.74918
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বিলবরুল্লা আদর্শ দাখিল মাদ্রাসা",
+        "male_count": 1814,
+        "female_count": 1690,
+        "hijra_count": 0,
+        "latitude": 24.39859,
+        "longitude": 90.84661
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বীর হাজীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1192,
+        "female_count": 1127,
+        "hijra_count": 0,
+        "latitude": 24.47141,
+        "longitude": 90.6014
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বেত্রাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1581,
+        "female_count": 1557,
+        "hijra_count": 0,
+        "latitude": 24.51037,
+        "longitude": 90.80896
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বৌলাই সরকারী প্রাথমিক বিদ্যালয় (উত্তর পাশের ভবন)",
+        "male_count": 0,
+        "female_count": 2332,
+        "hijra_count": 0,
+        "latitude": 24.43832,
+        "longitude": 90.81621
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "বৌলাই সরকারী প্রাথমিক বিদ্যালয় (পশ্চিম পাশের ভবন)",
+        "male_count": 2337,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.43827,
+        "longitude": 90.81619
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "ব্রাহ্মণকচুরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1724,
+        "female_count": 1594,
+        "hijra_count": 0,
+        "latitude": 24.48361,
+        "longitude": 90.74695
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "ভরাটি সরকারী প্রাথমিক বিদ্যালয় (মাঝখানের ভবন)",
+        "male_count": 2274,
+        "female_count": 2155,
+        "hijra_count": 0,
+        "latitude": 24.42925,
+        "longitude": 90.81656
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "ভরুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1073,
+        "female_count": 989,
+        "hijra_count": 0,
+        "latitude": 24.39782,
+        "longitude": 90.66515
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "ভুবিরচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1576,
+        "female_count": 1451,
+        "hijra_count": 0,
+        "latitude": 24.39759,
+        "longitude": 90.79733
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মধুরদিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1183,
+        "female_count": 1102,
+        "hijra_count": 0,
+        "latitude": 24.37422,
+        "longitude": 90.74782
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মধ্য আড়াইবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 882,
+        "female_count": 936,
+        "hijra_count": 0,
+        "latitude": 24.42598,
+        "longitude": 90.66024
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মধ্য গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1287,
+        "female_count": 1133,
+        "hijra_count": 0,
+        "latitude": 24.49135,
+        "longitude": 90.69589
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মধ্য পাটধা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1424,
+        "female_count": 1493,
+        "hijra_count": 0,
+        "latitude": 24.42404,
+        "longitude": 90.84428
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মনোহরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1412,
+        "female_count": 1305,
+        "hijra_count": 0,
+        "latitude": 24.3811,
+        "longitude": 90.85421
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মহিনন্দ উচ্চ বিদ্যালয়",
+        "male_count": 2846,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.47589,
+        "longitude": 90.79326
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মহিনন্দ শুকুর মামুদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2758,
+        "hijra_count": 0,
+        "latitude": 24.47661,
+        "longitude": 90.79261
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মহিনন্দ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 981,
+        "female_count": 942,
+        "hijra_count": 0,
+        "latitude": 24.46926,
+        "longitude": 90.79917
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মাধখলা ফাজিল স্নাতক মাদরাসা",
+        "male_count": 2440,
+        "female_count": 2206,
+        "hijra_count": 0,
+        "latitude": 24.437,
+        "longitude": 90.66863
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মারিয়া ইউনিয়ন পরিষদ কমপ্লেক্স",
+        "male_count": 1935,
+        "female_count": 1852,
+        "hijra_count": 0,
+        "latitude": 24.40939,
+        "longitude": 90.75904
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "মেছেড়া উচ্চ বিদ্যালয়",
+        "male_count": 2221,
+        "female_count": 2028,
+        "hijra_count": 0,
+        "latitude": 24.48107,
+        "longitude": 90.62701
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "যশোদল উচ্চ বিদ্যালয়",
+        "male_count": 1712,
+        "female_count": 1761,
+        "hijra_count": 0,
+        "latitude": 24.40937,
+        "longitude": 90.80361
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "রশিদাবাদ সরকারী প্রাথমিক বিদ্যালয় (উত্তর দক্ষিণ ভবন)",
+        "male_count": 2384,
+        "female_count": 2320,
+        "hijra_count": 0,
+        "latitude": 24.44356,
+        "longitude": 90.74707
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "রাকুয়াইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3129,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.44535,
+        "longitude": 90.77144
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "লতিবপুর উচ্চ বিদ্যালয়",
+        "male_count": 1446,
+        "female_count": 1399,
+        "hijra_count": 0,
+        "latitude": 24.42921,
+        "longitude": 90.73441
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "লতিবাবাদ আতিকিয়া ছোবহানিয়া দাখিল মাদ্রাসা",
+        "male_count": 1236,
+        "female_count": 1215,
+        "hijra_count": 0,
+        "latitude": 24.46409,
+        "longitude": 90.76677
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "লতিবাবাদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1295,
+        "female_count": 1237,
+        "hijra_count": 0,
+        "latitude": 24.45935,
+        "longitude": 90.7619
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "লিটল ফ্রেন্ডস কিন্ডার গার্টেন",
+        "male_count": 1876,
+        "female_count": 2141,
+        "hijra_count": 0,
+        "latitude": 24.43412,
+        "longitude": 90.78491
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "লুলিকান্দি উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2449,
+        "hijra_count": 0,
+        "latitude": 24.45478,
+        "longitude": 90.67568
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "লুলিকান্দি বালক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2514,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.45484,
+        "longitude": 90.67538
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "শালজান সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1677,
+        "female_count": 1614,
+        "hijra_count": 0,
+        "latitude": 24.39483,
+        "longitude": 90.84316
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "শাহেদল দারুচ্ছুন্নাহ দাখিল মাদরাসা ",
+        "male_count": 1243,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 24.41028,
+        "longitude": 90.70384
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "শোলাকিয়া কলাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2105,
+        "female_count": 2123,
+        "hijra_count": 0,
+        "latitude": 24.45131,
+        "longitude": 90.79042
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "শ্রীমন্তপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1875,
+        "female_count": 1765,
+        "hijra_count": 0,
+        "latitude": 24.44142,
+        "longitude": 90.73005
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সগড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1913,
+        "female_count": 1814,
+        "hijra_count": 0,
+        "latitude": 24.45238,
+        "longitude": 90.75651
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সতাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2790,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.43346,
+        "longitude": 90.79652
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সরযূ বালা সরকারী বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4289,
+        "hijra_count": 0,
+        "latitude": 24.44092,
+        "longitude": 90.77919
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সাদুল্লারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1185,
+        "female_count": 1144,
+        "hijra_count": 0,
+        "latitude": 24.49116,
+        "longitude": 90.76546
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সাহেবেরচর ভাটিপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1518,
+        "female_count": 1349,
+        "hijra_count": 0,
+        "latitude": 24.43781,
+        "longitude": 90.63594
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সুরুজখান সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1277,
+        "female_count": 1227,
+        "hijra_count": 0,
+        "latitude": 24.47757,
+        "longitude": 90.75737
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সুলতানপুর নূরুল উলুম দাখিল মাদ্রাসা, সুলতানপুর",
+        "male_count": 1927,
+        "female_count": 1899,
+        "hijra_count": 0,
+        "latitude": 24.39465,
+        "longitude": 90.76928
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সেওড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2358,
+        "female_count": 2174,
+        "hijra_count": 0,
+        "latitude": 24.39678,
+        "longitude": 90.83234
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সৈয়দ নজরুল ইসলাম সরকারী প্রাথমিক বিদ্যালয় (প্রধান অফিস ভবন)",
+        "male_count": 0,
+        "female_count": 2833,
+        "hijra_count": 0,
+        "latitude": 24.41843,
+        "longitude": 90.80084
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সৈয়দ নজরুল ইসলাম সরকারী প্রাথমিক বিদ্যালয় (মাঠের উত্তর পাশের ভবন)",
+        "male_count": 2814,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.41834,
+        "longitude": 90.80076
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "সৈয়দ হাবিবুল হক উচ্চ বিদ্যালয়",
+        "male_count": 1305,
+        "female_count": 1211,
+        "hijra_count": 0,
+        "latitude": 24.43819,
+        "longitude": 90.81618
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "স্বল্প মারিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1952,
+        "female_count": 1851,
+        "hijra_count": 0,
+        "latitude": 24.41383,
+        "longitude": 90.77393
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "স্বল্প যশোদল (উঃ) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1983,
+        "female_count": 1885,
+        "hijra_count": 0,
+        "latitude": 24.40838,
+        "longitude": 90.79226
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হয়বতনগর এ.ইউ কামিল মাদ্রাসা",
+        "male_count": 1406,
+        "female_count": 1590,
+        "hijra_count": 1,
+        "latitude": 24.43731,
+        "longitude": 90.77023
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হাজী জালাল উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 2311,
+        "female_count": 2160,
+        "hijra_count": 0,
+        "latitude": 24.42387,
+        "longitude": 90.72716
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হাজী ফুলে রহমান সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1381,
+        "female_count": 1345,
+        "hijra_count": 0,
+        "latitude": 24.42401,
+        "longitude": 90.82903
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হাজী মোমতাজ উদ্দিন স্কুল এন্ড কলেজ",
+        "male_count": 2073,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.49736,
+        "longitude": 90.79167
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হারেঞ্জা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1694,
+        "female_count": 1518,
+        "hijra_count": 0,
+        "latitude": 24.46404,
+        "longitude": 90.65322
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হাসমত উদ্দিন উচ্চ বিদ্যালয় (উত্তর পাশের ভবন)",
+        "male_count": 0,
+        "female_count": 2499,
+        "hijra_count": 0,
+        "latitude": 24.43264,
+        "longitude": 90.77059
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হাসমত উদ্দিন উচ্চ বিদ্যালয় (খোলা মাঠের দক্ষিণ পাশের ভবন)",
+        "male_count": 2197,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.43268,
+        "longitude": 90.77073
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হাসমত উদ্দিন উচ্চ বিদ্যালয় (পশ্চিম পাশের ভবন)",
+        "male_count": 2266,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.43257,
+        "longitude": 90.77063
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হাসমত উদ্দিন উচ্চ বিদ্যালয় (পূর্ব পাশের নতুন ভবন)",
+        "male_count": 0,
+        "female_count": 2535,
+        "hijra_count": 0,
+        "latitude": 24.43338,
+        "longitude": 90.7712
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হোগলাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1359,
+        "female_count": 1318,
+        "hijra_count": 0,
+        "latitude": 24.45998,
+        "longitude": 90.61503
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হোসেনপুর ২ নং সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1159,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 24.41988,
+        "longitude": 90.65475
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হোসেনপুর আদর্শ মহিলা ডিগ্রী কলেজ",
+        "male_count": 1391,
+        "female_count": 1450,
+        "hijra_count": 0,
+        "latitude": 24.4185,
+        "longitude": 90.66207
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হোসেনপুর উপজেলা সদর দাখিল মাদরাসা",
+        "male_count": 2325,
+        "female_count": 2357,
+        "hijra_count": 0,
+        "latitude": 24.42692,
+        "longitude": 90.65275
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হোসেনপুর টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট ইনস্টিটিউশান",
+        "male_count": 826,
+        "female_count": 892,
+        "hijra_count": 0,
+        "latitude": 24.42054,
+        "longitude": 90.6672
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হোসেনপুর সরকারি কলেজ",
+        "male_count": 1289,
+        "female_count": 1361,
+        "hijra_count": 0,
+        "latitude": 24.42361,
+        "longitude": 90.65264
+    },
+    {
+        "settings_code": 162,
+        "settings_name": "কিশোরগঞ্জ-১",
+        "center_name": "হোসেনপুর সরকারি মডেল পাইলট স্কুল এন্ড কলেজ",
+        "male_count": 2360,
+        "female_count": 2409,
+        "hijra_count": 0,
+        "latitude": 24.41643,
+        "longitude": 90.65485
+    }
+]

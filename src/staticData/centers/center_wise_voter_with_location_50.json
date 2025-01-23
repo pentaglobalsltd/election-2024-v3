@@ -1,0 +1,1112 @@
+[
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "আবাদপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1477,
+        "female_count": 1542,
+        "hijra_count": 0,
+        "latitude": 24.84207,
+        "longitude": 88.88056
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "আরজী নওগাঁ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2437,
+        "hijra_count": 0,
+        "latitude": 24.78809,
+        "longitude": 88.93432
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "আরজী নওগাঁ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2431,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.78807,
+        "longitude": 88.93411
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "আল ফারুক ইসলামী একাডেমী",
+        "male_count": 0,
+        "female_count": 2263,
+        "hijra_count": 0,
+        "latitude": 24.80864,
+        "longitude": 88.9579
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ইকড়তারা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2092,
+        "female_count": 2033,
+        "hijra_count": 0,
+        "latitude": 24.8456,
+        "longitude": 88.94172
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ইলশাবাড়ী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2516,
+        "hijra_count": 0,
+        "latitude": 24.76553,
+        "longitude": 88.96051
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ইলশাবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2647,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.76546,
+        "longitude": 88.96054
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "কনইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1296,
+        "female_count": 1306,
+        "hijra_count": 0,
+        "latitude": 24.78917,
+        "longitude": 88.80614
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "কসবা গোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1291,
+        "female_count": 1228,
+        "hijra_count": 0,
+        "latitude": 24.88118,
+        "longitude": 88.87475
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "কাঠখৈর উচ্চ বিদ্যালয়",
+        "male_count": 1845,
+        "female_count": 1869,
+        "hijra_count": 0,
+        "latitude": 24.7491,
+        "longitude": 88.82065
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "কীর্ত্তিপুর ১ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3298,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.89158,
+        "longitude": 88.91849
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "কীর্ত্তিপুর বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3344,
+        "hijra_count": 0,
+        "latitude": 24.89159,
+        "longitude": 88.91848
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "কুশাডাঙ্গা উচ্চ বিদ্যালয়",
+        "male_count": 2177,
+        "female_count": 2145,
+        "hijra_count": 0,
+        "latitude": 24.81904,
+        "longitude": 88.88934
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "খলিশাকুড়ি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1937,
+        "female_count": 1800,
+        "hijra_count": 0,
+        "latitude": 24.82456,
+        "longitude": 88.94252
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "খাঁস নওগাঁ সমাজ উন্নয়ন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2331,
+        "hijra_count": 0,
+        "latitude": 24.80656,
+        "longitude": 88.93722
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "খিদিরপুর উচ্চ বিদ্যালয়",
+        "male_count": 916,
+        "female_count": 923,
+        "hijra_count": 0,
+        "latitude": 24.78643,
+        "longitude": 88.95726
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "গাংজোয়ার উচ্চ বিদ্যালয়",
+        "male_count": 1052,
+        "female_count": 1038,
+        "hijra_count": 0,
+        "latitude": 24.75777,
+        "longitude": 88.94029
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকআতিথা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2154,
+        "hijra_count": 0,
+        "latitude": 24.87454,
+        "longitude": 88.89163
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকআতিথা উচ্চ বিদ্যালয়",
+        "male_count": 2116,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.87464,
+        "longitude": 88.89161
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চক এনায়েত উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4152,
+        "hijra_count": 0,
+        "latitude": 24.81938,
+        "longitude": 88.93679
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকএনায়েত মডেল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3811,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.81963,
+        "longitude": 88.93726
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চক কালীদাস সরকারী প্রাথমিক বিদ্যালয় ও হাফেজিয়া মাদ্রাসা",
+        "male_count": 1730,
+        "female_count": 1659,
+        "hijra_count": 0,
+        "latitude": 24.76957,
+        "longitude": 88.88327
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকগরীব সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1036,
+        "female_count": 1053,
+        "hijra_count": 1,
+        "latitude": 24.829,
+        "longitude": 88.92627
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকদৌলত সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2741,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.7765,
+        "longitude": 88.93195
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকনদীকুল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1872,
+        "female_count": 1820,
+        "hijra_count": 0,
+        "latitude": 24.87763,
+        "longitude": 88.972
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকপাকুরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1105,
+        "female_count": 1052,
+        "hijra_count": 0,
+        "latitude": 24.80558,
+        "longitude": 88.83497
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চক প্রসাদ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2721,
+        "hijra_count": 0,
+        "latitude": 24.777,
+        "longitude": 88.93256
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকপ্রাণ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1386,
+        "female_count": 1421,
+        "hijra_count": 0,
+        "latitude": 24.79391,
+        "longitude": 88.92753
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চকমহাদেব সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1439,
+        "female_count": 1398,
+        "hijra_count": 0,
+        "latitude": 24.76423,
+        "longitude": 88.81678
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চন্ডিপুর উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3915,
+        "hijra_count": 0,
+        "latitude": 24.76501,
+        "longitude": 88.95066
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চন্ডিপুর দাখিল মাদ্রাসা",
+        "male_count": 3919,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.77023,
+        "longitude": 88.95354
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চাকলা উচ্চ বিদ্যালয়",
+        "male_count": 2612,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.84877,
+        "longitude": 88.93349
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চাকলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2662,
+        "hijra_count": 0,
+        "latitude": 24.84879,
+        "longitude": 88.93346
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "চুনিয়াগাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1211,
+        "female_count": 1219,
+        "hijra_count": 0,
+        "latitude": 24.74447,
+        "longitude": 88.93707
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "জালম মাগুড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1349,
+        "female_count": 1378,
+        "hijra_count": 0,
+        "latitude": 24.90178,
+        "longitude": 88.90586
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ঝিকড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2216,
+        "female_count": 2253,
+        "hijra_count": 0,
+        "latitude": 24.88653,
+        "longitude": 88.88537
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "তপোবন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1886,
+        "female_count": 1974,
+        "hijra_count": 0,
+        "latitude": 24.82719,
+        "longitude": 88.92847
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "তিলকপুর মুসলিম উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2760,
+        "hijra_count": 0,
+        "latitude": 24.89651,
+        "longitude": 88.99604
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "তিলকপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2796,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.89641,
+        "longitude": 88.99713
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "তেঁতুলিয়া বি এম সি কলেজ",
+        "male_count": 749,
+        "female_count": 735,
+        "hijra_count": 0,
+        "latitude": 24.90815,
+        "longitude": 88.88548
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "দুবলহাটী রাজা হরনাথ উচ্চ বিদ্যালয়",
+        "male_count": 2724,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.78799,
+        "longitude": 88.88666
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "দুবলহাটী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2715,
+        "hijra_count": 0,
+        "latitude": 24.78804,
+        "longitude": 88.88731
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "দূর্গাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2361,
+        "female_count": 2383,
+        "hijra_count": 0,
+        "latitude": 24.8154,
+        "longitude": 88.92096
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "দূর্গাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1755,
+        "female_count": 1704,
+        "hijra_count": 0,
+        "latitude": 24.8589,
+        "longitude": 88.96632
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "দোগাছী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2179,
+        "female_count": 2193,
+        "hijra_count": 0,
+        "latitude": 24.80381,
+        "longitude": 88.96717
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ধামকুড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1674,
+        "female_count": 1742,
+        "hijra_count": 0,
+        "latitude": 24.80998,
+        "longitude": 88.97035
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নওগাঁ কৃষ্ণধন (কে,ডি) সরকারি উচ্চ বিদ্যালয়",
+        "male_count": 933,
+        "female_count": 961,
+        "hijra_count": 0,
+        "latitude": 24.81312,
+        "longitude": 88.9444
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নওগাঁ জিলা স্কুল",
+        "male_count": 1681,
+        "female_count": 1963,
+        "hijra_count": 0,
+        "latitude": 24.81194,
+        "longitude": 88.94102
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নওগাঁ পলিটেকনিক ইনষ্টিটিউট",
+        "male_count": 0,
+        "female_count": 3006,
+        "hijra_count": 0,
+        "latitude": 24.79775,
+        "longitude": 88.93389
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নওগাঁ পলিটেকনিক ইনষ্টিটিউট ",
+        "male_count": 2678,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.79777,
+        "longitude": 88.9337
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নওগাঁ সরকারী কলেজ",
+        "male_count": 4289,
+        "female_count": 4705,
+        "hijra_count": 0,
+        "latitude": 24.8251,
+        "longitude": 88.93823
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নগর কুসম্বী দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 2480,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.86717,
+        "longitude": 88.98084
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নগর কুসম্বী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2458,
+        "hijra_count": 0,
+        "latitude": 24.86717,
+        "longitude": 88.98084
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নামাজগড় গাউসুল আজম কামিল মাদ্রাসা, নওগাঁ",
+        "male_count": 4193,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.8182,
+        "longitude": 88.94706
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "নিন্দইন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1645,
+        "female_count": 1657,
+        "hijra_count": 0,
+        "latitude": 24.79679,
+        "longitude": 88.8122
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "পয়না সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1469,
+        "female_count": 1483,
+        "hijra_count": 0,
+        "latitude": 24.80776,
+        "longitude": 88.82013
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "পশ্চিম নওগাঁ উচ্চ বিদ্যালয়",
+        "male_count": 1690,
+        "female_count": 1655,
+        "hijra_count": 0,
+        "latitude": 24.83185,
+        "longitude": 88.9196
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "পার নওগাঁ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1613,
+        "female_count": 1611,
+        "hijra_count": 0,
+        "latitude": 24.80516,
+        "longitude": 88.9468
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "পার বোয়ালিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2748,
+        "female_count": 2718,
+        "hijra_count": 0,
+        "latitude": 24.83367,
+        "longitude": 88.96878
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "পাহাড়পুর জি এম উচ্চ বিদ্যালয়",
+        "male_count": 1262,
+        "female_count": 1289,
+        "hijra_count": 0,
+        "latitude": 24.86698,
+        "longitude": 88.92132
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "পিরোজপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 2262,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.81657,
+        "longitude": 88.88563
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "পিরোজপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2209,
+        "female_count": 2253,
+        "hijra_count": 0,
+        "latitude": 24.79403,
+        "longitude": 88.96042
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "পিরোজপুর সরকারী প্রাথমিক বিদ্যালয় ও পিরোজপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2276,
+        "hijra_count": 0,
+        "latitude": 24.78949,
+        "longitude": 88.8755
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "প্রাইমারি টিচার্স ট্রেনিং ইন্সটিটিউট (পিটিআই)",
+        "male_count": 1212,
+        "female_count": 1418,
+        "hijra_count": 0,
+        "latitude": 24.81238,
+        "longitude": 88.94022
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ফতেপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1496,
+        "female_count": 1508,
+        "hijra_count": 0,
+        "latitude": 24.8481,
+        "longitude": 88.95753
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বটতলী বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 798,
+        "female_count": 776,
+        "hijra_count": 0,
+        "latitude": 24.79315,
+        "longitude": 88.80285
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বরুনকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1464,
+        "female_count": 1461,
+        "hijra_count": 0,
+        "latitude": 24.84338,
+        "longitude": 88.92718
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বর্ষাইল কাইউম উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2955,
+        "hijra_count": 0,
+        "latitude": 24.90569,
+        "longitude": 88.88852
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বর্ষাইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2965,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.90608,
+        "longitude": 88.88811
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বলিহার দ্বিমুখী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2801,
+        "hijra_count": 0,
+        "latitude": 24.84652,
+        "longitude": 88.80803
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বলিহার সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2943,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.84682,
+        "longitude": 88.80815
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বাচারীগ্রাম উচ্চ বিদ্যালয়",
+        "male_count": 1468,
+        "female_count": 1526,
+        "hijra_count": 0,
+        "latitude": 24.86258,
+        "longitude": 88.90819
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বালিয়াগাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1917,
+        "female_count": 1877,
+        "hijra_count": 0,
+        "latitude": 24.7894,
+        "longitude": 88.87546
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বিল ভবানীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1496,
+        "female_count": 1453,
+        "hijra_count": 0,
+        "latitude": 24.74297,
+        "longitude": 88.90358
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বুজরুক আতিথা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2783,
+        "hijra_count": 0,
+        "latitude": 24.87485,
+        "longitude": 88.9089
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বুজরুক আতিথা সরকারী প্রাথমিক বিদ্যালয় (ভোটকেন্দ্র-১)",
+        "male_count": 2688,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.87496,
+        "longitude": 88.90857
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "বোয়ালিয়া সরকারী প্রাথমিক বিদ্যালয় ",
+        "male_count": 1841,
+        "female_count": 1852,
+        "hijra_count": 0,
+        "latitude": 24.82799,
+        "longitude": 88.95966
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ভবানীনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1631,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 24.73305,
+        "longitude": 88.83675
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ভবানীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1943,
+        "female_count": 1953,
+        "hijra_count": 0,
+        "latitude": 24.81185,
+        "longitude": 88.96177
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ভীমপুর উচ্চ বিদ্যালয়",
+        "male_count": 2105,
+        "female_count": 2177,
+        "hijra_count": 0,
+        "latitude": 24.78235,
+        "longitude": 88.8086
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "ভূপেন্দ্রনাথ শিশু নিকেতন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2156,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.80446,
+        "longitude": 88.94491
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "মকিমপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1892,
+        "female_count": 1870,
+        "hijra_count": 0,
+        "latitude": 24.76269,
+        "longitude": 88.9342
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "মখরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1445,
+        "female_count": 1447,
+        "hijra_count": 0,
+        "latitude": 24.83272,
+        "longitude": 88.89493
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "মঙ্গলপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1823,
+        "female_count": 1729,
+        "hijra_count": 0,
+        "latitude": 24.8423,
+        "longitude": 88.97565
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "মরছুলা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4373,
+        "hijra_count": 0,
+        "latitude": 24.80867,
+        "longitude": 88.94827
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "মোহনপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1800,
+        "female_count": 1855,
+        "hijra_count": 0,
+        "latitude": 24.85276,
+        "longitude": 88.89241
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "রামরায়পুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1819,
+        "female_count": 1678,
+        "hijra_count": 0,
+        "latitude": 24.7424,
+        "longitude": 88.91873
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "লস্করপুর উচ্চ বিদ্যালয়",
+        "male_count": 604,
+        "female_count": 618,
+        "hijra_count": 0,
+        "latitude": 24.78033,
+        "longitude": 88.94203
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শালুকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2164,
+        "hijra_count": 0,
+        "latitude": 24.8313,
+        "longitude": 88.90814
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শালুকা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2164,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.83109,
+        "longitude": 88.90798
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শিকারপুর সরকারী প্রাথমিক বিদ্যালয় ও শিকারপুর নিম্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1833,
+        "female_count": 1824,
+        "hijra_count": 0,
+        "latitude": 24.75668,
+        "longitude": 88.88835
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শিমুলিয়া সরকারী প্রাথমিক বিদ্যালয় ",
+        "male_count": 3408,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.77887,
+        "longitude": 88.96854
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শিমুলিয়া সরকারী প্রাথমিক বিদ্যালয় ( ভোটকেন্দ্র নং-০২)",
+        "male_count": 0,
+        "female_count": 3353,
+        "hijra_count": 0,
+        "latitude": 24.77884,
+        "longitude": 88.96823
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শেরে বাংলা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1407,
+        "female_count": 1508,
+        "hijra_count": 0,
+        "latitude": 24.80738,
+        "longitude": 88.97999
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শৈলকোপা হাফেজিয়া মাদ্রাসা",
+        "male_count": 878,
+        "female_count": 900,
+        "hijra_count": 0,
+        "latitude": 24.7797,
+        "longitude": 88.88789
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শৈলগাছী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2233,
+        "hijra_count": 0,
+        "latitude": 24.74886,
+        "longitude": 88.93228
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "শৈলগাছী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2294,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.74911,
+        "longitude": 88.93145
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "সনলিয়া মালঞ্চী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1734,
+        "female_count": 1622,
+        "hijra_count": 0,
+        "latitude": 24.79632,
+        "longitude": 88.8674
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "সরইল উচ্চ বিদ্যালয়",
+        "male_count": 2206,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.74805,
+        "longitude": 88.877
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "সরইল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2203,
+        "hijra_count": 0,
+        "latitude": 24.74805,
+        "longitude": 88.877
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "সরকারী টেক্সটাইল ভোকেশনাল কলেজ",
+        "male_count": 2179,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.80524,
+        "longitude": 88.95738
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "সরকারী বসির উদ্দিন মেমোরিয়াল কো-অপারেটিভ (বি এম সি) মহিলা কলেজ",
+        "male_count": 2176,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.81167,
+        "longitude": 88.94108
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "সরকারী বসির উদ্দিন মেমোরিয়াল কো-অপারেটিভ (বি এম সি) মহিলা কলেজ ",
+        "male_count": 0,
+        "female_count": 2439,
+        "hijra_count": 0,
+        "latitude": 24.81168,
+        "longitude": 88.94107
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "সুলতানপুর উত্তর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3455,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.80274,
+        "longitude": 88.94651
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "সুলতানপুর বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3617,
+        "hijra_count": 0,
+        "latitude": 24.80866,
+        "longitude": 88.94606
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "হাট নওগাঁ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2897,
+        "hijra_count": 0,
+        "latitude": 24.82719,
+        "longitude": 88.92847
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "হাট নওগাঁ উচ্চ বিদ্যালয় (পুরাতন ভবন)",
+        "male_count": 0,
+        "female_count": 2551,
+        "hijra_count": 0,
+        "latitude": 24.80327,
+        "longitude": 88.94048
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "হাট নওগাঁ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 5372,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.82719,
+        "longitude": 88.92848
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "হাপানিয়া হাইস্কুল এন্ড কলেজ",
+        "male_count": 1705,
+        "female_count": 1866,
+        "hijra_count": 0,
+        "latitude": 24.85366,
+        "longitude": 88.88598
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "হালঘোষ পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2546,
+        "female_count": 2559,
+        "hijra_count": 0,
+        "latitude": 24.87208,
+        "longitude": 88.94212
+    },
+    {
+        "settings_code": 50,
+        "settings_name": "নওগাঁ-৫",
+        "center_name": "হাঁসাইগাড়ী উচ্চ বিদ্যালয়",
+        "male_count": 1925,
+        "female_count": 1794,
+        "hijra_count": 0,
+        "latitude": 24.75936,
+        "longitude": 88.84733
+    }
+]

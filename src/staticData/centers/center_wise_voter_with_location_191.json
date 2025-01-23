@@ -1,0 +1,1452 @@
+[
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "অন্বেষা হাই স্কুল",
+        "male_count": 2631,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.83166,
+        "longitude": 90.42706
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আই. ই. এস. উচ্চ মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3173,
+        "hijra_count": 0,
+        "latitude": 23.86222,
+        "longitude": 90.39018
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আই. ই. এস. উচ্চ মাধ্যমিক বিদ্যালয়",
+        "male_count": 3472,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86271,
+        "longitude": 90.3898
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আই ই এস স্কুল এন্ড কলেজ",
+        "male_count": 2183,
+        "female_count": 2364,
+        "hijra_count": 0,
+        "latitude": 23.8627,
+        "longitude": 90.38982
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আই ই এস স্কুল এন্ড কলেজ",
+        "male_count": 1215,
+        "female_count": 1027,
+        "hijra_count": 0,
+        "latitude": 23.86271,
+        "longitude": 90.3898
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আজমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 9395,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86861,
+        "longitude": 90.4015
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আদর্শ বিদ্যাপীঠ",
+        "male_count": 4591,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82235,
+        "longitude": 90.42309
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আদর্শ বিদ্যাপীঠ",
+        "male_count": 2295,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82237,
+        "longitude": 90.42315
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আনোয়ারা মান্নাফ গার্লস স্কুল এন্ড কলেজ, দলিপাড়া, তুরাগ, ঢাকা, (নীচ তলা), (মহিলা ভোটার), কেন্দ্র-২",
+        "male_count": 2283,
+        "female_count": 2042,
+        "hijra_count": 0,
+        "latitude": 23.86066,
+        "longitude": 90.39006
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আব্দুর রহমান হাইস্কুল,বামনারটেক, তুরাগ, ঢাকা, (পুরুষ ও মহিলা ভোটার)",
+        "male_count": 1726,
+        "female_count": 1747,
+        "hijra_count": 0,
+        "latitude": 23.88612,
+        "longitude": 90.38185
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আমজাদ আইডিয়াল স্কুল এন্ড কলেজ, বাড়ী-৭৩, রাস্তা-০১, ফুলবাড়ীয়া, তুরাগ,ঢাকা, (মহিলা ভোটার)",
+        "male_count": 0,
+        "female_count": 2066,
+        "hijra_count": 0,
+        "latitude": 23.87873,
+        "longitude": 90.38226
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আমজাদ স্মৃতি উচ্চ বিদ্যালয়, আজমপুর দক্ষিণখান,ঢাকা, (মহিলা ভোটার-2)",
+        "male_count": 0,
+        "female_count": 3240,
+        "hijra_count": 0,
+        "latitude": 23.86877,
+        "longitude": 90.40963
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আর.এস.আইডিয়াল স্কুল",
+        "male_count": 0,
+        "female_count": 1657,
+        "hijra_count": 0,
+        "latitude": 23.8184,
+        "longitude": 90.42375
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আর্মড পুলিশ ব্যাটালিয়ান স্কুল এন্ড কলেজ",
+        "male_count": 1560,
+        "female_count": 379,
+        "hijra_count": 0,
+        "latitude": 23.85857,
+        "longitude": 90.40581
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "আলোর ধারা স্কুল,31,রোড-9,সেক্টর-13,উত্তরা,ঢাকা(পুরুষ ভোটার-2),কেন্দ্র-২",
+        "male_count": 2645,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.8717,
+        "longitude": 90.38851
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরখান ইউনিয়ন উচ্চ বিদ্যালয়",
+        "male_count": 5280,
+        "female_count": 7672,
+        "hijra_count": 0,
+        "latitude": 23.86813,
+        "longitude": 90.40982
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরখান ইউনিয়ন উচ্চ বিদ্যালয়",
+        "male_count": 2695,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86813,
+        "longitude": 90.40983
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরখান কলেজিয়েট স্কুল",
+        "male_count": 0,
+        "female_count": 5952,
+        "hijra_count": 0,
+        "latitude": 23.86808,
+        "longitude": 90.40986
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরখান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 6221,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87225,
+        "longitude": 90.42718
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরা আনোয়ারা মডেল ডিগ্রি কলেজ, দক্ষিণখান,ঢাকা, (২য় তলা) (মহিলা ভোটার-1), কেন্দ্র-১",
+        "male_count": 0,
+        "female_count": 2733,
+        "hijra_count": 0,
+        "latitude": 23.86815,
+        "longitude": 90.40985
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরা আনোয়ারা মডেল ডিগ্রি কলেজ, দক্ষিণখান,ঢাকা, (৩য় তলা) (মহিলা ভোটার-2), কেন্দ্র-২",
+        "male_count": 0,
+        "female_count": 2808,
+        "hijra_count": 0,
+        "latitude": 23.8602,
+        "longitude": 90.42447
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরা গার্লস হাই স্কুল এন্ড কলেজ",
+        "male_count": 3572,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87326,
+        "longitude": 90.40399
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরা গার্লস হাই স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 2939,
+        "hijra_count": 0,
+        "latitude": 23.87351,
+        "longitude": 90.40348
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরা দারুল ক্বোরআন খাজা মঈন উদ্দীন চিশতী(রহঃ) ইসলামিয়া মাদরাসা ও এতিমখানা, রোড-9,সেক্টর-13, উত্তরা, ঢাকা (পুরুষ ভোটার-1), কেন্দ্র-১",
+        "male_count": 2481,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87168,
+        "longitude": 90.38829
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরা ল্যাবরেটরী হাই স্কুল",
+        "male_count": 3688,
+        "female_count": 3412,
+        "hijra_count": 0,
+        "latitude": 23.86875,
+        "longitude": 90.40478
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উত্তরা হাই স্কুল এন্ড কলেজ",
+        "male_count": 10377,
+        "female_count": 8795,
+        "hijra_count": 0,
+        "latitude": 23.89131,
+        "longitude": 90.38534
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উদয়ন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2727,
+        "hijra_count": 0,
+        "latitude": 23.86005,
+        "longitude": 90.40919
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "উদয়ন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 5155,
+        "hijra_count": 0,
+        "latitude": 23.86008,
+        "longitude": 90.40952
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "এমারত হোসেন আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2772,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "এমারত হোসেন আদর্শ উচ্চ বিদ্যালয়, দক্ষিনখান, ঢাকা, (২য় তলা), দক্ষিণখান, (মহিলা ভোটার-4), কেন্দ্র-২",
+        "male_count": 0,
+        "female_count": 2780,
+        "hijra_count": 0,
+        "latitude": 23.86034,
+        "longitude": 90.42419
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "এস, এম, মোজাম্মেল হক বিজনেজ মেনেজমেন্ট কলেজ",
+        "male_count": 5360,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86054,
+        "longitude": 90.42419
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ওয়াইড ভিশন স্কুল এন্ড কলেজ,বাসা-০২ রোড-১২,সেক্টর-১২,উত্তরা,ঢাকা(২য় তলা) (মহিলা ভোটার), কেন্দ্র-২",
+        "male_count": 0,
+        "female_count": 2348,
+        "hijra_count": 0,
+        "latitude": 23.87289,
+        "longitude": 90.38323
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ওয়াইড ভিশন স্কুল এন্ড কলেজ,বাসা-০২,রোড-১২,সেক্টর-১২,উত্তরা,ঢাকা(৩য় তলা) (পুরুষ ভোটার), কেন্দ্র-১",
+        "male_count": 2665,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86906,
+        "longitude": 90.40417
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কাওলার ইসলামিয়া দাখিল মাদ্রাসা কাওলার",
+        "male_count": 0,
+        "female_count": 5865,
+        "hijra_count": 0,
+        "latitude": 23.86809,
+        "longitude": 90.4099
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কাওলার সরকারি প্রাথমিক বিদ্যালয়, কাওলার,দক্ষিণখান, (মহিলা ভোটার-3)",
+        "male_count": 0,
+        "female_count": 3060,
+        "hijra_count": 0,
+        "latitude": 23.84275,
+        "longitude": 90.4243
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কাঁচকুড়া উচ্চ বিদ্যালয় , কাঁচকুড়া, উত্তর খান,ঢাকা, (পুরুষ ও মহিলা ভোটার)",
+        "male_count": 5343,
+        "female_count": 1518,
+        "hijra_count": 0,
+        "latitude": 23.8634,
+        "longitude": 90.45567
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কাঁচকুড়া বিশ্ববিদ্যালয় কলেজ",
+        "male_count": 0,
+        "female_count": 3707,
+        "hijra_count": 0,
+        "latitude": 23.8634,
+        "longitude": 90.45567
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কামার পাড়া হাই স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 2194,
+        "hijra_count": 0,
+        "latitude": 23.86704,
+        "longitude": 90.40865
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কামার পাড়া হাই স্কুল এন্ড কলেজ",
+        "male_count": 2312,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.89131,
+        "longitude": 90.38465
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কামারপাড়া হাই স্কুল এন্ড কলেজ",
+        "male_count": 3182,
+        "female_count": 3014,
+        "hijra_count": 0,
+        "latitude": 23.86813,
+        "longitude": 90.40986
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কামারপাড়া হাই স্কুল এন্ড কলেজ",
+        "male_count": 1852,
+        "female_count": 1670,
+        "hijra_count": 0,
+        "latitude": 23.89147,
+        "longitude": 90.38471
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কামারপাড়া হাইস্কুল এন্ড কলেজ",
+        "male_count": 2139,
+        "female_count": 2036,
+        "hijra_count": 0,
+        "latitude": 23.86712,
+        "longitude": 90.40862
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কিশলয় একাডেমী স্কুল এন্ড কলেজ, বাইলজুরী,উত্তরা,ঢাকা, (মহিলা ভোটার)",
+        "male_count": 0,
+        "female_count": 3213,
+        "hijra_count": 0,
+        "latitude": 23.86579,
+        "longitude": 90.38309
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কুড়াতলী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4234,
+        "hijra_count": 0,
+        "latitude": 23.82051,
+        "longitude": 90.42516
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কুড়িল-কুড়াতলী আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 4628,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82099,
+        "longitude": 90.42319
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কুড়িল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 6122,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81527,
+        "longitude": 90.42313
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কুর্মিটোলা মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 5940,
+        "female_count": 2512,
+        "hijra_count": 0,
+        "latitude": 23.83035,
+        "longitude": 90.42225
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কুর্মিটোলা হাই স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 10377,
+        "hijra_count": 0,
+        "latitude": 23.83041,
+        "longitude": 90.42215
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কুর্মিটোলা হাই স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 2477,
+        "hijra_count": 0,
+        "latitude": 23.83063,
+        "longitude": 90.42219
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কেসি মডেল স্কুল এন্ড কলেজ, প্রেমবাগান,দক্ষিণখান,ঢাকা(২য় তলা)  (পুরুষ ভোটার-1), কেন্দ্র-১",
+        "male_count": 3264,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.85828,
+        "longitude": 90.41327
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কেসি মডেল স্কুল এন্ড কলেজ, প্রেমবাগান,দক্ষিণখান,ঢাকা(৩য় তলা), (পুরুষ ভোটার-2), কেন্দ্র-২",
+        "male_count": 3266,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.85837,
+        "longitude": 90.41329
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "কেসি মডেল স্কুল এন্ড কলেজ, প্রেমবাগান, দক্ষিণখান, ঢাকা, (৪র্থ তলা),  (পুরুষ ভোটার-3), কেন্দ্র-৩",
+        "male_count": 3484,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86812,
+        "longitude": 90.40983
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ক্যানবেরা মডেল স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 5365,
+        "hijra_count": 0,
+        "latitude": 23.81802,
+        "longitude": 90.42211
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ক্যামব্রিয়ান স্কুল অ্যান্ড কলেজ",
+        "male_count": 3870,
+        "female_count": 3221,
+        "hijra_count": 0,
+        "latitude": 23.81031,
+        "longitude": 90.42466
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ক্লাইক্স মডেল স্কুল আজমপুর, দক্ষিণখান, ঢাকা (মহিলা ভোটার-1",
+        "male_count": 0,
+        "female_count": 3201,
+        "hijra_count": 0,
+        "latitude": 23.86701,
+        "longitude": 90.4095
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "খন্দকার আদর্শ বিদ্যা নিকেতন,  দক্ষিণখান, ঢাকা, (পূর্ব পার্শ্ব ভবন)  (পুরুষ ভোটার-1), কেন্দ্র-১",
+        "male_count": 5061,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.88029,
+        "longitude": 90.41112
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "খিলক্ষেত ইসলামিয়া দাখিল মাদ্রাসা",
+        "male_count": 5277,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.83423,
+        "longitude": 90.42626
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "খিলক্ষেত কারিগরি কলেজ",
+        "male_count": 2660,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.83107,
+        "longitude": 90.42463
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "গাওয়াইর আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 5601,
+        "hijra_count": 0,
+        "latitude": 23.85835,
+        "longitude": 90.41689
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "গাওয়াইর আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2759,
+        "hijra_count": 0,
+        "latitude": 23.85835,
+        "longitude": 90.4169
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "গাওয়াইর নবীন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2120,
+        "hijra_count": 0,
+        "latitude": 23.85822,
+        "longitude": 90.41329
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "গুলশান কলেজ",
+        "male_count": 0,
+        "female_count": 6314,
+        "hijra_count": 0,
+        "latitude": 23.81432,
+        "longitude": 90.41618
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "গ্রীন লাইফ হাই স্কুল, গোয়ালটেক, আদম আলী মার্কেট, ফায়াদাবাদ,দক্ষিণখান, ঢাকা, (পুরুষ ভোটার-4)",
+        "male_count": 2780,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "চামুরখান সরকারি প্রাথমিক বিদ্যালয়, চামুরখান, উত্তর খান, ঢাকা (পুরুষ ও মহিলা ভোটার)",
+        "male_count": 2334,
+        "female_count": 2328,
+        "hijra_count": 0,
+        "latitude": 23.87301,
+        "longitude": 90.44836
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "চালাবন্দ সরকারি প্রাথমিক বিদ্যালয়, চালাবন্দ,দক্ষিণখান,ঢাকা, (পুরুষ ভোটার)",
+        "male_count": 2552,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86337,
+        "longitude": 90.41746
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "জসিম উদ্দিন ইনস্টিটিউট",
+        "male_count": 4327,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81395,
+        "longitude": 90.41744
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "জাতির জনক বঙ্গবন্ধু শেখ মুজিবর রহমান সরকারি মহা বিদ্যালয়",
+        "male_count": 8506,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.85164,
+        "longitude": 90.41116
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "জান-ই-আলম সরকার উচ্চ বিদ্যালয়",
+        "male_count": 4660,
+        "female_count": 4005,
+        "hijra_count": 0,
+        "latitude": 23.83062,
+        "longitude": 90.41488
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "জামিয়া ইসলামিয়া রানাভোলা",
+        "male_count": 2250,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "টেলেন্ট হাই স্কুল এন্ড কলেজ আজমপুর মধ্যপাড়া,দক্ষিণখান,ঢাকা, (মহিলা ভোটার-1)",
+        "male_count": 0,
+        "female_count": 2509,
+        "hijra_count": 0,
+        "latitude": 23.86874,
+        "longitude": 90.41023
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ডিয়াবাড়ী আদর্শ উচ্চ বিদ্যালয়, ডিয়াবাড়ি, হরিরামপুর,তুরাগ, ঢাকা (মহিলা ভোটার)",
+        "male_count": 0,
+        "female_count": 2702,
+        "hijra_count": 0,
+        "latitude": 23.87801,
+        "longitude": 90.37029
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ডিয়াবাড়ী সরকারি প্রাথমিক বিদ্যালয় ডিয়াবাড়ি, হরিরামপুর, তুরাগ, ঢাকা, (পুরুষ ভোটার)",
+        "male_count": 2914,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87828,
+        "longitude": 90.37048
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ডুমনী উচ্চ বিদ্যালয়",
+        "male_count": 3242,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.83053,
+        "longitude": 90.47258
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ডুমনী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3038,
+        "hijra_count": 0,
+        "latitude": 23.83045,
+        "longitude": 90.47235
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ঢাকা মডেল হাই স্কুল",
+        "male_count": 2000,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87854,
+        "longitude": 90.38343
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "তলনা রুহুল আমিন খান উচ্চ বিদ্যালয়",
+        "male_count": 1449,
+        "female_count": 1418,
+        "hijra_count": 0,
+        "latitude": 23.85074,
+        "longitude": 90.47313
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "তাফালিয়া সরকারি প্রাথমিক বিদ্যালয়, তাফালিয়া, হরিরামপুর, তুরাগ,ঢাকা (পুরুষ ও মহিলা ভোটার)",
+        "male_count": 1612,
+        "female_count": 1445,
+        "hijra_count": 0,
+        "latitude": 23.78563,
+        "longitude": 90.34362
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "দক্ষিণখান আদর্শ বালিকা উচ্চ বিদ্যালয়, দক্ষিণখান,ঢাকা, (২য় ও ৩য় তলা)  (পুরুষ ভোটার-2), কেন্দ্র-২",
+        "male_count": 3515,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86257,
+        "longitude": 90.42721
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "দক্ষিণখান আদর্শ বালিকা উচ্চ বিদ্যালয় দক্ষিনখান,ঢাকা(নীচ তলা পূর্ব ও পশ্চিম পাশের ভবন)(পুরুষ ভোটার-1),কেন্দ্র-১",
+        "male_count": 3237,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.85505,
+        "longitude": 90.43099
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "দক্ষিণখান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 5455,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.85954,
+        "longitude": 90.4263
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "দি চাইল্ড ল্যাবরেটরী স্কুল এন্ড কলেজ, ফায়দাবাদ, দক্ষিণখান, উত্তরা, ঢাকা (মহিলা ভোটার-2)",
+        "male_count": 0,
+        "female_count": 2799,
+        "hijra_count": 0,
+        "latitude": 23.86812,
+        "longitude": 90.40986
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "দি সিটি এভারগ্রীন হাইস্কুল, ৬৯, রেনু গার্ডেন, ফায়াদাবাদ চৌরাস্তা, দক্ষিণখান,ঢাকা, (মহিলা ভোটার-3)",
+        "male_count": 0,
+        "female_count": 2800,
+        "hijra_count": 0,
+        "latitude": 23.86813,
+        "longitude": 90.40987
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "দেওয়ান পাড়া মডেল স্কুল এন্ড কলেজ দক্ষিণখান,ঢাকা (মহিলা ভোটার-4)",
+        "male_count": 0,
+        "female_count": 2094,
+        "hijra_count": 0,
+        "latitude": 23.872,
+        "longitude": 90.4108
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "দোবাদিয়া শফিউদ্দিন মডেল একাডেমী",
+        "male_count": 2024,
+        "female_count": 1936,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ধউর সরকারি প্রাথমিক বিদ্যালয়, তুরাগ, ঢাকা, (২য় তলা), (পুরুষ ভোটার) কেন্দ্র-১",
+        "male_count": 3617,
+        "female_count": 0,
+        "hijra_count": 1,
+        "latitude": 23.89173,
+        "longitude": 90.37189
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ধউর সরকারি প্রাথমিক বিদ্যালয়, তুরাগ, ঢাকা(নিচ তলা)(মহিলা ভোটার), কেন্দ্র-২",
+        "male_count": 0,
+        "female_count": 3120,
+        "hijra_count": 0,
+        "latitude": 23.8665,
+        "longitude": 90.40603
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "নওয়াব হাবিবুল্লাহ্ মডেল স্কুল এন্ড কলেজ সেক্টর-৪,উত্তরা,আজমপুর,ঢাকা (২য়তলা) (পুরুষ ভোটার-2),কেন্দ্র-২",
+        "male_count": 2952,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86789,
+        "longitude": 90.40124
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "নওয়াব হাবিবুল্লাহ্ মডেল স্কুল এন্ড কলেজ সেক্টর-৪,উত্তরা,আজমপুর,ঢাকা (৩য় তলা), (পুরুষ ভোটার-3),কেন্দ্র-৩",
+        "male_count": 2835,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86766,
+        "longitude": 90.40128
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "নওয়াব হাবিবুল্লাহ্ মডেল স্কুল এন্ড কলেজসেক্টর-৪, উত্তরা, আজমপুর,ঢাকা, (নীচতলা) (পুরুষ ভোটার-1), কেন্দ্র-১",
+        "male_count": 3021,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.8679,
+        "longitude": 90.40122
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "নয়ানগর নেছারিয়া ইসলামিয়া দাখিল মাদ্রাসা,নয়ানগর, হরিরামপুর,তুরাগ, ঢাকা, (পুরুষ ভোটার)",
+        "male_count": 4148,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.88366,
+        "longitude": 90.37161
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "নয়ানগর রফিক সরকারি প্রাথমিক বিদ্যালয়,নয়ানগর, হরিরামপুর,তুরাগ, ঢাকা, (মহিলা ভোটার)",
+        "male_count": 0,
+        "female_count": 3889,
+        "hijra_count": 0,
+        "latitude": 23.78564,
+        "longitude": 90.34365
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "নিউ লাইট হাই স্কুল",
+        "male_count": 4372,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81439,
+        "longitude": 90.41752
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "নিউ লাইফ প্রি-ক্যাডেট স্কুল",
+        "male_count": 0,
+        "female_count": 2061,
+        "hijra_count": 0,
+        "latitude": 23.8143,
+        "longitude": 90.41576
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "নিকুঞ্জ মডেল কলেজ",
+        "male_count": 0,
+        "female_count": 3711,
+        "hijra_count": 0,
+        "latitude": 23.82717,
+        "longitude": 90.4171
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "পরশমণি ল্যাবরেটরি স্কুল",
+        "male_count": 2449,
+        "female_count": 2241,
+        "hijra_count": 0,
+        "latitude": 23.88109,
+        "longitude": 90.38929
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "পাতিরা তাহফিজুল কোরআন মাদ্রাসা,",
+        "male_count": 2146,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82772,
+        "longitude": 90.48188
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "পাতিরা সরকারী প্রাথমিক বিদ্যালয়,",
+        "male_count": 0,
+        "female_count": 2147,
+        "hijra_count": 0,
+        "latitude": 23.82809,
+        "longitude": 90.48145
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ফায়দাবাদ আইডিয়াল  স্কুল, ফায়দাবাদ, দক্ষিণখান,ঢাকা(পশ্চিম পার্শ্ব), (মহিলা ভোটার-2), কেন্দ্র-২",
+        "male_count": 0,
+        "female_count": 3528,
+        "hijra_count": 0,
+        "latitude": 23.87579,
+        "longitude": 90.41275
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ফায়দাবাদ আইডিয়াল স্কুল, ফায়দাবাদ,দক্ষিণখান,ঢাকা, (পূর্ব পার্শ্ব) (মহিলা ভোটার-1), কেন্দ্র-১",
+        "male_count": 0,
+        "female_count": 3397,
+        "hijra_count": 0,
+        "latitude": 23.87927,
+        "longitude": 90.41153
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ফায়দাবাদ মডেল হাই স্কুল, ফায়াদাবাদ, দক্ষিণখান,ঢাকা, (পুরুষ ভোটার-2)",
+        "male_count": 4014,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87491,
+        "longitude": 90.41077
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ফায়দাবাদ সরকারি প্রাথমিক বিদ্যালয়, ফায়াদাবাদ,দক্ষিণখান(পুরুষ ভোটার-3)",
+        "male_count": 2511,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87581,
+        "longitude": 90.41276
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "ফায়াদাবাদ আজগর উলুম মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2904,
+        "hijra_count": 4,
+        "latitude": 23.86813,
+        "longitude": 90.40985
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব সরকারি মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 5174,
+        "hijra_count": 0,
+        "latitude": 23.8517,
+        "longitude": 90.41108
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বঙ্গমাতা শেখ  ফজিলাতুন্নেছা মুজিব সরকারি  মাধ্যমিক বিদ্যালয়, আশকোনা, দক্ষিণখান, ঢাকা, (৪র্থ তলা) (মহিলা ভোটার-3), কেন্দ্র-৩",
+        "male_count": 0,
+        "female_count": 2589,
+        "hijra_count": 0,
+        "latitude": 23.85197,
+        "longitude": 90.41115
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বরুয়া আলাউদ্দিন দেওয়ান উচ্চ বিদ্যালয়, বরুয়া, খিলক্ষেত, ঢাকা (মহিলা ভোটার)",
+        "male_count": 0,
+        "female_count": 4532,
+        "hijra_count": 0,
+        "latitude": 23.84221,
+        "longitude": 90.44643
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বরুয়া সরকারি প্রাথমিক বিদ্যালয়, বরুয়া, বরুয়া, খিলক্ষেত,ঢাকা (পুরুষ ভোটার)\t",
+        "male_count": 4742,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.84318,
+        "longitude": 90.44648
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বাউনিয়া আব্দুল জলিল উচ্চ বিদ্যালয়",
+        "male_count": 5720,
+        "female_count": 2758,
+        "hijra_count": 0,
+        "latitude": 23.85235,
+        "longitude": 90.38715
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বাউনিয়া আব্দুল জলিল উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3124,
+        "hijra_count": 0,
+        "latitude": 23.88111,
+        "longitude": 90.38936
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বাউনিয়া সরকারি প্রাথমিক বিদ্যালয়, হরিরামপুর,তুরাগ, ঢাকা (পুরুষ ও মহিলা ভোটার) (পুরুষ ও মহিলা ভোটার) (পুরুষ ও মহিলা ভোটার)",
+        "male_count": 859,
+        "female_count": 798,
+        "hijra_count": 0,
+        "latitude": 23.85001,
+        "longitude": 90.38798
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বি এইচ বি এফ সি আদর্শ উচ্চ বিদ্যালয়, ১নং আলাউল এভিনিউ, সেক্টর-৮,উত্তরা, (২য় তলা), (পুরুষ ভোটার),কেন্দ্র-১",
+        "male_count": 2083,
+        "female_count": 2112,
+        "hijra_count": 0,
+        "latitude": 23.87467,
+        "longitude": 90.40147
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "বেলায়েত হোসেন আদর্শ  উচ্চ বিদ্যালয়, উত্তরখান, ঢাকা, (মহিলা ভোটার)",
+        "male_count": 0,
+        "female_count": 3286,
+        "hijra_count": 0,
+        "latitude": 23.88064,
+        "longitude": 90.41961
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মাইল স্টোন কলেজ",
+        "male_count": 2517,
+        "female_count": 4814,
+        "hijra_count": 0,
+        "latitude": 23.86643,
+        "longitude": 90.40618
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মাইল স্টোন কলেজ,বাসা-৩০, গরিবে নেওয়াজ রোড,সেক্টর-১১, (৫ম তলা) (পুরুষ ভোটার-2), কেন্দ্র-২",
+        "male_count": 2957,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87701,
+        "longitude": 90.39091
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মাইলস্টোন প্রিপারেটরী কেজি স্কুল",
+        "male_count": 3412,
+        "female_count": 2984,
+        "hijra_count": 0,
+        "latitude": 23.89183,
+        "longitude": 90.38437
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মাউছাইদ সরকারি প্রাথমিক বিদ্যালয়, মাওছাইদ, উত্তরখান,ঢাকা, (পুরুষ ও মহিলা ভোটার)",
+        "male_count": 1218,
+        "female_count": 1246,
+        "hijra_count": 0,
+        "latitude": 23.89147,
+        "longitude": 90.44193
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মান্নান মডেল একাডেমী, 159, পূর্ব আজমপুর,উত্তরা,ঢাকা(মহিলা ভোটার-3)",
+        "male_count": 0,
+        "female_count": 2589,
+        "hijra_count": 0,
+        "latitude": 23.86812,
+        "longitude": 90.40986
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মালেকাবানু আদর্শ বিদ্যানিকেতন",
+        "male_count": 3378,
+        "female_count": 2973,
+        "hijra_count": 0,
+        "latitude": 23.87807,
+        "longitude": 90.40143
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মুন্ডা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1705,
+        "female_count": 1643,
+        "hijra_count": 0,
+        "latitude": 23.88897,
+        "longitude": 90.4298
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মৈনারটেক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2212,
+        "hijra_count": 0,
+        "latitude": 23.88123,
+        "longitude": 90.44265
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "মৈনারটেক হাইস্কুল এন্ড কলেজ",
+        "male_count": 5108,
+        "female_count": 2367,
+        "hijra_count": 0,
+        "latitude": 23.86813,
+        "longitude": 90.40983
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "রাইজিং স্টার মডেল স্কুল এন্ড কলেজ, মধ্যআজমপুর,দক্ষিণখান,ঢাকা(মহিলা ভোটার-3)",
+        "male_count": 0,
+        "female_count": 2618,
+        "hijra_count": 0,
+        "latitude": 23.86524,
+        "longitude": 90.40708
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "রাজউক উত্তরা আইডিয়াল হাই স্কুল, সেক্টর-১৩, উত্তরা, ঢাকা, (উত্তর পার্শ্ব ভবন), (মহিলা ভোটার-1), কেন্দ্র-১",
+        "male_count": 0,
+        "female_count": 2265,
+        "hijra_count": 0,
+        "latitude": 23.86875,
+        "longitude": 90.40483
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "রাজউক উত্তরা আইডিয়াল হা্ই স্কুল, সেক্টর-১৩, উত্তরা,ঢাকা(দক্ষিণ পার্শ্ব ভবন), (মহিলা ভোটার-2), কেন্দ্র-২",
+        "male_count": 0,
+        "female_count": 2399,
+        "hijra_count": 0,
+        "latitude": 23.87243,
+        "longitude": 90.38793
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "রাজউক উত্তরা মডলে কলেজ",
+        "male_count": 3200,
+        "female_count": 2822,
+        "hijra_count": 0,
+        "latitude": 23.87032,
+        "longitude": 90.40202
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "রাজউক উত্তরা মডেল কলেজ",
+        "male_count": 2586,
+        "female_count": 2229,
+        "hijra_count": 0,
+        "latitude": 23.87044,
+        "longitude": 90.40166
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "রাজাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3272,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.8322,
+        "longitude": 90.25587
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "রাহেলা খাতুন আইডিয়াল স্কুল, প্লট-7, রানাভোলা মেইন রোড,তুরাগ,উত্তরা, ঢাকা, (পুরুষ ভোটার-1)",
+        "male_count": 2407,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.88176,
+        "longitude": 90.38649
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "রেনেসা পাবলিক হাই স্কুল, আজমপুর মধ্যপাড়া,দক্ষিণখান,ঢাকা(মহিলা ভোটার-2)",
+        "male_count": 0,
+        "female_count": 2439,
+        "hijra_count": 0,
+        "latitude": 23.87177,
+        "longitude": 90.40844
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "লাভলী লোটাস স্কুল, ফায়াদাবাদ, দক্ষিণখান,ঢাকা, (পুরুষ ভোটার-1)",
+        "male_count": 2832,
+        "female_count": 0,
+        "hijra_count": 1,
+        "latitude": 23.87848,
+        "longitude": 90.4104
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "লিটল স্টার হাই স্কুল,ফায়দাবাদ কাঁঠালতলা,দক্ষিণখান,ঢাকা, (মহিলা ভোটার-4)",
+        "male_count": 0,
+        "female_count": 2560,
+        "hijra_count": 0,
+        "latitude": 23.86812,
+        "longitude": 90.40988
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "শেরেবাংলা আইডিয়াল হাই স্কুল",
+        "male_count": 0,
+        "female_count": 4560,
+        "hijra_count": 0,
+        "latitude": 23.8176,
+        "longitude": 90.42151
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "শেরে বাংলা মডেল স্কুল, পাকুরিয়া, তুরাগ, ঢাকা, (পুরুষ ভোটার)",
+        "male_count": 2995,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86474,
+        "longitude": 90.38029
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "সরকারি মোল্লারটেক উদয়ন স্কুল এন্ড কলেজ",
+        "male_count": 2653,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "সরকারি মোল্লারটেক উদয়ন স্কুল এন্ড কলেজ",
+        "male_count": 5456,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "সরদার সুরুজ্জামান মহিলা কলেজ",
+        "male_count": 0,
+        "female_count": 6734,
+        "hijra_count": 0,
+        "latitude": 23.86275,
+        "longitude": 90.42791
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "সাদকে মাষ্টার মডেল স্কুল",
+        "male_count": 1588,
+        "female_count": 1505,
+        "hijra_count": 0,
+        "latitude": 23.88116,
+        "longitude": 90.42697
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "সানবীম স্কুল",
+        "male_count": 0,
+        "female_count": 4381,
+        "hijra_count": 0,
+        "latitude": 23.86813,
+        "longitude": 90.40986
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "সিভিল এভিয়েশন স্কুল এন্ড কলেজ",
+        "male_count": 2986,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.7749,
+        "longitude": 90.3922
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "সিভিল এভিয়েশন স্কুল এন্ড কলেজ",
+        "male_count": 6104,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.84687,
+        "longitude": 90.41398
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "স্কলাষ্টিকা",
+        "male_count": 1220,
+        "female_count": 1039,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "স্টারলিট স্কুল",
+        "male_count": 4785,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.83163,
+        "longitude": 90.41819
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "হলান ইসলামিয়া দাখিল মাদ্রাসা, হলান, দক্ষিণখান, ঢাকা (পুরুষ ও মহিলা ভোটার)",
+        "male_count": 1561,
+        "female_count": 1560,
+        "hijra_count": 0,
+        "latitude": 23.85514,
+        "longitude": 90.43101
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "হাজী কফিল উদ্দিন মুন্সি আদর্শ উচ্চ বিদ্যালয়, দক্ষিণখান, ঢাকা, (মহিলা ভোটার)",
+        "male_count": 0,
+        "female_count": 2893,
+        "hijra_count": 0,
+        "latitude": 23.86346,
+        "longitude": 90.41759
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "হাজী বিল্লাত আলী আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2469,
+        "hijra_count": 0,
+        "latitude": 23.86389,
+        "longitude": 90.41771
+    },
+    {
+        "settings_code": 191,
+        "settings_name": "ঢাকা-১৮",
+        "center_name": "হাজী বিল্লাত আলী আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 4869,
+        "female_count": 2681,
+        "hijra_count": 0,
+        "latitude": 23.86491,
+        "longitude": 90.41392
+    }
+]

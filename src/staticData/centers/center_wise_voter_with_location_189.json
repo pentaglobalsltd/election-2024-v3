@@ -1,0 +1,622 @@
+[
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "অনির্বাণ ইন্টারন্যাশনাল স্কুল",
+        "male_count": 0,
+        "female_count": 2569,
+        "hijra_count": 0,
+        "latitude": 23.81761,
+        "longitude": 90.3585
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "আনন্দ নিকেতন প্রাথমিক বিদ্যালয়",
+        "male_count": 5398,
+        "female_count": 2511,
+        "hijra_count": 0,
+        "latitude": 23.81981,
+        "longitude": 90.37925
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "আঃ মান্নান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3332,
+        "hijra_count": 0,
+        "latitude": 23.81904,
+        "longitude": 90.37135
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "আর এমএস ইন্টারন্যাশনাল স্কুল",
+        "male_count": 0,
+        "female_count": 2974,
+        "hijra_count": 0,
+        "latitude": 23.83487,
+        "longitude": 90.35342
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "আরবান স্কুল",
+        "male_count": 0,
+        "female_count": 2883,
+        "hijra_count": 0,
+        "latitude": 23.82221,
+        "longitude": 90.37906
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "আল-কুরআন একাডেমী",
+        "male_count": 3318,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82701,
+        "longitude": 90.37272
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "আলহাজ্ব আববাস উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 7596,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81327,
+        "longitude": 90.376
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "আলহাজ্ব মধু বেপারী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 7577,
+        "hijra_count": 1,
+        "latitude": 23.81174,
+        "longitude": 90.36857
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "আহছানিয়া মিশন কলেজ",
+        "male_count": 8723,
+        "female_count": 3207,
+        "hijra_count": 0,
+        "latitude": 23.82215,
+        "longitude": 90.3542
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "ইসলামিয়া হাই স্কুল",
+        "male_count": 2490,
+        "female_count": 2687,
+        "hijra_count": 0,
+        "latitude": 23.81648,
+        "longitude": 90.36209
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "ইস্টার্ন ল্যাবরেটরী স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 2546,
+        "hijra_count": 0,
+        "latitude": 23.81939,
+        "longitude": 90.35799
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "এম,ডি,সি মডেল ইনস্টিটিউট",
+        "male_count": 12648,
+        "female_count": 3541,
+        "hijra_count": 0,
+        "latitude": 23.82357,
+        "longitude": 90.36633
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "ওমর বিন খাত্তাব (রাঃ) মসজিদ মাদ্রাসা ও এতিমখানা কমপ্লেক্স",
+        "male_count": 3759,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.834,
+        "longitude": 90.37029
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "কালশী ইসলামিয়া উচ্চ বিদ্যালয়",
+        "male_count": 4921,
+        "female_count": 2471,
+        "hijra_count": 0,
+        "latitude": 23.82211,
+        "longitude": 90.37661
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "খলিলুর রহমান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3911,
+        "hijra_count": 0,
+        "latitude": 23.834,
+        "longitude": 90.37048
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "জান্নাত একাডেমী হাই স্কুল",
+        "male_count": 5213,
+        "female_count": 4576,
+        "hijra_count": 0,
+        "latitude": 23.8158,
+        "longitude": 90.36718
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "জামিয়া আরাবিয়া হামিউস সুন্নাহ ও এতিমখানা",
+        "male_count": 2593,
+        "female_count": 2755,
+        "hijra_count": 0,
+        "latitude": 23.81958,
+        "longitude": 90.38164
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "ডঃ মুহাম্মদ শহীদুল্লাহ আদর্শ উচ্চ মাধ্যমিক বিদ্যাপীঠ",
+        "male_count": 0,
+        "female_count": 7774,
+        "hijra_count": 0,
+        "latitude": 23.82662,
+        "longitude": 90.36674
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "ঢাকা রেসিডেন্সিয়াল মাদরাসা",
+        "male_count": 2511,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81496,
+        "longitude": 90.35498
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "দুয়ারীপাড়া সরকারী মহাবিদ্যালয়",
+        "male_count": 6881,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82488,
+        "longitude": 90.35419
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "দ্বিগুন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 4402,
+        "female_count": 514,
+        "hijra_count": 0,
+        "latitude": 23.83481,
+        "longitude": 90.35662
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "নন-লোকাল ফ্রি স্কুল\t",
+        "male_count": 0,
+        "female_count": 2171,
+        "hijra_count": 0,
+        "latitude": 23.82665,
+        "longitude": 90.37244
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "নাহার একাডেমী উচ্চ বিদ্যালয়",
+        "male_count": 1888,
+        "female_count": 1595,
+        "hijra_count": 0,
+        "latitude": 23.82551,
+        "longitude": 90.36527
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "পলাশ নগর মডেল স্কুল",
+        "male_count": 0,
+        "female_count": 2280,
+        "hijra_count": 0,
+        "latitude": 23.81638,
+        "longitude": 90.37757
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "পল্লবী আফতাব উদ্দিন  মাদ্রাসা",
+        "male_count": 5326,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82216,
+        "longitude": 90.35928
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "পল্লবী ডিগ্রী কলেজ",
+        "male_count": 0,
+        "female_count": 7333,
+        "hijra_count": 2,
+        "latitude": 23.82709,
+        "longitude": 90.357
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "পল্লবী মহিলা ডিগ্রী কলেজ",
+        "male_count": 3452,
+        "female_count": 10448,
+        "hijra_count": 0,
+        "latitude": 23.82316,
+        "longitude": 90.37235
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "পল্লবী মাজেদুল ইসলাম মডেল হাই স্কুল",
+        "male_count": 7446,
+        "female_count": 7344,
+        "hijra_count": 0,
+        "latitude": 23.8261,
+        "longitude": 90.36157
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "পল্লবী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 5029,
+        "hijra_count": 0,
+        "latitude": 23.82537,
+        "longitude": 90.36174
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "প্রগতি উচ্চ বিদ্যালয়",
+        "male_count": 7666,
+        "female_count": 7433,
+        "hijra_count": 3,
+        "latitude": 23.81806,
+        "longitude": 90.37442
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "বঙ্গবন্ধু বিদ্যানিকেতন",
+        "male_count": 0,
+        "female_count": 11357,
+        "hijra_count": 0,
+        "latitude": 23.81653,
+        "longitude": 90.36176
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "বাউনিয়াবাধ আইডিয়াল হাই স্কুল",
+        "male_count": 5157,
+        "female_count": 2864,
+        "hijra_count": 0,
+        "latitude": 23.81868,
+        "longitude": 90.38051
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "বাউনিয়াবাঁধ এ ব্লক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2615,
+        "hijra_count": 0,
+        "latitude": 23.81735,
+        "longitude": 90.38003
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "বাংলাদেশ আদর্শ শিক্ষা নিকেতন উচ্চ বিদ্যালয়",
+        "male_count": 3266,
+        "female_count": 3265,
+        "hijra_count": 0,
+        "latitude": 23.82839,
+        "longitude": 90.36962
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মাদরাসায়ে রাহমানিয়া আব্বাসিয়া",
+        "male_count": 2465,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.90762,
+        "longitude": 90.29842
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মাদ্রাসা ওয়াজিয়া আরাবিয়া হাফিজিয়া মদীনানগর\t",
+        "male_count": 2238,
+        "female_count": 2317,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মাদ্রাসা দারুল আবরার ও কিন্ডারগার্টেন",
+        "male_count": 2521,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর আদর্শ বিদ্যানিকেতন",
+        "male_count": 0,
+        "female_count": 4204,
+        "hijra_count": 0,
+        "latitude": 23.81208,
+        "longitude": 90.36391
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর উদয়ন স্কুল",
+        "male_count": 3047,
+        "female_count": 3221,
+        "hijra_count": 0,
+        "latitude": 23.81564,
+        "longitude": 90.36581
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর এ, এইচ মডেল স্কুল",
+        "male_count": 0,
+        "female_count": 2303,
+        "hijra_count": 0,
+        "latitude": 23.81906,
+        "longitude": 90.36819
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর কেন্দ্রীয় মসজিদ ও জামিআ মোহাম্মদিয়া আরাবিয়া (মাদরাসা) কমপেস্নক্স",
+        "male_count": 7011,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81686,
+        "longitude": 90.36594
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর ক্যান্টনমেন্ট পাবলিক স্কুল এ্যান্ড কলেজ\t",
+        "male_count": 2401,
+        "female_count": 2381,
+        "hijra_count": 0,
+        "latitude": 23.83523,
+        "longitude": 90.36476
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর গালর্স আইডিয়াল ল্যাবরেটরী ইনস্টিটিউট",
+        "male_count": 3447,
+        "female_count": 3336,
+        "hijra_count": 0,
+        "latitude": 23.80728,
+        "longitude": 90.37149
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর শহীদ স্মৃতি উচ্চ বিদ্যালয়\t",
+        "male_count": 4233,
+        "female_count": 4016,
+        "hijra_count": 1,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর শাহীন স্কুল",
+        "male_count": 0,
+        "female_count": 7672,
+        "hijra_count": 0,
+        "latitude": 23.81603,
+        "longitude": 90.37417
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মিরপুর সেনানিবাস সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 868,
+        "female_count": 720,
+        "hijra_count": 0,
+        "latitude": 23.83542,
+        "longitude": 90.36426
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মীরপুর বাংলা স্কুল এন্ড কলেজ (বালক শাখা)",
+        "male_count": 10043,
+        "female_count": 6687,
+        "hijra_count": 1,
+        "latitude": 23.8145,
+        "longitude": 90.36766
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "মীরপুর বাংলা স্কুল এন্ড কলেজ (বালিকা শাখা)",
+        "male_count": 6109,
+        "female_count": 1531,
+        "hijra_count": 0,
+        "latitude": 23.8148,
+        "longitude": 90.36358
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "রশিদ আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 6620,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.8255,
+        "longitude": 90.37314
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "রিয়াজুল জান্নাত নূরানী মাদ্রাসা ও এতিমখানা",
+        "male_count": 3449,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82303,
+        "longitude": 90.37401
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "রুপনগর সরকারি মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 5695,
+        "hijra_count": 1,
+        "latitude": 23.82359,
+        "longitude": 90.35503
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "লিটল ফ্লাওয়ারস প্রিপারেটরী স্কুল",
+        "male_count": 3442,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82496,
+        "longitude": 90.37262
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "শহীদ আবু তালেব উচ্চ বিদ্যালয়",
+        "male_count": 7667,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.80988,
+        "longitude": 90.36925
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "শহীদবাগ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4409,
+        "hijra_count": 0,
+        "latitude": 23.82725,
+        "longitude": 90.37451
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "শহীদ মুক্তিযোদ্ধা গার্লস হাইস্কুল",
+        "male_count": 0,
+        "female_count": 7841,
+        "hijra_count": 0,
+        "latitude": 23.82701,
+        "longitude": 90.37286
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "শেখ কামাল উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2517,
+        "hijra_count": 0,
+        "latitude": 23.81816,
+        "longitude": 90.37622
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "শেখ কামাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 4631,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81857,
+        "longitude": 90.36331
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "সরকারি বঙ্গবন্ধু কলেজ,",
+        "male_count": 8038,
+        "female_count": 3709,
+        "hijra_count": 0,
+        "latitude": 23.83046,
+        "longitude": 90.37508
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "সানমুন ইন্টারন্যাশনাল স্কুল",
+        "male_count": 2409,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81846,
+        "longitude": 90.36751
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "সাংবাদিক আবাসিক এলাকা উচ্চ বিদ্যালয়",
+        "male_count": 1679,
+        "female_count": 1582,
+        "hijra_count": 0,
+        "latitude": 23.82139,
+        "longitude": 90.3741
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "সুলতান মোল্লা আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 5125,
+        "female_count": 5826,
+        "hijra_count": 0,
+        "latitude": 23.82379,
+        "longitude": 90.37003
+    },
+    {
+        "settings_code": 189,
+        "settings_name": "ঢাকা-১৬",
+        "center_name": "সেনপাড়া পর্বতা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3593,
+        "female_count": 3013,
+        "hijra_count": 0,
+        "latitude": 23.80758,
+        "longitude": 90.37013
+    }
+]

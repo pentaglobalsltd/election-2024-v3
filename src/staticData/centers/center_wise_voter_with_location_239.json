@@ -1,0 +1,1762 @@
+[
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "অমৃতা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1281,
+        "female_count": 1105,
+        "hijra_count": 0,
+        "latitude": 24.45496,
+        "longitude": 91.54523
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "অলিপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 927,
+        "female_count": 945,
+        "hijra_count": 0,
+        "latitude": 24.29896,
+        "longitude": 91.55219
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "অলুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1532,
+        "female_count": 1437,
+        "hijra_count": 0,
+        "latitude": 24.36796,
+        "longitude": 91.52011
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "আউশকান্দি র. প. উচ্চ বিদ্যালয়",
+        "male_count": 1642,
+        "female_count": 1645,
+        "hijra_count": 0,
+        "latitude": 24.59439,
+        "longitude": 91.60678
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "আগনা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1779,
+        "female_count": 1821,
+        "hijra_count": 0,
+        "latitude": 24.65395,
+        "longitude": 91.55386
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "আদর্শ বিদ্যানিকেতন",
+        "male_count": 706,
+        "female_count": 649,
+        "hijra_count": 0,
+        "latitude": 24.30315,
+        "longitude": 91.49541
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "আদিত্যপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1313,
+        "female_count": 1407,
+        "hijra_count": 0,
+        "latitude": 24.55014,
+        "longitude": 91.49944
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "আমড়াখাইর-১ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1277,
+        "female_count": 1266,
+        "hijra_count": 0,
+        "latitude": 24.65961,
+        "longitude": 91.43787
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "আমড়াখাইর-২ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1147,
+        "female_count": 1199,
+        "hijra_count": 0,
+        "latitude": 24.66825,
+        "longitude": 91.49785
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "আমতলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 717,
+        "female_count": 671,
+        "hijra_count": 0,
+        "latitude": 24.29407,
+        "longitude": 91.59246
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "আলমপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1198,
+        "female_count": 1212,
+        "hijra_count": 0,
+        "latitude": 24.60299,
+        "longitude": 91.62711
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ইজপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1249,
+        "female_count": 1301,
+        "hijra_count": 0,
+        "latitude": 24.49028,
+        "longitude": 91.5832
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ইনাতগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 2311,
+        "female_count": 2384,
+        "hijra_count": 0,
+        "latitude": 24.6643,
+        "longitude": 91.5623
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ইমামবাড়ি মাদ্রাসা",
+        "male_count": 1204,
+        "female_count": 1219,
+        "hijra_count": 0,
+        "latitude": 24.48899,
+        "longitude": 91.47362
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "উত্তর দেবপাড়া হাজী মনির মিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1203,
+        "female_count": 1173,
+        "hijra_count": 0,
+        "latitude": 24.53307,
+        "longitude": 91.60305
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "এনাতাবাদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1229,
+        "female_count": 1341,
+        "hijra_count": 0,
+        "latitude": 24.57146,
+        "longitude": 91.55311
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কচুয়াদি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1148,
+        "female_count": 1119,
+        "hijra_count": 0,
+        "latitude": 24.30222,
+        "longitude": 91.52311
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "করগাও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 690,
+        "female_count": 649,
+        "hijra_count": 0,
+        "latitude": 24.60044,
+        "longitude": 91.51223
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "করিমপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2427,
+        "female_count": 2100,
+        "hijra_count": 1,
+        "latitude": 24.35109,
+        "longitude": 91.56054
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "করিমপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1429,
+        "female_count": 1473,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কল্যাণপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1284,
+        "female_count": 1194,
+        "hijra_count": 0,
+        "latitude": 24.42992,
+        "longitude": 91.56824
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কাজীরগাঁও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1342,
+        "female_count": 1354,
+        "hijra_count": 0,
+        "latitude": 24.65492,
+        "longitude": 91.54347
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কাজীহাটা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 890,
+        "female_count": 864,
+        "hijra_count": 0,
+        "latitude": 24.32808,
+        "longitude": 91.47792
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কামাইছড়া চা বাগান প্রাথমিক বিদ্যালয়",
+        "male_count": 645,
+        "female_count": 619,
+        "hijra_count": 0,
+        "latitude": 24.2904,
+        "longitude": 91.56213
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কামারগাও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1162,
+        "female_count": 1202,
+        "hijra_count": 0,
+        "latitude": 24.62979,
+        "longitude": 91.61406
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কায়স্থগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1177,
+        "female_count": 1197,
+        "hijra_count": 0,
+        "latitude": 24.52478,
+        "longitude": 91.60764
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কারখানা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1556,
+        "female_count": 1565,
+        "hijra_count": 0,
+        "latitude": 24.62139,
+        "longitude": 91.60492
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কালাভরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 921,
+        "female_count": 982,
+        "hijra_count": 0,
+        "latitude": 24.55818,
+        "longitude": 91.57955
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কালীবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 932,
+        "female_count": 898,
+        "hijra_count": 0,
+        "latitude": 24.39074,
+        "longitude": 91.53391
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "কুর্শী বালক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1172,
+        "female_count": 1215,
+        "hijra_count": 0,
+        "latitude": 24.5893,
+        "longitude": 91.58128
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "খরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1298,
+        "female_count": 1243,
+        "hijra_count": 0,
+        "latitude": 24.37183,
+        "longitude": 91.53243
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "খরিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1354,
+        "female_count": 1274,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "খাগাউড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 994,
+        "female_count": 930,
+        "hijra_count": 0,
+        "latitude": 24.46094,
+        "longitude": 91.5448
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "গনজা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1127,
+        "female_count": 1189,
+        "hijra_count": 0,
+        "latitude": 24.57886,
+        "longitude": 91.51249
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "গয়াহরি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1069,
+        "female_count": 1155,
+        "hijra_count": 0,
+        "latitude": 24.56709,
+        "longitude": 91.50002
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "গাংধার সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1238,
+        "female_count": 1140,
+        "hijra_count": 0,
+        "latitude": 24.41689,
+        "longitude": 91.56552
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "গুজাখাইর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1617,
+        "female_count": 1626,
+        "hijra_count": 0,
+        "latitude": 24.55527,
+        "longitude": 91.46356
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "গুমগুমিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1353,
+        "female_count": 1326,
+        "hijra_count": 0,
+        "latitude": 24.61308,
+        "longitude": 91.50493
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "গোপলারবাজার সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1494,
+        "female_count": 1502,
+        "hijra_count": 0,
+        "latitude": 24.57097,
+        "longitude": 91.59968
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "গোহারুয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1936,
+        "female_count": 1836,
+        "hijra_count": 0,
+        "latitude": 24.35352,
+        "longitude": 91.51616
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ঘোলডুবা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 986,
+        "female_count": 1050,
+        "hijra_count": 0,
+        "latitude": 24.61827,
+        "longitude": 91.571
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "চক্রামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1783,
+        "female_count": 1606,
+        "hijra_count": 0,
+        "latitude": 24.29137,
+        "longitude": 91.54412
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "চরগাঁও আলহাজ্ব শেখ আমিনা বিবি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 785,
+        "female_count": 851,
+        "hijra_count": 0,
+        "latitude": 24.56178,
+        "longitude": 91.50814
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "চলিতাতলা মাদ্রাসা",
+        "male_count": 2419,
+        "female_count": 2266,
+        "hijra_count": 0,
+        "latitude": 24.36155,
+        "longitude": 91.54166
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "চান্দপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1544,
+        "female_count": 1412,
+        "hijra_count": 0,
+        "latitude": 24.53019,
+        "longitude": 91.56413
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "চৈঠপুর বারইকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1298,
+        "female_count": 1480,
+        "hijra_count": 0,
+        "latitude": 24.58729,
+        "longitude": 91.53348
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "চৌকি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1185,
+        "female_count": 1170,
+        "hijra_count": 0,
+        "latitude": 24.67111,
+        "longitude": 91.40867
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ছোট শাখোয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1174,
+        "female_count": 1176,
+        "hijra_count": 0,
+        "latitude": 24.59936,
+        "longitude": 91.50173
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "জগতপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1632,
+        "female_count": 1324,
+        "hijra_count": 0,
+        "latitude": 24.37433,
+        "longitude": 91.49807
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "জন্তরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 864,
+        "female_count": 854,
+        "hijra_count": 0,
+        "latitude": 24.59382,
+        "longitude": 91.51457
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "জারিয়া মাদ্রাসা",
+        "male_count": 742,
+        "female_count": 630,
+        "hijra_count": 0,
+        "latitude": 24.37435,
+        "longitude": 91.49817
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ঝিটকিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1510,
+        "female_count": 1421,
+        "hijra_count": 0,
+        "latitude": 24.5652,
+        "longitude": 91.612
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ডুবাঐ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2131,
+        "female_count": 2000,
+        "hijra_count": 0,
+        "latitude": 24.38684,
+        "longitude": 91.55422
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "তগলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1794,
+        "female_count": 1679,
+        "hijra_count": 0,
+        "latitude": 24.30998,
+        "longitude": 91.51444
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "তাজিয়া মোবাশ্বেরিয়া আলিম (ধুলচাতল) মাদ্রাসা",
+        "male_count": 1320,
+        "female_count": 1275,
+        "hijra_count": 0,
+        "latitude": 24.54153,
+        "longitude": 91.56106
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "তাহিরপুর নয় মৌজা ইত্তেফাকিয়া আলিম মাদ্রাসা",
+        "male_count": 1473,
+        "female_count": 1503,
+        "hijra_count": 0,
+        "latitude": 24.60649,
+        "longitude": 91.56787
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দক্ষিণগ্রাম (ইমামবাঐ) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1085,
+        "female_count": 1105,
+        "hijra_count": 0,
+        "latitude": 24.54626,
+        "longitude": 91.54923
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দত্তগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 753,
+        "female_count": 808,
+        "hijra_count": 0,
+        "latitude": 24.57468,
+        "longitude": 91.48704
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দত্তপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1102,
+        "female_count": 987,
+        "hijra_count": 0,
+        "latitude": 24.26894,
+        "longitude": 91.51986
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দিনারপুর উচ্চ বিদ্যালয়",
+        "male_count": 1082,
+        "female_count": 1059,
+        "hijra_count": 0,
+        "latitude": 24.51125,
+        "longitude": 91.58626
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দীঘলবাক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 693,
+        "female_count": 658,
+        "hijra_count": 0,
+        "latitude": 24.67094,
+        "longitude": 91.61049
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দুর্গাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 966,
+        "female_count": 957,
+        "hijra_count": 0,
+        "latitude": 24.60325,
+        "longitude": 91.48051
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দুর্লভপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1250,
+        "female_count": 1294,
+        "hijra_count": 0,
+        "latitude": 24.56361,
+        "longitude": 91.58716
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দেবপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1657,
+        "female_count": 1622,
+        "hijra_count": 0,
+        "latitude": 24.53128,
+        "longitude": 91.59633
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দৌলতপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2214,
+        "female_count": 2102,
+        "hijra_count": 0,
+        "latitude": 24.65161,
+        "longitude": 91.61898
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "দ্বিমুড়া রহমানিয়া ফাজিল মাদ্রাসা",
+        "male_count": 964,
+        "female_count": 933,
+        "hijra_count": 0,
+        "latitude": 24.29298,
+        "longitude": 91.49779
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "নবীগঞ্জ জে.কে. উচ্চ বিদ্যালয়",
+        "male_count": 1261,
+        "female_count": 1226,
+        "hijra_count": 1,
+        "latitude": 24.56793,
+        "longitude": 91.51366
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "নবীগঞ্জ নহরপুর শাহজালাল (রঃ) দাখিল মাদ্রাসা",
+        "male_count": 1826,
+        "female_count": 1972,
+        "hijra_count": 0,
+        "latitude": 24.56486,
+        "longitude": 91.52929
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "নাদামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1727,
+        "female_count": 1798,
+        "hijra_count": 0,
+        "latitude": 24.64904,
+        "longitude": 91.58127
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "নোয়াঐ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1138,
+        "female_count": 1087,
+        "hijra_count": 0,
+        "latitude": 24.42153,
+        "longitude": 91.55277
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "নোয়াগাও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1870,
+        "female_count": 1666,
+        "hijra_count": 0,
+        "latitude": 24.48064,
+        "longitude": 91.55527
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পর্বতপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1068,
+        "female_count": 1110,
+        "hijra_count": 0,
+        "latitude": 24.60757,
+        "longitude": 91.65247
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পশ্চিম জয়পুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1000,
+        "female_count": 967,
+        "hijra_count": 0,
+        "latitude": 24.28433,
+        "longitude": 91.52884
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পশ্চিম তিমিরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 866,
+        "female_count": 870,
+        "hijra_count": 0,
+        "latitude": 24.5484,
+        "longitude": 91.50749
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পশ্চিম ভাদেশ্বর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1146,
+        "female_count": 1161,
+        "hijra_count": 0,
+        "latitude": 24.31454,
+        "longitude": 91.5381
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পাইকপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1048,
+        "female_count": 1099,
+        "hijra_count": 0,
+        "latitude": 24.53723,
+        "longitude": 91.51841
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পাঞ্জারাই সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1299,
+        "female_count": 1277,
+        "hijra_count": 0,
+        "latitude": 24.61638,
+        "longitude": 91.51084
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পাঠানটুলা (ফদ্রখলা) সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1046,
+        "female_count": 1035,
+        "hijra_count": 0,
+        "latitude": 24.27852,
+        "longitude": 91.4969
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পানিউমদা পূর্বপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1781,
+        "female_count": 1693,
+        "hijra_count": 0,
+        "latitude": 24.46783,
+        "longitude": 91.58535
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পানিউমদা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1753,
+        "female_count": 1846,
+        "hijra_count": 0,
+        "latitude": 24.46918,
+        "longitude": 91.57486
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পারকুল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1004,
+        "female_count": 977,
+        "hijra_count": 0,
+        "latitude": 24.63468,
+        "longitude": 91.66922
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পিটুয়া বালক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1340,
+        "female_count": 1364,
+        "hijra_count": 0,
+        "latitude": 24.61126,
+        "longitude": 91.65384
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পুটিজুরী শরৎ চন্দ্র উচ্চ বিদ্যালয়",
+        "male_count": 2009,
+        "female_count": 1881,
+        "hijra_count": 0,
+        "latitude": 24.40687,
+        "longitude": 91.56511
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পুটিজুরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1464,
+        "female_count": 1265,
+        "hijra_count": 0,
+        "latitude": 24.39933,
+        "longitude": 91.56253
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পুরানগাও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1665,
+        "female_count": 1603,
+        "hijra_count": 0,
+        "latitude": 24.50033,
+        "longitude": 91.48039
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পূর্ব জয়পুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 840,
+        "female_count": 768,
+        "hijra_count": 0,
+        "latitude": 24.28928,
+        "longitude": 91.5303
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "পূর্ব তিমিরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 821,
+        "female_count": 828,
+        "hijra_count": 0,
+        "latitude": 24.54482,
+        "longitude": 91.51444
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ফতেপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 640,
+        "female_count": 619,
+        "hijra_count": 0,
+        "latitude": 24.65312,
+        "longitude": 91.44173
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ফতেহপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1503,
+        "female_count": 1417,
+        "hijra_count": 0,
+        "latitude": 24.38596,
+        "longitude": 91.54099
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ফয়েজাবাদ উচ্চ বিদ্যালয়",
+        "male_count": 1932,
+        "female_count": 1820,
+        "hijra_count": 0,
+        "latitude": 24.29412,
+        "longitude": 91.58885
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ফয়েজাবাদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 638,
+        "female_count": 622,
+        "hijra_count": 0,
+        "latitude": 24.32744,
+        "longitude": 91.54469
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ফরিদপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 876,
+        "female_count": 863,
+        "hijra_count": 0,
+        "latitude": 24.58186,
+        "longitude": 91.6222
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বক্তারপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1382,
+        "female_count": 1056,
+        "hijra_count": 0,
+        "latitude": 24.39927,
+        "longitude": 91.47893
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বড়ইউরি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1891,
+        "female_count": 1673,
+        "hijra_count": 0,
+        "latitude": 24.33685,
+        "longitude": 91.52123
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বড়চর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1088,
+        "female_count": 972,
+        "hijra_count": 0,
+        "latitude": 24.43862,
+        "longitude": 91.56949
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বড় ভাকৈর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 792,
+        "female_count": 793,
+        "hijra_count": 0,
+        "latitude": 24.65349,
+        "longitude": 91.54329
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বড় শাখোয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1575,
+        "female_count": 1505,
+        "hijra_count": 0,
+        "latitude": 24.59495,
+        "longitude": 91.49496
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বদরদী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 933,
+        "female_count": 887,
+        "hijra_count": 0,
+        "latitude": 24.52835,
+        "longitude": 91.51275
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বনগাও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1506,
+        "female_count": 1425,
+        "hijra_count": 0,
+        "latitude": 24.51646,
+        "longitude": 91.60016
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বনগাঁও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 815,
+        "female_count": 818,
+        "hijra_count": 0,
+        "latitude": 24.63386,
+        "longitude": 91.65042
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বাউশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1635,
+        "female_count": 1723,
+        "hijra_count": 0,
+        "latitude": 24.55569,
+        "longitude": 91.54751
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বাগাউড়া উচ্চ বিদ্যালয়",
+        "male_count": 1455,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 24.65782,
+        "longitude": 91.53444
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বাঘদাইর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 534,
+        "female_count": 469,
+        "hijra_count": 0,
+        "latitude": 24.43637,
+        "longitude": 91.51098
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বাজকাশারা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 587,
+        "female_count": 574,
+        "hijra_count": 0,
+        "latitude": 24.58145,
+        "longitude": 91.54661
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বাজু সুনাইত্যা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1865,
+        "female_count": 1949,
+        "hijra_count": 0,
+        "latitude": 24.66474,
+        "longitude": 91.58298
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বাদেরায়ঘর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 864,
+        "female_count": 871,
+        "hijra_count": 0,
+        "latitude": 24.62069,
+        "longitude": 91.61726
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বালিচাপড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1856,
+        "female_count": 1582,
+        "hijra_count": 0,
+        "latitude": 24.33849,
+        "longitude": 91.50368
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বাশডর  সরকারী প্রাথমিক বিদ্যালয়,",
+        "male_count": 1290,
+        "female_count": 1189,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বাহুবল আদর্শ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2235,
+        "female_count": 2142,
+        "hijra_count": 0,
+        "latitude": 24.34397,
+        "longitude": 91.53929
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বিহারীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 585,
+        "female_count": 522,
+        "hijra_count": 0,
+        "latitude": 24.29764,
+        "longitude": 91.53294
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বুড়িনাও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1208,
+        "female_count": 1229,
+        "hijra_count": 0,
+        "latitude": 24.45551,
+        "longitude": 91.57286
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বুরহানপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 479,
+        "female_count": 556,
+        "hijra_count": 0,
+        "latitude": 24.61918,
+        "longitude": 91.57552
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বৃন্দাবন চা বাগান প্রাথমিক বিদ্যালয়",
+        "male_count": 595,
+        "female_count": 619,
+        "hijra_count": 0,
+        "latitude": 24.39447,
+        "longitude": 91.57946
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "বেতাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 875,
+        "female_count": 848,
+        "hijra_count": 0,
+        "latitude": 24.58214,
+        "longitude": 91.60376
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ভরারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1490,
+        "female_count": 1442,
+        "hijra_count": 0,
+        "latitude": 24.5352,
+        "longitude": 91.61029
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ভানুদেব সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1201,
+        "female_count": 1244,
+        "hijra_count": 0,
+        "latitude": 24.55697,
+        "longitude": 91.59816
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ভুগলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1114,
+        "female_count": 1114,
+        "hijra_count": 0,
+        "latitude": 24.28342,
+        "longitude": 91.50902
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ভুবিরবাক-১ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 802,
+        "female_count": 791,
+        "hijra_count": 0,
+        "latitude": 24.57875,
+        "longitude": 91.56296
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "ভুবিরবাক-২ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1013,
+        "female_count": 1076,
+        "hijra_count": 0,
+        "latitude": 24.58753,
+        "longitude": 91.54324
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মাধবপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1005,
+        "female_count": 916,
+        "hijra_count": 0,
+        "latitude": 24.62422,
+        "longitude": 91.54142
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মানবকল্যান উচ্চ বিদ্যালয়",
+        "male_count": 1643,
+        "female_count": 1634,
+        "hijra_count": 0,
+        "latitude": 24.32327,
+        "longitude": 91.47878
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মান্দারকান্দি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 935,
+        "female_count": 956,
+        "hijra_count": 0,
+        "latitude": 24.52484,
+        "longitude": 91.48958
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মিনাজপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1258,
+        "female_count": 1312,
+        "hijra_count": 0,
+        "latitude": 24.60539,
+        "longitude": 91.6198
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মীরপুর দাখিল মাদ্রাসা",
+        "male_count": 1239,
+        "female_count": 1293,
+        "hijra_count": 0,
+        "latitude": 24.29999,
+        "longitude": 91.51472
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মীরপুর পরিবার কল্যাণ কেন্দ্র",
+        "male_count": 1131,
+        "female_count": 1191,
+        "hijra_count": 0,
+        "latitude": 24.29429,
+        "longitude": 91.51164
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মীরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1274,
+        "female_count": 1296,
+        "hijra_count": 0,
+        "latitude": 24.30017,
+        "longitude": 91.51474
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মুক্তাহার সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1090,
+        "female_count": 1084,
+        "hijra_count": 0,
+        "latitude": 24.5845,
+        "longitude": 91.4994
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মুড়াউড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1031,
+        "female_count": 1073,
+        "hijra_count": 0,
+        "latitude": 24.49823,
+        "longitude": 91.58267
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মুদাহরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1315,
+        "female_count": 1437,
+        "hijra_count": 0,
+        "latitude": 24.45106,
+        "longitude": 91.5637
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মোস্তফাপুর  সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1476,
+        "female_count": 1503,
+        "hijra_count": 0,
+        "latitude": 24.65658,
+        "longitude": 91.5756
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "মৌড়ি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1791,
+        "female_count": 1631,
+        "hijra_count": 0,
+        "latitude": 24.33391,
+        "longitude": 91.54765
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "যশমঙ্গল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1800,
+        "female_count": 1622,
+        "hijra_count": 0,
+        "latitude": 24.3231,
+        "longitude": 91.52989
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রতনপুর  সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 846,
+        "female_count": 908,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রশিদপুর চা বাগান প্রাথমিক বিদ্যালয়",
+        "male_count": 1441,
+        "female_count": 1438,
+        "hijra_count": 0,
+        "latitude": 24.30862,
+        "longitude": 91.56103
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রসুলগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1638,
+        "female_count": 1614,
+        "hijra_count": 0,
+        "latitude": 24.52956,
+        "longitude": 91.50113
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রাইয়াপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 805,
+        "female_count": 906,
+        "hijra_count": 0,
+        "latitude": 24.60207,
+        "longitude": 91.56069
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রাজাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1076,
+        "female_count": 1022,
+        "hijra_count": 0,
+        "latitude": 24.34465,
+        "longitude": 91.51184
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রাজাবাদ কমিউনিটি প্রাথমিক বিদ্যালয়",
+        "male_count": 1038,
+        "female_count": 1102,
+        "hijra_count": 0,
+        "latitude": 24.5689,
+        "longitude": 91.50967
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রাধাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1161,
+        "female_count": 1173,
+        "hijra_count": 0,
+        "latitude": 24.66336,
+        "longitude": 91.6093
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রামপুর চা বাগান অফিস",
+        "male_count": 1430,
+        "female_count": 1330,
+        "hijra_count": 0,
+        "latitude": 24.33272,
+        "longitude": 91.55492
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 954,
+        "female_count": 946,
+        "hijra_count": 0,
+        "latitude": 24.3095,
+        "longitude": 91.49375
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 879,
+        "female_count": 959,
+        "hijra_count": 0,
+        "latitude": 24.51583,
+        "longitude": 91.49037
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1677,
+        "female_count": 1681,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রামলোহ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1301,
+        "female_count": 1354,
+        "hijra_count": 0,
+        "latitude": 24.50837,
+        "longitude": 91.60031
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রিফাতপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 477,
+        "female_count": 490,
+        "hijra_count": 0,
+        "latitude": 24.55135,
+        "longitude": 91.52615
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রুপাইছড়া রাবার বাগান অফিস",
+        "male_count": 1247,
+        "female_count": 1073,
+        "hijra_count": 0,
+        "latitude": 24.42324,
+        "longitude": 91.58058
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "রোকনপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1008,
+        "female_count": 948,
+        "hijra_count": 0,
+        "latitude": 24.44792,
+        "longitude": 91.572
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "লক্ষীপুর সরঃ প্রাঃ বিদ্যালয়",
+        "male_count": 1067,
+        "female_count": 924,
+        "hijra_count": 0,
+        "latitude": 24.60128,
+        "longitude": 91.48924
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "লাকড়ীপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 878,
+        "female_count": 846,
+        "hijra_count": 0,
+        "latitude": 24.26587,
+        "longitude": 91.50662
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "লোগাও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 799,
+        "female_count": 732,
+        "hijra_count": 0,
+        "latitude": 24.51938,
+        "longitude": 91.61133
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "শংকরপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1279,
+        "female_count": 1144,
+        "hijra_count": 0,
+        "latitude": 24.4751,
+        "longitude": 91.54289
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "শতক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1436,
+        "female_count": 1352,
+        "hijra_count": 0,
+        "latitude": 24.50475,
+        "longitude": 91.6135
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "শাহবাজপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 437,
+        "female_count": 457,
+        "hijra_count": 0,
+        "latitude": 24.61395,
+        "longitude": 91.57609
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "শিবপাশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 892,
+        "female_count": 850,
+        "hijra_count": 0,
+        "latitude": 24.26671,
+        "longitude": 91.54898
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "শিবপাশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1456,
+        "female_count": 1536,
+        "hijra_count": 0,
+        "latitude": 24.56662,
+        "longitude": 91.52199
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "শেরপুর সরকারী প্রাথমিক  বিদ্যালয়",
+        "male_count": 1236,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 24.60767,
+        "longitude": 91.46547
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "শৈলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1138,
+        "female_count": 1137,
+        "hijra_count": 0,
+        "latitude": 24.66531,
+        "longitude": 91.47338
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "শ্রীমতপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1428,
+        "female_count": 1434,
+        "hijra_count": 0,
+        "latitude": 24.47783,
+        "longitude": 91.47539
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "সদয়গঞ্জ সরকারী প্রাথমিক বিদ্যালয়,",
+        "male_count": 947,
+        "female_count": 879,
+        "hijra_count": 0,
+        "latitude": 24.63467,
+        "longitude": 91.61423
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "সমরগাঁও সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1099,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 24.56971,
+        "longitude": 91.56994
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "সাতাইহাল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1488,
+        "female_count": 1387,
+        "hijra_count": 0,
+        "latitude": 24.49279,
+        "longitude": 91.5814
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "সিংহনাদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1199,
+        "female_count": 1128,
+        "hijra_count": 0,
+        "latitude": 24.36137,
+        "longitude": 91.53676
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "সুজাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 841,
+        "female_count": 919,
+        "hijra_count": 0,
+        "latitude": 24.5505,
+        "longitude": 91.52035
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "সৈয়দপুর বাজার  ফাজিল মাদ্রাসা",
+        "male_count": 1207,
+        "female_count": 1206,
+        "hijra_count": 0,
+        "latitude": 24.61546,
+        "longitude": 91.62907
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "সোনাপুর জগন্নাথপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1144,
+        "female_count": 1212,
+        "hijra_count": 0,
+        "latitude": 24.65309,
+        "longitude": 91.44767
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "সোনাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1191,
+        "female_count": 1256,
+        "hijra_count": 0,
+        "latitude": 24.6624,
+        "longitude": 91.45174
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "স্নানঘাট ইউনিয়ন পরিষদ",
+        "male_count": 1289,
+        "female_count": 1311,
+        "hijra_count": 0,
+        "latitude": 24.41864,
+        "longitude": 91.53577
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "স্নানঘাট সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1342,
+        "female_count": 1255,
+        "hijra_count": 0,
+        "latitude": 24.41864,
+        "longitude": 91.53576
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "হরাইটেকা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1441,
+        "female_count": 1383,
+        "hijra_count": 0,
+        "latitude": 24.36285,
+        "longitude": 91.51096
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "হরিনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 793,
+        "female_count": 771,
+        "hijra_count": 0,
+        "latitude": 24.66531,
+        "longitude": 91.51788
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "হলিমপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1508,
+        "female_count": 1519,
+        "hijra_count": 0,
+        "latitude": 24.65494,
+        "longitude": 91.46806
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "হাজীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1355,
+        "female_count": 1360,
+        "hijra_count": 0,
+        "latitude": 24.3327,
+        "longitude": 91.4801
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "হাজী শাহ আব্দুর রউফ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 616,
+        "female_count": 616,
+        "hijra_count": 0,
+        "latitude": 24.54088,
+        "longitude": 91.60557
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "হিরামিয়া গার্লস হাই স্কুল",
+        "male_count": 1156,
+        "female_count": 1097,
+        "hijra_count": 0,
+        "latitude": 24.57556,
+        "longitude": 91.51298
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "হোসেনপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 990,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 24.41864,
+        "longitude": 91.53576
+    },
+    {
+        "settings_code": 239,
+        "settings_name": "হবিগঞ্জ-১",
+        "center_name": "হোসেনপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1637,
+        "female_count": 1526,
+        "hijra_count": 0,
+        "latitude": 24.61342,
+        "longitude": 91.63156
+    }
+]

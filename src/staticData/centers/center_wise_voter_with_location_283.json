@@ -1,0 +1,932 @@
+[
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "১০০ নং পশ্চিম গুজরা ইসলামিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1328,
+        "female_count": 1165,
+        "hijra_count": 0,
+        "latitude": 22.46857,
+        "longitude": 91.89263
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "১০নং পশ্চিম ডাবুয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1629,
+        "female_count": 1456,
+        "hijra_count": 0,
+        "latitude": 22.56393,
+        "longitude": 91.88443
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "১১নং পূর্ব ডাবুয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1865,
+        "female_count": 1555,
+        "hijra_count": 0,
+        "latitude": 22.57446,
+        "longitude": 91.91876
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "১২৩ নং নোয়াপাড়া কৈবর্ত্য পাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1515,
+        "female_count": 1445,
+        "hijra_count": 0,
+        "latitude": 45.69909,
+        "longitude": 11.71264
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "১৩নং হিংগলা মুছা শাহ সঃ প্রাঃ বিঃ",
+        "male_count": 1640,
+        "female_count": 1489,
+        "hijra_count": 0,
+        "latitude": 22.55379,
+        "longitude": 91.92369
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "১৪নং কলমপতি সঃ প্রাঃ বিঃ",
+        "male_count": 1412,
+        "female_count": 1291,
+        "hijra_count": 0,
+        "latitude": 22.54438,
+        "longitude": 91.93433
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "১৯নং চিকদাইর সরকার সঃ প্রাঃ বিঃ",
+        "male_count": 974,
+        "female_count": 838,
+        "hijra_count": 0,
+        "latitude": 22.537,
+        "longitude": 91.88262
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "১নং হলদিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1933,
+        "female_count": 1782,
+        "hijra_count": 0,
+        "latitude": 22.60234,
+        "longitude": 91.89489
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "২০নং চিকদাইর পাঠানপাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1448,
+        "female_count": 1346,
+        "hijra_count": 0,
+        "latitude": 22.55171,
+        "longitude": 91.89024
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "২১নং চিকদাইর মুন্সিপাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 2770,
+        "female_count": 2524,
+        "hijra_count": 0,
+        "latitude": 22.54628,
+        "longitude": 91.87191
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "২৫নং দক্ষিণ সত্তা সঃ প্রাঃ বিঃ",
+        "male_count": 2325,
+        "female_count": 2150,
+        "hijra_count": 0,
+        "latitude": 22.528,
+        "longitude": 91.86808
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "২৯নং দক্ষিণ গহিরা খান সাহেব আব্দুল করিম সঃ প্রাঃ বিঃ",
+        "male_count": 0,
+        "female_count": 2708,
+        "hijra_count": 0,
+        "latitude": 22.50509,
+        "longitude": 91.86806
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৩৪নং দক্ষিন দলই নগর সঃ প্রাঃ বিঃ",
+        "male_count": 1135,
+        "female_count": 1041,
+        "hijra_count": 0,
+        "latitude": 22.52599,
+        "longitude": 91.86428
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৩৫নং কোতয়ালী ঘোনা সঃ প্রাঃ বিঃ",
+        "male_count": 2281,
+        "female_count": 2069,
+        "hijra_count": 0,
+        "latitude": 22.53407,
+        "longitude": 91.84776
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৪১ নং সুলতানপুর প্রসন্ন সঃ প্রাঃ বিঃ",
+        "male_count": 2767,
+        "female_count": 2459,
+        "hijra_count": 0,
+        "latitude": 22.53331,
+        "longitude": 91.8952
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৪৬নং ঢেউয়া হাজী পাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1415,
+        "female_count": 1273,
+        "hijra_count": 0,
+        "latitude": 22.52859,
+        "longitude": 91.92036
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৪৭নং শাহনগর সরকারী প্রাথমিক বিঃ",
+        "male_count": 1892,
+        "female_count": 1802,
+        "hijra_count": 0,
+        "latitude": 22.54254,
+        "longitude": 91.91923
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৫৩নং ইদিলপুর সঃ প্রাঃ বিঃ",
+        "male_count": 1914,
+        "female_count": 1790,
+        "hijra_count": 0,
+        "latitude": 22.51703,
+        "longitude": 91.89266
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৫৭নং পশ্চিম লেলাংগারা সঃ প্রাঃ বিঃ",
+        "male_count": 2207,
+        "female_count": 1983,
+        "hijra_count": 0,
+        "latitude": 22.5093,
+        "longitude": 91.90744
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৫নং ইয়াছিন নগর জুবলি সঃ প্রাঃ বিঃ",
+        "male_count": 2771,
+        "female_count": 2565,
+        "hijra_count": 0,
+        "latitude": 22.57917,
+        "longitude": 91.90193
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৬০নং শমশেরনগর সঃ প্রাঃ বিঃ",
+        "male_count": 1841,
+        "female_count": 1554,
+        "hijra_count": 0,
+        "latitude": 22.51737,
+        "longitude": 91.94739
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৬১নং পূর্ব রাউজান সঃ প্রাঃ বিঃ",
+        "male_count": 1308,
+        "female_count": 1208,
+        "hijra_count": 0,
+        "latitude": 22.52953,
+        "longitude": 91.94833
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৬২নং মধ্য রাউজান সঃ প্রাঃ বিঃ",
+        "male_count": 1068,
+        "female_count": 1034,
+        "hijra_count": 0,
+        "latitude": 22.52825,
+        "longitude": 91.93188
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৬৮নং খলিলাবাদ সঃ প্রাঃ বিঃ",
+        "male_count": 1782,
+        "female_count": 1597,
+        "hijra_count": 0,
+        "latitude": 22.51117,
+        "longitude": 91.94269
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৬নং গর্জনিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1363,
+        "female_count": 1246,
+        "hijra_count": 0,
+        "latitude": 22.58692,
+        "longitude": 91.89368
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৭নং জানি পাথর রহমানিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1343,
+        "female_count": 1142,
+        "hijra_count": 0,
+        "latitude": 22.58575,
+        "longitude": 91.92016
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৮৬নং পূর্ব গুজরা মোহাম্মদিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 1589,
+        "female_count": 1484,
+        "hijra_count": 0,
+        "latitude": 22.46418,
+        "longitude": 91.93902
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৮৯নং অলিমিয়াহাট সঃ প্রাঃ বিঃ",
+        "male_count": 2456,
+        "female_count": 2202,
+        "hijra_count": 0,
+        "latitude": 22.48103,
+        "longitude": 91.91648
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৯১নং উত্তর গুজরা উমা বোর্ড সঃ প্রাঃ বিঃ",
+        "male_count": 1800,
+        "female_count": 1586,
+        "hijra_count": 0,
+        "latitude": 22.48733,
+        "longitude": 91.90641
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৯২ নং উত্তর গুজরা বিশ্বাস সঃ প্রাঃ বিঃ",
+        "male_count": 1209,
+        "female_count": 1088,
+        "hijra_count": 0,
+        "latitude": 22.4863,
+        "longitude": 91.91348
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "৯৩নং আধারমানিক সঃ প্রাঃ বিঃ",
+        "male_count": 1711,
+        "female_count": 1633,
+        "hijra_count": 0,
+        "latitude": 22.48241,
+        "longitude": 91.93327
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "অদুদিয়া উচ্চ বিদ্যালয় (ফতেনগর)",
+        "male_count": 2300,
+        "female_count": 1979,
+        "hijra_count": 0,
+        "latitude": 22.55453,
+        "longitude": 91.86338
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "আবুরখীল অমিতাভ উচ্চ বিদ্যালয়",
+        "male_count": 1669,
+        "female_count": 1458,
+        "hijra_count": 0,
+        "latitude": 22.46263,
+        "longitude": 91.88469
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "আর্যমৈত্রীয় উঃ বিঃ",
+        "male_count": 1848,
+        "female_count": 1809,
+        "hijra_count": 0,
+        "latitude": 22.51438,
+        "longitude": 91.92973
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "উত্তর উরকিরচর সঃ প্রাঃ বিঃ",
+        "male_count": 3153,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.45163,
+        "longitude": 91.86457
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "উত্তর দেওয়ানপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2910,
+        "female_count": 2566,
+        "hijra_count": 0,
+        "latitude": 22.454,
+        "longitude": 91.9507
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "উত্তর সর্ত্তা দরগাহ উচ্চ বিদ্যালয়",
+        "male_count": 3067,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.58313,
+        "longitude": 91.88152
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "উত্তর সর্ত্তা দরগাহ উচ্চ বিদ্যালয় সংলগ্ন সঃ প্রাঃ বিঃ",
+        "male_count": 0,
+        "female_count": 2740,
+        "hijra_count": 0,
+        "latitude": 22.58272,
+        "longitude": 91.88207
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "উনসত্তর পাড়া উচ্চ বিদ্যালয়",
+        "male_count": 3564,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.46637,
+        "longitude": 91.9659
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "উনসত্তর পাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 0,
+        "female_count": 3424,
+        "hijra_count": 0,
+        "latitude": 22.46618,
+        "longitude": 91.96651
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "উরকিরচর উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2796,
+        "hijra_count": 0,
+        "latitude": 22.45174,
+        "longitude": 91.86487
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কচুখাইন মিয়া আলী উচ্চ বিদ্যালয়",
+        "male_count": 2022,
+        "female_count": 1831,
+        "hijra_count": 0,
+        "latitude": 22.41755,
+        "longitude": 91.89035
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কদলপুর ওসমানিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 2897,
+        "female_count": 2570,
+        "hijra_count": 0,
+        "latitude": 22.50169,
+        "longitude": 91.94776
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কদলপুর পরীর দীঘি স: প্রা: বি:",
+        "male_count": 2385,
+        "female_count": 2172,
+        "hijra_count": 0,
+        "latitude": 22.48026,
+        "longitude": 91.95988
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কদলপুর স্কুল এন্ড কলেজ",
+        "male_count": 2281,
+        "female_count": 2141,
+        "hijra_count": 0,
+        "latitude": 22.48946,
+        "longitude": 91.95459
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কদলপুর হামিদিয়া কামিল (এম.এ) মাদ্রাসা",
+        "male_count": 2199,
+        "female_count": 1997,
+        "hijra_count": 0,
+        "latitude": 22.49737,
+        "longitude": 91.94941
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কাঠাঁল ভাংগা সঃ প্রাঃ বিঃ",
+        "male_count": 1154,
+        "female_count": 1092,
+        "hijra_count": 0,
+        "latitude": 22.462,
+        "longitude": 91.90973
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কে.সি.কাগতিয়া সঃ প্রাঃ বিঃ",
+        "male_count": 2655,
+        "female_count": 2497,
+        "hijra_count": 0,
+        "latitude": 22.49484,
+        "longitude": 91.89355
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কোয়েপাড়া উচ্চ বিদ্যালয়",
+        "male_count": 884,
+        "female_count": 815,
+        "hijra_count": 0,
+        "latitude": 22.42339,
+        "longitude": 91.95909
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "কোয়েপাড়া বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1627,
+        "female_count": 1422,
+        "hijra_count": 0,
+        "latitude": 22.43219,
+        "longitude": 91.95955
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "খলিফার ঘোনা সঃ প্রাঃ বিঃ",
+        "male_count": 799,
+        "female_count": 783,
+        "hijra_count": 0,
+        "latitude": 22.46617,
+        "longitude": 91.86937
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "খান পাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1391,
+        "female_count": 1355,
+        "hijra_count": 0,
+        "latitude": 22.4561,
+        "longitude": 91.96746
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "গশ্চি উচ্চ বিদ্যালয়",
+        "male_count": 2549,
+        "female_count": 2263,
+        "hijra_count": 0,
+        "latitude": 22.44725,
+        "longitude": 91.93997
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "গশ্চি বোর্ড সঃ প্রাঃ বিঃ",
+        "male_count": 1345,
+        "female_count": 1155,
+        "hijra_count": 0,
+        "latitude": 22.46037,
+        "longitude": 91.94572
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "গহিরা আবদুল জব্বার ইয়াংমেন সোসাইটি বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2633,
+        "hijra_count": 0,
+        "latitude": 22.52112,
+        "longitude": 91.86848
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "গহিরা কলেজ",
+        "male_count": 2908,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.52264,
+        "longitude": 91.86932
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "গুজরা শ্যামাচরণ উচ্চ বিঃ",
+        "male_count": 2008,
+        "female_count": 1875,
+        "hijra_count": 0,
+        "latitude": 22.47786,
+        "longitude": 91.89487
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "ছামিদার কোয়াং সঃ প্রাঃ বিঃ",
+        "male_count": 2315,
+        "female_count": 2121,
+        "hijra_count": 0,
+        "latitude": 22.42284,
+        "longitude": 91.9034
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "ডাবুয়া উচ্চ বিদ্যালয়",
+        "male_count": 973,
+        "female_count": 798,
+        "hijra_count": 0,
+        "latitude": 22.56315,
+        "longitude": 91.89452
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "ডাবুয়া তারাচরণ শ্যামাচরণ উচ্চ বিদ্যালয়",
+        "male_count": 1580,
+        "female_count": 1422,
+        "hijra_count": 0,
+        "latitude": 22.56026,
+        "longitude": 91.90331
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "দক্ষিণ গহিরা খান সাহেব আবদুল করিম উচ্চ বিদ্যালয়",
+        "male_count": 3154,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.50513,
+        "longitude": 91.868
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "দক্ষিন নোয়াপাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 2179,
+        "female_count": 1912,
+        "hijra_count": 0,
+        "latitude": 22.42558,
+        "longitude": 91.90763
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "দলইনগর উচ্চ বিদ্যালয়",
+        "male_count": 1632,
+        "female_count": 1512,
+        "hijra_count": 0,
+        "latitude": 22.53398,
+        "longitude": 91.86141
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "নাদিমপুর সঃ প্রাঃ বিঃ",
+        "male_count": 1671,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 22.55154,
+        "longitude": 91.85197
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "নোয়াজিশপুর সঃ প্রাঃ বিঃ",
+        "male_count": 1816,
+        "female_count": 1657,
+        "hijra_count": 0,
+        "latitude": 22.54783,
+        "longitude": 91.86099
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "নোয়াপাড়া উচ্চ বিদ্যালয়",
+        "male_count": 1885,
+        "female_count": 1721,
+        "hijra_count": 0,
+        "latitude": 22.44112,
+        "longitude": 91.90916
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "নোয়াপাড়া ডিগ্রী কলেজ",
+        "male_count": 2134,
+        "female_count": 1904,
+        "hijra_count": 0,
+        "latitude": 22.43612,
+        "longitude": 91.90319
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "পশ্চিম গহিরা ইউনুছ সুফিয়া চৌধুরী পাবলিক উচ্চ বিদ্যালয়",
+        "male_count": 3363,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.51994,
+        "longitude": 91.85683
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "পশ্চিম গহিরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2985,
+        "hijra_count": 0,
+        "latitude": 22.51726,
+        "longitude": 91.85663
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "পশ্চিম গুজরা রামকৃষ্ণ সঃ প্রাঃ বিঃ",
+        "male_count": 2214,
+        "female_count": 2035,
+        "hijra_count": 0,
+        "latitude": 22.45186,
+        "longitude": 91.89483
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "পাঁচখাইন দরগাহ সঃ প্রাঃ বিঃ",
+        "male_count": 2790,
+        "female_count": 2485,
+        "hijra_count": 0,
+        "latitude": 22.42917,
+        "longitude": 91.93202
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "পাঁচখাইন সঃ প্রাঃ বিঃ",
+        "male_count": 1432,
+        "female_count": 1331,
+        "hijra_count": 0,
+        "latitude": 22.4328,
+        "longitude": 91.94084
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "পূর্ব খচুখাইন সঃ প্রাঃ বিঃ",
+        "male_count": 1922,
+        "female_count": 1723,
+        "hijra_count": 0,
+        "latitude": 22.41748,
+        "longitude": 91.89698
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "পূর্ব গুজরা মোহাম্মদীয়া সিনিয়র মাদ্রাসা ও এতিমখানা",
+        "male_count": 1689,
+        "female_count": 1512,
+        "hijra_count": 0,
+        "latitude": 22.46427,
+        "longitude": 91.93892
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "বিনাজুরী নবীন স্কুল এন্ড কলেজ",
+        "male_count": 1197,
+        "female_count": 1055,
+        "hijra_count": 0,
+        "latitude": 22.49852,
+        "longitude": 91.89287
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "মহামুনি এ্যাংলো পলি উচ্চ বিদ্যালয়",
+        "male_count": 1111,
+        "female_count": 1084,
+        "hijra_count": 0,
+        "latitude": 22.44041,
+        "longitude": 91.97004
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "মিরাপাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1983,
+        "female_count": 1834,
+        "hijra_count": 0,
+        "latitude": 22.44826,
+        "longitude": 91.88293
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "মোহাম্মদপুর উঃ বিঃ",
+        "male_count": 3025,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.51813,
+        "longitude": 91.92049
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "মোহাম্মদ সঃ প্রাঃ বিঃ",
+        "male_count": 0,
+        "female_count": 2870,
+        "hijra_count": 0,
+        "latitude": 22.51813,
+        "longitude": 91.92049
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "রাউজান আর আর এ সি মডেল উচ্চ বিদ্যালয়",
+        "male_count": 2628,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.5406,
+        "longitude": 91.91029
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "রাউজান আর আর এ সি মডেল উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2390,
+        "hijra_count": 0,
+        "latitude": 22.54067,
+        "longitude": 91.91165
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "রাউজান মহিলা মাদ্রাসা",
+        "male_count": 3771,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.53765,
+        "longitude": 91.94311
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "রাউজান মহিলা মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 3206,
+        "hijra_count": 0,
+        "latitude": 22.53801,
+        "longitude": 91.94244
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "রাউজান সরকারি কলেজ",
+        "male_count": 4275,
+        "female_count": 3728,
+        "hijra_count": 0,
+        "latitude": 22.53431,
+        "longitude": 91.91161
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "রাউজান সুরেশ বিদ্যায়তন",
+        "male_count": 462,
+        "female_count": 463,
+        "hijra_count": 0,
+        "latitude": 22.53552,
+        "longitude": 91.92969
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "শেখ পাড়া পরিজান সঃ প্রাঃ বিঃ",
+        "male_count": 1518,
+        "female_count": 1472,
+        "hijra_count": 0,
+        "latitude": 22.45461,
+        "longitude": 91.97075
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "শেখ পাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 2020,
+        "female_count": 1827,
+        "hijra_count": 0,
+        "latitude": 22.43148,
+        "longitude": 91.91523
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "সাম মহালদার পাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1548,
+        "female_count": 1359,
+        "hijra_count": 0,
+        "latitude": 22.43044,
+        "longitude": 91.89454
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "সুলতানপুর উচ্চ বিঃ",
+        "male_count": 2687,
+        "female_count": 2656,
+        "hijra_count": 0,
+        "latitude": 22.53126,
+        "longitude": 91.89762
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "হাড়পাড়া উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3162,
+        "hijra_count": 0,
+        "latitude": 22.43871,
+        "longitude": 91.88572
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "হাড়পাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 3527,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.43857,
+        "longitude": 91.88522
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "হিংগলা মুছা শাহ উচ্চ বিদ্যালয়",
+        "male_count": 1508,
+        "female_count": 1289,
+        "hijra_count": 0,
+        "latitude": 22.55311,
+        "longitude": 91.92363
+    },
+    {
+        "settings_code": 283,
+        "settings_name": "চট্রগ্রাম-৬",
+        "center_name": "হোয়ারাপাড়া সঃ প্রাঃ বিঃ",
+        "male_count": 1903,
+        "female_count": 1747,
+        "hijra_count": 0,
+        "latitude": 22.45915,
+        "longitude": 91.91827
+    }
+]

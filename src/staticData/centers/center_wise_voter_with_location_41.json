@@ -1,0 +1,1242 @@
+[
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "আইডিয়াল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 839,
+        "female_count": 903,
+        "hijra_count": 0,
+        "latitude": 24.85184,
+        "longitude": 89.3721
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "আটাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1777,
+        "female_count": 1866,
+        "hijra_count": 0,
+        "latitude": 24.83581,
+        "longitude": 89.3684
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "আর্মড পুলিশ ব্যাটালিয়ান পাবলিক স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 2997,
+        "hijra_count": 0,
+        "latitude": 24.83581,
+        "longitude": 89.36838
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "আর্মড পুলিশ ব্যাটালিয়ান পাবলিক স্কুল এন্ড কলেজ",
+        "male_count": 3060,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.86293,
+        "longitude": 89.36011
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "আলহাজ্ব আব্দুল করিম বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1422,
+        "female_count": 1510,
+        "hijra_count": 0,
+        "latitude": 24.89224,
+        "longitude": 89.34488
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "আশোকোলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1931,
+        "female_count": 1921,
+        "hijra_count": 0,
+        "latitude": 24.9124,
+        "longitude": 89.33524
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ইসলামপুর বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1827,
+        "female_count": 1921,
+        "hijra_count": 0,
+        "latitude": 24.8328,
+        "longitude": 89.34965
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "উত্তর চেলোপাড়া দাখিল মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 3060,
+        "hijra_count": 1,
+        "latitude": 24.85433,
+        "longitude": 89.37686
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "এরুলিয়া ইউনিয়ন পরিষদ ভবন",
+        "male_count": 1761,
+        "female_count": 1791,
+        "hijra_count": 0,
+        "latitude": 24.8682,
+        "longitude": 89.32979
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "এরুলিয়া উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3084,
+        "hijra_count": 1,
+        "latitude": 24.86116,
+        "longitude": 89.32965
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "এরুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3118,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.8618,
+        "longitude": 89.32976
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "কদিমপাড়া ইবতেদায়ী মাদ্রাসা",
+        "male_count": 1735,
+        "female_count": 1693,
+        "hijra_count": 0,
+        "latitude": 24.89814,
+        "longitude": 89.39286
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "কাটনার সেন্ট্রাল বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1451,
+        "female_count": 1539,
+        "hijra_count": 0,
+        "latitude": 24.85528,
+        "longitude": 89.37071
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "কুটুরবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1452,
+        "female_count": 1441,
+        "hijra_count": 0,
+        "latitude": 24.89505,
+        "longitude": 89.39851
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "কৈচড় সিদ্দিকিয়া দাখিল মাদ্রাসা",
+        "male_count": 1724,
+        "female_count": 1777,
+        "hijra_count": 0,
+        "latitude": 24.83378,
+        "longitude": 89.32251
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "খামারকান্দি নূরুল উলুম কওমি মাদ্রাসা",
+        "male_count": 1077,
+        "female_count": 1049,
+        "hijra_count": 0,
+        "latitude": 24.86819,
+        "longitude": 89.40117
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "গোকুল তছলিম উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 2447,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.93319,
+        "longitude": 89.34709
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "গোকুল বালক সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2600,
+        "hijra_count": 0,
+        "latitude": 24.93318,
+        "longitude": 89.34651
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ঘুনিয়াতলা উচ্চ বিদ্যালয়",
+        "male_count": 2838,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.83745,
+        "longitude": 89.40368
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ঘোলাগাড়ী (দরগাতলা) আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 2411,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.89184,
+        "longitude": 89.31693
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ঘোলাগাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2494,
+        "hijra_count": 0,
+        "latitude": 24.89202,
+        "longitude": 89.31648
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "চকসূত্রাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1566,
+        "female_count": 1601,
+        "hijra_count": 0,
+        "latitude": 24.8491,
+        "longitude": 89.36541
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "চাঁদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1974,
+        "female_count": 2046,
+        "hijra_count": 0,
+        "latitude": 24.89972,
+        "longitude": 89.34959
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "চাঁদমুহা সরকারি প্রাথিমক বিদ্যালয়",
+        "male_count": 1315,
+        "female_count": 1265,
+        "hijra_count": 0,
+        "latitude": 24.93586,
+        "longitude": 89.31748
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "চাঁদমুহা সরলপুর উচ্চ বিদ্যালয়",
+        "male_count": 1389,
+        "female_count": 1353,
+        "hijra_count": 0,
+        "latitude": 24.93501,
+        "longitude": 89.31659
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "চান্দপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1990,
+        "female_count": 2028,
+        "hijra_count": 0,
+        "latitude": 24.85729,
+        "longitude": 89.41268
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "চালিতাবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1990,
+        "female_count": 1913,
+        "hijra_count": 0,
+        "latitude": 24.9005,
+        "longitude": 89.40091
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "চেলোপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2885,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.85093,
+        "longitude": 89.37778
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ছয়পুকুরিয়া বালিকা বিদ্যালয় ও কলেজ",
+        "male_count": 2952,
+        "female_count": 3008,
+        "hijra_count": 0,
+        "latitude": 24.86082,
+        "longitude": 89.34668
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ছোট কুমিড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2475,
+        "female_count": 2616,
+        "hijra_count": 0,
+        "latitude": 24.86668,
+        "longitude": 89.34659
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ঝোপগাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1266,
+        "female_count": 1293,
+        "hijra_count": 0,
+        "latitude": 24.87257,
+        "longitude": 89.35531
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "টেংরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2348,
+        "female_count": 2221,
+        "hijra_count": 0,
+        "latitude": 24.94572,
+        "longitude": 89.30122
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ঠনঠনিয়া নূরুন আলা নুর ফাযিল মাদ্রাসা",
+        "male_count": 3539,
+        "female_count": 3847,
+        "hijra_count": 0,
+        "latitude": 24.83368,
+        "longitude": 89.37605
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "তাপসী রাবেয়া বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1831,
+        "female_count": 1984,
+        "hijra_count": 0,
+        "latitude": 24.84376,
+        "longitude": 89.36259
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "তেলিহারা পশ্চিমপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1870,
+        "female_count": 1884,
+        "hijra_count": 0,
+        "latitude": 24.93265,
+        "longitude": 89.35914
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "দারিয়াল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1837,
+        "female_count": 1798,
+        "hijra_count": 0,
+        "latitude": 24.91609,
+        "longitude": 89.30811
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "দোবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 789,
+        "female_count": 782,
+        "hijra_count": 0,
+        "latitude": 24.95219,
+        "longitude": 89.38929
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ধরমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1106,
+        "female_count": 1137,
+        "hijra_count": 0,
+        "latitude": 24.87724,
+        "longitude": 89.35508
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ধলমোহিনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1703,
+        "female_count": 1632,
+        "hijra_count": 0,
+        "latitude": 24.95861,
+        "longitude": 89.30892
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ধাওয়াকোলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1296,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 24.93991,
+        "longitude": 89.35919
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ধাওয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 4003,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.85609,
+        "longitude": 89.39223
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "নাটাই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1714,
+        "female_count": 1845,
+        "hijra_count": 0,
+        "latitude": 24.84736,
+        "longitude": 89.38313
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "নামুজা উচ্চ বিদ্যালয়",
+        "male_count": 1003,
+        "female_count": 1007,
+        "hijra_count": 0,
+        "latitude": 24.95813,
+        "longitude": 89.27246
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "নামুজা এস এস আই ফাজিল (ডিগ্রী) মাদ্রাসা",
+        "male_count": 2359,
+        "female_count": 2352,
+        "hijra_count": 0,
+        "latitude": 24.95213,
+        "longitude": 89.28228
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "নারুলী উত্তরণ উচ্চ বিদ্যালয়",
+        "male_count": 2777,
+        "female_count": 3063,
+        "hijra_count": 0,
+        "latitude": 24.85422,
+        "longitude": 89.38317
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "নারুলী উত্তরণ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2178,
+        "female_count": 2417,
+        "hijra_count": 0,
+        "latitude": 24.85424,
+        "longitude": 89.38322
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "নিশিন্দারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 6155,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.86104,
+        "longitude": 89.35439
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "নুনগোলা উচ্চ বিদ্যালয়",
+        "male_count": 2020,
+        "female_count": 2065,
+        "hijra_count": 0,
+        "latitude": 24.89966,
+        "longitude": 89.34142
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পলাশবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1810,
+        "female_count": 1838,
+        "hijra_count": 0,
+        "latitude": 24.94193,
+        "longitude": 89.33347
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পল্লী মঙ্গল বারুইপাড়া ইউনাইটেড উচ্চ বিদ্যালয়",
+        "male_count": 2722,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.90461,
+        "longitude": 89.37665
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পল্লী মঙ্গল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2710,
+        "hijra_count": 0,
+        "latitude": 24.90471,
+        "longitude": 89.37603
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পশ্চিম পালশা মেহেরুলা এবতেদিয়া মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 3687,
+        "hijra_count": 1,
+        "latitude": 24.85197,
+        "longitude": 89.33568
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পাটিতাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 903,
+        "female_count": 856,
+        "hijra_count": 0,
+        "latitude": 24.82671,
+        "longitude": 89.33377
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পালশা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3605,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.84995,
+        "longitude": 89.34433
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পি, টি, আই, (একাডেমিক ভবন)",
+        "male_count": 2890,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.84104,
+        "longitude": 89.3743
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পি, টি, আই, (পরিক্ষণ বিদ্যালয়)",
+        "male_count": 0,
+        "female_count": 3324,
+        "hijra_count": 0,
+        "latitude": 24.84113,
+        "longitude": 89.37437
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পীরগাছা এ, এফ, বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1242,
+        "female_count": 1202,
+        "hijra_count": 0,
+        "latitude": 24.94731,
+        "longitude": 89.40145
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পুলিশ লাইন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2851,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.82327,
+        "longitude": 89.38072
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "পুলিশ লাইন্স স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 2833,
+        "hijra_count": 0,
+        "latitude": 24.82327,
+        "longitude": 89.38074
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "প্রি-ক্যাডেট হাইস্কুল",
+        "male_count": 2515,
+        "female_count": 2708,
+        "hijra_count": 0,
+        "latitude": 24.84493,
+        "longitude": 89.37508
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ফকির উদ্দিন স্কুল এন্ড কলেজ",
+        "male_count": 0,
+        "female_count": 6377,
+        "hijra_count": 0,
+        "latitude": 24.86097,
+        "longitude": 89.35441
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ফাঁপোড় ইউনিয়ন পল্লী মঙ্গল উচ্চ বিদ্যালয়",
+        "male_count": 1280,
+        "female_count": 1355,
+        "hijra_count": 0,
+        "latitude": 24.84502,
+        "longitude": 89.34323
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ফাঁপোড় উচ্চ বিদ্যালয়",
+        "male_count": 1551,
+        "female_count": 1610,
+        "hijra_count": 0,
+        "latitude": 24.84399,
+        "longitude": 89.32494
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ফুলবাড়ী দক্ষিণ পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1916,
+        "female_count": 2138,
+        "hijra_count": 0,
+        "latitude": 24.86355,
+        "longitude": 89.37893
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3139,
+        "female_count": 3290,
+        "hijra_count": 0,
+        "latitude": 24.8684,
+        "longitude": 89.37392
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বগুড়া ইসলামিক মিশন বহুমুখী বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2474,
+        "female_count": 2671,
+        "hijra_count": 0,
+        "latitude": 24.8498,
+        "longitude": 89.37728
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বগুড়া ওয়াইএমসিএ পাবলিক স্কুল এন্ড কলেজ",
+        "male_count": 1213,
+        "female_count": 1305,
+        "hijra_count": 0,
+        "latitude": 24.83179,
+        "longitude": 89.3776
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বগুড়া করোনেশন ইনস্টিটিউশন এ্যান্ড কলেজ",
+        "male_count": 3626,
+        "female_count": 3909,
+        "hijra_count": 0,
+        "latitude": 24.85604,
+        "longitude": 89.36853
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বগুড়া কলেজ",
+        "male_count": 0,
+        "female_count": 3949,
+        "hijra_count": 0,
+        "latitude": 24.8559,
+        "longitude": 89.3921
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বগুড়া জুবিলী ইনস্টিটিউশন",
+        "male_count": 3544,
+        "female_count": 3705,
+        "hijra_count": 0,
+        "latitude": 24.84913,
+        "longitude": 89.36546
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বগুড়া জেলা স্কুল",
+        "male_count": 1037,
+        "female_count": 1070,
+        "hijra_count": 0,
+        "latitude": 24.84767,
+        "longitude": 89.37374
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বগুড়া সিটি বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2283,
+        "female_count": 2518,
+        "hijra_count": 0,
+        "latitude": 24.83701,
+        "longitude": 89.37434
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বগুড়া সেন্ট্রাল হাই স্কুল",
+        "male_count": 2076,
+        "female_count": 2423,
+        "hijra_count": 0,
+        "latitude": 24.84569,
+        "longitude": 89.36958
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বাঘোপাড়া শহীদ দানেশ উদ্দিন স্কুল এন্ড কলেজ",
+        "male_count": 1825,
+        "female_count": 1934,
+        "hijra_count": 0,
+        "latitude": 24.91469,
+        "longitude": 89.35214
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বাদুরতলা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1175,
+        "female_count": 1281,
+        "hijra_count": 0,
+        "latitude": 24.85023,
+        "longitude": 89.3695
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বানদীঘি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1163,
+        "female_count": 1221,
+        "hijra_count": 0,
+        "latitude": 24.87025,
+        "longitude": 89.32901
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বামনপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1890,
+        "female_count": 1843,
+        "hijra_count": 0,
+        "latitude": 24.95123,
+        "longitude": 89.32049
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1627,
+        "female_count": 1711,
+        "hijra_count": 0,
+        "latitude": 24.88881,
+        "longitude": 89.35023
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বাশবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2799,
+        "hijra_count": 0,
+        "latitude": 24.83805,
+        "longitude": 89.40376
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বীর মুক্তিযোদ্ধা মমতাজ উদ্দিন উচ্চ বিদ্যালয়",
+        "male_count": 2593,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.88815,
+        "longitude": 89.38563
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বুজরুগবাড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1561,
+        "female_count": 1594,
+        "hijra_count": 0,
+        "latitude": 24.84954,
+        "longitude": 89.39583
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বুজরুগ মাঝিড়া পাঁচ আউলিয়া দাখিল মাদ্রাসা",
+        "male_count": 1565,
+        "female_count": 1463,
+        "hijra_count": 0,
+        "latitude": 24.96525,
+        "longitude": 89.36835
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বুজুর্গধামা রাহমানিয়া ফাজিল (ডিগ্রী) মাদ্রাসা",
+        "male_count": 3165,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.84014,
+        "longitude": 89.42442
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বুজুর্গধামা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3131,
+        "hijra_count": 0,
+        "latitude": 24.83975,
+        "longitude": 89.4244
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "বেলাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2129,
+        "female_count": 2207,
+        "hijra_count": 0,
+        "latitude": 24.83478,
+        "longitude": 89.33788
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ভবানীগঞ্জ দ্বি-মূখী উচ্চ বিদ্যালয়",
+        "male_count": 1821,
+        "female_count": 1774,
+        "hijra_count": 0,
+        "latitude": 24.95246,
+        "longitude": 89.36456
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ভান্ডারপাইকা শেখ মুজিব (এস এম) উচ্চ বিদ্যালয়",
+        "male_count": 2082,
+        "female_count": 2012,
+        "hijra_count": 0,
+        "latitude": 24.92701,
+        "longitude": 89.37156
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ভান্ডারীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 931,
+        "female_count": 939,
+        "hijra_count": 0,
+        "latitude": 24.94277,
+        "longitude": 89.27188
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ভান্ডারী বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 3462,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.86545,
+        "longitude": 89.37274
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "ভোকেশনাল টিচার্স ট্রেনিং ইনস্টিটিউট",
+        "male_count": 1610,
+        "female_count": 1538,
+        "hijra_count": 1,
+        "latitude": 24.82494,
+        "longitude": 89.37766
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মহিষবাথান এস এম উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2399,
+        "hijra_count": 0,
+        "latitude": 24.91905,
+        "longitude": 89.36062
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মহিষবাথান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2427,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.91899,
+        "longitude": 89.36069
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মাটিডালী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3986,
+        "hijra_count": 0,
+        "latitude": 24.88342,
+        "longitude": 89.36255
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মাটিডালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3861,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.88282,
+        "longitude": 89.3635
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মানিকচক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2604,
+        "hijra_count": 0,
+        "latitude": 24.88786,
+        "longitude": 89.38557
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মালগ্রাম আহমাদিয়া হাফিজিয়া মাদ্রাসা",
+        "male_count": 2387,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.83772,
+        "longitude": 89.36271
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মালগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2640,
+        "hijra_count": 0,
+        "latitude": 24.83755,
+        "longitude": 89.3627
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মালতিনগর উচ্চ বিদ্যালয়",
+        "male_count": 4849,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.83991,
+        "longitude": 89.38367
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মালতিনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 5262,
+        "hijra_count": 0,
+        "latitude": 24.83926,
+        "longitude": 89.38393
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মিশন প্রাথমিক বিদ্যালয়",
+        "male_count": 1613,
+        "female_count": 1817,
+        "hijra_count": 0,
+        "latitude": 24.84156,
+        "longitude": 89.36973
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "মেঘাগাছা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1442,
+        "female_count": 1409,
+        "hijra_count": 0,
+        "latitude": 24.88081,
+        "longitude": 89.41487
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "যশোপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2248,
+        "female_count": 2124,
+        "hijra_count": 0,
+        "latitude": 24.93257,
+        "longitude": 89.39641
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "রজাকপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1136,
+        "female_count": 1151,
+        "hijra_count": 0,
+        "latitude": 24.9269,
+        "longitude": 89.30599
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "রাজাপুর আনছার ও সমাজ উন্নয়ন উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2301,
+        "hijra_count": 1,
+        "latitude": 24.87935,
+        "longitude": 89.38488
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "রাজাপুর ইউনিয়ন পরিষদ ভবন",
+        "male_count": 1589,
+        "female_count": 1528,
+        "hijra_count": 0,
+        "latitude": 24.87686,
+        "longitude": 89.39598
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "রাজাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2248,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.87911,
+        "longitude": 89.38487
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "রামশহর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1277,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 24.9278,
+        "longitude": 89.33814
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "রায়মাঝিড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1379,
+        "female_count": 1400,
+        "hijra_count": 0,
+        "latitude": 24.96913,
+        "longitude": 89.38589
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "শশীবদনী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 835,
+        "female_count": 907,
+        "hijra_count": 0,
+        "latitude": 24.92501,
+        "longitude": 89.31764
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "শাখারিয়া আলিম মাদ্রাসা",
+        "male_count": 1767,
+        "female_count": 1684,
+        "hijra_count": 0,
+        "latitude": 24.89567,
+        "longitude": 89.36925
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "শিকারপুর-কৃষ্ণপুর উচ্চ বিদ্যালয়",
+        "male_count": 1525,
+        "female_count": 1475,
+        "hijra_count": 0,
+        "latitude": 24.87716,
+        "longitude": 89.34008
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "শিকারপুর ডি ইউ আলিম মাদ্রাসা",
+        "male_count": 1238,
+        "female_count": 1249,
+        "hijra_count": 0,
+        "latitude": 24.88456,
+        "longitude": 89.32334
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "সরকারি আজিজুল হক কলেজ",
+        "male_count": 2170,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.86645,
+        "longitude": 89.37255
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "সরকারি আজিজুল হক কলেজ",
+        "male_count": 0,
+        "female_count": 2356,
+        "hijra_count": 0,
+        "latitude": 24.86647,
+        "longitude": 89.37251
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "সরকারি মোস্তফাবিয়া আলীয়া মাদ্রাসা",
+        "male_count": 3345,
+        "female_count": 3674,
+        "hijra_count": 0,
+        "latitude": 24.85763,
+        "longitude": 89.3641
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "সাতশিমুলিয়া উচ্চ বিদ্যালয়",
+        "male_count": 1615,
+        "female_count": 1593,
+        "hijra_count": 0,
+        "latitude": 24.93759,
+        "longitude": 89.37862
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "সাবগ্রাম কুদরতিয়া উচ্চ বিদ্যালয়",
+        "male_count": 2042,
+        "female_count": 2198,
+        "hijra_count": 0,
+        "latitude": 24.85731,
+        "longitude": 89.40873
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "সুত্রাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2799,
+        "hijra_count": 0,
+        "latitude": 24.84531,
+        "longitude": 89.36937
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "সুবিল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3936,
+        "hijra_count": 0,
+        "latitude": 24.86565,
+        "longitude": 89.37186
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "সেউজগাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2611,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.84668,
+        "longitude": 89.36629
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "স্টাফ কোয়ার্টার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1007,
+        "female_count": 1005,
+        "hijra_count": 0,
+        "latitude": 24.83301,
+        "longitude": 89.37876
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "হাজরাদীঘি স্কুল এন্ড কলেজ",
+        "male_count": 2836,
+        "female_count": 2754,
+        "hijra_count": 1,
+        "latitude": 24.91936,
+        "longitude": 89.32636
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "হাজী ময়েজ উদ্দীন কলেজ",
+        "male_count": 1032,
+        "female_count": 1047,
+        "hijra_count": 0,
+        "latitude": 24.93399,
+        "longitude": 89.37751
+    },
+    {
+        "settings_code": 41,
+        "settings_name": "বগুড়া-৬",
+        "center_name": "হাসনা জাহান (ভান্ডারী) বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1711,
+        "female_count": 1880,
+        "hijra_count": 0,
+        "latitude": 24.85879,
+        "longitude": 89.37539
+    }
+]

@@ -1,0 +1,1092 @@
+[
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "২১ নং বিষ্ণুপুর ভোমবাগ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2794,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "২৪ নং সাত্রাখালী চালিতাতলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 940,
+        "female_count": 839,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "৭৭ নং পশ্চিম পেড়লী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2401,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "আগদিয়া শিমুলিয়া বহুমুখী মাধ্যমিক বিদ্যালয়",
+        "male_count": 2149,
+        "female_count": 2113,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "আড়পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 580,
+        "female_count": 579,
+        "hijra_count": 0,
+        "latitude": 23.05969,
+        "longitude": 89.49954
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "আদর্শ সম্মেলনী উচ্চ বিদ্যাপীঠ",
+        "male_count": 0,
+        "female_count": 2490,
+        "hijra_count": 0,
+        "latitude": 23.07503,
+        "longitude": 89.70093
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "আফরা মাধ্যমিক বিদ্যালয়",
+        "male_count": 1655,
+        "female_count": 1642,
+        "hijra_count": 0,
+        "latitude": 23.12758,
+        "longitude": 89.38664
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "আমতলা সরকারী প্রাথমিক বিদ্যালয়।",
+        "male_count": 599,
+        "female_count": 589,
+        "hijra_count": 0,
+        "latitude": 23.05247,
+        "longitude": 89.58516
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "আরাজি বাশগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 901,
+        "female_count": 973,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "ইসলামপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 856,
+        "female_count": 799,
+        "hijra_count": 0,
+        "latitude": 23.05936,
+        "longitude": 89.66008
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কলাবাড়িয়া (পূর্ব পাড়) উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2322,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কলাবাড়িয়া (পূর্ব পাড়) উচ্চ বিদ্যালয়, (নতুন ভবন)",
+        "male_count": 2368,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কাঠাদুরা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1087,
+        "female_count": 1096,
+        "hijra_count": 0,
+        "latitude": 23.08299,
+        "longitude": 89.65403
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কান্দুরী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 965,
+        "female_count": 940,
+        "hijra_count": 0,
+        "latitude": 22.99356,
+        "longitude": 89.67245
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কালিনগর লক্ষ্মীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1426,
+        "female_count": 1373,
+        "hijra_count": 0,
+        "latitude": 23.0203,
+        "longitude": 89.67184
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কালিয়া পাইলট মাধ্যমিক বিদ্যালয়",
+        "male_count": 1661,
+        "female_count": 1678,
+        "hijra_count": 0,
+        "latitude": 23.04081,
+        "longitude": 89.63032
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কুঞ্জপুর হেদায়েতপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 805,
+        "female_count": 806,
+        "hijra_count": 0,
+        "latitude": 22.99193,
+        "longitude": 89.64453
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কুলুশর সরকারি প্রাথমিক বিদ্যালয়,",
+        "male_count": 1338,
+        "female_count": 1330,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কৃষ্ণপুর ডহর চাঁচুড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1519,
+        "female_count": 1436,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কৃষ্ণলতা মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 1097,
+        "female_count": 1124,
+        "hijra_count": 0,
+        "latitude": 23.10111,
+        "longitude": 89.47935
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "কে সি চাপুলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1039,
+        "female_count": 970,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "খড়রিয়া এ,জি,এম, মাধ্যমিক বিদ্যালয়",
+        "male_count": 1802,
+        "female_count": 1783,
+        "hijra_count": 0,
+        "latitude": 23.03424,
+        "longitude": 89.53592
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "খলিশাখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1112,
+        "female_count": 1120,
+        "hijra_count": 0,
+        "latitude": 23.10347,
+        "longitude": 89.48628
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "খাশিয়াল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2577,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.07526,
+        "longitude": 89.70165
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "গাছবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1152,
+        "female_count": 1116,
+        "hijra_count": 0,
+        "latitude": 23.03292,
+        "longitude": 89.70351
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "গোবরা পার্বতী বিদ্যাপীঠ",
+        "male_count": 1059,
+        "female_count": 1057,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "গোবরা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1386,
+        "female_count": 1463,
+        "hijra_count": 0,
+        "latitude": 23.10667,
+        "longitude": 89.49778
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "চন্ডিনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1558,
+        "female_count": 1590,
+        "hijra_count": 0,
+        "latitude": 22.9847,
+        "longitude": 89.64897
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "চাকই সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1168,
+        "female_count": 1134,
+        "hijra_count": 0,
+        "latitude": 23.04221,
+        "longitude": 89.47762
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "চাঁচুড়ী পুরুলিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1441,
+        "female_count": 1367,
+        "hijra_count": 0,
+        "latitude": 23.06698,
+        "longitude": 89.56578
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "চুনখোলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1286,
+        "female_count": 1206,
+        "hijra_count": 0,
+        "latitude": 23.06743,
+        "longitude": 89.5383
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "জয়নগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1396,
+        "female_count": 1243,
+        "hijra_count": 0,
+        "latitude": 23.05874,
+        "longitude": 89.7237
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "জয়নাল আবেদীন নূর নাহার মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 928,
+        "female_count": 963,
+        "hijra_count": 0,
+        "latitude": 22.99866,
+        "longitude": 89.55752
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "জোকা বাকা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1254,
+        "female_count": 1167,
+        "hijra_count": 0,
+        "latitude": 23.04321,
+        "longitude": 89.66229
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "জোকারচর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1252,
+        "female_count": 1155,
+        "hijra_count": 0,
+        "latitude": 23.0319,
+        "longitude": 89.6541
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "টোনা ইসলামিয়া আলিম মাদ্রাসা",
+        "male_count": 866,
+        "female_count": 919,
+        "hijra_count": 0,
+        "latitude": 23.08001,
+        "longitude": 89.69231
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "ডুমুরিয়া দেবদুন সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2679,
+        "female_count": 2492,
+        "hijra_count": 0,
+        "latitude": 23.04168,
+        "longitude": 89.72563
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "ডুমুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1960,
+        "female_count": 1829,
+        "hijra_count": 0,
+        "latitude": 23.02247,
+        "longitude": 89.74959
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "তপনভাগ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2068,
+        "female_count": 2006,
+        "hijra_count": 0,
+        "latitude": 23.09747,
+        "longitude": 89.38941
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "তেলিডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1381,
+        "female_count": 1287,
+        "hijra_count": 0,
+        "latitude": 23.06518,
+        "longitude": 89.6434
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দক্ষিণ জামরিলডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1046,
+        "female_count": 1050,
+        "hijra_count": 0,
+        "latitude": 23.01526,
+        "longitude": 89.56214
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দক্ষিণ নড়াইল শিমুলিয়া মহাবিদ্যালয়",
+        "male_count": 1005,
+        "female_count": 1014,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দক্ষিণ পার বিষ্ণুপুর সরকারী প্রাথমিক বিদ্যালয়, (টিনসেড)",
+        "male_count": 0,
+        "female_count": 2130,
+        "hijra_count": 0,
+        "latitude": 23.012,
+        "longitude": 89.57956
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দক্ষিণ পার বিষ্ণুপুর সরকারী প্রাথমিক বিদ্যালয়, (নতুন ভবন)",
+        "male_count": 2188,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.01192,
+        "longitude": 89.57966
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দক্ষিন যোগানিয়া খান সাহেব সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1123,
+        "female_count": 1035,
+        "hijra_count": 0,
+        "latitude": 22.99975,
+        "longitude": 89.74995
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দত্ত মাধ্যমিক বিদ্যালয় শুক্তগ্রাম",
+        "male_count": 842,
+        "female_count": 819,
+        "hijra_count": 0,
+        "latitude": 23.06969,
+        "longitude": 89.61374
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দি  পাটনা একাডেমী",
+        "male_count": 1535,
+        "female_count": 1494,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দুলালগাতী নয়নপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 821,
+        "female_count": 781,
+        "hijra_count": 0,
+        "latitude": 23.04456,
+        "longitude": 89.69831
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "দেবভোগ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1146,
+        "female_count": 1179,
+        "hijra_count": 0,
+        "latitude": 23.11906,
+        "longitude": 89.42389
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "নওয়াগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1142,
+        "female_count": 1108,
+        "hijra_count": 0,
+        "latitude": 23.03231,
+        "longitude": 89.5935
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "নলামারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1691,
+        "female_count": 1557,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "নিউ মডেল একাডেমী, পদ্মবিলা",
+        "male_count": 836,
+        "female_count": 754,
+        "hijra_count": 0,
+        "latitude": 22.98426,
+        "longitude": 89.72006
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পশ্চিম কলাবাড়ীয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1432,
+        "female_count": 1439,
+        "hijra_count": 0,
+        "latitude": 23.00384,
+        "longitude": 89.69019
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পশ্চিম খড়রিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1143,
+        "female_count": 1160,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পহরডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1689,
+        "female_count": 1635,
+        "hijra_count": 0,
+        "latitude": 23.00038,
+        "longitude": 89.76835
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পাখিমারা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1745,
+        "female_count": 1622,
+        "hijra_count": 0,
+        "latitude": 22.96975,
+        "longitude": 89.75381
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পাচুড়িয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2040,
+        "female_count": 2035,
+        "hijra_count": 0,
+        "latitude": 23.14634,
+        "longitude": 89.64951
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পাটকেলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1369,
+        "female_count": 1318,
+        "hijra_count": 0,
+        "latitude": 23.0533,
+        "longitude": 89.61729
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পার বাঐসোনা উত্তর পাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2513,
+        "hijra_count": 0,
+        "latitude": 23.02046,
+        "longitude": 89.71693
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পূর্ব খড়রিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 958,
+        "female_count": 988,
+        "hijra_count": 0,
+        "latitude": 23.03012,
+        "longitude": 89.52502
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "পূর্ব জামরিলডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1197,
+        "female_count": 1207,
+        "hijra_count": 0,
+        "latitude": 23.02052,
+        "longitude": 89.55439
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "ফাজেল আহম্মদ মাধ্যমিক বিদ্যালয়, পেড়লী বাজার",
+        "male_count": 2250,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.98572,
+        "longitude": 89.55637
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "\tফুলদহ ধাড়িয়াঘাটা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1312,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বড়কালিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1624,
+        "female_count": 1602,
+        "hijra_count": 0,
+        "latitude": 23.05376,
+        "longitude": 89.63175
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বড়কুলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 819,
+        "female_count": 818,
+        "hijra_count": 0,
+        "latitude": 23.08363,
+        "longitude": 89.50387
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বন খলিশাখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 330,
+        "female_count": 349,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বাঐসোনা -কামশিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 2477,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বাবরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1092,
+        "female_count": 1100,
+        "hijra_count": 0,
+        "latitude": 23.38503,
+        "longitude": 89.1219
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বাহিরগ্রাম মাধ্যমিক বিদ্যালয় ও বাহিরগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1977,
+        "female_count": 1918,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বি কদমতলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1627,
+        "female_count": 1548,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বি, কে, সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 775,
+        "female_count": 804,
+        "hijra_count": 0,
+        "latitude": 23.04969,
+        "longitude": 89.59539
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বিছালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1846,
+        "female_count": 1822,
+        "hijra_count": 0,
+        "latitude": 23.07303,
+        "longitude": 89.44799
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বিষ্ণুপুর হামিদপুর মাধ্যমিক বিদ্যালয়",
+        "male_count": 2800,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বি-হাড়িডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2014,
+        "female_count": 1907,
+        "hijra_count": 0,
+        "latitude": 23.05396,
+        "longitude": 89.64681
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বীড়গ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1097,
+        "female_count": 1119,
+        "hijra_count": 0,
+        "latitude": 23.12448,
+        "longitude": 89.49499
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বেন্দা সরকারি প্রাথমিক বিদ্যালয়,",
+        "male_count": 1706,
+        "female_count": 1706,
+        "hijra_count": 0,
+        "latitude": 23.03246,
+        "longitude": 89.61606
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "বৈদ্যবাটি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1196,
+        "female_count": 1070,
+        "hijra_count": 0,
+        "latitude": 23.03543,
+        "longitude": 89.67249
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "ভদ্রবিলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1218,
+        "female_count": 1290,
+        "hijra_count": 0,
+        "latitude": 23.14195,
+        "longitude": 89.52632
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "ভবানীপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1490,
+        "female_count": 1460,
+        "hijra_count": 0,
+        "latitude": 23.14292,
+        "longitude": 89.54378
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মধুরগাতী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 914,
+        "female_count": 915,
+        "hijra_count": 0,
+        "latitude": 23.04485,
+        "longitude": 89.46455
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মধ্য পেড়লী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1122,
+        "female_count": 1119,
+        "hijra_count": 0,
+        "latitude": 22.99719,
+        "longitude": 89.55246
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মহাজন কলাগাছি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 941,
+        "female_count": 907,
+        "hijra_count": 0,
+        "latitude": 23.08587,
+        "longitude": 89.67016
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মহাজন ঘষিবাড়ীয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1371,
+        "female_count": 1354,
+        "hijra_count": 0,
+        "latitude": 23.07629,
+        "longitude": 89.66821
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মহিষখোলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1254,
+        "female_count": 1298,
+        "hijra_count": 0,
+        "latitude": 23.02569,
+        "longitude": 89.55471
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মাউলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1457,
+        "female_count": 1317,
+        "hijra_count": 0,
+        "latitude": 23.05341,
+        "longitude": 89.59882
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মাথাভাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 695,
+        "female_count": 681,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মাধবপাশা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1741,
+        "female_count": 1655,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মিরাপাড়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1296,
+        "female_count": 1343,
+        "hijra_count": 0,
+        "latitude": 23.12281,
+        "longitude": 89.51919
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মির্জাপুর মাধ্যমিক বিদ্যালয়",
+        "male_count": 2492,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.04887,
+        "longitude": 89.50069
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মির্জাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2692,
+        "hijra_count": 0,
+        "latitude": 23.0489,
+        "longitude": 89.5008
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "মুন্সী মানিক মিয়া ডিগ্রী কলেজ",
+        "male_count": 1498,
+        "female_count": 1477,
+        "hijra_count": 0,
+        "latitude": 23.083,
+        "longitude": 89.68255
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "যাদবপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1240,
+        "female_count": 1214,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "যোগানিয়া নলামরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 990,
+        "female_count": 976,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "রঘুনাথপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1844,
+        "female_count": 1903,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "রামসিদ্ধি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 953,
+        "female_count": 936,
+        "hijra_count": 0,
+        "latitude": 23.10715,
+        "longitude": 89.53645
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "রুখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1085,
+        "female_count": 1067,
+        "hijra_count": 0,
+        "latitude": 23.04618,
+        "longitude": 89.48462
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "শহীদ আব্দুস সালাম ডিগ্রী কলেজ,",
+        "male_count": 1651,
+        "female_count": 1703,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "শুক্তগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1228,
+        "female_count": 1192,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "শুভারঘোপ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1092,
+        "female_count": 1064,
+        "hijra_count": 0,
+        "latitude": 23.09443,
+        "longitude": 89.51583
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "শেখহাটী তপনভাগযুক্ত মাধ্যমিক বিদ্যালয়",
+        "male_count": 2449,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "শেখহাটী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2353,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "সরকেলডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 808,
+        "female_count": 812,
+        "hijra_count": 0,
+        "latitude": 23.1158,
+        "longitude": 89.5477
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "সি,এম,বি ইউনিয়ন মাধ্যমিক  বিদ্যালয়, (নতুন ভবন)",
+        "male_count": 2210,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "সি,এম,বি ইউনিয়ন মাধ্যমিক বিদ্যালয়, ( পুরাতন ভবন)",
+        "male_count": 0,
+        "female_count": 2005,
+        "hijra_count": 0,
+        "latitude": 22.98516,
+        "longitude": 89.78095
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "সি, কে, গোবিন্দনগর সরকারী প্রাথমিক বিদ্যালয়,",
+        "male_count": 1034,
+        "female_count": 1050,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "সিংগাশোলপুর কালীপ্রসন্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1052,
+        "female_count": 1112,
+        "hijra_count": 0,
+        "latitude": 23.07682,
+        "longitude": 89.52691
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "সিলিমপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1803,
+        "female_count": 1689,
+        "hijra_count": 0,
+        "latitude": 22.98786,
+        "longitude": 89.58357
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "সুমেরুখোলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1364,
+        "female_count": 1258,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 93,
+        "settings_name": "নড়াইল-১",
+        "center_name": "হাতিয়াড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1518,
+        "female_count": 1539,
+        "hijra_count": 0,
+        "latitude": 23.14228,
+        "longitude": 89.42692
+    }
+]

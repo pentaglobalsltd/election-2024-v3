@@ -1,0 +1,1352 @@
+[
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "৩৭নং পূর্ব দূর্গাপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1913,
+        "female_count": 1861,
+        "hijra_count": 0,
+        "latitude": 25.61267,
+        "longitude": 88.98062
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "৫৯নং আদর্শ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1651,
+        "female_count": 1812,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "অধ্যাপক আফজাল সোবহান উচ্চ বিদ্যালয়",
+        "male_count": 2047,
+        "female_count": 1978,
+        "hijra_count": 0,
+        "latitude": 25.55577,
+        "longitude": 88.85358
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "আনন্দ বাজার সরকারী প্রাথমিক বিদ্যালয়, চাঁচেয়া",
+        "male_count": 1572,
+        "female_count": 1560,
+        "hijra_count": 0,
+        "latitude": 25.56345,
+        "longitude": 89.01958
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "আমডুঙ্গিহাট ইমান উদ্দিন চৌধুরী আলিম মাদ্রাসা",
+        "male_count": 949,
+        "female_count": 948,
+        "hijra_count": 0,
+        "latitude": 25.52065,
+        "longitude": 88.90677
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "আমবাড়ি বহুমুখী উচ্চ বিদ্যালয়, আমবাড়ি",
+        "male_count": 2410,
+        "female_count": 2416,
+        "hijra_count": 1,
+        "latitude": 25.54426,
+        "longitude": 88.83659
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "আয়মাপাড়া সরকারী প্রাথমিক বিদ্যালয়, শিবরামপুর",
+        "male_count": 1019,
+        "female_count": 994,
+        "hijra_count": 0,
+        "latitude": 25.52153,
+        "longitude": 88.86429
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "আরজী দেবীপুর সরকারী প্রাথমিক বিদ্যালয় ও আরজীদেবীপুর শিয়ালকোট আলিম মাদ্রাসা, আরজীদেবীপুর",
+        "male_count": 1689,
+        "female_count": 1601,
+        "hijra_count": 0,
+        "latitude": 25.5501,
+        "longitude": 88.86769
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "আলাদীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1675,
+        "female_count": 1679,
+        "hijra_count": 0,
+        "latitude": 25.49374,
+        "longitude": 88.92281
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ইন্দ্রপুর উচ্চ বিদ্যালয়, ইন্দ্রপুর",
+        "male_count": 1722,
+        "female_count": 1717,
+        "hijra_count": 0,
+        "latitude": 25.64434,
+        "longitude": 88.82342
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "উত্তর কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1287,
+        "female_count": 1317,
+        "hijra_count": 0,
+        "latitude": 25.48893,
+        "longitude": 88.93524
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "উত্তর রঘুনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1768,
+        "female_count": 1741,
+        "hijra_count": 0,
+        "latitude": 25.48385,
+        "longitude": 88.90252
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "উত্তর লক্ষ্মীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1293,
+        "female_count": 1286,
+        "hijra_count": 0,
+        "latitude": 25.45824,
+        "longitude": 88.96886
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "উত্তর শালন্দার সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2198,
+        "female_count": 2200,
+        "hijra_count": 0,
+        "latitude": 25.62321,
+        "longitude": 88.86423
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "কালাইঘাটী সরকারী প্রাথমিক বিদ্যালয় ও আইনুল হুদা ফাজিল মাদ্রাসা, পলাশবাড়ী",
+        "male_count": 1809,
+        "female_count": 1722,
+        "hijra_count": 0,
+        "latitude": 25.63245,
+        "longitude": 88.93801
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "কালুপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1131,
+        "female_count": 1073,
+        "hijra_count": 0,
+        "latitude": 25.53635,
+        "longitude": 88.95976
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "কুমারপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1634,
+        "female_count": 1658,
+        "hijra_count": 0,
+        "latitude": 25.66419,
+        "longitude": 88.96099
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "কুশলপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2480,
+        "female_count": 2415,
+        "hijra_count": 0,
+        "latitude": 25.41795,
+        "longitude": 88.94951
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "কৈপুলকি সরকারী প্রাথমিক বিদ্যালয়, কৈপুলকি",
+        "male_count": 1949,
+        "female_count": 1981,
+        "hijra_count": 0,
+        "latitude": 25.70157,
+        "longitude": 88.9052
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "খয়েরবাড়ী (০২) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1844,
+        "female_count": 1935,
+        "hijra_count": 0,
+        "latitude": 25.45263,
+        "longitude": 88.94987
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "খলিলপুর হাজী ছানাউল্লাহ উচ্চ বিদ্যালয়",
+        "male_count": 2637,
+        "female_count": 2664,
+        "hijra_count": 0,
+        "latitude": 25.57693,
+        "longitude": 88.98806
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "খাগড়াবন্দ সঃ প্রাঃ বিঃ, খাগড়াবন্দ",
+        "male_count": 1477,
+        "female_count": 1414,
+        "hijra_count": 0,
+        "latitude": 25.58721,
+        "longitude": 89.06044
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "খাজাপুর একরামিয়া দ্বিমূখী ফাজিল মাদ্রাসা",
+        "male_count": 1846,
+        "female_count": 1835,
+        "hijra_count": 0,
+        "latitude": 25.50313,
+        "longitude": 88.85183
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "খাজেপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1979,
+        "female_count": 2006,
+        "hijra_count": 0,
+        "latitude": 25.70619,
+        "longitude": 88.92588
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "খোড়াখাই বৈষ্ণবপাড়া সরকারী প্রাথমিক বিদ্যালয়, খোড়াখাই",
+        "male_count": 1300,
+        "female_count": 1335,
+        "hijra_count": 0,
+        "latitude": 25.68616,
+        "longitude": 88.84244
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "খোড়াখাই সরদারপাড়া সরকারী প্রাথমিক বিদ্যালয়, খোড়াখাই",
+        "male_count": 1567,
+        "female_count": 1616,
+        "hijra_count": 0,
+        "latitude": 25.68218,
+        "longitude": 88.85685
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "গুড়গুড়ি মহিউল উলুম দ্বিমুখী  দাখিল মাদ্রাসা, গুড়গুড়ি",
+        "male_count": 1423,
+        "female_count": 1388,
+        "hijra_count": 0,
+        "latitude": 25.56035,
+        "longitude": 89.07434
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ঘনেশ্যামপুর সরকারি প্রাথমিক বিদ্যালয়, ঘনেশ্যামপুর",
+        "male_count": 1548,
+        "female_count": 1530,
+        "hijra_count": 0,
+        "latitude": 25.57534,
+        "longitude": 88.89053
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "চকমুসা সরকারী প্রাথমিক বিদ্যালয়, চকবোয়ালিয়া",
+        "male_count": 2077,
+        "female_count": 1993,
+        "hijra_count": 0,
+        "latitude": 25.63209,
+        "longitude": 88.95641
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "চাঁন্দের ডাঙ্গা সরকারী প্রাথমিক বিদ্যালয় (নতুন ভবন পূর্ব পার্শ্বে), চান্দেরডাঙ্গা",
+        "male_count": 2793,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.67182,
+        "longitude": 88.93256
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "চাঁন্দের ডাঙ্গা সরকারী প্রাথমিক বিদ্যালয় (পুরাতন ভবন দক্ষিণ পার্শ্বে), চান্দেরডাঙ্গা",
+        "male_count": 0,
+        "female_count": 2697,
+        "hijra_count": 0,
+        "latitude": 25.67182,
+        "longitude": 88.93256
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "চিন্তামন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1246,
+        "female_count": 1282,
+        "hijra_count": 0,
+        "latitude": 25.43325,
+        "longitude": 88.91285
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "চৌরাইট মহেশপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1537,
+        "female_count": 1507,
+        "hijra_count": 0,
+        "latitude": 25.44669,
+        "longitude": 88.90706
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "জগন্নাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1096,
+        "female_count": 1069,
+        "hijra_count": 0,
+        "latitude": 25.49253,
+        "longitude": 88.83107
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "জমিরহাট উচ্চ বিদ্যালয়, রঘুনাথপুর",
+        "male_count": 1805,
+        "female_count": 1753,
+        "hijra_count": 0,
+        "latitude": 25.67717,
+        "longitude": 88.96082
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "জয়কৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1349,
+        "female_count": 1343,
+        "hijra_count": 0,
+        "latitude": 25.46817,
+        "longitude": 88.89683
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "জামগ্রাম দারুল উলুম হাফেজিয়া মাদ্রাসা",
+        "male_count": 1127,
+        "female_count": 1112,
+        "hijra_count": 0,
+        "latitude": 25.46756,
+        "longitude": 88.85106
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "জাহানাবাদ দারুল উলুম আলিম মাদ্রাসা",
+        "male_count": 0,
+        "female_count": 2788,
+        "hijra_count": 0,
+        "latitude": 25.63792,
+        "longitude": 88.8977
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "জাহানাবাদ সরকারী প্রাথমিক বিদ্যালয়, জাহানাবাদ",
+        "male_count": 2826,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.63792,
+        "longitude": 88.8977
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "জুড়াই ফাজিল মাদ্রাসা, জুড়াই",
+        "male_count": 2030,
+        "female_count": 2010,
+        "hijra_count": 0,
+        "latitude": 25.59587,
+        "longitude": 88.84891
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "জ্ঞানাঙ্কুর পাইলট মডেল ‍উচ্চ বিদ্যালয়, দৌলতপুর",
+        "male_count": 2551,
+        "female_count": 2609,
+        "hijra_count": 0,
+        "latitude": 25.65705,
+        "longitude": 88.9159
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ঝাউপাড়া সরকারী প্রাথমিক বিদ্যালয়,ঝাউপাড়া",
+        "male_count": 1364,
+        "female_count": 1340,
+        "hijra_count": 0,
+        "latitude": 25.6065,
+        "longitude": 88.93756
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ঝাড়ুয়ারডাঙ্গা উচ্চ বিদ্যালয়, চন্ডিপুর",
+        "male_count": 0,
+        "female_count": 2754,
+        "hijra_count": 0,
+        "latitude": 25.62594,
+        "longitude": 88.89329
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ঝাড়ুয়ার ডাঙ্গা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2692,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.62633,
+        "longitude": 88.89364
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "তাজনগর চড়কডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়, তাজনগর",
+        "male_count": 1885,
+        "female_count": 1887,
+        "hijra_count": 0,
+        "latitude": 25.68109,
+        "longitude": 88.87069
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দক্ষিণ বাসুদেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1675,
+        "female_count": 1712,
+        "hijra_count": 0,
+        "latitude": 25.50848,
+        "longitude": 88.94861
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দক্ষিণ শালন্দার সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1548,
+        "female_count": 1507,
+        "hijra_count": 0,
+        "latitude": 25.59234,
+        "longitude": 88.87882
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দন্ডপানি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2082,
+        "female_count": 2057,
+        "hijra_count": 0,
+        "latitude": 25.58595,
+        "longitude": 88.8419
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দর্গাপাড়া ফাজিল সিঃ মাদ্রাসা, দর্গাপাড়া",
+        "male_count": 1926,
+        "female_count": 1906,
+        "hijra_count": 0,
+        "latitude": 25.63319,
+        "longitude": 88.92627
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দলদলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 897,
+        "female_count": 863,
+        "hijra_count": 0,
+        "latitude": 25.4086,
+        "longitude": 88.92125
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দলাইকোটা দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1698,
+        "female_count": 1638,
+        "hijra_count": 0,
+        "latitude": 25.56757,
+        "longitude": 89.03203
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দঃ হরিরামপুর সরকারী প্রাথমিক বিদ্যালয়, হরিরামপুর",
+        "male_count": 1820,
+        "female_count": 1695,
+        "hijra_count": 0,
+        "latitude": 25.58725,
+        "longitude": 89.02561
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দাগলাগঞ্জ উচ্চ বিদ্যালয়, তাজনগর",
+        "male_count": 2859,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.70496,
+        "longitude": 88.86969
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দাগলাগঞ্জ উচ্চ বিদ্যালয়, তাজনগর",
+        "male_count": 0,
+        "female_count": 2801,
+        "hijra_count": 0,
+        "latitude": 25.70507,
+        "longitude": 88.86981
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দাদুল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2224,
+        "female_count": 2157,
+        "hijra_count": 0,
+        "latitude": 25.44934,
+        "longitude": 88.86886
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দূর্গাপুর সেরাজুল হুদা সরকারি প্রাথমিক বিদ্যালয়, কালিকাপুর",
+        "male_count": 1859,
+        "female_count": 1904,
+        "hijra_count": 0,
+        "latitude": 25.60693,
+        "longitude": 88.96728
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দেউল সরকারী প্রাথমিক বিদ্যালয়, দেউল",
+        "male_count": 1839,
+        "female_count": 1847,
+        "hijra_count": 0,
+        "latitude": 25.71217,
+        "longitude": 88.84962
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দোয়ানিয়া উচ্চ বিদ্যালয়",
+        "male_count": 2124,
+        "female_count": 2148,
+        "hijra_count": 0,
+        "latitude": 25.60993,
+        "longitude": 88.84899
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "দৌলতপুর ইউনিয়ন উচ্চ বিদ্যালয়",
+        "male_count": 1387,
+        "female_count": 1450,
+        "hijra_count": 0,
+        "latitude": 25.41522,
+        "longitude": 88.96074
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "নন্দিগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1316,
+        "female_count": 1306,
+        "hijra_count": 0,
+        "latitude": 25.40654,
+        "longitude": 88.88736
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "নবগ্রাম সিদ্দিকীয়া ফাজিল মাদ্রাসা",
+        "male_count": 1376,
+        "female_count": 1356,
+        "hijra_count": 0,
+        "latitude": 25.51409,
+        "longitude": 88.86864
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "নামাপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1385,
+        "female_count": 1422,
+        "hijra_count": 0,
+        "latitude": 25.65702,
+        "longitude": 88.90262
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "নুরুল মজিদ উচ্চ বিদ্যালয়, রঘুনাথপুর",
+        "male_count": 1968,
+        "female_count": 2021,
+        "hijra_count": 0,
+        "latitude": 25.65056,
+        "longitude": 88.95703
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "নূরুল হুদা উচ্চ বিদ্যালয়, আটরাই",
+        "male_count": 4991,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.64069,
+        "longitude": 88.98766
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "নূরুল হুদা সরকারী প্রাথমিক বিদ্যালয়, আটরাই",
+        "male_count": 0,
+        "female_count": 4500,
+        "hijra_count": 0,
+        "latitude": 25.64029,
+        "longitude": 88.98803
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পলাশি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1190,
+        "female_count": 1162,
+        "hijra_count": 0,
+        "latitude": 25.42233,
+        "longitude": 88.85773
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পলিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2068,
+        "female_count": 2053,
+        "hijra_count": 0,
+        "latitude": 25.43181,
+        "longitude": 88.95871
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পাটিকাঘাট সরকারী প্রাথমিক বিদ্যালয়, পাটিকাঘাট",
+        "male_count": 2006,
+        "female_count": 2103,
+        "hijra_count": 0,
+        "latitude": 25.55929,
+        "longitude": 89.00637
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পাঠকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1477,
+        "female_count": 1397,
+        "hijra_count": 0,
+        "latitude": 25.54276,
+        "longitude": 88.89503
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পানিকাটা দাখিল মাদ্রাসা",
+        "male_count": 1170,
+        "female_count": 1125,
+        "hijra_count": 0,
+        "latitude": 25.50829,
+        "longitude": 88.82608
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পানিকাটা দাখিল মাদ্রাসা",
+        "male_count": 1432,
+        "female_count": 1300,
+        "hijra_count": 0,
+        "latitude": 25.5083,
+        "longitude": 88.82609
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পার্বতীপুর আদর্শ ডিগ্রী কলেজ, পার্বতীপুর",
+        "male_count": 1496,
+        "female_count": 1599,
+        "hijra_count": 0,
+        "latitude": 25.64591,
+        "longitude": 88.9209
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পার্বতীপুর এ.এস.এম হাইস্কুল",
+        "male_count": 1822,
+        "female_count": 1917,
+        "hijra_count": 0,
+        "latitude": 25.66187,
+        "longitude": 88.90858
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পার্বতীপুর বালিকা পাইলট উচ্চ বিদ্যালয়, বাবুপাড়া",
+        "male_count": 2542,
+        "female_count": 2672,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পুখুরী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1089,
+        "female_count": 1082,
+        "hijra_count": 0,
+        "latitude": 25.40996,
+        "longitude": 88.86775
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পূর্ব চকমথুরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1186,
+        "female_count": 1124,
+        "hijra_count": 0,
+        "latitude": 25.45341,
+        "longitude": 88.93278
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পূর্ব বাজিতপুর গুঞ্জন স্বনির্ভর গ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1803,
+        "female_count": 1849,
+        "hijra_count": 0,
+        "latitude": 25.51951,
+        "longitude": 88.9472
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "পূর্ব শুকদেবপুর সরকারী প্রাথমিক বিদ্যালয়, পূর্ব শুকদেবপুর",
+        "male_count": 1608,
+        "female_count": 1664,
+        "hijra_count": 0,
+        "latitude": 25.57298,
+        "longitude": 88.96907
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ফুলকুড়ি বিদ্যানিকেতন",
+        "male_count": 1155,
+        "female_count": 1249,
+        "hijra_count": 0,
+        "latitude": 25.49465,
+        "longitude": 88.95449
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ফুলকুঁড়ি বিদ্যানিকেতন",
+        "male_count": 1328,
+        "female_count": 1332,
+        "hijra_count": 0,
+        "latitude": 25.49423,
+        "longitude": 88.9545
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ফুলকুড়ি সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1709,
+        "female_count": 1717,
+        "hijra_count": 0,
+        "latitude": 25.66956,
+        "longitude": 88.91935
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ফুলবাড়ী গোলাম মোস্তফা পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 2564,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.49974,
+        "longitude": 88.96643
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ফুলবাড়ী বাংলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1415,
+        "female_count": 1541,
+        "hijra_count": 0,
+        "latitude": 25.49754,
+        "longitude": 88.95894
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ফুলবাড়ী মহিলা ডিগ্রী কলেজ",
+        "male_count": 3312,
+        "female_count": 3647,
+        "hijra_count": 0,
+        "latitude": 25.50018,
+        "longitude": 88.96274
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ফুলবাড়ী সরকারি কলেজ",
+        "male_count": 3351,
+        "female_count": 3624,
+        "hijra_count": 0,
+        "latitude": 25.49669,
+        "longitude": 88.95105
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ফুলবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2701,
+        "hijra_count": 1,
+        "latitude": 25.50005,
+        "longitude": 88.96635
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বড়দল সরকারী প্রাথমিক বিদ্যালয়, বড়দল",
+        "male_count": 1296,
+        "female_count": 1272,
+        "hijra_count": 0,
+        "latitude": 25.53594,
+        "longitude": 88.86857
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বড়পুকুরিয়া স্কুল এন্ড কলেজ, বৈদ্যনাথপুর",
+        "male_count": 1529,
+        "female_count": 1540,
+        "hijra_count": 0,
+        "latitude": 25.53993,
+        "longitude": 88.97783
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বর্ণমালা নিকেতন উচ্চ বিদ্যালয় ও কলেজ",
+        "male_count": 1026,
+        "female_count": 1037,
+        "hijra_count": 0,
+        "latitude": 25.56766,
+        "longitude": 88.9606
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বারাই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1298,
+        "female_count": 1332,
+        "hijra_count": 0,
+        "latitude": 25.50959,
+        "longitude": 88.88501
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বালিকা বিদ্যাপিঠ উচ্চ বিদ্যালয়, রুস্তমনগর",
+        "male_count": 1775,
+        "female_count": 1866,
+        "hijra_count": 0,
+        "latitude": 25.65277,
+        "longitude": 88.91845
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বালুপাড়া সরকারি প্রাথমিক বিদ্যালয়, বালুপাড়া",
+        "male_count": 1091,
+        "female_count": 1046,
+        "hijra_count": 0,
+        "latitude": 25.52686,
+        "longitude": 88.83643
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বাসুদেবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1238,
+        "female_count": 1261,
+        "hijra_count": 0,
+        "latitude": 25.46088,
+        "longitude": 88.92662
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বাসুপাড়া উচ্চ বিদ্যালয়, বাসুপাড়া",
+        "male_count": 2128,
+        "female_count": 2129,
+        "hijra_count": 0,
+        "latitude": 25.66217,
+        "longitude": 88.94242
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বেতদিঘী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1331,
+        "female_count": 1276,
+        "hijra_count": 0,
+        "latitude": 25.43319,
+        "longitude": 88.87772
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বেনীরহাট আমানতুল্যা উচ্চ বিদ্যালয়",
+        "male_count": 2151,
+        "female_count": 2064,
+        "hijra_count": 0,
+        "latitude": 25.74033,
+        "longitude": 88.89114
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বেলঘাট সুলতানপুর সরকারী প্রাথমিক বিদ্যালয়, বেলঘাট সুলতানপুর",
+        "male_count": 1201,
+        "female_count": 1207,
+        "hijra_count": 0,
+        "latitude": 25.54813,
+        "longitude": 89.04876
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বেলাইচন্ডি স্কুল এন্ড কলেজ, বেলাইচন্ডি",
+        "male_count": 1789,
+        "female_count": 1695,
+        "hijra_count": 0,
+        "latitude": 25.72434,
+        "longitude": 88.90531
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বেলাইচন্ডী-১ সরকারী প্রাথমিক বিদ্যালয়, বেলাইচন্ডী",
+        "male_count": 1826,
+        "female_count": 1771,
+        "hijra_count": 0,
+        "latitude": 25.73591,
+        "longitude": 88.92538
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "বৈগ্রাম সরকারী প্রাথমিক বিদ্যালয়, বৈগ্রাম",
+        "male_count": 1871,
+        "female_count": 1831,
+        "hijra_count": 0,
+        "latitude": 25.52536,
+        "longitude": 88.96776
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "ভবানীপুর ডিগ্রী কলেজ",
+        "male_count": 1942,
+        "female_count": 2074,
+        "hijra_count": 0,
+        "latitude": 25.58523,
+        "longitude": 88.93937
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "মধ্যশিলা বহুমূখী উচ্চ বিদ্যালয়, মধ্যপাড়া",
+        "male_count": 2089,
+        "female_count": 2042,
+        "hijra_count": 0,
+        "latitude": 25.55497,
+        "longitude": 89.05408
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "মন্মথপুর-১ সরকারী প্রাথমিক বিদ্যালয়, মন্মথপুর",
+        "male_count": 2340,
+        "female_count": 2399,
+        "hijra_count": 0,
+        "latitude": 25.65793,
+        "longitude": 88.86161
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "মন্মথপুর-২ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1323,
+        "female_count": 1382,
+        "hijra_count": 0,
+        "latitude": 25.6572,
+        "longitude": 88.84699
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "মন্মথপুর কো-অপারেটিভ উচ্চ বিদ্যালয়, গোবিন্দপুর",
+        "male_count": 1254,
+        "female_count": 1413,
+        "hijra_count": 0,
+        "latitude": 25.65707,
+        "longitude": 88.84678
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "মরনাই সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1845,
+        "female_count": 1776,
+        "hijra_count": 0,
+        "latitude": 25.57042,
+        "longitude": 88.87628
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "মালঞ্চা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 843,
+        "female_count": 832,
+        "hijra_count": 0,
+        "latitude": 25.42439,
+        "longitude": 88.89947
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "মুরারীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1594,
+        "female_count": 1630,
+        "hijra_count": 0,
+        "latitude": 25.41115,
+        "longitude": 88.84654
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "মোস্তফাপুর বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 2024,
+        "female_count": 2057,
+        "hijra_count": 0,
+        "latitude": 25.57332,
+        "longitude": 88.8412
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "যশাই উচ্চ বিদ্যালয়, মোমিনপুর",
+        "male_count": 2182,
+        "female_count": 2196,
+        "hijra_count": 0,
+        "latitude": 25.62635,
+        "longitude": 88.83296
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "রাঙ্গামাটি উচ্চ বিদ্যালয়",
+        "male_count": 1139,
+        "female_count": 1058,
+        "hijra_count": 0,
+        "latitude": 25.50512,
+        "longitude": 88.90515
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "রাজাবাসর সরকারী প্রাথমিক বিদ্যালয়, রাজাবাসর",
+        "male_count": 2428,
+        "female_count": 2444,
+        "hijra_count": 0,
+        "latitude": 25.66208,
+        "longitude": 88.88398
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "রাজারামপুর সরেফ উদ্দীন (এস.ইউ) উচ্চ বিদ্যালয়",
+        "male_count": 2558,
+        "female_count": 2556,
+        "hijra_count": 0,
+        "latitude": 25.51337,
+        "longitude": 88.92005
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "রামচন্দ্রপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1551,
+        "female_count": 1538,
+        "hijra_count": 0,
+        "latitude": 25.44277,
+        "longitude": 88.83499
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "রামভদ্রপুর উচ্চ বিদ্যালয়",
+        "male_count": 1722,
+        "female_count": 1726,
+        "hijra_count": 0,
+        "latitude": 25.53785,
+        "longitude": 88.93741
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "রামরায়পুর সুদুরডাংগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 3255,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.58082,
+        "longitude": 88.91671
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "রুদ্রানী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 938,
+        "female_count": 948,
+        "hijra_count": 0,
+        "latitude": 25.46566,
+        "longitude": 88.84404
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "লালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1534,
+        "female_count": 1505,
+        "hijra_count": 0,
+        "latitude": 25.46575,
+        "longitude": 88.95605
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "শমসেরনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 834,
+        "female_count": 796,
+        "hijra_count": 0,
+        "latitude": 25.5282,
+        "longitude": 88.89161
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "শালগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1142,
+        "female_count": 1035,
+        "hijra_count": 0,
+        "latitude": 25.46456,
+        "longitude": 88.86944
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "শিবনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2035,
+        "female_count": 2108,
+        "hijra_count": 0,
+        "latitude": 25.53336,
+        "longitude": 88.92132
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "সরকারপাড়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2205,
+        "female_count": 2201,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "সিদ্দিশী উচ্চ বিদ্যালয়",
+        "male_count": 1195,
+        "female_count": 1203,
+        "hijra_count": 0,
+        "latitude": 25.42669,
+        "longitude": 88.91477
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "সুদুরডাংগা দ্বি-মূখী দাখিল মাদ্রাসা ও রামরায়পুর সুদুরডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়, রামরায়পুর",
+        "male_count": 0,
+        "female_count": 3141,
+        "hijra_count": 1,
+        "latitude": 25.58064,
+        "longitude": 88.91673
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "সুন্দরপীর দ্বিমুখী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1480,
+        "female_count": 1429,
+        "hijra_count": 0,
+        "latitude": 25.71052,
+        "longitude": 88.89282
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "সুন্দরপীর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1604,
+        "female_count": 1545,
+        "hijra_count": 0,
+        "latitude": 25.70983,
+        "longitude": 88.8935
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "সূর্যমূখী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1400,
+        "female_count": 1442,
+        "hijra_count": 0,
+        "latitude": 25.59591,
+        "longitude": 88.89261
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "সোনাপুকুর উঃ পাড়া সরকারি প্রাথমিক বিদ্যালয়, সোনাপুকুর",
+        "male_count": 1842,
+        "female_count": 1725,
+        "hijra_count": 0,
+        "latitude": 25.77204,
+        "longitude": 88.87384
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "সোনাপুকুর সুরভী উচ্চ বিদ্যালয়, সোনাপুকুর",
+        "male_count": 2049,
+        "female_count": 1934,
+        "hijra_count": 0,
+        "latitude": 25.75379,
+        "longitude": 88.8816
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "স্বরসতীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 952,
+        "female_count": 921,
+        "hijra_count": 0,
+        "latitude": 25.48382,
+        "longitude": 88.86773
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "হয়বৎপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1623,
+        "female_count": 1621,
+        "hijra_count": 0,
+        "latitude": 25.6625,
+        "longitude": 88.82962
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "হরিপুর সরকারী প্রাথমিক বিদ্যালয়, বড়হরিপুর",
+        "male_count": 2028,
+        "female_count": 2079,
+        "hijra_count": 0,
+        "latitude": 25.63306,
+        "longitude": 88.86702
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "হাবড়া দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1392,
+        "female_count": 1449,
+        "hijra_count": 0,
+        "latitude": 25.59871,
+        "longitude": 88.9197
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "হামিদপুর হাইস্কুল, হামিদপুর",
+        "male_count": 1850,
+        "female_count": 1906,
+        "hijra_count": 0,
+        "latitude": 25.55839,
+        "longitude": 88.98545
+    },
+    {
+        "settings_code": 10,
+        "settings_name": "দিনাজপুর-৫",
+        "center_name": "হোসেনপুর সরকারী প্রাথমিক বিদ্যালয়, উত্তর বিষ্ণুপুর",
+        "male_count": 2495,
+        "female_count": 2591,
+        "hijra_count": 0,
+        "latitude": 25.60973,
+        "longitude": 89.00572
+    }
+]

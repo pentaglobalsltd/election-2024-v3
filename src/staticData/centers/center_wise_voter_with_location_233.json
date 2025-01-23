@@ -1,0 +1,1572 @@
+[
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "আগফৌদ নারাইনপুর সরকারি প্রাথমিক বিদ্যালয়, (নতুন) আগফৌদ, নারাইনপুর",
+        "male_count": 1597,
+        "female_count": 1584,
+        "hijra_count": 0,
+        "latitude": 24.95024,
+        "longitude": 92.15602
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "আগফৌদ নারাইনপুর সরকারি প্রাথমিক বিদ্যালয়, (পুরাতন), আগফৌদ নারাইনপুর",
+        "male_count": 1448,
+        "female_count": 1355,
+        "hijra_count": 0,
+        "latitude": 24.95319,
+        "longitude": 92.14443
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "আটগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2523,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.97827,
+        "longitude": 92.38997
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "আব্দুল হক সরকারি প্রাথমিক বিদ্যালয়, তিনচটি নারাইনপুর",
+        "male_count": 1450,
+        "female_count": 1385,
+        "hijra_count": 0,
+        "latitude": 24.92743,
+        "longitude": 92.15149
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "আমলশীদ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 882,
+        "female_count": 848,
+        "hijra_count": 0,
+        "latitude": 24.87878,
+        "longitude": 92.47628
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ইছামতি উচ্চ বিদ্যালয়",
+        "male_count": 1722,
+        "female_count": 1648,
+        "hijra_count": 0,
+        "latitude": 24.95064,
+        "longitude": 92.42245
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ইছামতি (খ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1067,
+        "female_count": 1020,
+        "hijra_count": 0,
+        "latitude": 24.95105,
+        "longitude": 92.44164
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ঈদগাহ বাজার উচ্চ বিদ্যালয়",
+        "male_count": 1093,
+        "female_count": 1006,
+        "hijra_count": 0,
+        "latitude": 24.89361,
+        "longitude": 92.33701
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "উজান বারাপৈত সরকারি প্রাথমিক বিদ্যালয়, উজান বারাপৈত",
+        "male_count": 712,
+        "female_count": 733,
+        "hijra_count": 0,
+        "latitude": 25.01036,
+        "longitude": 92.3331
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "উত্তরকুল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1730,
+        "female_count": 1592,
+        "hijra_count": 0,
+        "latitude": 24.90618,
+        "longitude": 92.48672
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "উত্তর মরইরতল (এফআইভিডিবি) প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2424,
+        "hijra_count": 0,
+        "latitude": 24.9781,
+        "longitude": 92.39031
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "উত্তর লক্ষীপ্রসাদ সরকারি প্রাথমিক বিদ্যালয়, উত্তর লক্ষীপ্রসাদ",
+        "male_count": 1394,
+        "female_count": 1284,
+        "hijra_count": 0,
+        "latitude": 25.04195,
+        "longitude": 92.29345
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "উমরগঞ্জ সরকারি প্রাথমিক বিদ্যালয়, উমরগঞ্জ",
+        "male_count": 1181,
+        "female_count": 1067,
+        "hijra_count": 0,
+        "latitude": 24.96783,
+        "longitude": 92.21603
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ওয়াজেদ আলী মজুমদার মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2191,
+        "hijra_count": 0,
+        "latitude": 24.92309,
+        "longitude": 92.48042
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "কলাকুটা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1448,
+        "female_count": 1336,
+        "hijra_count": 0,
+        "latitude": 24.9434,
+        "longitude": 92.43428
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "কাড়াবাল্লা সরকারি প্রাথমিক বিদ্যালয়, কাড়াবাল্লা",
+        "male_count": 1626,
+        "female_count": 1433,
+        "hijra_count": 0,
+        "latitude": 24.98898,
+        "longitude": 92.39951
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "কানাইঘাট মনসুরিয়া কামিল মাদ্রাসা, মনসুরিয়া পয়েন্ট",
+        "male_count": 2717,
+        "female_count": 2586,
+        "hijra_count": 0,
+        "latitude": 25.00213,
+        "longitude": 92.24467
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "কামালপুর (খ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1400,
+        "female_count": 1301,
+        "hijra_count": 0,
+        "latitude": 24.96656,
+        "longitude": 92.36732
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "কালিনগর সরকারি প্রাথমিক বিদ্যালয়, কালিনগর",
+        "male_count": 0,
+        "female_count": 2342,
+        "hijra_count": 0,
+        "latitude": 25.06801,
+        "longitude": 92.26982
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "কালিনগর সরকারি প্রাথমিক বিদ্যালয়, কালিনগর",
+        "male_count": 2311,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.0681,
+        "longitude": 92.26976
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "কুওরের মাটি সরকারি প্রাথমিক বিদ্যালয়, পূর্ব কু্ওরের মাটি",
+        "male_count": 584,
+        "female_count": 513,
+        "hijra_count": 0,
+        "latitude": 25.00732,
+        "longitude": 92.37503
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "কোনাগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1061,
+        "female_count": 909,
+        "hijra_count": 0,
+        "latitude": 24.94892,
+        "longitude": 92.23851
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "খিলগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 1888,
+        "hijra_count": 0,
+        "latitude": 24.94261,
+        "longitude": 92.22269
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গংগাজল সিনিয়র মাদ্রাসা",
+        "male_count": 1324,
+        "female_count": 1340,
+        "hijra_count": 0,
+        "latitude": 24.87482,
+        "longitude": 92.43384
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গনিপুর কামালগঞ্জ স্কুল এন্ড কলেজ",
+        "male_count": 920,
+        "female_count": 926,
+        "hijra_count": 0,
+        "latitude": 24.87999,
+        "longitude": 92.45085
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গনিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1037,
+        "female_count": 1003,
+        "hijra_count": 0,
+        "latitude": 24.88378,
+        "longitude": 92.4499
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গাগলাজুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1318,
+        "female_count": 1218,
+        "hijra_count": 0,
+        "latitude": 24.88793,
+        "longitude": 92.33123
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গাছবাড়ী জামিউল উলুম কামিল (এম.এ) মাদ্রাসা",
+        "male_count": 1487,
+        "female_count": 1407,
+        "hijra_count": 0,
+        "latitude": 24.95117,
+        "longitude": 92.15784
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গাছবাড়ী মাযাহিরুল উলূম ক্বওমী মাদরাসা (আকুনী মাদ্রাসা), আগতালুক",
+        "male_count": 1743,
+        "female_count": 1652,
+        "hijra_count": 0,
+        "latitude": 24.96795,
+        "longitude": 92.14948
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গাজির মোকাম দাখিল মাদ্রাসা",
+        "male_count": 1570,
+        "female_count": 1518,
+        "hijra_count": 0,
+        "latitude": 24.93799,
+        "longitude": 92.45276
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গোলকচান্দ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1406,
+        "female_count": 1230,
+        "hijra_count": 0,
+        "latitude": 24.89666,
+        "longitude": 92.36875
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "গোসাইনপুর সরকারি প্রাথমিক বিদ্যালয়, গোসাইনপুর",
+        "male_count": 1189,
+        "female_count": 1088,
+        "hijra_count": 0,
+        "latitude": 24.97726,
+        "longitude": 92.25529
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ঘেচুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1091,
+        "female_count": 1052,
+        "hijra_count": 0,
+        "latitude": 24.88949,
+        "longitude": 92.42287
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "চককোনাগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1313,
+        "female_count": 1259,
+        "hijra_count": 0,
+        "latitude": 24.94896,
+        "longitude": 92.2286
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "চটিগ্রাম সরকারি প্রাথমিক বিদ্যালয়, চটিগ্রাম",
+        "male_count": 921,
+        "female_count": 861,
+        "hijra_count": 0,
+        "latitude": 24.98023,
+        "longitude": 92.23222
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "চড়িপাড়া সরকারি প্রাথমিক বিদ্যালয়, চড়িপাড়া",
+        "male_count": 1761,
+        "female_count": 1685,
+        "hijra_count": 0,
+        "latitude": 25.02785,
+        "longitude": 92.2972
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "চান্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1073,
+        "female_count": 964,
+        "hijra_count": 0,
+        "latitude": 24.90416,
+        "longitude": 92.43079
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "চান্দের বাজার সরকারি প্রাথমিক বিদ্যালয়, চান্দের বাজার",
+        "male_count": 654,
+        "female_count": 660,
+        "hijra_count": 0,
+        "latitude": 24.88931,
+        "longitude": 92.02959
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ছোটদেশ সরকারি প্রাথমিক বিদ্যালয়, ছোটদেশ",
+        "male_count": 1476,
+        "female_count": 1415,
+        "hijra_count": 0,
+        "latitude": 24.97016,
+        "longitude": 92.23845
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ছোট মাতারগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1156,
+        "female_count": 1014,
+        "hijra_count": 0,
+        "latitude": 24.97432,
+        "longitude": 92.33237
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জকিগঞ্জ এক্সেলেন্স একাডেমী",
+        "male_count": 1257,
+        "female_count": 1318,
+        "hijra_count": 0,
+        "latitude": 24.8899,
+        "longitude": 92.3591
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জকিগঞ্জ গার্লস হাইস্কুল",
+        "male_count": 1139,
+        "female_count": 1195,
+        "hijra_count": 0,
+        "latitude": 24.88083,
+        "longitude": 92.36479
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জকিগঞ্জ সরকারী কলেজ",
+        "male_count": 1334,
+        "female_count": 1357,
+        "hijra_count": 0,
+        "latitude": 24.89053,
+        "longitude": 92.36858
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জকিগঞ্জ সরকারী বালক উচ্চ বিদ্যালয়",
+        "male_count": 1288,
+        "female_count": 1405,
+        "hijra_count": 0,
+        "latitude": 24.87647,
+        "longitude": 92.36654
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জয়পুর সরকারি প্রাথমিক বিদ্যালয়, জয়পুর",
+        "male_count": 868,
+        "female_count": 862,
+        "hijra_count": 0,
+        "latitude": 25.01395,
+        "longitude": 92.30337
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জামালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1268,
+        "female_count": 1059,
+        "hijra_count": 0,
+        "latitude": 24.95543,
+        "longitude": 92.33252
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জামিয়া আনোয়ারুল উলূম দারুল হাদীস খালপার মাদ্রাসা, খালপার",
+        "male_count": 1467,
+        "female_count": 1436,
+        "hijra_count": 0,
+        "latitude": 24.9047,
+        "longitude": 92.07771
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জামিয়া ইসলামিয়া ভরণ সুলতানপুর মাদ্রাসা",
+        "male_count": 1500,
+        "female_count": 1456,
+        "hijra_count": 0,
+        "latitude": 24.86611,
+        "longitude": 92.39463
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জামিয়া ইসলামিয়া মাদ্রাসা (রাজাগঞ্জ মাদ্রাসা), নিজ রাজাগঞ্জ",
+        "male_count": 1566,
+        "female_count": 1547,
+        "hijra_count": 0,
+        "latitude": 24.90123,
+        "longitude": 92.06376
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জামিয়া ইসলামিয়া সাইয়েদিয়া মাইজকান্দি মাদ্রাসা",
+        "male_count": 883,
+        "female_count": 888,
+        "hijra_count": 0,
+        "latitude": 24.8749,
+        "longitude": 92.37908
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জিয়াপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1859,
+        "female_count": 1609,
+        "hijra_count": 0,
+        "latitude": 24.93985,
+        "longitude": 92.40985
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জুলাই আদর্শ উচ্চ বিদ্যালয়, ভবানিগঞ্জ বাজার",
+        "male_count": 1065,
+        "female_count": 1056,
+        "hijra_count": 0,
+        "latitude": 24.99811,
+        "longitude": 92.30142
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জুলাই সরকারি প্রাথমিক বিদ্যালয়, জুলাই মাঝরচটি",
+        "male_count": 1770,
+        "female_count": 1751,
+        "hijra_count": 0,
+        "latitude": 24.99817,
+        "longitude": 92.30143
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "জোবেদ আলী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1036,
+        "female_count": 1079,
+        "hijra_count": 0,
+        "latitude": 24.86896,
+        "longitude": 92.42408
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ঝিংগাবাড়ী ফাজিল ডিগ্রী মাদ্রাসা, উপর ঝিঙ্গাবাড়ী",
+        "male_count": 1560,
+        "female_count": 1493,
+        "hijra_count": 0,
+        "latitude": 24.92134,
+        "longitude": 92.1394
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ঢাকনাইল দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়, গোয়ালজুর ঢাকনাইল দক্ষিন",
+        "male_count": 1882,
+        "female_count": 1858,
+        "hijra_count": 0,
+        "latitude": 24.96959,
+        "longitude": 92.14531
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "তিরাশি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1472,
+        "female_count": 1301,
+        "hijra_count": 0,
+        "latitude": 24.90531,
+        "longitude": 92.41685
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "থানাবাজার লতিফিয়া ফুরক্বানীয়া দাখিল মাদ্রাসা",
+        "male_count": 1227,
+        "female_count": 1179,
+        "hijra_count": 0,
+        "latitude": 24.86696,
+        "longitude": 92.40764
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "দক্ষিণ লক্ষিপ্রসাদ সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ লক্ষীপ্রসাদ",
+        "male_count": 1515,
+        "female_count": 1377,
+        "hijra_count": 0,
+        "latitude": 25.03052,
+        "longitude": 92.28855
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "দনা সরকারি প্রাথমিক বিদ্যালয়, দনা চা বাগান",
+        "male_count": 818,
+        "female_count": 710,
+        "hijra_count": 0,
+        "latitude": 25.02672,
+        "longitude": 92.39601
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "দুবড়িরপার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1366,
+        "female_count": 1215,
+        "hijra_count": 0,
+        "latitude": 24.90807,
+        "longitude": 92.33718
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "দূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়, দূর্গাপুর আগফৌদ",
+        "male_count": 1973,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.05149,
+        "longitude": 92.17858
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "দূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়, দূর্গাপুর আগফৌদ",
+        "male_count": 0,
+        "female_count": 2046,
+        "hijra_count": 0,
+        "latitude": 25.0517,
+        "longitude": 92.17881
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "দূর্লভপুর  সরকারি প্রাথমিক বিদ্যালয়, দুর্লভপুর",
+        "male_count": 947,
+        "female_count": 877,
+        "hijra_count": 0,
+        "latitude": 25.01108,
+        "longitude": 92.23922
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "নওয়াগ্রাম (খ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 958,
+        "female_count": 965,
+        "hijra_count": 0,
+        "latitude": 24.99127,
+        "longitude": 92.37798
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "নয়াগ্রাম সরকারি প্রাথমিক বিদ্যালয়, নয়াগ্রাম",
+        "male_count": 1106,
+        "female_count": 1132,
+        "hijra_count": 0,
+        "latitude": 24.96176,
+        "longitude": 92.19486
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "নিজ চাউরা সরকারি প্রাথমিক বিদ্যালয়, নিজ চাউরা উত্তর",
+        "male_count": 1718,
+        "female_count": 1668,
+        "hijra_count": 0,
+        "latitude": 25.03684,
+        "longitude": 92.25854
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "নিদনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1991,
+        "female_count": 1801,
+        "hijra_count": 0,
+        "latitude": 24.93308,
+        "longitude": 92.23435
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "নীলাম্বরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 808,
+        "female_count": 657,
+        "hijra_count": 0,
+        "latitude": 24.94614,
+        "longitude": 92.36403
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "নুর নগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2089,
+        "hijra_count": 0,
+        "latitude": 24.97937,
+        "longitude": 92.26544
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "পঙ্গপট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1055,
+        "female_count": 1078,
+        "hijra_count": 0,
+        "latitude": 24.87848,
+        "longitude": 92.38319
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "পরচক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1160,
+        "female_count": 1040,
+        "hijra_count": 0,
+        "latitude": 24.96082,
+        "longitude": 92.24287
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "পর্বতপুর সরকারি প্রাথমিক বিদ্যালয়, পর্বতপুর",
+        "male_count": 1711,
+        "female_count": 1578,
+        "hijra_count": 0,
+        "latitude": 25.04242,
+        "longitude": 92.20135
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "পশ্চিম জামডহর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1649,
+        "female_count": 1535,
+        "hijra_count": 0,
+        "latitude": 24.90767,
+        "longitude": 92.2681
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "পাঠানচক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1531,
+        "female_count": 1636,
+        "hijra_count": 0,
+        "latitude": 24.87598,
+        "longitude": 92.40883
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "পুরকায়াস্থপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1059,
+        "female_count": 969,
+        "hijra_count": 0,
+        "latitude": 24.92588,
+        "longitude": 92.22804
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "পূর্ব-জামডহর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1129,
+        "female_count": 1098,
+        "hijra_count": 0,
+        "latitude": 24.91249,
+        "longitude": 92.28226
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ফতেহগঞ্জ মাদ্রাসা (এমদাদুল উলুম লালারচক মাদ্রাসা), লালারচক পূর্ব ইউনিয়ন",
+        "male_count": 1943,
+        "female_count": 1855,
+        "hijra_count": 0,
+        "latitude": 24.88934,
+        "longitude": 92.03999
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ফরিদ উদ্দিন সরকারি প্রাথমিক বিদ্যালয়-১, দর্পনগর",
+        "male_count": 0,
+        "female_count": 2227,
+        "hijra_count": 0,
+        "latitude": 24.99905,
+        "longitude": 92.34284
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ফরিদ উদ্দিন সরকারি প্রাথমিক বিদ্যালয়-২, দর্পনগর",
+        "male_count": 2175,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.99938,
+        "longitude": 92.34268
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ফাগু বাশবাড়ী সরকারি প্রাথমিক বিদ্যালয়, বাশবাড়ী",
+        "male_count": 985,
+        "female_count": 935,
+        "hijra_count": 0,
+        "latitude": 24.94658,
+        "longitude": 92.12276
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ফালজুর বীরদল (পুরাতন) সরকারি প্রাথমিক বিদ্যালয়, ফালজুর",
+        "male_count": 1587,
+        "female_count": 1617,
+        "hijra_count": 0,
+        "latitude": 24.90828,
+        "longitude": 92.11948
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বড়কাপন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1346,
+        "female_count": 1238,
+        "hijra_count": 0,
+        "latitude": 24.96933,
+        "longitude": 92.24424
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বড়চালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1584,
+        "female_count": 1553,
+        "hijra_count": 0,
+        "latitude": 24.91001,
+        "longitude": 92.24747
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বড়পাথর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1016,
+        "female_count": 943,
+        "hijra_count": 0,
+        "latitude": 24.91615,
+        "longitude": 92.30134
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বড়বন্দ সরকারি প্রাথমিক বিদ্যালয়, বড়বন্দ",
+        "male_count": 2114,
+        "female_count": 2211,
+        "hijra_count": 0,
+        "latitude": 25.07131,
+        "longitude": 92.22214
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বাউরভাগ সরকারি প্রাথমিক  বিদ্যালয়, বাউরভাগ",
+        "male_count": 1313,
+        "female_count": 1215,
+        "hijra_count": 0,
+        "latitude": 24.94545,
+        "longitude": 92.20968
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বাজেখেল কমিউনিটি স্কুল, বাজেখেল",
+        "male_count": 489,
+        "female_count": 422,
+        "hijra_count": 0,
+        "latitude": 25.0493,
+        "longitude": 92.31186
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বাদে দেওরাইল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1114,
+        "female_count": 974,
+        "hijra_count": 0,
+        "latitude": 24.93268,
+        "longitude": 92.39388
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বায়মপুর সরকারি প্রাথমিক বিদ্যালয়, বায়মপুর উত্তর",
+        "male_count": 2124,
+        "female_count": 2147,
+        "hijra_count": 0,
+        "latitude": 24.99573,
+        "longitude": 92.2681
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বারঠাকুরী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1417,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 24.88583,
+        "longitude": 92.48464
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বারহাল ডিগ্রী কলেজ",
+        "male_count": 2017,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.94236,
+        "longitude": 92.22284
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বালিটেকা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1606,
+        "female_count": 1355,
+        "hijra_count": 0,
+        "latitude": 24.95183,
+        "longitude": 92.25036
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বাল্লাহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1362,
+        "female_count": 1213,
+        "hijra_count": 0,
+        "latitude": 24.96572,
+        "longitude": 92.41195
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বিষ্ণুপুর  সরকারি প্রাথমিক বিদ্যালয়, বিষ্ণুপুর",
+        "male_count": 1618,
+        "female_count": 1601,
+        "hijra_count": 0,
+        "latitude": 25.02262,
+        "longitude": 92.25751
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বীরদল অগ্রগামী উচ্চ বিদ্যালয়, বীরদল",
+        "male_count": 1254,
+        "female_count": 1276,
+        "hijra_count": 0,
+        "latitude": 24.90997,
+        "longitude": 92.10809
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বীরদল সরকারি প্রাথমিক বিদ্যালয়, বীরদল",
+        "male_count": 0,
+        "female_count": 2361,
+        "hijra_count": 0,
+        "latitude": 24.98027,
+        "longitude": 92.24341
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "বীরদল সরকারি প্রাথমিক বিদ্যালয়, বীরদল",
+        "male_count": 2482,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.98035,
+        "longitude": 92.24332
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ব্রাক্ষণগ্রাম সরকারি প্রাথমিক বিদ্যালয়, ব্রাহ্মণগ্রাম",
+        "male_count": 1809,
+        "female_count": 1920,
+        "hijra_count": 0,
+        "latitude": 24.93424,
+        "longitude": 92.17961
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ব্রাহ্মণগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1348,
+        "female_count": 1399,
+        "hijra_count": 0,
+        "latitude": 24.87294,
+        "longitude": 92.42068
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ভাটরকোনা সররকারি প্রাথমিক বিদ্যালয়, ভাটরকোনা",
+        "male_count": 1419,
+        "female_count": 1421,
+        "hijra_count": 0,
+        "latitude": 24.9706,
+        "longitude": 92.13151
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ভাটিবারাপৈত সরকারি প্রাথমিক বিদ্যালয়, ভাটিবারাপৈত",
+        "male_count": 1133,
+        "female_count": 1133,
+        "hijra_count": 0,
+        "latitude": 25.00699,
+        "longitude": 92.31427
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "ভাড়ারীমাটি সরকারি প্রাথমিক বিদ্যালয়, ভাড়ারীমাটি",
+        "male_count": 911,
+        "female_count": 903,
+        "hijra_count": 0,
+        "latitude": 25.01463,
+        "longitude": 92.27503
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মনসুরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1674,
+        "female_count": 1581,
+        "hijra_count": 0,
+        "latitude": 24.93935,
+        "longitude": 92.38723
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মরিচা সরকারি প্রাথমিক বিদ্যাল",
+        "male_count": 1003,
+        "female_count": 993,
+        "hijra_count": 0,
+        "latitude": 24.97888,
+        "longitude": 92.41087
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মাদরাসায়ে নিছারিয়া ফরযে আম তালবাড়ী-বীরদল (তালবাড়ী মাদ্রাসা), তালবাড়ী",
+        "male_count": 0,
+        "female_count": 2093,
+        "hijra_count": 0,
+        "latitude": 24.90043,
+        "longitude": 92.10114
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মাদরাসায়ে নিছারিয়া ফরযে আম তালবাড়ী-বীরদল (তালবাড়ী মাদ্রাসা), তালবাড়ী",
+        "male_count": 2123,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.90064,
+        "longitude": 92.10108
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মাদারখালেরপাড় সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1247,
+        "female_count": 1125,
+        "hijra_count": 0,
+        "latitude": 24.89949,
+        "longitude": 92.34423
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মানিকগঞ্জ সরকারি প্রাথমিক বিদ্যালয়, মানিকগঞ্জ",
+        "male_count": 1638,
+        "female_count": 1622,
+        "hijra_count": 0,
+        "latitude": 24.93984,
+        "longitude": 92.19279
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মানিকপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1216,
+        "female_count": 1178,
+        "hijra_count": 0,
+        "latitude": 24.85572,
+        "longitude": 92.3953
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মানিকপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 711,
+        "female_count": 637,
+        "hijra_count": 0,
+        "latitude": 24.94317,
+        "longitude": 92.42311
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মালিগ্রাম সরকারি প্রাথমিক বিদ্যালয়, মালিগ্রাম",
+        "male_count": 2650,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.04615,
+        "longitude": 92.21949
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মালিগ্রাম সরকারি প্রাথমিক বিদ্যালয়, মালিগ্রাম",
+        "male_count": 0,
+        "female_count": 2563,
+        "hijra_count": 0,
+        "latitude": 25.04667,
+        "longitude": 92.22
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মির্জারগড় সরকারি প্রাথমিক বিদ্যালয়, মির্জারগড়",
+        "male_count": 1496,
+        "female_count": 1467,
+        "hijra_count": 0,
+        "latitude": 24.89705,
+        "longitude": 92.05868
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মুন্সীবাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2024,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.92303,
+        "longitude": 92.48023
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মুলাগুল সরকারি প্রাথমিক বিদ্যালয়, মুলাগুল",
+        "male_count": 2194,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.00931,
+        "longitude": 92.25605
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "মুলাগুল সরকারি প্রাথমিক বিদ্যালয়, মুলাগুল",
+        "male_count": 0,
+        "female_count": 2143,
+        "hijra_count": 0,
+        "latitude": 25.04476,
+        "longitude": 92.32211
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "রঘুরাশি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1417,
+        "female_count": 1212,
+        "hijra_count": 0,
+        "latitude": 24.93899,
+        "longitude": 92.30719
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "রতনগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 990,
+        "female_count": 867,
+        "hijra_count": 0,
+        "latitude": 24.94694,
+        "longitude": 92.37718
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "রতনপুর সরকারি প্রাথমিক বিদ্যালয়, রতনপুর (পর্বতপুর)",
+        "male_count": 1201,
+        "female_count": 1156,
+        "hijra_count": 0,
+        "latitude": 25.0571,
+        "longitude": 92.19673
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "রসুলপুর গৌছ আলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1525,
+        "female_count": 1365,
+        "hijra_count": 0,
+        "latitude": 24.96523,
+        "longitude": 92.45089
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "রহিমখারচক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1713,
+        "female_count": 1567,
+        "hijra_count": 0,
+        "latitude": 24.88413,
+        "longitude": 92.3972
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "রাজাগঞ্জ সরকারি প্রাথমিক বিদ্যালয়, গাজিপুর (রাজাগঞ্জ মৌজার)",
+        "male_count": 1848,
+        "female_count": 1834,
+        "hijra_count": 0,
+        "latitude": 24.90763,
+        "longitude": 92.06396
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "রায়গড়  সরকারি প্রাথমিক বিদ্যালয়, রায়গড়",
+        "male_count": 0,
+        "female_count": 2438,
+        "hijra_count": 0,
+        "latitude": 25.01434,
+        "longitude": 92.25689
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "রায়গড়  সরকারি প্রাথমিক বিদ্যালয়, রায়গড়",
+        "male_count": 2583,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.01469,
+        "longitude": 92.25657
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "লামা ঝিংগাবাড়ী সরকারি প্রাথমিক বিদ্যালয়, লামা ঝিঙ্গাবাড়ী",
+        "male_count": 1854,
+        "female_count": 1778,
+        "hijra_count": 0,
+        "latitude": 24.93296,
+        "longitude": 92.11542
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "লামা দলইকান্দি সরকারি প্রাথমিক বিদ্যালয়, লামা দলইকান্দি",
+        "male_count": 1272,
+        "female_count": 1185,
+        "hijra_count": 0,
+        "latitude": 24.9709,
+        "longitude": 92.15789
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "লিয়াকতপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 942,
+        "female_count": 873,
+        "hijra_count": 0,
+        "latitude": 24.91234,
+        "longitude": 92.30759
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "লুন্তির মাটি সরকারি প্রাথমিক বিদ্যালয়, মাঝরগ্রাম",
+        "male_count": 1692,
+        "female_count": 1658,
+        "hijra_count": 0,
+        "latitude": 24.99852,
+        "longitude": 92.31628
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "লোহাজুরী সরকারি প্রাথমিক বিদ্যালয়, লোহাজুরী",
+        "male_count": 1056,
+        "female_count": 950,
+        "hijra_count": 0,
+        "latitude": 25.03245,
+        "longitude": 92.37936
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "লোহারমহল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 926,
+        "female_count": 924,
+        "hijra_count": 0,
+        "latitude": 24.88335,
+        "longitude": 92.34051
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "শহীদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1382,
+        "female_count": 1269,
+        "hijra_count": 0,
+        "latitude": 24.93238,
+        "longitude": 92.31764
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "শাহ ইব্রাহীম তছনা সরকারি প্রাথমিক বিদ্যালয়, দোয়ারী মাটি",
+        "male_count": 2057,
+        "female_count": 1850,
+        "hijra_count": 0,
+        "latitude": 24.99196,
+        "longitude": 92.32557
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "শাহবাগ দারুল হিফজ আলিয়া মাদ্রাসা",
+        "male_count": 2309,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.97946,
+        "longitude": 92.26597
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "শাহ শরিফ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1080,
+        "female_count": 1107,
+        "hijra_count": 0,
+        "latitude": 24.87901,
+        "longitude": 92.46223
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "শিবনগর দারুল কোরআন মাদ্রাসা, শিবনগর",
+        "male_count": 0,
+        "female_count": 2362,
+        "hijra_count": 0,
+        "latitude": 25.00689,
+        "longitude": 92.22774
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "শিবনগর দারুল কোরআন মাদ্রাসা, শিবনগর",
+        "male_count": 2477,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.00695,
+        "longitude": 92.22765
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সড়কের বাজার সরকারি প্রাথমিক বিদ্যালয়, সড়কের বাজার",
+        "male_count": 2323,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.99171,
+        "longitude": 92.34365
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সড়কের বাজার সরকারি প্রাথমিক বিদ্যালয়, সড়কের বাজার",
+        "male_count": 0,
+        "female_count": 2252,
+        "hijra_count": 0,
+        "latitude": 24.99172,
+        "longitude": 92.34328
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সদরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1098,
+        "female_count": 1014,
+        "hijra_count": 0,
+        "latitude": 24.89997,
+        "longitude": 92.37776
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সনাতন পুঞ্জি সরকারি প্রাথমিক বিদ্যালয়, সনাতন পুঞ্জি",
+        "male_count": 2622,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.07787,
+        "longitude": 92.25823
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সনাতন পুঞ্জি সরকারি প্রাথমিক বিদ্যালয়, সনাতন পুঞ্জি",
+        "male_count": 0,
+        "female_count": 2695,
+        "hijra_count": 0,
+        "latitude": 25.07787,
+        "longitude": 92.25831
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সর্দারমাটি সরকারি প্রাথমিক বিদ্যালয়, পশ্চিম সর্দারের মাটি",
+        "male_count": 1137,
+        "female_count": 1070,
+        "hijra_count": 0,
+        "latitude": 24.95795,
+        "longitude": 92.16867
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সর্দারীপাড়া সরকারি প্রাথমিক বিদ্যালয়, সর্দারীপাড়া",
+        "male_count": 0,
+        "female_count": 2150,
+        "hijra_count": 0,
+        "latitude": 24.958,
+        "longitude": 92.16866
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সর্দারীপাড়া সরকারি প্রাথমিক বিদ্যালয়, সর্দারীপাড়া",
+        "male_count": 2224,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.96477,
+        "longitude": 92.21225
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সাউদগ্রাম সরকারি প্রাথমিক বিদ্যালয়, সাউদগ্রাম",
+        "male_count": 1651,
+        "female_count": 1545,
+        "hijra_count": 0,
+        "latitude": 25.0561,
+        "longitude": 92.32727
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সুরতুন নেছা উচ্চ বিদ্যালয়, মমতাজগঞ্জ বাজার",
+        "male_count": 1854,
+        "female_count": 1672,
+        "hijra_count": 0,
+        "latitude": 25.01138,
+        "longitude": 92.3574
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সোনাপুর মাজহারুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 1081,
+        "female_count": 1024,
+        "hijra_count": 0,
+        "latitude": 24.90256,
+        "longitude": 92.31036
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সোনারখেড় সরকারি প্রাথমিক বিদ্যালয়, সোনারখেড়",
+        "male_count": 1404,
+        "female_count": 1281,
+        "hijra_count": 0,
+        "latitude": 25.04324,
+        "longitude": 92.36528
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "সোনাসার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1661,
+        "female_count": 1469,
+        "hijra_count": 0,
+        "latitude": 24.90588,
+        "longitude": 92.46094
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "হাজীগঞ্জ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1327,
+        "female_count": 1334,
+        "hijra_count": 0,
+        "latitude": 24.94234,
+        "longitude": 92.47819
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "হাজী তৈয়ব আলী বালিকা দাখিল মাদ্রাসা",
+        "male_count": 1156,
+        "female_count": 1173,
+        "hijra_count": 0,
+        "latitude": 24.87875,
+        "longitude": 92.44201
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "হাড়িকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1196,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 24.95705,
+        "longitude": 92.38976
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "হাতিডহর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1198,
+        "female_count": 1196,
+        "hijra_count": 0,
+        "latitude": 24.92846,
+        "longitude": 92.43888
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "হাফিজ মজুমদার বিদ্যানিকেতন",
+        "male_count": 1748,
+        "female_count": 1756,
+        "hijra_count": 0,
+        "latitude": 24.93026,
+        "longitude": 92.44598
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "হারাতৈল মাদ্রাসা, উত্তর হারাতৈল",
+        "male_count": 2065,
+        "female_count": 1852,
+        "hijra_count": 0,
+        "latitude": 25.03578,
+        "longitude": 92.16944
+    },
+    {
+        "settings_code": 233,
+        "settings_name": "সিলেট-৫",
+        "center_name": "হাসিতলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1126,
+        "female_count": 1072,
+        "hijra_count": 0,
+        "latitude": 24.89519,
+        "longitude": 92.46174
+    }
+]

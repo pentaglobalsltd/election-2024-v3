@@ -1,1 +1,28 @@
-.bangladesh{-webkit-filter:drop-shadow(5px 10px 10px rgba(0, 0, 0, 0.589));filter:drop-shadow(5px 10px 10px rgba(0, 0, 0, 0.589))}.bangladesh .svg__division{fill:#42b883;cursor:pointer}.bangladesh .svg__division-active{fill:#347474;-webkit-filter:drop-shadow(0px 0px 1px rgba(0, 0, 0, 0.8));filter:drop-shadow(0px 0px 1px rgba(0, 0, 0, 0.8))}.bangladesh .svg__division-active:hover{fill:#265555 !important}.bangladesh .svg__division-active text{fill:#fff !important}.bangladesh .svg__division text{fill:#1c2e41}.svg__district-active{fill:#1b3f3f !important}.svg__district-active text{fill:#fff !important}
+.bangladesh {
+  -webkit-filter: drop-shadow(5px 10px 10px rgba(0, 0, 0, 0.589));
+  filter: drop-shadow(5px 10px 10px rgba(0, 0, 0, 0.589));
+}
+.bangladesh .svg__division {
+  fill: #42b883;
+  cursor: pointer;
+}
+.bangladesh .svg__division-active {
+  fill: #347474;
+  -webkit-filter: drop-shadow(0px 0px 1px rgba(0, 0, 0, 0.8));
+  filter: drop-shadow(0px 0px 1px rgba(0, 0, 0, 0.8));
+}
+.bangladesh .svg__division-active:hover {
+  fill: #265555 !important;
+}
+.bangladesh .svg__division-active text {
+  fill: #fff !important;
+}
+.bangladesh .svg__division text {
+  fill: #1c2e41;
+}
+.svg__district-active {
+  fill: #1b3f3f !important;
+}
+.svg__district-active text {
+  fill: #fff !important;
+}

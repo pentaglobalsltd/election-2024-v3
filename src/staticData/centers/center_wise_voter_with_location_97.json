@@ -1,0 +1,932 @@
+[
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "আজিজভাট্টি মাধ্যমিক বিদ্যালয়, বাঁশতলা",
+        "male_count": 936,
+        "female_count": 946,
+        "hijra_count": 0,
+        "latitude": 22.42549,
+        "longitude": 89.65521
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "আদাঘাট মাধ্যমিক বিদ্যালয়",
+        "male_count": 2022,
+        "female_count": 2004,
+        "hijra_count": 0,
+        "latitude": 22.63823,
+        "longitude": 89.59461
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "আমড়াতলা চাঁপড়া সরকারী প্রাথমিক বিদ্যালয়, আমড়াতলা",
+        "male_count": 933,
+        "female_count": 910,
+        "hijra_count": 0,
+        "latitude": 22.50704,
+        "longitude": 89.66478
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "আলহাজ্ব কোরবান আলী আলিম মাদ্রাসা, ব্রাহ্মনমেঠ",
+        "male_count": 1409,
+        "female_count": 1547,
+        "hijra_count": 0,
+        "latitude": 22.46908,
+        "longitude": 89.60758
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ইসমাইল মেমোরিয়াল মাধ্যমিক বিদ্যালয়, সাহেবেরমেঠ",
+        "male_count": 1267,
+        "female_count": 1256,
+        "hijra_count": 0,
+        "latitude": 22.45314,
+        "longitude": 89.69786
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ইসলামাবাদ সিদ্দিকিয়া ফাযিল (ডিগ্রী) মাদ্রাসা",
+        "male_count": 1399,
+        "female_count": 1474,
+        "hijra_count": 0,
+        "latitude": 22.58077,
+        "longitude": 89.67355
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ইসলামী আদর্শ একাডেমী, মোর্শেদ সড়ক",
+        "male_count": 1804,
+        "female_count": 1844,
+        "hijra_count": 0,
+        "latitude": 22.47485,
+        "longitude": 89.61163
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "উজলকুড় মাধ্যমিক বিদ্যালয়",
+        "male_count": 1461,
+        "female_count": 1430,
+        "hijra_count": 0,
+        "latitude": 22.65718,
+        "longitude": 89.62785
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "উত্তর বাঁশতলা সরকারী প্রাথমিক বিদ্যালয়, বাঁশতলা",
+        "male_count": 1442,
+        "female_count": 1440,
+        "hijra_count": 0,
+        "latitude": 22.43428,
+        "longitude": 89.64992
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "উত্তর হলদিবুনিয়া সরকারী প্রাথমিক বিদ্যালয়, উত্তর হলদিবুনিয়া",
+        "male_count": 893,
+        "female_count": 936,
+        "hijra_count": 0,
+        "latitude": 22.45834,
+        "longitude": 89.62591
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "উলুবুনিয়া সরকারী প্রাথমিক বিদ্যালয়, উলুবুনিয়া",
+        "male_count": 921,
+        "female_count": 974,
+        "hijra_count": 0,
+        "latitude": 22.52679,
+        "longitude": 89.6458
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "কচুবুনিয়া সরকারি প্রাথমিক বিদ্যালয়, কচুবুনিয়া",
+        "male_count": 1438,
+        "female_count": 1273,
+        "hijra_count": 0,
+        "latitude": 22.41436,
+        "longitude": 89.6957
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "কাদিরখোলা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1836,
+        "female_count": 1809,
+        "hijra_count": 0,
+        "latitude": 22.61432,
+        "longitude": 89.61395
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "কানাইনগর আয়শা সিদ্দিকা সরকারি প্রাথমিক বিদ্যালয়, কানাইনগর",
+        "male_count": 1403,
+        "female_count": 1469,
+        "hijra_count": 0,
+        "latitude": 22.44238,
+        "longitude": 89.61061
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "কাপালীরমেঠ সরকারী প্রাথমিক বিদ্যালয়, কাপালিরমেঠ",
+        "male_count": 1315,
+        "female_count": 1346,
+        "hijra_count": 0,
+        "latitude": 22.54471,
+        "longitude": 89.60077
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "কাপাশডাঙ্গা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1134,
+        "female_count": 1083,
+        "hijra_count": 0,
+        "latitude": 22.62227,
+        "longitude": 89.5639
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "কালেখারবেড় মাধ্যমিক বিদ্যালয়",
+        "male_count": 1403,
+        "female_count": 1456,
+        "hijra_count": 0,
+        "latitude": 22.6014,
+        "longitude": 89.58844
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "কুমলাই বহুমুখী মাধ্যমিক বিদ্যালয়",
+        "male_count": 2348,
+        "female_count": 2363,
+        "hijra_count": 0,
+        "latitude": 22.61022,
+        "longitude": 89.67306
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "খানজাহান আলী মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2520,
+        "hijra_count": 0,
+        "latitude": 22.65487,
+        "longitude": 89.57711
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "খাসেরডাংগা সরকারী প্রাথমিক বিদ্যালয়, খাসেরডাংগা",
+        "male_count": 1074,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 22.48632,
+        "longitude": 89.69971
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "গফুর মেমোরিয়াল নিম্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 687,
+        "female_count": 716,
+        "hijra_count": 0,
+        "latitude": 22.54344,
+        "longitude": 89.73413
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "গিলাতলা সরকারী বহুমুখী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1872,
+        "female_count": 1827,
+        "hijra_count": 0,
+        "latitude": 22.59065,
+        "longitude": 89.69727
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "গোনাবেলাই সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1422,
+        "female_count": 1455,
+        "hijra_count": 0,
+        "latitude": 22.57737,
+        "longitude": 89.5884
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "গোয়ালিরমেঠ সরকারী প্রাথমিক বিদ্যালয়, গোয়ালিরমেঠ",
+        "male_count": 1357,
+        "female_count": 1415,
+        "hijra_count": 0,
+        "latitude": 22.47472,
+        "longitude": 89.69409
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "গৌরম্ভা সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2511,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.6547,
+        "longitude": 89.57696
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "চন্দ্রাখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1216,
+        "female_count": 1196,
+        "hijra_count": 0,
+        "latitude": 22.52629,
+        "longitude": 89.70658
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "চাকশ্রী এ, বি, সি মাধ্যমিক বিদ্যালয়",
+        "male_count": 1255,
+        "female_count": 1264,
+        "hijra_count": 0,
+        "latitude": 22.6376,
+        "longitude": 89.7019
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "চাঁদপাই ইউনিয়ন পরিষদ কার্যালয়, উত্তর কাইনমারী",
+        "male_count": 1488,
+        "female_count": 1569,
+        "hijra_count": 0,
+        "latitude": 22.46486,
+        "longitude": 89.6189
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "চাঁদপাই পীর মেছেরশাহ দাখিল মাদ্রাসা, উত্তর চাঁদপাই",
+        "male_count": 1107,
+        "female_count": 1173,
+        "hijra_count": 0,
+        "latitude": 22.49343,
+        "longitude": 89.64325
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "চাঁদপাই মেছের শাহ মাধ্যমিক বিদ্যালয়, দক্ষিণ চাঁদপাই",
+        "male_count": 689,
+        "female_count": 801,
+        "hijra_count": 0,
+        "latitude": 22.48672,
+        "longitude": 89.64044
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "চাঁদপুর শংকরনগর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1130,
+        "female_count": 1125,
+        "hijra_count": 0,
+        "latitude": 22.6412,
+        "longitude": 89.61653
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "চালনা বন্দর ফাজিল মাদ্রাসা, মাদ্রাসা রোড",
+        "male_count": 1401,
+        "female_count": 1383,
+        "hijra_count": 0,
+        "latitude": 22.47414,
+        "longitude": 89.60643
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "চিলা মনুমিয়া মাধ্যমিক বিদ্যালয়, চিলা",
+        "male_count": 1949,
+        "female_count": 1961,
+        "hijra_count": 0,
+        "latitude": 22.41492,
+        "longitude": 89.62246
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ছোট সন্ন্যাসী নিম্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1450,
+        "female_count": 1395,
+        "hijra_count": 0,
+        "latitude": 22.55905,
+        "longitude": 89.71976
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "জয়খাঁ সরকারী প্রাথমিক বিদ্যালয়, জয়খাঁ",
+        "male_count": 433,
+        "female_count": 412,
+        "hijra_count": 0,
+        "latitude": 22.51082,
+        "longitude": 89.63406
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "জয়নগর পিপুলবুনিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 1045,
+        "female_count": 1091,
+        "hijra_count": 0,
+        "latitude": 22.59529,
+        "longitude": 89.61688
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "জয়মনি মাধ্যমিক বিদ্যালয়, জয়মনিরঘোল",
+        "male_count": 1921,
+        "female_count": 1859,
+        "hijra_count": 0,
+        "latitude": 22.37056,
+        "longitude": 89.64374
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "জিয়লমারী কালিকাবাড়ী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1328,
+        "female_count": 1340,
+        "hijra_count": 0,
+        "latitude": 22.51934,
+        "longitude": 89.73101
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ঝনঝনিয়া মাধ্যমিক বিদ্যালয়",
+        "male_count": 2107,
+        "female_count": 2163,
+        "hijra_count": 0,
+        "latitude": 22.58846,
+        "longitude": 89.64898
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "টাটিবুনিয়া মাধ্যমিক বিদ্যালয়, দত্তেরমেঠ",
+        "male_count": 1315,
+        "female_count": 1361,
+        "hijra_count": 0,
+        "latitude": 22.46975,
+        "longitude": 89.65396
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ঠোটারডাংগা সরকারী প্রাথমিক বিদ্যালয়, ঠোটারডাংগা",
+        "male_count": 1901,
+        "female_count": 1973,
+        "hijra_count": 0,
+        "latitude": 22.48524,
+        "longitude": 89.67809
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ডাকরা বহুমুখী মাধ্যমিক বিদ্যালয়",
+        "male_count": 725,
+        "female_count": 717,
+        "hijra_count": 0,
+        "latitude": 22.5465,
+        "longitude": 89.69691
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "তালবুনিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1036,
+        "female_count": 1087,
+        "hijra_count": 0,
+        "latitude": 22.58136,
+        "longitude": 89.6646
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "তুলশীরাবাদ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1720,
+        "female_count": 1669,
+        "hijra_count": 0,
+        "latitude": 22.66668,
+        "longitude": 89.63562
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "তেলীখালী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1529,
+        "female_count": 1639,
+        "hijra_count": 0,
+        "latitude": 22.63101,
+        "longitude": 89.67806
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "দক্ষিণ কাইনমারী সেন্ট ম্যারিজ প্রাথমিক বিদ্যালয়, দক্ষিন কাইনমারী",
+        "male_count": 963,
+        "female_count": 958,
+        "hijra_count": 0,
+        "latitude": 22.4319,
+        "longitude": 89.61313
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "দক্ষিণ চিলা সরকারী প্রাথমিক বিদ্যালয়, দক্ষিণ চিলা",
+        "male_count": 1373,
+        "female_count": 1450,
+        "hijra_count": 0,
+        "latitude": 22.40485,
+        "longitude": 89.64298
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "দক্ষিণ হলদিবুনিয়া সরকারি প্রাথমিক বিদ্যালয়, দক্ষিণ হলদিবুনিয়া",
+        "male_count": 940,
+        "female_count": 993,
+        "hijra_count": 0,
+        "latitude": 22.40166,
+        "longitude": 89.65722
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "দিগন্ত প্রকল্প সরকারী প্রাথমিক বিদ্যালয়, কবরস্থান রোড",
+        "male_count": 1238,
+        "female_count": 1048,
+        "hijra_count": 0,
+        "latitude": 22.47267,
+        "longitude": 89.60714
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "দিগরাজ বি এম সরকারি প্রাথমিক বিদ্যালয়, দিগরাজ",
+        "male_count": 1480,
+        "female_count": 1464,
+        "hijra_count": 0,
+        "latitude": 22.43536,
+        "longitude": 89.67447
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "দিগরাজ মাধ্যমিক বিদ্যালয়, দিগরাজ",
+        "male_count": 1762,
+        "female_count": 1988,
+        "hijra_count": 0,
+        "latitude": 22.53233,
+        "longitude": 89.59227
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "পশ্চিম গোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 2225,
+        "female_count": 2293,
+        "hijra_count": 0,
+        "latitude": 22.6375,
+        "longitude": 89.65497
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "পেড়িখালী পি, ইউ মাধ্যমিক বিদ্যালয়",
+        "male_count": 2518,
+        "female_count": 2655,
+        "hijra_count": 0,
+        "latitude": 22.53994,
+        "longitude": 89.64984
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ফয়লাহাট কামালউদ্দিন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1693,
+        "female_count": 1800,
+        "hijra_count": 0,
+        "latitude": 22.63509,
+        "longitude": 89.64548
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বকুলতলা সরকারী প্রাথমিক বিদ্যালয়, বকুলতলা",
+        "male_count": 416,
+        "female_count": 423,
+        "hijra_count": 0,
+        "latitude": 22.51646,
+        "longitude": 89.68677
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বড় কাটালী বহুমুখী মাধ্যমিক বিদ্যালয়",
+        "male_count": 1127,
+        "female_count": 1132,
+        "hijra_count": 0,
+        "latitude": 22.52541,
+        "longitude": 89.68475
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বর্নি ছায়রাবাদ বহুমুখী মাধ্যমিক বিদ্যালয়",
+        "male_count": 2335,
+        "female_count": 2369,
+        "hijra_count": 0,
+        "latitude": 22.63777,
+        "longitude": 89.57524
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বাইনতলা কাশিপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1365,
+        "female_count": 1385,
+        "hijra_count": 0,
+        "latitude": 22.61276,
+        "longitude": 89.6948
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বাজিকরেরখন্ড সরকারি প্রাথমিক বিদ্যালয়, বাজিকরের খন্ড",
+        "male_count": 1635,
+        "female_count": 1544,
+        "hijra_count": 1,
+        "latitude": 22.42692,
+        "longitude": 89.71548
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বাঁশতলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1764,
+        "female_count": 1845,
+        "hijra_count": 0,
+        "latitude": 22.55173,
+        "longitude": 89.69542
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বিদ্যারবাহন সরকারী প্রাথমিক বিদ্যালয়, বিদ্যারবাহন",
+        "male_count": 1158,
+        "female_count": 1159,
+        "hijra_count": 0,
+        "latitude": 22.54615,
+        "longitude": 89.5841
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বুড়বুড়িয়া মাধ্যমিক বিদ্যালয়, বুড়বুড়িয়া",
+        "male_count": 751,
+        "female_count": 719,
+        "hijra_count": 0,
+        "latitude": 22.4465,
+        "longitude": 89.66186
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বুড়িরডাংগা সরকারী প্রাথমিক বিদ্যালয়, বুড়িরডাংগা",
+        "male_count": 1013,
+        "female_count": 1154,
+        "hijra_count": 0,
+        "latitude": 22.50718,
+        "longitude": 89.60774
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "বৈরাগীখালী সরকারী প্রাথমিক বিদ্যালয়, বৈরাগীখালী",
+        "male_count": 829,
+        "female_count": 874,
+        "hijra_count": 0,
+        "latitude": 22.52557,
+        "longitude": 89.61296
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ভূইঁয়ারকান্দর মাধ্যমিক বিদ্যালয়",
+        "male_count": 1795,
+        "female_count": 1702,
+        "hijra_count": 0,
+        "latitude": 22.62768,
+        "longitude": 89.62349
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ভেকটমারী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1163,
+        "female_count": 1146,
+        "hijra_count": 0,
+        "latitude": 22.57064,
+        "longitude": 89.60382
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "ভোজপাতিয়া হাজি জোনাব আলী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1079,
+        "female_count": 1101,
+        "hijra_count": 0,
+        "latitude": 22.51144,
+        "longitude": 89.70118
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মংলা বন্দর ইসলামী আদর্শ বহুমুখী কওমী মাদ্রাসা, শ্রম কল্যান রোড",
+        "male_count": 1663,
+        "female_count": 962,
+        "hijra_count": 0,
+        "latitude": 22.46827,
+        "longitude": 89.60488
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মংলা বন্দর মাধ্যমিক বিদ্যালয় (ফ্যাসিলিটিস ভবন-১) মোংলা বন্দর আবাসিক",
+        "male_count": 2587,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.49924,
+        "longitude": 89.59547
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মংলা বন্দর মাধ্যমিক বিদ্যালয় (ফ্যাসিলিটিস ভবন-২) মোংলা বন্দর আবাসিক",
+        "male_count": 0,
+        "female_count": 1603,
+        "hijra_count": 0,
+        "latitude": 22.49967,
+        "longitude": 89.59544
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মল্লিকেরবেড় আদর্শ মাধ্যমিক বিদ্যালয়",
+        "male_count": 1873,
+        "female_count": 1988,
+        "hijra_count": 0,
+        "latitude": 22.53562,
+        "longitude": 89.76221
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মাকড়ঢোন আবাসন প্রকল্প কমিউনিটি সেন্টার, মাকড়ঢোন",
+        "male_count": 1070,
+        "female_count": 1266,
+        "hijra_count": 1,
+        "latitude": 22.49956,
+        "longitude": 89.6152
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মাকড়ঢোন সরকারী প্রাথমিক বিদ্যালয়, মাকড়ঢোন",
+        "male_count": 1578,
+        "female_count": 1568,
+        "hijra_count": 0,
+        "latitude": 22.49335,
+        "longitude": 89.62197
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মোঃ ইসমাইল মাধ্যমিক বিদ্যালয়, সিগনাল টাওয়ার",
+        "male_count": 1646,
+        "female_count": 1676,
+        "hijra_count": 0,
+        "latitude": 22.47474,
+        "longitude": 89.61169
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মোংলা সরকারী কলেজ, পূর্ব শেহলাবুনিয়া",
+        "male_count": 1488,
+        "female_count": 1472,
+        "hijra_count": 0,
+        "latitude": 22.47319,
+        "longitude": 89.61582
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "মোহসিনিয়া আলিম মাদ্রাসা, রাজ্জাক সড়ক",
+        "male_count": 1669,
+        "female_count": 1851,
+        "hijra_count": 1,
+        "latitude": 22.46837,
+        "longitude": 89.60585
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "রাজনগর কালিকা প্রসাদ সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1901,
+        "female_count": 1914,
+        "hijra_count": 0,
+        "latitude": 22.6165,
+        "longitude": 89.58502
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "রামপাল মডেল সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1190,
+        "female_count": 1202,
+        "hijra_count": 0,
+        "latitude": 22.55478,
+        "longitude": 89.65308
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "রুদ্র মোহাম্মদ শহীদুল্লাহ সরকারি প্রাথমিক বিদ্যালয়, মিঠাখালী",
+        "male_count": 939,
+        "female_count": 929,
+        "hijra_count": 0,
+        "latitude": 22.4867,
+        "longitude": 89.64551
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "রোমজাইপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1873,
+        "female_count": 1878,
+        "hijra_count": 0,
+        "latitude": 22.54842,
+        "longitude": 89.67386
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "শরাফপুর কারামতিয়া ফাযিল মাদ্রাসা",
+        "male_count": 1803,
+        "female_count": 1835,
+        "hijra_count": 0,
+        "latitude": 22.59489,
+        "longitude": 89.69661
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "শ্রীফলতলা পাইলট মাধ্যমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2584,
+        "hijra_count": 0,
+        "latitude": 22.57437,
+        "longitude": 89.65887
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "শ্রীফলতলা পাইলট মাধ্যমিক বিদ্যালয়",
+        "male_count": 2366,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 22.57461,
+        "longitude": 89.65847
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "সগুনা মাধ্যমিক বিদ্যালয়",
+        "male_count": 719,
+        "female_count": 705,
+        "hijra_count": 0,
+        "latitude": 22.62264,
+        "longitude": 89.65776
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "সন্ন্যাসী মাধ্যমিক বিদ্যালয়",
+        "male_count": 898,
+        "female_count": 903,
+        "hijra_count": 0,
+        "latitude": 22.55788,
+        "longitude": 89.74925
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "সরকারি টি এ ফারুক স্কুল এ্যান্ড কলেজ, কুমারখালী",
+        "male_count": 1015,
+        "female_count": 1081,
+        "hijra_count": 0,
+        "latitude": 22.47994,
+        "longitude": 89.61171
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "সুন্দরবন ইউনিয়ন পরিষদ, সুন্দরবন",
+        "male_count": 789,
+        "female_count": 810,
+        "hijra_count": 0,
+        "latitude": 22.45406,
+        "longitude": 89.67727
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "সুন্দরবন মহিলা ডিগ্রী কলেজ",
+        "male_count": 1637,
+        "female_count": 1678,
+        "hijra_count": 0,
+        "latitude": 22.61085,
+        "longitude": 89.64395
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "সেন্ট পলস হাই স্কুল, শেহলাবুনিয়া",
+        "male_count": 1304,
+        "female_count": 1441,
+        "hijra_count": 0,
+        "latitude": 22.46782,
+        "longitude": 89.61106
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "সোনাইলতলা এবিএস দাখিল মাদ্রাসা, সোনাইলতলা",
+        "male_count": 1156,
+        "female_count": 1144,
+        "hijra_count": 0,
+        "latitude": 22.5219,
+        "longitude": 89.66769
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "সোনাতুনিয়া আজিজিয়া ফাযিল মাদ্রাসা",
+        "male_count": 2004,
+        "female_count": 1891,
+        "hijra_count": 0,
+        "latitude": 22.66702,
+        "longitude": 89.644
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "হলদিবুনিয়া মাধ্যমিক বিদ্যালয়, মধ্য হলদিবুনিয়া",
+        "male_count": 752,
+        "female_count": 816,
+        "hijra_count": 0,
+        "latitude": 22.43836,
+        "longitude": 89.63828
+    },
+    {
+        "settings_code": 97,
+        "settings_name": "বাগেরহাট-৩",
+        "center_name": "হুড়কা ঝলমলিয়া শেফালিকা নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+        "male_count": 1563,
+        "female_count": 1605,
+        "hijra_count": 0,
+        "latitude": 22.54451,
+        "longitude": 89.62648
+    }
+]

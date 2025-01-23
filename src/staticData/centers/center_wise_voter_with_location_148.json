@@ -1,0 +1,912 @@
+[
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "অনন্তগঞ্জ সরকারি প্রাথমিক বিদ্যালয়, খুলিয়ারচর",
+        "male_count": 2021,
+        "female_count": 1981,
+        "hijra_count": 0,
+        "latitude": 24.70117,
+        "longitude": 90.47867
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "আমুদপুর সরকারি প্রাথমিক বিদ্যালয়, বীর আহাম্মদপুর",
+        "male_count": 2099,
+        "female_count": 2042,
+        "hijra_count": 0,
+        "latitude": 24.75338,
+        "longitude": 90.6793
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "আহসানপুর সরকারি প্রাথমিক বিদ্যালয়, আহসানপুর",
+        "male_count": 1502,
+        "female_count": 1448,
+        "hijra_count": 0,
+        "latitude": 24.70419,
+        "longitude": 90.53673
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "কলতাপাড়া সরকারি প্রাথমিক বিদ্যালয়, কলতাপাড়া",
+        "male_count": 1734,
+        "female_count": 1855,
+        "hijra_count": 0,
+        "latitude": 24.74077,
+        "longitude": 90.52416
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "কাউরাট সরকারি প্রাথমিক বিদ্যালয়, কাউরাট",
+        "male_count": 2294,
+        "female_count": 2425,
+        "hijra_count": 0,
+        "latitude": 24.80112,
+        "longitude": 90.57797
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "কাশিচরন সরকারি প্রাথমিক বিদ্যালয়, কাশিচরন",
+        "male_count": 1118,
+        "female_count": 1114,
+        "hijra_count": 0,
+        "latitude": 24.73621,
+        "longitude": 90.70764
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "কাশিয়ার চর সরকারি প্রাথমিক বিদ্যালয়, কাশিয়ার চর",
+        "male_count": 2593,
+        "female_count": 2297,
+        "hijra_count": 0,
+        "latitude": 24.67177,
+        "longitude": 90.47211
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "কিল্লাতাজপুর সরকারি প্রাথমিক বিদ্যালয়, মাওহা",
+        "male_count": 779,
+        "female_count": 753,
+        "hijra_count": 0,
+        "latitude": 24.7734,
+        "longitude": 90.65608
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "কোনাপাড়া সরকারি প্রাথমিক বিদ্যালয়, কোনাপাড়া",
+        "male_count": 2050,
+        "female_count": 1979,
+        "hijra_count": 0,
+        "latitude": 24.76701,
+        "longitude": 90.60167
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "খলতবাড়ী সরকারি প্রাথমিক বিদ্যালয়, খলতবাড়ী",
+        "male_count": 1355,
+        "female_count": 1304,
+        "hijra_count": 0,
+        "latitude": 24.78448,
+        "longitude": 90.66244
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "খানপাড়া সরকারি প্রাথমিক বিদ্যালয়, খানপাড়া",
+        "male_count": 1143,
+        "female_count": 1176,
+        "hijra_count": 0,
+        "latitude": 24.71016,
+        "longitude": 90.47421
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "খান্দার সরকারি প্রাথমিক বিদ্যালয়, খান্দার",
+        "male_count": 1239,
+        "female_count": 1165,
+        "hijra_count": 0,
+        "latitude": 24.76923,
+        "longitude": 90.63442
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "খালিজুরী সরকারী প্রাথমিক বিদ্যালয়, খালিজুরী",
+        "male_count": 1238,
+        "female_count": 1122,
+        "hijra_count": 0,
+        "latitude": 24.74792,
+        "longitude": 90.63662
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গজন্দর সরকারি প্রাথমিক বিদ্যালয়, গজন্দর",
+        "male_count": 2052,
+        "female_count": 2070,
+        "hijra_count": 0,
+        "latitude": 24.7767,
+        "longitude": 90.55972
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গাভীশিমুল সরকারি প্রাথমিক বিদ্যালয়, গাভীশিমুল",
+        "male_count": 1332,
+        "female_count": 1405,
+        "hijra_count": 0,
+        "latitude": 24.78375,
+        "longitude": 90.5729
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গিধাউষা সরকারি প্রাথমিক বিদ্যালয়, গিধাউষা",
+        "male_count": 1626,
+        "female_count": 1634,
+        "hijra_count": 0,
+        "latitude": 24.74308,
+        "longitude": 90.70084
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গোবিন্দনগর সরকারি প্রাথমিক বিদ্যালয়, গোবিন্দনগর",
+        "male_count": 2222,
+        "female_count": 2138,
+        "hijra_count": 0,
+        "latitude": 24.75282,
+        "longitude": 90.60788
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়, গোবিন্দপুর",
+        "male_count": 999,
+        "female_count": 1039,
+        "hijra_count": 0,
+        "latitude": 24.80395,
+        "longitude": 90.60253
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গোহালাকান্দা এবতেদায়ী মাদ্রাসা, গোহালাকান্দা",
+        "male_count": 1206,
+        "female_count": 1139,
+        "hijra_count": 0,
+        "latitude": 24.8459,
+        "longitude": 90.5356
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গৌরীপুর আর কে সরকারী উচ্চ বিদ্যালয়",
+        "male_count": 4037,
+        "female_count": 4393,
+        "hijra_count": 0,
+        "latitude": 24.75554,
+        "longitude": 90.56711
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গৌরীপুর ইসলামাবাদ সিনিয়র মাদ্রাসা, ইসলামাবাদ",
+        "male_count": 1601,
+        "female_count": 1724,
+        "hijra_count": 0,
+        "latitude": 24.75906,
+        "longitude": 90.57261
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গৌরীপুর পাইলট বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1127,
+        "female_count": 1345,
+        "hijra_count": 0,
+        "latitude": 24.75641,
+        "longitude": 90.57138
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "গৌরীপুর সরকারী কলেজ, কৃষ্ণপুর",
+        "male_count": 1108,
+        "female_count": 1178,
+        "hijra_count": 0,
+        "latitude": 24.75334,
+        "longitude": 90.57678
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "চল্লিশা কড়েহা সরকারি প্রাথমিক বিদ্যালয়, চল্লিশা কড়েহা।",
+        "male_count": 1339,
+        "female_count": 1365,
+        "hijra_count": 0,
+        "latitude": 24.77488,
+        "longitude": 90.7156
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "চান্দের সাটিয়া মডেল উচ্চ বিদ্যালয়, চান্দের সাটিয়া",
+        "male_count": 1265,
+        "female_count": 1290,
+        "hijra_count": 0,
+        "latitude": 24.754,
+        "longitude": 90.53498
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ছিলিমপুর সরকারী প্রাথমিক বিদ্যালয়, ছিলিমপুর",
+        "male_count": 1465,
+        "female_count": 1322,
+        "hijra_count": 0,
+        "latitude": 24.74058,
+        "longitude": 90.65483
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "\tজাগরণী সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3174,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ঝাউগাই আলীমউদ্দিন সরকারি প্রাথমিক বিদ্যালয়, ঝাউগাই",
+        "male_count": 1601,
+        "female_count": 1699,
+        "hijra_count": 0,
+        "latitude": 24.73926,
+        "longitude": 90.50749
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "টিকুরী স্বতন্ত্র এবতেদায়ী মাদ্রাসা ও টিকুরী দারুল কোরআন মাদ্রাসা, টিকুরী",
+        "male_count": 1542,
+        "female_count": 1532,
+        "hijra_count": 0,
+        "latitude": 24.79658,
+        "longitude": 90.61052
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "টেংগাপাড়া সরকারি প্রাথমিক বিদ্যালয়, টেংগাপাড়া",
+        "male_count": 1181,
+        "female_count": 1084,
+        "hijra_count": 0,
+        "latitude": 24.71269,
+        "longitude": 90.6795
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ডক্টর মোহাম্মদ রেজাউল করিম উচ্চ বিঃ, অচিন্তপুর",
+        "male_count": 1646,
+        "female_count": 1575,
+        "hijra_count": 0,
+        "latitude": 24.76046,
+        "longitude": 90.61806
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ডাউকী সরকারি প্রাথমিক বিদ্যালয়, ডাউকী",
+        "male_count": 1380,
+        "female_count": 1289,
+        "hijra_count": 0,
+        "latitude": 24.71929,
+        "longitude": 90.53057
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ডৌহাখলা উচ্চ বিদ্যালয়, কদিম ডৌহাখলা",
+        "male_count": 1631,
+        "female_count": 1678,
+        "hijra_count": 0,
+        "latitude": 24.71906,
+        "longitude": 90.51261
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "তাতকুড়া সরকারি প্রাথমিক বিদ্যালয়, তাতকুড়া",
+        "male_count": 1720,
+        "female_count": 1718,
+        "hijra_count": 0,
+        "latitude": 24.74614,
+        "longitude": 90.54082
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "তালে হোসেন খান উচ্চ বিদ্যালয়, মুখুরিয়া",
+        "male_count": 1190,
+        "female_count": 1167,
+        "hijra_count": 0,
+        "latitude": 24.78401,
+        "longitude": 90.64171
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "তেরশিরা সরকারি প্রাথমিক বিদ্যালয়, তেরশিরা",
+        "male_count": 1533,
+        "female_count": 1372,
+        "hijra_count": 0,
+        "latitude": 24.68686,
+        "longitude": 90.55327
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "তেলিহাটী সরকারি প্রাথমিক বিদ্যালয়, তেলিহাটী",
+        "male_count": 1552,
+        "female_count": 1444,
+        "hijra_count": 0,
+        "latitude": 24.71461,
+        "longitude": 90.61039
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ধীতপুর সরকারি প্রাথমিক বিদ্যালয়, ধীতপুর",
+        "male_count": 1313,
+        "female_count": 1189,
+        "hijra_count": 0,
+        "latitude": 24.88867,
+        "longitude": 90.52985
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ধুরুয়া সরকারি প্রাথমিক বিদ্যালয়, ধুরুয়া",
+        "male_count": 1738,
+        "female_count": 1560,
+        "hijra_count": 0,
+        "latitude": 24.70648,
+        "longitude": 90.54318
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ধোপাজাংগালিয়া সরকারি প্রাথমিক বিদ্যালয়, ধোপাজাংগালিয়া",
+        "male_count": 1475,
+        "female_count": 1435,
+        "hijra_count": 0,
+        "latitude": 24.72492,
+        "longitude": 90.67903
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "নওপাই সরকারি প্রাথমিক বিদ্যালয়, নওপাই",
+        "male_count": 1739,
+        "female_count": 1709,
+        "hijra_count": 0,
+        "latitude": 24.82562,
+        "longitude": 90.56343
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "নওয়াগাঁও সরকারি প্রাথমিক বিদ্যালয়, নওয়াগাঁও",
+        "male_count": 1874,
+        "female_count": 1904,
+        "hijra_count": 0,
+        "latitude": 24.73721,
+        "longitude": 90.56363
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "নহাটা উচ্চ বিদ্যালয়, বৃ-নহাটা",
+        "male_count": 1510,
+        "female_count": 1482,
+        "hijra_count": 0,
+        "latitude": 24.76788,
+        "longitude": 90.68741
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "নাওভাংগা সরকারি প্রাথমিক বিদ্যালয়, নাওভাংগা",
+        "male_count": 1903,
+        "female_count": 1783,
+        "hijra_count": 0,
+        "latitude": 24.66652,
+        "longitude": 90.5002
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "নিজামঊদ্দিন আউলিয়া সরকারি প্রাথমিক বিদ্যালয়, পাঠানটুলি",
+        "male_count": 1432,
+        "female_count": 1453,
+        "hijra_count": 0,
+        "latitude": 24.7342,
+        "longitude": 90.58736
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "নূরুল আমিন খান উচ্চ বিদ্যালয়",
+        "male_count": 3153,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 24.76437,
+        "longitude": 90.57029
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "পলটিপাড়া সরকারি প্রাথমিক বিদ্যালয়, পলটিপাড়া",
+        "male_count": 1523,
+        "female_count": 1442,
+        "hijra_count": 0,
+        "latitude": 24.71157,
+        "longitude": 90.69369
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "পশ্চিম কাউরাট সরকারি প্রাথমিক বিদ্যালয়, পশ্চিম কাউরাট",
+        "male_count": 1224,
+        "female_count": 1243,
+        "hijra_count": 0,
+        "latitude": 24.84099,
+        "longitude": 90.58287
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "পশ্চিমপাড়া সরকারি প্রাথমিক বিদ্যালয়, পশ্চিমপাড়া",
+        "male_count": 1369,
+        "female_count": 1349,
+        "hijra_count": 0,
+        "latitude": 24.71588,
+        "longitude": 90.58111
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "পাঁচাশি সরকারি প্রাথমিক বিদ্যালয়, পাঁচাশি",
+        "male_count": 1796,
+        "female_count": 1653,
+        "hijra_count": 0,
+        "latitude": 24.71395,
+        "longitude": 90.55672
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "পাছার উচ্চ বিদ্যালয়, পাছার",
+        "male_count": 1439,
+        "female_count": 1412,
+        "hijra_count": 0,
+        "latitude": 24.73201,
+        "longitude": 90.67636
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "পানাটি সরকারি প্রাথমিক বিদ্যালয়, পানাটি",
+        "male_count": 1255,
+        "female_count": 1229,
+        "hijra_count": 0,
+        "latitude": 24.70538,
+        "longitude": 90.50809
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "পুম্বাইল সরকারি প্রাথমিক বিদ্যালয়, পুম্বাইল",
+        "male_count": 1777,
+        "female_count": 1781,
+        "hijra_count": 0,
+        "latitude": 24.68529,
+        "longitude": 90.57887
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "প্রমোদবালা সরকারি প্রাথমিক বিদ্যালয়, মেছিডেংগী",
+        "male_count": 1145,
+        "female_count": 1189,
+        "hijra_count": 0,
+        "latitude": 24.79044,
+        "longitude": 90.5773
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বড়বাগ সরকারি প্রাথমিক বিদ্যালয়, স্বল্প বড়বাগ",
+        "male_count": 986,
+        "female_count": 903,
+        "hijra_count": 0,
+        "latitude": 24.70695,
+        "longitude": 90.62635
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বলার কান্দা সরকারি প্রাথমিক বিদ্যালয়, বলার কান্দা",
+        "male_count": 1627,
+        "female_count": 1575,
+        "hijra_count": 0,
+        "latitude": 24.85751,
+        "longitude": 90.54994
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বারুয়ামারী সরকারি প্রাথমিক বিদ্যালয়, বারুয়ামারী",
+        "male_count": 1309,
+        "female_count": 1290,
+        "hijra_count": 0,
+        "latitude": 24.7199,
+        "longitude": 90.48586
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বালিজুরী উচ্চ বিদ্যালয়, বালিজুরী",
+        "male_count": 1440,
+        "female_count": 1468,
+        "hijra_count": 0,
+        "latitude": 24.86585,
+        "longitude": 90.54189
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বালিয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়, বালিয়াপাড়া",
+        "male_count": 1326,
+        "female_count": 1253,
+        "hijra_count": 0,
+        "latitude": 23.82229,
+        "longitude": 89.11409
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বৃ-বড়বাগ স্বতন্ত্র এবতেদায়ী মাদ্রাসা, বৃ-বড়বাগ",
+        "male_count": 1478,
+        "female_count": 1404,
+        "hijra_count": 0,
+        "latitude": 24.73092,
+        "longitude": 90.62724
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বেতান্দর উচ্চ বিদ্যালয় বেতান্দর",
+        "male_count": 1335,
+        "female_count": 1262,
+        "hijra_count": 0,
+        "latitude": 24.73339,
+        "longitude": 90.61999
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বেলতলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1463,
+        "female_count": 1416,
+        "hijra_count": 0,
+        "latitude": NaN,
+        "longitude": NaN
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "বোকাইনগর সরকারি প্রাথমিক বিদ্যালয়, অষ্টঘর",
+        "male_count": 2064,
+        "female_count": 1921,
+        "hijra_count": 0,
+        "latitude": 24.74437,
+        "longitude": 90.59665
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ভবানীপুর সরকারি প্রাথমিক বিদ্যালয়, ভবানীপুর",
+        "male_count": 787,
+        "female_count": 767,
+        "hijra_count": 0,
+        "latitude": 25.63166,
+        "longitude": 88.61101
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ভালুকাপুর উচ্চ বিদ্যালয়, ভালুকাপুর",
+        "male_count": 1530,
+        "female_count": 1502,
+        "hijra_count": 0,
+        "latitude": 24.72482,
+        "longitude": 90.65017
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ভুটিয়ারকোনা সরকারি প্রাথমিক বিদ্যালয়, ভুটিয়ারকোনা",
+        "male_count": 1804,
+        "female_count": 1807,
+        "hijra_count": 0,
+        "latitude": 24.76477,
+        "longitude": 90.66429
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "ভোলার আলগী সরকারি প্রাথমিক বিদ্যালয়, ভোলার আলগী",
+        "male_count": 1276,
+        "female_count": 1233,
+        "hijra_count": 0,
+        "latitude": 24.66306,
+        "longitude": 90.48616
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "মনাটি সরকারি প্রাথমিক বিদ্যালয়, মনাটি",
+        "male_count": 1147,
+        "female_count": 1168,
+        "hijra_count": 0,
+        "latitude": 24.83965,
+        "longitude": 90.5369
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "মরিচালী সরকারি প্রাথমিক বিদ্যালয়, মরিচালী",
+        "male_count": 1550,
+        "female_count": 1593,
+        "hijra_count": 0,
+        "latitude": 24.70797,
+        "longitude": 90.52459
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "মহিশ্বরন সরকারী প্রাঃ বিঃ মহিশ্বরন",
+        "male_count": 1401,
+        "female_count": 1278,
+        "hijra_count": 0,
+        "latitude": 24.77879,
+        "longitude": 90.61895
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "মাওহা নয়ানগর সরকারি প্রাথমিক বিদ্যালয়, মাওহা",
+        "male_count": 1427,
+        "female_count": 1356,
+        "hijra_count": 0,
+        "latitude": 24.78647,
+        "longitude": 90.67617
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "মাওহা সরকারি প্রাথমিক বিদ্যালয়, মাওহা",
+        "male_count": 1665,
+        "female_count": 1529,
+        "hijra_count": 0,
+        "latitude": 24.78969,
+        "longitude": 90.69026
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "রউজ বিদ্যানিকেতন বিদ্যালয়, (ডেল্টা মিল সংলগ্ন), কলতাপাড়া বাজার, ডৌহাখলা",
+        "male_count": 1635,
+        "female_count": 1698,
+        "hijra_count": 0,
+        "latitude": 24.73973,
+        "longitude": 90.52692
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "রাইশিমুল সরকারি প্রাথমিক বিদ্যালয়, রাইশিমুল",
+        "male_count": 1538,
+        "female_count": 1581,
+        "hijra_count": 0,
+        "latitude": 24.74046,
+        "longitude": 90.68018
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "রামগোপালপুর পি.জে.কে. উচ্চ বিদ্যালয়, রামগোপালপুর",
+        "male_count": 2033,
+        "female_count": 2147,
+        "hijra_count": 0,
+        "latitude": 24.72763,
+        "longitude": 90.56335
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "রামচন্দ্র নগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1261,
+        "female_count": 1140,
+        "hijra_count": 0,
+        "latitude": 24.78701,
+        "longitude": 90.6336
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়, লক্ষীপুর",
+        "male_count": 965,
+        "female_count": 975,
+        "hijra_count": 0,
+        "latitude": 24.70174,
+        "longitude": 90.47874
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "লামাপাড়া সরকারি প্রাথমিক বিদ্যালয়, লামাপাড়া",
+        "male_count": 2230,
+        "female_count": 2126,
+        "hijra_count": 0,
+        "latitude": 24.80174,
+        "longitude": 90.56015
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "লালখান উচ্চ বিদ্যালয়, বিশ্বনাথপুর",
+        "male_count": 1592,
+        "female_count": 1455,
+        "hijra_count": 0,
+        "latitude": 24.69,
+        "longitude": 90.56209
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "শালিহর শহীদ মধুসূদন সরকারী প্রাথমিক বিদ্যালয়, শালিহর পূর্ব",
+        "male_count": 1540,
+        "female_count": 1504,
+        "hijra_count": 0,
+        "latitude": 24.76462,
+        "longitude": 90.54877
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "শালিহর হাজী আমির উদ্দিন উচ্চ বিদ্যালয়, শালীহর পশ্চিম",
+        "male_count": 1212,
+        "female_count": 1215,
+        "hijra_count": 0,
+        "latitude": 24.76716,
+        "longitude": 90.53625
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "শাহগঞ্জ উচ্চ বিদ্যালয় এন্ড কলেজ, শাহগঞ্জ বাজার",
+        "male_count": 1657,
+        "female_count": 1625,
+        "hijra_count": 0,
+        "latitude": 24.76009,
+        "longitude": 90.64765
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "শেখ খমির উদ্দিন সরকারী প্রাথমিক বিদ্যালয়, মামুদ নগর",
+        "male_count": 1219,
+        "female_count": 1281,
+        "hijra_count": 0,
+        "latitude": 24.74605,
+        "longitude": 90.58097
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "শ্যামগঞ্জ উচ্চ বিদ্যালয়, শ্যামগঞ্জ",
+        "male_count": 1053,
+        "female_count": 1098,
+        "hijra_count": 0,
+        "latitude": 24.83786,
+        "longitude": 90.57757
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "সহনাটি সরকারি প্রাথমিক বিদ্যালয়, সহনাটি",
+        "male_count": 1335,
+        "female_count": 1272,
+        "hijra_count": 0,
+        "latitude": 24.72868,
+        "longitude": 90.6958
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "সিংজানী সরকারি প্রাথমিক বিদ্যালয়, সিংজানী",
+        "male_count": 1989,
+        "female_count": 1926,
+        "hijra_count": 0,
+        "latitude": 24.72722,
+        "longitude": 90.49743
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "সিধলা সরকারি প্রাথমিক বিদ্যালয়, সিধলা",
+        "male_count": 1439,
+        "female_count": 1361,
+        "hijra_count": 0,
+        "latitude": 24.87948,
+        "longitude": 90.55625
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "সিংরাউন্দ সরকারি প্রাথমিক বিদ্যালয়, সিংরাউন্দ",
+        "male_count": 1059,
+        "female_count": 1023,
+        "hijra_count": 0,
+        "latitude": 24.77715,
+        "longitude": 90.64681
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "স্বল্প পশ্চিমপাড়া সরকারি প্রাথমিক বিদ্যালয়, পশ্চিমপাড়া",
+        "male_count": 1585,
+        "female_count": 1484,
+        "hijra_count": 0,
+        "latitude": 24.72536,
+        "longitude": 90.58242
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "হাসনপুর সরকারি প্রাথমিক বিদ্যালয়, হাসনপুর",
+        "male_count": 1310,
+        "female_count": 1211,
+        "hijra_count": 0,
+        "latitude": 24.87608,
+        "longitude": 90.54622
+    },
+    {
+        "settings_code": 148,
+        "settings_name": "ময়মনসিংহ-৩",
+        "center_name": "হিম্মতনগর দারুল উলুম ক্বওমী মাদ্রাসা, হিম্মতনগর",
+        "male_count": 1762,
+        "female_count": 1731,
+        "hijra_count": 0,
+        "latitude": 24.78369,
+        "longitude": 90.59089
+    }
+]

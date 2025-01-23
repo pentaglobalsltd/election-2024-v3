@@ -1,0 +1,1502 @@
+[
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "১ নং জারুল্যাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1275,
+        "female_count": 1319,
+        "hijra_count": 0,
+        "latitude": 25.63209,
+        "longitude": 89.1736
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "২ নং জারুল্যাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1318,
+        "female_count": 1328,
+        "hijra_count": 0,
+        "latitude": 25.62881,
+        "longitude": 89.15857
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1827,
+        "female_count": 1889,
+        "hijra_count": 0,
+        "latitude": 25.61498,
+        "longitude": 89.2693
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "আদারহাট আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2417,
+        "hijra_count": 0,
+        "latitude": 25.52933,
+        "longitude": 89.41333
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "আনজিরহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1397,
+        "female_count": 1476,
+        "hijra_count": 0,
+        "latitude": 25.57744,
+        "longitude": 89.20248
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "আনোয়ার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1961,
+        "female_count": 2028,
+        "hijra_count": 0,
+        "latitude": 25.64596,
+        "longitude": 89.27731
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "আরিফপুর নিম্ন মাধ্যমিক বিদ্যালয়",
+        "male_count": 1595,
+        "female_count": 1628,
+        "hijra_count": 0,
+        "latitude": 25.54558,
+        "longitude": 89.35172
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "আলীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1476,
+        "female_count": 1457,
+        "hijra_count": 0,
+        "latitude": 25.62051,
+        "longitude": 89.31027
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "আস্করপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1227,
+        "female_count": 1283,
+        "hijra_count": 0,
+        "latitude": 25.54981,
+        "longitude": 89.31281
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ইকবালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1158,
+        "female_count": 1059,
+        "hijra_count": 0,
+        "latitude": 25.63252,
+        "longitude": 89.30663
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ইমাদপুর আদিবাসী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2971,
+        "hijra_count": 0,
+        "latitude": 25.5205,
+        "longitude": 89.37982
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ইমাদপুর এফ.ইউ ফাজিল মাদ্রাসা",
+        "male_count": 2512,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.54389,
+        "longitude": 89.40068
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ইমাদপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 2033,
+        "female_count": 2124,
+        "hijra_count": 0,
+        "latitude": 25.51266,
+        "longitude": 89.39777
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ইমাদপুর পশ্চিমপাড়া উচ্চ বিদ্যালয়",
+        "male_count": 3007,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.5205,
+        "longitude": 89.37984
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ইমাদপুর পূর্বপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1654,
+        "female_count": 1656,
+        "hijra_count": 0,
+        "latitude": 25.52589,
+        "longitude": 89.43488
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "এনায়েতপুর ইসলামিয়া দ্বি-মুখী দাখিল মাদ্রাসা",
+        "male_count": 1679,
+        "female_count": 1720,
+        "hijra_count": 0,
+        "latitude": 25.59465,
+        "longitude": 89.33185
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কানুদাসপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2216,
+        "female_count": 2278,
+        "hijra_count": 0,
+        "latitude": 25.51118,
+        "longitude": 89.19792
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কাফ্রিখাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2119,
+        "female_count": 2061,
+        "hijra_count": 0,
+        "latitude": 25.61931,
+        "longitude": 89.30333
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কামালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1732,
+        "female_count": 1789,
+        "hijra_count": 0,
+        "latitude": 25.62058,
+        "longitude": 89.37472
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কাশিমপুর ছালামিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1330,
+        "female_count": 1337,
+        "hijra_count": 0,
+        "latitude": 25.59441,
+        "longitude": 89.20903
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কিশামত জালাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1913,
+        "female_count": 1872,
+        "hijra_count": 0,
+        "latitude": 25.58357,
+        "longitude": 89.32059
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কিসামত রসুলপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1440,
+        "female_count": 1466,
+        "hijra_count": 0,
+        "latitude": 25.65374,
+        "longitude": 89.19941
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কুমরগঞ্জ দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 2505,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.59811,
+        "longitude": 89.31393
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কেশবপুর নেজামিয়া দাখিল মাদ্রাসা",
+        "male_count": 1783,
+        "female_count": 1832,
+        "hijra_count": 0,
+        "latitude": 25.50287,
+        "longitude": 89.12697
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "কোমরগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2455,
+        "hijra_count": 0,
+        "latitude": 25.59818,
+        "longitude": 89.31361
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "খামার দূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1363,
+        "female_count": 1320,
+        "hijra_count": 0,
+        "latitude": 25.61797,
+        "longitude": 89.25408
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "খিয়ারপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 893,
+        "female_count": 864,
+        "hijra_count": 0,
+        "latitude": 25.51551,
+        "longitude": 89.16503
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "খোড়াগাছ বহুমুখী উচ্চ বিদ্যালয় ও মহাবিদ্যালয়",
+        "male_count": 2500,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.64668,
+        "longitude": 89.16208
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "খোড়াগাছ বহুমুখী উচ্চ বিদ্যালয় ও মহাবিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2511,
+        "hijra_count": 0,
+        "latitude": 25.64675,
+        "longitude": 89.16202
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "খোর্দ্দ কাশিনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2017,
+        "female_count": 1920,
+        "hijra_count": 0,
+        "latitude": 25.59873,
+        "longitude": 89.29364
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "খোর্দ্দ কোমরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1152,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 25.59328,
+        "longitude": 89.37344
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "খোর্দ্দ নারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 624,
+        "female_count": 651,
+        "hijra_count": 0,
+        "latitude": 25.6302,
+        "longitude": 89.29155
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "খোর্দ্দ শেরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1318,
+        "female_count": 1345,
+        "hijra_count": 0,
+        "latitude": 25.5591,
+        "longitude": 89.36724
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "গাড়ালচৌকি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1258,
+        "female_count": 1314,
+        "hijra_count": 0,
+        "latitude": 25.58125,
+        "longitude": 89.37517
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "গিরাই উচ্চ বিদ্যালয়",
+        "male_count": 1105,
+        "female_count": 1121,
+        "hijra_count": 0,
+        "latitude": 25.56965,
+        "longitude": 89.31468
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "গোকর্ন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 848,
+        "female_count": 865,
+        "hijra_count": 0,
+        "latitude": 25.51499,
+        "longitude": 89.22338
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "গোপালপুর দ্বি-মুখী উচ্চ বিদ্যালয় ও কলেজ",
+        "male_count": 1500,
+        "female_count": 1480,
+        "hijra_count": 0,
+        "latitude": 25.47265,
+        "longitude": 89.14348
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "গোপালপুর হামিদিয়া উচ্চ বিদ্যালয়",
+        "male_count": 1905,
+        "female_count": 1931,
+        "hijra_count": 0,
+        "latitude": 25.53273,
+        "longitude": 89.20782
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "গোপিনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 996,
+        "female_count": 1050,
+        "hijra_count": 0,
+        "latitude": 25.51123,
+        "longitude": 89.19776
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "চকদূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1428,
+        "female_count": 1527,
+        "hijra_count": 0,
+        "latitude": 25.59465,
+        "longitude": 89.19184
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "চিলাখাল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1366,
+        "female_count": 1408,
+        "hijra_count": 0,
+        "latitude": 25.54019,
+        "longitude": 89.19308
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "চুহড় উচ্চ বিদ্যালয়",
+        "male_count": 2144,
+        "female_count": 2238,
+        "hijra_count": 0,
+        "latitude": 25.66303,
+        "longitude": 89.27397
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ছড়ান দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1201,
+        "female_count": 1302,
+        "hijra_count": 0,
+        "latitude": 25.5334,
+        "longitude": 89.12331
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ছড়ান শালিকাদহ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1222,
+        "female_count": 1208,
+        "hijra_count": 0,
+        "latitude": 25.52505,
+        "longitude": 89.11861
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "জানকিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1336,
+        "female_count": 1352,
+        "hijra_count": 0,
+        "latitude": 25.44606,
+        "longitude": 89.14298
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "জামালপুর ফরিদা বেগম উচ্চ বিদ্যালয়",
+        "male_count": 1488,
+        "female_count": 1543,
+        "hijra_count": 0,
+        "latitude": 25.51432,
+        "longitude": 89.42316
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "জায়গীর উচ্চ বিদ্যালয় ও কলেজ",
+        "male_count": 0,
+        "female_count": 2185,
+        "hijra_count": 0,
+        "latitude": 25.61233,
+        "longitude": 89.28071
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "জায়গীর উচ্চ বিদ্যালয় ও কলেজ",
+        "male_count": 2165,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.61256,
+        "longitude": 89.2808
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "জীবনপুর মডেল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3067,
+        "hijra_count": 0,
+        "latitude": 25.57227,
+        "longitude": 89.27795
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ঠাকুরবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1534,
+        "female_count": 1477,
+        "hijra_count": 0,
+        "latitude": 25.63926,
+        "longitude": 89.35888
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ডাবরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1844,
+        "female_count": 1797,
+        "hijra_count": 0,
+        "latitude": 25.54444,
+        "longitude": 89.25782
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "তনকা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2558,
+        "hijra_count": 0,
+        "latitude": 25.60704,
+        "longitude": 89.23024
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "তরফসাদী খায়রুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 1836,
+        "female_count": 1882,
+        "hijra_count": 0,
+        "latitude": 25.50664,
+        "longitude": 89.15372
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "তারাগঞ্জ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1634,
+        "female_count": 1677,
+        "hijra_count": 0,
+        "latitude": 25.67378,
+        "longitude": 89.27439
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "তিলকপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1139,
+        "female_count": 1232,
+        "hijra_count": 0,
+        "latitude": 25.57679,
+        "longitude": 89.19497
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "তুলশীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1695,
+        "female_count": 1619,
+        "hijra_count": 0,
+        "latitude": 25.55658,
+        "longitude": 89.26314
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "দঃ রামরায়েরপাড়া আমতলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1066,
+        "female_count": 1094,
+        "hijra_count": 0,
+        "latitude": 25.55799,
+        "longitude": 89.35099
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "দূর্গাপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1136,
+        "female_count": 1114,
+        "hijra_count": 0,
+        "latitude": 25.48622,
+        "longitude": 89.12475
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "দূর্গামতি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 840,
+        "female_count": 837,
+        "hijra_count": 0,
+        "latitude": 25.51853,
+        "longitude": 89.19018
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ধাপ শ্যামপুর খয়রাতিয়া ছিদ্দিকিয়া দাখিল মাদ্রামা",
+        "male_count": 1246,
+        "female_count": 1254,
+        "hijra_count": 0,
+        "latitude": 25.52868,
+        "longitude": 89.22031
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "নানকর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 2179,
+        "female_count": 2145,
+        "hijra_count": 0,
+        "latitude": 25.53395,
+        "longitude": 89.32556
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "নিশ্চিন্তপুর ছমিয়ন্নেছা বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1862,
+        "female_count": 1889,
+        "hijra_count": 0,
+        "latitude": 25.60831,
+        "longitude": 89.27193
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "নুরপুর বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1679,
+        "female_count": 1776,
+        "hijra_count": 0,
+        "latitude": 25.64443,
+        "longitude": 89.21706
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "পদাগঞ্জ উচ্চ বিদ্যালয় ও মহাবিদ্যালয়",
+        "male_count": 1798,
+        "female_count": 1840,
+        "hijra_count": 0,
+        "latitude": 25.64786,
+        "longitude": 89.13754
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "পদ্মপুকুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1828,
+        "female_count": 1676,
+        "hijra_count": 1,
+        "latitude": 25.4756,
+        "longitude": 89.40978
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "পশ্চিম বড়বালা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 938,
+        "female_count": 955,
+        "hijra_count": 0,
+        "latitude": 25.55157,
+        "longitude": 89.11476
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "পশ্চিম মুরাদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 986,
+        "female_count": 988,
+        "hijra_count": 0,
+        "latitude": 25.53733,
+        "longitude": 89.34594
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "পাগলারহাট মঞ্জুশ্রী উচ্চ বিদ্যালয়",
+        "male_count": 1518,
+        "female_count": 1506,
+        "hijra_count": 0,
+        "latitude": 25.57162,
+        "longitude": 89.24207
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "পায়রাবতী কৃষ্ণপুর আইয়ুবীয়া স্বতন্ত্র এবতেদায়ী মাদ্রাসা",
+        "male_count": 1350,
+        "female_count": 1364,
+        "hijra_count": 0,
+        "latitude": 25.6193,
+        "longitude": 89.35265
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "পায়রাবন্দ বেগম রোকেয়া মেমোরিয়াল বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1516,
+        "female_count": 1586,
+        "hijra_count": 0,
+        "latitude": 25.6664,
+        "longitude": 89.30072
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "পায়রাবন্দ হরিহরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 766,
+        "female_count": 715,
+        "hijra_count": 0,
+        "latitude": 25.59198,
+        "longitude": 89.28556
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ফকিরহাট পাবলিক উচ্চ বিদ্যালয়",
+        "male_count": 2278,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.56821,
+        "longitude": 89.22311
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ফকিরহাট সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2343,
+        "hijra_count": 0,
+        "latitude": 25.5687,
+        "longitude": 89.22279
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ফরিদপুর উচ্চ বিদ্যালয়",
+        "male_count": 2108,
+        "female_count": 2103,
+        "hijra_count": 0,
+        "latitude": 25.49947,
+        "longitude": 89.4058
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ফুলচৌকি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1798,
+        "female_count": 1890,
+        "hijra_count": 1,
+        "latitude": 25.58802,
+        "longitude": 89.17058
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বড়বালা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1872,
+        "female_count": 1846,
+        "hijra_count": 0,
+        "latitude": 25.54239,
+        "longitude": 89.13874
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বড়হযরতপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1603,
+        "female_count": 1569,
+        "hijra_count": 0,
+        "latitude": 25.51057,
+        "longitude": 89.33964
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বলদীপুকুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1239,
+        "female_count": 1263,
+        "hijra_count": 0,
+        "latitude": 25.64147,
+        "longitude": 89.25477
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বলদীবাথান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1524,
+        "female_count": 1583,
+        "hijra_count": 0,
+        "latitude": 25.57484,
+        "longitude": 89.3092
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বাগেশ্বরী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1158,
+        "female_count": 1236,
+        "hijra_count": 0,
+        "latitude": 25.5299,
+        "longitude": 89.24069
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বান্দেরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 837,
+        "female_count": 794,
+        "hijra_count": 0,
+        "latitude": 25.51848,
+        "longitude": 89.19021
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বালারহাট উচ্চ বিদ্যালয়",
+        "male_count": 969,
+        "female_count": 1046,
+        "hijra_count": 0,
+        "latitude": 25.58967,
+        "longitude": 89.35895
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বালারহাট মহাবিদ্যালয়",
+        "male_count": 1895,
+        "female_count": 2067,
+        "hijra_count": 0,
+        "latitude": 25.58977,
+        "longitude": 89.3515
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বালুয়া উচ্চ বিদ্যালয়",
+        "male_count": 1540,
+        "female_count": 1548,
+        "hijra_count": 0,
+        "latitude": 25.52378,
+        "longitude": 89.14738
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বিরাহিমপুর আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1259,
+        "female_count": 1291,
+        "hijra_count": 0,
+        "latitude": 25.6455,
+        "longitude": 89.31616
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বিশ্বনাথপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1478,
+        "female_count": 1499,
+        "hijra_count": 0,
+        "latitude": 25.66863,
+        "longitude": 89.25838
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বুজরুক ঝালাই সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1394,
+        "female_count": 1541,
+        "hijra_count": 0,
+        "latitude": 25.58554,
+        "longitude": 89.3677
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বুজরুক তাজপুর আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 1827,
+        "female_count": 1830,
+        "hijra_count": 0,
+        "latitude": 25.63254,
+        "longitude": 89.32727
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বুজরুক শেরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1340,
+        "female_count": 1394,
+        "hijra_count": 1,
+        "latitude": 25.56206,
+        "longitude": 89.37954
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বুজরুক সন্তোষপুর আদর্শ উচ্চ বিদ্যালয়",
+        "male_count": 3216,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.54473,
+        "longitude": 89.1684
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বুজর্গ সন্তোষপুর কারামতিয়া ফাযিল (ডিগ্রী) মাদরাসা",
+        "male_count": 0,
+        "female_count": 3326,
+        "hijra_count": 0,
+        "latitude": 25.54488,
+        "longitude": 89.16776
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বৈরাতী দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1479,
+        "female_count": 1535,
+        "hijra_count": 0,
+        "latitude": 25.51902,
+        "longitude": 89.36753
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "বৈরাতী রহমানীয়া দাখিল মাদ্রাসা",
+        "male_count": 2165,
+        "female_count": 2165,
+        "hijra_count": 0,
+        "latitude": 25.51929,
+        "longitude": 89.35899
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ভক্তিপুর উচ্চ বিদ্যালয়",
+        "male_count": 1676,
+        "female_count": 1695,
+        "hijra_count": 0,
+        "latitude": 25.66059,
+        "longitude": 89.24256
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ভাংনী আহমাদিয়া ফাজিল ডিগ্রী মাদ্রাসা",
+        "male_count": 2601,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.64997,
+        "longitude": 89.33344
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ভাংনী দক্ষিণ পাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2127,
+        "female_count": 2047,
+        "hijra_count": 0,
+        "latitude": 25.63984,
+        "longitude": 89.33966
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ভাংনী পাকুড়িয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2673,
+        "hijra_count": 0,
+        "latitude": 25.64999,
+        "longitude": 89.33346
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ময়েনপুর কদমতলা দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1476,
+        "female_count": 1564,
+        "hijra_count": 0,
+        "latitude": 25.61065,
+        "longitude": 89.16158
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ময়েনপুর পূর্বপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1229,
+        "female_count": 1344,
+        "hijra_count": 0,
+        "latitude": 25.6094,
+        "longitude": 89.19262
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "ময়েনপুর মধ্যপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1358,
+        "female_count": 1404,
+        "hijra_count": 0,
+        "latitude": 25.60372,
+        "longitude": 89.16295
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মহদীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1627,
+        "female_count": 1663,
+        "hijra_count": 0,
+        "latitude": 25.61076,
+        "longitude": 89.33413
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মাঝগ্রাম দারুল হুদা দাখিল মাদ্রাসা",
+        "male_count": 1676,
+        "female_count": 1658,
+        "hijra_count": 0,
+        "latitude": 25.56234,
+        "longitude": 89.32156
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মাদারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1972,
+        "female_count": 2009,
+        "hijra_count": 0,
+        "latitude": 25.62179,
+        "longitude": 89.21935
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মাহিয়ারপুর উচ্চ বিদ্যালয়",
+        "male_count": 1479,
+        "female_count": 1543,
+        "hijra_count": 0,
+        "latitude": 25.54509,
+        "longitude": 89.24672
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মিঠাপুকুর মডেল উচ্চ বিদ্যালয়",
+        "male_count": 2834,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.57207,
+        "longitude": 89.27702
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মিঠাপুকুর মহাবিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2649,
+        "hijra_count": 0,
+        "latitude": 25.57193,
+        "longitude": 89.27327
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মিঠাপুকুর মহাবিদ্যালয়",
+        "male_count": 2540,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.57236,
+        "longitude": 89.27386
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মির্জাপুর আদর্শ স্কুল এন্ড কলেজ",
+        "male_count": 2117,
+        "female_count": 2044,
+        "hijra_count": 0,
+        "latitude": 25.51657,
+        "longitude": 89.28343
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মির্জাপুর উচ্চ বিদ্যালয়",
+        "male_count": 2022,
+        "female_count": 2094,
+        "hijra_count": 0,
+        "latitude": 25.54742,
+        "longitude": 89.39035
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মির্জাপুর কাদেরীয়া ফাজিল ডিগ্রী মাদ্রাসা",
+        "male_count": 1777,
+        "female_count": 1812,
+        "hijra_count": 0,
+        "latitude": 25.58363,
+        "longitude": 89.25771
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মির্জাপুর বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2012,
+        "female_count": 2069,
+        "hijra_count": 0,
+        "latitude": 25.546,
+        "longitude": 89.39429
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মিলনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1897,
+        "female_count": 1932,
+        "hijra_count": 0,
+        "latitude": 25.47794,
+        "longitude": 89.13625
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মোসলেম বাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1085,
+        "female_count": 1170,
+        "hijra_count": 0,
+        "latitude": 25.56825,
+        "longitude": 89.19758
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "মৌলভীগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 1359,
+        "female_count": 1438,
+        "hijra_count": 0,
+        "latitude": 25.63676,
+        "longitude": 89.14342
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রতিয়া উচ্চ বিদ্যালয়",
+        "male_count": 1883,
+        "female_count": 1828,
+        "hijra_count": 0,
+        "latitude": 25.50042,
+        "longitude": 89.36378
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রহমতপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2152,
+        "female_count": 2103,
+        "hijra_count": 0,
+        "latitude": 25.4857,
+        "longitude": 89.43175
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রাণীপুকুর উচ্চ বিদ্যালয় ও মহাবিদ্যালয়",
+        "male_count": 2137,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.63255,
+        "longitude": 89.21968
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রাণীপুকুর উচ্চ বিদ্যালয় ও মহাবিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2207,
+        "hijra_count": 0,
+        "latitude": 25.63373,
+        "longitude": 89.22027
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রাধাকৃষ্ণপুর উচ্চ বিদ্যালয়",
+        "male_count": 1905,
+        "female_count": 1863,
+        "hijra_count": 0,
+        "latitude": 25.50097,
+        "longitude": 89.42996
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রামেশ্বরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1633,
+        "female_count": 1601,
+        "hijra_count": 0,
+        "latitude": 25.58371,
+        "longitude": 89.23334
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রামেশ্বরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 941,
+        "female_count": 989,
+        "hijra_count": 0,
+        "latitude": 25.52378,
+        "longitude": 89.3107
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রূপসী আদর্শ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1027,
+        "female_count": 1057,
+        "hijra_count": 0,
+        "latitude": 25.63631,
+        "longitude": 89.207
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রূপসী উচ্চ বিদ্যালয়",
+        "male_count": 1664,
+        "female_count": 1699,
+        "hijra_count": 0,
+        "latitude": 25.64499,
+        "longitude": 89.20082
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "রোকনপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1424,
+        "female_count": 1445,
+        "hijra_count": 0,
+        "latitude": 25.57092,
+        "longitude": 89.15755
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "লতিবপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 2362,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.59236,
+        "longitude": 89.25099
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "লতিবপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2407,
+        "hijra_count": 0,
+        "latitude": 25.59267,
+        "longitude": 89.25085
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "লস্করপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1243,
+        "female_count": 1265,
+        "hijra_count": 0,
+        "latitude": 25.61149,
+        "longitude": 89.37805
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "লোহাকুচি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1828,
+        "female_count": 1934,
+        "hijra_count": 0,
+        "latitude": 25.55273,
+        "longitude": 89.20422
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শঠিবাড়ী বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2797,
+        "hijra_count": 1,
+        "latitude": 25.53436,
+        "longitude": 89.28276
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শঠিবাড়ী বহুমুখী উচ্চ বিদ্যালয় (প্রশাসনিক ভবন) ও শঠিবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2712,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.5338,
+        "longitude": 89.28319
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শঠিবাড়ী মহাবিদ্যালয়",
+        "male_count": 3003,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.53658,
+        "longitude": 89.28493
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শঠিবাড়ী মহাবিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2976,
+        "hijra_count": 0,
+        "latitude": 25.53705,
+        "longitude": 89.2851
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শালমারা দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1330,
+        "female_count": 1315,
+        "hijra_count": 0,
+        "latitude": 25.64167,
+        "longitude": 89.30179
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শালাইপুর উচ্চ বিদ্যালয়",
+        "male_count": 1810,
+        "female_count": 1835,
+        "hijra_count": 0,
+        "latitude": 25.6346,
+        "longitude": 89.28024
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শাহ্ আবুল কাশেম দ্বি-মূখী উচ্চ বিদ্যালয়",
+        "male_count": 2254,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.63636,
+        "longitude": 89.25633
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শাহ্ আবুল কাশেম দ্বি-মূখী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2296,
+        "hijra_count": 0,
+        "latitude": 25.63644,
+        "longitude": 89.25622
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শিকারপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 964,
+        "female_count": 957,
+        "hijra_count": 0,
+        "latitude": 25.59032,
+        "longitude": 89.15839
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শীতলগাড়ী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2316,
+        "hijra_count": 0,
+        "latitude": 25.54605,
+        "longitude": 89.29492
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শীতলগাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2260,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.54667,
+        "longitude": 89.29536
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শীব বাজার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1638,
+        "female_count": 1623,
+        "hijra_count": 0,
+        "latitude": 25.54419,
+        "longitude": 89.37252
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "শুকুরেরহাট উচ্চ বিদ্যালয়",
+        "male_count": 1820,
+        "female_count": 1941,
+        "hijra_count": 0,
+        "latitude": 25.58195,
+        "longitude": 89.19461
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "সংগ্রামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 932,
+        "female_count": 989,
+        "hijra_count": 0,
+        "latitude": 25.5946,
+        "longitude": 89.38446
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "সাদুল্যাপুর বাহারুল উলুম দাখিল মাদ্রাসা",
+        "male_count": 2487,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 25.60805,
+        "longitude": 89.22979
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "সাহালামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1040,
+        "female_count": 1082,
+        "hijra_count": 0,
+        "latitude": 25.49403,
+        "longitude": 89.12994
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "সেরুডাঙ্গা স্কুল এন্ড কলেজ",
+        "male_count": 1803,
+        "female_count": 1911,
+        "hijra_count": 0,
+        "latitude": 25.56381,
+        "longitude": 89.34261
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "হরনারায়নপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1355,
+        "female_count": 1355,
+        "hijra_count": 0,
+        "latitude": 25.65058,
+        "longitude": 89.23141
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "হরেকৃষ্ণপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1662,
+        "female_count": 1673,
+        "hijra_count": 0,
+        "latitude": 25.50874,
+        "longitude": 89.13513
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "হামিদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1240,
+        "female_count": 1236,
+        "hijra_count": 0,
+        "latitude": 25.52646,
+        "longitude": 89.16953
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "হাঁসিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1088,
+        "female_count": 1077,
+        "hijra_count": 0,
+        "latitude": 25.55544,
+        "longitude": 89.14779
+    },
+    {
+        "settings_code": 23,
+        "settings_name": "রংপুর-৫",
+        "center_name": "হুলাশুগঞ্জ দ্বি-মুখী উচ্চ বিদ্যালয়",
+        "male_count": 1531,
+        "female_count": 1630,
+        "hijra_count": 0,
+        "latitude": 25.62799,
+        "longitude": 89.36017
+    }
+]

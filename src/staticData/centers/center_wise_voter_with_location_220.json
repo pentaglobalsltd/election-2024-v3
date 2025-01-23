@@ -1,0 +1,1332 @@
+[
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "৩৬ নং চর গোবিন্দপুর সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 3625,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.18169,
+        "longitude": 90.25161
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "৩৬নং নবগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 609,
+        "female_count": 602,
+        "hijra_count": 0,
+        "latitude": 23.05922,
+        "longitude": 90.13654
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "৪৩ নং সিডি খান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1856,
+        "female_count": 1758,
+        "hijra_count": 0,
+        "latitude": 23.03194,
+        "longitude": 90.26913
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "৮নং ঝিকরহাটি সরকারি প্রাথমিক বিদ্যালয় (পশ্চিম পাশ্বে)",
+        "male_count": 2881,
+        "female_count": 2745,
+        "hijra_count": 0,
+        "latitude": 23.14352,
+        "longitude": 90.15469
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "আনারননেছা টেকনিক্যাল স্কুল এন্ড বিজনেস ম্যানেজমেন্ট ইন্সটিটিউট",
+        "male_count": 1993,
+        "female_count": 1857,
+        "hijra_count": 0,
+        "latitude": 23.02625,
+        "longitude": 90.24398
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "আন্ডারচর উচ্চ বিদ্যালয়",
+        "male_count": 1933,
+        "female_count": 1800,
+        "hijra_count": 0,
+        "latitude": 23.02984,
+        "longitude": 90.29611
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "আলীপুর লালচান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1809,
+        "female_count": 1615,
+        "hijra_count": 0,
+        "latitude": 23.1046,
+        "longitude": 90.30687
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "উঃ চর আইরকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2178,
+        "female_count": 2016,
+        "hijra_count": 0,
+        "latitude": 22.98688,
+        "longitude": 90.23134
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "উত্তর কৃষ্ণনগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1288,
+        "female_count": 1226,
+        "hijra_count": 0,
+        "latitude": 23.0799,
+        "longitude": 90.24705
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "উত্তর কোলচরি স্বস্থল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 828,
+        "female_count": 680,
+        "hijra_count": 0,
+        "latitude": 23.13291,
+        "longitude": 90.27576
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "উত্তর খাগছাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2159,
+        "female_count": 1945,
+        "hijra_count": 0,
+        "latitude": 23.12614,
+        "longitude": 90.13818
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "উত্তর রমজানপুর পাবলিক সরকারি প্রাথমিক বিদ্যালয়(ঘরামীরাড়ী সংলগ্ন)",
+        "male_count": 1168,
+        "female_count": 1125,
+        "hijra_count": 0,
+        "latitude": 23.01893,
+        "longitude": 90.24997
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "উত্তর রাজদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1738,
+        "female_count": 1663,
+        "hijra_count": 0,
+        "latitude": 23.07434,
+        "longitude": 90.22642
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "এনায়েতনগর উচ্চ বিদ্যালয়",
+        "male_count": 1353,
+        "female_count": 1246,
+        "hijra_count": 0,
+        "latitude": 23.08696,
+        "longitude": 90.28314
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "এনায়েতনগর বোর্ড সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1013,
+        "female_count": 920,
+        "hijra_count": 0,
+        "latitude": 23.10022,
+        "longitude": 90.2724
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ক খ গ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1070,
+        "female_count": 907,
+        "hijra_count": 0,
+        "latitude": 23.15718,
+        "longitude": 90.26327
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কদমতলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1925,
+        "female_count": 1727,
+        "hijra_count": 0,
+        "latitude": 23.0744,
+        "longitude": 90.23388
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কমলাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1896,
+        "female_count": 1776,
+        "hijra_count": 0,
+        "latitude": 23.1115,
+        "longitude": 90.14187
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কয়ারিয়া কেরামতিয়া দাখিল মাদ্রাসা",
+        "male_count": 1731,
+        "female_count": 1667,
+        "hijra_count": 0,
+        "latitude": 22.99626,
+        "longitude": 90.2828
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "করদি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1191,
+        "female_count": 1047,
+        "hijra_count": 0,
+        "latitude": 23.14051,
+        "longitude": 90.19464
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কালকিনি পাইলট উচ্চ বিদ্যালয়",
+        "male_count": 1470,
+        "female_count": 1543,
+        "hijra_count": 0,
+        "latitude": 23.07367,
+        "longitude": 90.24213
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কালাইমারা নিউ বয়েজ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1069,
+        "female_count": 913,
+        "hijra_count": 0,
+        "latitude": 23.10987,
+        "longitude": 90.22728
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কালিগঞ্জ উচ্চ বিদ্যালয়",
+        "male_count": 1459,
+        "female_count": 1367,
+        "hijra_count": 0,
+        "latitude": 23.11329,
+        "longitude": 90.24712
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কালিনগর ফাসিয়াতলা উচ্চ বিদ্যালয়",
+        "male_count": 1237,
+        "female_count": 1133,
+        "hijra_count": 0,
+        "latitude": 23.11021,
+        "longitude": 90.26237
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কাশিমপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 654,
+        "female_count": 627,
+        "hijra_count": 0,
+        "latitude": 23.0753,
+        "longitude": 90.23282
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কাষ্টগর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1009,
+        "female_count": 985,
+        "hijra_count": 0,
+        "latitude": 23.09297,
+        "longitude": 90.25035
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কুন্তিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1174,
+        "female_count": 1038,
+        "hijra_count": 0,
+        "latitude": 23.13781,
+        "longitude": 90.18316
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "কোলচরী ইসলামিয়া দাখিল মাদ্রসা",
+        "male_count": 1189,
+        "female_count": 1016,
+        "hijra_count": 0,
+        "latitude": 23.14825,
+        "longitude": 90.26974
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ক্রোকিরচর উচ্চ বিদ্যালয়",
+        "male_count": 1058,
+        "female_count": 1025,
+        "hijra_count": 0,
+        "latitude": 23.02309,
+        "longitude": 90.27363
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "খাতিয়াল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1409,
+        "female_count": 1204,
+        "hijra_count": 0,
+        "latitude": 23.13725,
+        "longitude": 90.16765
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "খাসেরহাট সৈয়দ আবুল হোসেন স্কুল এন্ড কলেজ",
+        "male_count": 1728,
+        "female_count": 1603,
+        "hijra_count": 0,
+        "latitude": 23.09293,
+        "longitude": 90.34446
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "খুনেরচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1761,
+        "female_count": 1611,
+        "hijra_count": 0,
+        "latitude": 23.07151,
+        "longitude": 90.31596
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "খৈয়র ভাংগা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1681,
+        "female_count": 1566,
+        "hijra_count": 0,
+        "latitude": 23.11791,
+        "longitude": 90.15034
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "খোয়াজপুর টেকেরহাট উচ্চ বিদ্যালয়",
+        "male_count": 1667,
+        "female_count": 1488,
+        "hijra_count": 0,
+        "latitude": 23.18018,
+        "longitude": 90.26386
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "খোয়াজপুর ডিক্রীকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1197,
+        "female_count": 1054,
+        "hijra_count": 0,
+        "latitude": 23.1957,
+        "longitude": 90.27761
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "খোয়াজপুর মঠের বাজার কমিউনিটি সেন্টার (ইউনিয়ন পরিষদ ভবন)",
+        "male_count": 1266,
+        "female_count": 1163,
+        "hijra_count": 0,
+        "latitude": 23.1802,
+        "longitude": 90.26394
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "গোপালপুর উচ্চ বিদ্যালয়",
+        "male_count": 1121,
+        "female_count": 1005,
+        "hijra_count": 0,
+        "latitude": 23.08441,
+        "longitude": 90.20361
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 870,
+        "female_count": 822,
+        "hijra_count": 0,
+        "latitude": 23.08409,
+        "longitude": 90.20293
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ঘটকচর উচ্চ বিদ্যালয়",
+        "male_count": 1930,
+        "female_count": 1792,
+        "hijra_count": 0,
+        "latitude": 23.1727,
+        "longitude": 90.12438
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ঘটমাঝি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2057,
+        "female_count": 1943,
+        "hijra_count": 0,
+        "latitude": 23.16017,
+        "longitude": 90.16184
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ঘুংগিয়াকুল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1297,
+        "female_count": 1110,
+        "hijra_count": 0,
+        "latitude": 23.10955,
+        "longitude": 90.20784
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "চর আলীমাবাদ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1334,
+        "female_count": 1165,
+        "hijra_count": 0,
+        "latitude": 22.99479,
+        "longitude": 90.29964
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "চর কুলপদ্দিসরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 943,
+        "female_count": 963,
+        "hijra_count": 0,
+        "latitude": 23.1609,
+        "longitude": 90.23103
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "চর গোবিন্দপুর উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3159,
+        "hijra_count": 0,
+        "latitude": 23.18881,
+        "longitude": 90.25071
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "চরপখিরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2064,
+        "female_count": 1842,
+        "hijra_count": 0,
+        "latitude": 23.1641,
+        "longitude": 90.2483
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "চরফতে বাহাদুর উচ্চ বিদ্যালয়",
+        "male_count": 1484,
+        "female_count": 1409,
+        "hijra_count": 0,
+        "latitude": 23.04237,
+        "longitude": 90.26475
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "চরফতে বাহাদুর কালীবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1700,
+        "female_count": 1565,
+        "hijra_count": 0,
+        "latitude": 23.0585,
+        "longitude": 90.28025
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "চর ব্রাহ্মন্দী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 861,
+        "female_count": 715,
+        "hijra_count": 0,
+        "latitude": 23.14534,
+        "longitude": 90.23856
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "চলবলখাঁ উচ্চ বিদ্যালয়",
+        "male_count": 478,
+        "female_count": 473,
+        "hijra_count": 0,
+        "latitude": 23.05962,
+        "longitude": 90.11374
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ছয়না সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1305,
+        "female_count": 1189,
+        "hijra_count": 0,
+        "latitude": 23.15103,
+        "longitude": 90.18914
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "জায়গির সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1001,
+        "female_count": 821,
+        "hijra_count": 0,
+        "latitude": 23.13512,
+        "longitude": 90.3403
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ঝাউদি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2438,
+        "female_count": 2112,
+        "hijra_count": 0,
+        "latitude": 23.14075,
+        "longitude": 90.21138
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "টুবিয়া সরকারী প্রাথমিক বিদ্যালয়",
+        "male_count": 1333,
+        "female_count": 1108,
+        "hijra_count": 0,
+        "latitude": 23.12522,
+        "longitude": 90.21153
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "টুমচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 808,
+        "female_count": 752,
+        "hijra_count": 0,
+        "latitude": 23.11676,
+        "longitude": 90.25207
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ঠেংগামারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1304,
+        "female_count": 1212,
+        "hijra_count": 0,
+        "latitude": 23.06306,
+        "longitude": 90.24168
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ডাসার সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2654,
+        "hijra_count": 0,
+        "latitude": 23.07564,
+        "longitude": 90.15433
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ডি.কে. আইডিয়াল সৈয়দ আতাহার আলী একাডেমী এন্ড কলেজ",
+        "male_count": 2716,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.07606,
+        "longitude": 90.15437
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ডিক্রিরচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1195,
+        "female_count": 1164,
+        "hijra_count": 0,
+        "latitude": 23.01126,
+        "longitude": 90.26678
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "তাঁতীবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2100,
+        "female_count": 1993,
+        "hijra_count": 1,
+        "latitude": 23.13909,
+        "longitude": 90.1477
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দঃ কোলচরী স্বস্থল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1351,
+        "female_count": 1175,
+        "hijra_count": 0,
+        "latitude": 23.11242,
+        "longitude": 90.28662
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিণ কাউয়াকুড়ি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2069,
+        "female_count": 1792,
+        "hijra_count": 0,
+        "latitude": 23.16423,
+        "longitude": 90.11407
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিণ কানাইপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 883,
+        "female_count": 808,
+        "hijra_count": 0,
+        "latitude": 23.10611,
+        "longitude": 90.24328
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিণ চলবলখাঁ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 772,
+        "female_count": 673,
+        "hijra_count": 1,
+        "latitude": 23.03519,
+        "longitude": 90.12183
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিণ জজিরা জুনিয়র বালিকা বিদ্যালয়",
+        "male_count": 934,
+        "female_count": 920,
+        "hijra_count": 0,
+        "latitude": 22.99832,
+        "longitude": 90.2492
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিণ জনারদন্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1732,
+        "female_count": 1496,
+        "hijra_count": 0,
+        "latitude": 23.0893,
+        "longitude": 90.22603
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিণ ঠেংগামারা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1088,
+        "female_count": 990,
+        "hijra_count": 0,
+        "latitude": 23.05298,
+        "longitude": 90.24014
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিণ রাজদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1097,
+        "female_count": 1042,
+        "hijra_count": 0,
+        "latitude": 23.072,
+        "longitude": 90.22565
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিণ সাহেবরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1547,
+        "female_count": 1518,
+        "hijra_count": 0,
+        "latitude": 23.00619,
+        "longitude": 90.2886
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দক্ষিন বড় বাড্ডাসরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1106,
+        "female_count": 927,
+        "hijra_count": 0,
+        "latitude": 23.12856,
+        "longitude": 90.11445
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দড়িচর লক্ষিপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1249,
+        "female_count": 1140,
+        "hijra_count": 0,
+        "latitude": 23.11018,
+        "longitude": 90.27038
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দত্ত কেন্দুয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1774,
+        "female_count": 1695,
+        "hijra_count": 0,
+        "latitude": 23.16308,
+        "longitude": 90.10531
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দঃ রমজানপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1356,
+        "female_count": 1263,
+        "hijra_count": 0,
+        "latitude": 22.98296,
+        "longitude": 90.25168
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দর্শনা উচ্চ বিদ্যালয়",
+        "male_count": 1952,
+        "female_count": 1889,
+        "hijra_count": 0,
+        "latitude": 23.09457,
+        "longitude": 90.14827
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "দাদপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 528,
+        "female_count": 493,
+        "hijra_count": 0,
+        "latitude": 23.14148,
+        "longitude": 90.30551
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ধ্বজী হামিদিয়া ফাজেল মাদ্রাসা",
+        "male_count": 1162,
+        "female_count": 1149,
+        "hijra_count": 0,
+        "latitude": 23.083,
+        "longitude": 90.19251
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "নতুন চরদৌলতখান সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1955,
+        "female_count": 1746,
+        "hijra_count": 0,
+        "latitude": 23.03641,
+        "longitude": 90.28189
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "নবগ্রাম উচ্চ বিদ্যালয়",
+        "male_count": 945,
+        "female_count": 923,
+        "hijra_count": 0,
+        "latitude": 23.05929,
+        "longitude": 90.1366
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "নবারুন নিন্ম মাধ্যমিক বিদ্যালয়",
+        "male_count": 2310,
+        "female_count": 2071,
+        "hijra_count": 0,
+        "latitude": 23.0371,
+        "longitude": 90.3067
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "নয়াকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1540,
+        "female_count": 1360,
+        "hijra_count": 0,
+        "latitude": 23.04893,
+        "longitude": 90.25869
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পশ্চিম আলীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1513,
+        "female_count": 1220,
+        "hijra_count": 0,
+        "latitude": 23.10383,
+        "longitude": 90.29399
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পশ্চিম বনগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 916,
+        "female_count": 866,
+        "hijra_count": 0,
+        "latitude": 23.06958,
+        "longitude": 90.19243
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পশ্চিম বালিগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1549,
+        "female_count": 1381,
+        "hijra_count": 0,
+        "latitude": 23.10542,
+        "longitude": 90.20321
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পশ্চিম মাইজপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1697,
+        "female_count": 1545,
+        "hijra_count": 0,
+        "latitude": 23.08398,
+        "longitude": 90.16553
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পশ্চিম মিনাজদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1172,
+        "female_count": 980,
+        "hijra_count": 0,
+        "latitude": 23.0854,
+        "longitude": 90.21205
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পশ্চিম শিকারমঙ্গল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1161,
+        "female_count": 1076,
+        "hijra_count": 0,
+        "latitude": 23.06748,
+        "longitude": 90.24929
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পাংগাসিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1609,
+        "female_count": 1611,
+        "hijra_count": 0,
+        "latitude": 23.06281,
+        "longitude": 90.23527
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পূর্ব ক্রোকিরচর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1576,
+        "female_count": 1560,
+        "hijra_count": 0,
+        "latitude": 23.01905,
+        "longitude": 90.28251
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পূর্ব খান্দুলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1502,
+        "female_count": 1376,
+        "hijra_count": 0,
+        "latitude": 23.07027,
+        "longitude": 90.17015
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পূর্বচর কয়ারিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1879,
+        "female_count": 1668,
+        "hijra_count": 0,
+        "latitude": 22.98385,
+        "longitude": 90.28266
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "পোড়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2085,
+        "female_count": 1819,
+        "hijra_count": 0,
+        "latitude": 23.11311,
+        "longitude": 90.15867
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বড়চর কয়ারিয়া বোর্ড সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1630,
+        "female_count": 1515,
+        "hijra_count": 0,
+        "latitude": 22.9885,
+        "longitude": 90.26802
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বালিগ্রাম ইউনিয়ন পরিষদ কমিউনিটি হ্ল",
+        "male_count": 1147,
+        "female_count": 969,
+        "hijra_count": 0,
+        "latitude": 23.11918,
+        "longitude": 90.18557
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1911,
+        "female_count": 1741,
+        "hijra_count": 0,
+        "latitude": 23.13483,
+        "longitude": 90.13751
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বাঁশগাড়ী ইউনিয়ন পরিষদ ভবন",
+        "male_count": 1073,
+        "female_count": 1031,
+        "hijra_count": 0,
+        "latitude": 23.09619,
+        "longitude": 90.32777
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বাঁশগাড়ী বাটামারা উচ্চ বিদ্যালয়",
+        "male_count": 1664,
+        "female_count": 1525,
+        "hijra_count": 0,
+        "latitude": 23.05731,
+        "longitude": 90.33592
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বাঁশগাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1368,
+        "female_count": 1228,
+        "hijra_count": 0,
+        "latitude": 23.07526,
+        "longitude": 90.25834
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বাহাদুরপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2180,
+        "female_count": 1896,
+        "hijra_count": 0,
+        "latitude": 23.14602,
+        "longitude": 90.09287
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বিদ্যা বাগিস সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 943,
+        "female_count": 803,
+        "hijra_count": 0,
+        "latitude": 23.16087,
+        "longitude": 90.28865
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বিভাগদী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 740,
+        "female_count": 670,
+        "hijra_count": 0,
+        "latitude": 23.08069,
+        "longitude": 90.25533
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বীরমোহন উচ্চ বিদ্যালয়",
+        "male_count": 2188,
+        "female_count": 2013,
+        "hijra_count": 0,
+        "latitude": 23.08956,
+        "longitude": 90.18875
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "বীরমোহন সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1634,
+        "female_count": 1467,
+        "hijra_count": 0,
+        "latitude": 23.10973,
+        "longitude": 90.18752
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ভদ্রখোলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1462,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 23.14362,
+        "longitude": 90.17074
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "ভাটবালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 961,
+        "female_count": 902,
+        "hijra_count": 0,
+        "latitude": 23.11212,
+        "longitude": 90.312
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "মজিদবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1095,
+        "female_count": 1086,
+        "hijra_count": 0,
+        "latitude": 23.07355,
+        "longitude": 90.20793
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "মধ্য ব্রাক্ষ্মন্দী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1956,
+        "female_count": 1727,
+        "hijra_count": 0,
+        "latitude": 23.1419,
+        "longitude": 90.23272
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "মধ্য লক্ষীপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 907,
+        "female_count": 793,
+        "hijra_count": 0,
+        "latitude": 23.13909,
+        "longitude": 90.28217
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "মস্তফাপুর উচ্চ বিদ্যালয়",
+        "male_count": 2697,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.1601,
+        "longitude": 90.13717
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "মস্তফাপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2300,
+        "hijra_count": 0,
+        "latitude": 23.16007,
+        "longitude": 90.13722
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "মহরদির চর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1603,
+        "female_count": 1472,
+        "hijra_count": 0,
+        "latitude": 23.10086,
+        "longitude": 90.30766
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "মাদ্রা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1745,
+        "female_count": 1539,
+        "hijra_count": 0,
+        "latitude": 23.12476,
+        "longitude": 90.23122
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "মিয়ারহাট উচ্চ বিদ্যালয়",
+        "male_count": 2050,
+        "female_count": 1870,
+        "hijra_count": 0,
+        "latitude": 23.05781,
+        "longitude": 90.28238
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "রাজারচর পাবলিক উচ্চ বিদ্যালয়",
+        "male_count": 831,
+        "female_count": 754,
+        "hijra_count": 0,
+        "latitude": 23.14408,
+        "longitude": 90.26082
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "রামারপোল সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1373,
+        "female_count": 1280,
+        "hijra_count": 0,
+        "latitude": 22.98408,
+        "longitude": 90.30203
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "রায়পুর কাচারীকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1101,
+        "female_count": 1047,
+        "hijra_count": 1,
+        "latitude": 23.09635,
+        "longitude": 90.28501
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "রায়পুর ভাটবালী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1021,
+        "female_count": 938,
+        "hijra_count": 0,
+        "latitude": 23.13014,
+        "longitude": 90.31353
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "লক্ষীপুর উচ্চ বিদ্যালয়",
+        "male_count": 1166,
+        "female_count": 1034,
+        "hijra_count": 0,
+        "latitude": 23.12915,
+        "longitude": 90.29576
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "লক্ষীপুর পখিরা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 759,
+        "female_count": 717,
+        "hijra_count": 0,
+        "latitude": 23.09856,
+        "longitude": 90.25813
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "লক্ষীপুর সরদার কান্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1093,
+        "female_count": 951,
+        "hijra_count": 0,
+        "latitude": 23.14505,
+        "longitude": 90.29211
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "লেবুতলী সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1423,
+        "female_count": 1310,
+        "hijra_count": 0,
+        "latitude": 23.17859,
+        "longitude": 90.09618
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "শশিকর উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2082,
+        "hijra_count": 0,
+        "latitude": 23.08475,
+        "longitude": 90.12506
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "শশিকর বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 1061,
+        "female_count": 1071,
+        "hijra_count": 0,
+        "latitude": 23.08265,
+        "longitude": 90.13155
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "শহীদ স্মৃতি মহাবিদ্যালয়",
+        "male_count": 2108,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.08543,
+        "longitude": 90.12307
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "শিকারমঙ্গল সরকারি প্রাথমিক বিদ্যালয় (শিকারমঙ্গল বাজার সংলগ্ন)",
+        "male_count": 1581,
+        "female_count": 1480,
+        "hijra_count": 0,
+        "latitude": 23.06214,
+        "longitude": 90.26226
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "শ্রীনাথদী বড়বাড়ী মাদ্রাসা",
+        "male_count": 1914,
+        "female_count": 1771,
+        "hijra_count": 0,
+        "latitude": 23.17133,
+        "longitude": 90.10566
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "সনমন্দি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1237,
+        "female_count": 1083,
+        "hijra_count": 0,
+        "latitude": 23.13073,
+        "longitude": 90.18482
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "সমিতিরহাট উচ্চ বিদ্যালয়",
+        "male_count": 1099,
+        "female_count": 991,
+        "hijra_count": 0,
+        "latitude": 23.08318,
+        "longitude": 90.29911
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "সাবেক গোবিন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 818,
+        "female_count": 742,
+        "hijra_count": 0,
+        "latitude": 23.18183,
+        "longitude": 90.25143
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "সাহেবরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 863,
+        "female_count": 944,
+        "hijra_count": 0,
+        "latitude": 23.0188,
+        "longitude": 90.2876
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "সূর্যমনি সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1610,
+        "female_count": 1410,
+        "hijra_count": 0,
+        "latitude": 23.13308,
+        "longitude": 90.32374
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "স্নানঘাটা উচ্চ বিদ্যালয়",
+        "male_count": 1672,
+        "female_count": 1472,
+        "hijra_count": 0,
+        "latitude": 23.12122,
+        "longitude": 90.32833
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "স্বস্থল সাহেবরামপুর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 932,
+        "female_count": 810,
+        "hijra_count": 0,
+        "latitude": 23.01483,
+        "longitude": 90.31284
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "হাজির হাওলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1595,
+        "female_count": 1500,
+        "hijra_count": 0,
+        "latitude": 23.14784,
+        "longitude": 90.20449
+    },
+    {
+        "settings_code": 220,
+        "settings_name": "মাদারীপুর-৩",
+        "center_name": "হোগল পাতিয়া সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1339,
+        "female_count": 1164,
+        "hijra_count": 0,
+        "latitude": 23.12241,
+        "longitude": 90.24756
+    }
+]

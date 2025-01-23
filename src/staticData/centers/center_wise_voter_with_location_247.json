@@ -1,0 +1,1482 @@
+[
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "আমতলী সরঃপ্রাঃবিঃ, গ্রাম- আমতলী",
+        "male_count": 1924,
+        "female_count": 1601,
+        "hijra_count": 0,
+        "latitude": 23.96293,
+        "longitude": 90.97927
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "আলমনগর (উত্তর) সরঃপ্রাঃ বিদ্যালয়, গ্রাম- আলমনগর",
+        "male_count": 0,
+        "female_count": 2279,
+        "hijra_count": 0,
+        "latitude": 23.88857,
+        "longitude": 90.95542
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "আলমনগর পশ্চিম সরঃপ্রাঃবিদ্যালয়, গ্রাম- আলমনগর",
+        "male_count": 2427,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.88638,
+        "longitude": 90.95403
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "আলীমউদ্দিন জোবেদা কলেজ",
+        "male_count": 0,
+        "female_count": 2759,
+        "hijra_count": 0,
+        "latitude": 23.81272,
+        "longitude": 91.06733
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "আলীয়াবাদ মডেল সঃপ্রাঃবিঃ, গ্রাম- আলীয়াবাদ",
+        "male_count": 1990,
+        "female_count": 2111,
+        "hijra_count": 0,
+        "latitude": 23.87512,
+        "longitude": 90.9726
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "আহাম্মদপুর সরঃপ্রাঃবিঃ,গ্রাম - আহাম্মদপুর",
+        "male_count": 2303,
+        "female_count": 2181,
+        "hijra_count": 0,
+        "latitude": 23.79698,
+        "longitude": 91.01947
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ইব্রাহিমপুর (উঃ) সরঃপ্রাঃবিঃ, গ্রাম- ইব্রাহিমপুর",
+        "male_count": 3432,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.83981,
+        "longitude": 90.98069
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ইব্রাহিমপুর দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1237,
+        "female_count": 1159,
+        "hijra_count": 0,
+        "latitude": 23.82768,
+        "longitude": 90.97859
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ইব্রাহিমপুর বহুমুখী উচ্চ বিদ্যালয়, গ্রাম- ইব্রাহিমপুর",
+        "male_count": 0,
+        "female_count": 3313,
+        "hijra_count": 0,
+        "latitude": 23.84002,
+        "longitude": 90.98071
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "উত্তর দাররা সরঃপ্রাঃবিঃ, গ্রাম- উত্তর দাররা",
+        "male_count": 908,
+        "female_count": 904,
+        "hijra_count": 0,
+        "latitude": 23.81924,
+        "longitude": 90.92728
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "উরখুলিয়া সরঃপ্রাঃবিঃ, গ্রাম- উরখুলিয়া",
+        "male_count": 1310,
+        "female_count": 1043,
+        "hijra_count": 0,
+        "latitude": 23.9154,
+        "longitude": 91.00477
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ওয়ারুক সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2741,
+        "female_count": 2541,
+        "hijra_count": 0,
+        "latitude": 23.86609,
+        "longitude": 91.02685
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কনিকাড়া উচ্চ বিদ্যালয়, গ্রাম-কনিকাড়া",
+        "male_count": 1317,
+        "female_count": 1284,
+        "hijra_count": 0,
+        "latitude": 23.86848,
+        "longitude": 90.99784
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কনিকাড়া (উঃ) সরঃপ্রাঃবিঃ,গ্রাম-কনিকাড়া",
+        "male_count": 1479,
+        "female_count": 1410,
+        "hijra_count": 0,
+        "latitude": 23.87298,
+        "longitude": 90.99204
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কাইতলা (পঃ) সরঃ প্রাঃবিদ্যালয়, গ্রাম- কাইতলা",
+        "male_count": 1094,
+        "female_count": 1053,
+        "hijra_count": 0,
+        "latitude": 23.82037,
+        "longitude": 91.06171
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কাইতলা যজ্ঞেশ্বর উচ্চ বিদ্যালয়, গ্রাম- কাইতলা",
+        "male_count": 2815,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.81249,
+        "longitude": 91.06637
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কাজিমাবাদ সরকারী প্রাঃবিঃ,  গ্রাম- কাজিমাবাদ",
+        "male_count": 345,
+        "female_count": 290,
+        "hijra_count": 0,
+        "latitude": 23.85183,
+        "longitude": 90.98604
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কাজেল্লা সরঃ প্রাঃ বিঃ, গ্রাম- কাজেল্লা",
+        "male_count": 1318,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 23.80657,
+        "longitude": 90.95328
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কাঠালিয়া সরঃপ্রাঃবিঃ, গ্রাম- কাঠালিয়া",
+        "male_count": 1124,
+        "female_count": 1161,
+        "hijra_count": 0,
+        "latitude": 23.82445,
+        "longitude": 90.98314
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কাদৈর সরঃপ্রাঃবিঃ, গ্রাম- কাদৈর",
+        "male_count": 1231,
+        "female_count": 1244,
+        "hijra_count": 0,
+        "latitude": 23.83749,
+        "longitude": 90.87065
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কালঘড়া সরঃপ্রাঃবিঃ, গ্রাম- কালঘড়া",
+        "male_count": 1328,
+        "female_count": 1334,
+        "hijra_count": 0,
+        "latitude": 23.8386,
+        "longitude": 90.92963
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কিশোরপুর সঃপ্রাঃবিঃ, গ্রাম- কিশোরপুর",
+        "male_count": 988,
+        "female_count": 826,
+        "hijra_count": 0,
+        "latitude": 23.93676,
+        "longitude": 90.97926
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কুড়িঘর উচ্চ বিদ্যালয়, গ্রাম- কুড়িঘর",
+        "male_count": 1760,
+        "female_count": 1434,
+        "hijra_count": 0,
+        "latitude": 23.91799,
+        "longitude": 91.05632
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কুড়িঘর সরঃ প্রাথঃ বিদ্যাঃ,  গ্রাম- কুড়িঘর",
+        "male_count": 1518,
+        "female_count": 1160,
+        "hijra_count": 0,
+        "latitude": 23.92008,
+        "longitude": 91.0573
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কুলাসিন সরঃপ্রাঃবিঃ, গ্রাম- কুলাসিন",
+        "male_count": 950,
+        "female_count": 880,
+        "hijra_count": 0,
+        "latitude": 23.84175,
+        "longitude": 90.8774
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কৃষ্ণনগর আবদুল জব্বার স্কুল এন্ড কলেজ",
+        "male_count": 2366,
+        "female_count": 2086,
+        "hijra_count": 0,
+        "latitude": 23.92603,
+        "longitude": 90.9923
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কেদারখলা সরঃপ্রাঃবিঃ, গ্রাম- কেদারখলা",
+        "male_count": 903,
+        "female_count": 714,
+        "hijra_count": 0,
+        "latitude": 23.94663,
+        "longitude": 90.94825
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "কোনাউর সরঃ প্রাঃ বিদ্যালয়, গ্রাম- কোনাউর",
+        "male_count": 1378,
+        "female_count": 1323,
+        "hijra_count": 0,
+        "latitude": 23.84461,
+        "longitude": 91.07874
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "খড়িয়ালা সরঃ প্রাথঃ বিদ্যাঃ, গ্রাম-খড়িয়ালা",
+        "male_count": 1079,
+        "female_count": 853,
+        "hijra_count": 0,
+        "latitude": 23.91351,
+        "longitude": 91.06296
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "খাগাতুয়া সঃপ্রাঃবিঃ, গ্রাম-খাগাতুয়া",
+        "male_count": 1587,
+        "female_count": 1470,
+        "hijra_count": 0,
+        "latitude": 23.80773,
+        "longitude": 90.91022
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "খারঘর সরঃপ্রাঃবিঃ, গ্রাম-খারঘর",
+        "male_count": 1008,
+        "female_count": 870,
+        "hijra_count": 0,
+        "latitude": 23.9644,
+        "longitude": 91.01497
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "গাজিরকান্দি সরঃপ্রাঃবিঃ, গ্রাম- গাজিরকান্দি",
+        "male_count": 761,
+        "female_count": 681,
+        "hijra_count": 0,
+        "latitude": 23.94085,
+        "longitude": 90.98067
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "গুড়িগ্রাম সরঃপ্রাঃবিঃ, গ্রাম-গুড়িগ্রাম",
+        "male_count": 1647,
+        "female_count": 1452,
+        "hijra_count": 0,
+        "latitude": 23.8377,
+        "longitude": 91.05615
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "গোপালপুর উচ্চ বিদ্যালয়, গ্রাম- গোপালপুর",
+        "male_count": 0,
+        "female_count": 2822,
+        "hijra_count": 0,
+        "latitude": 23.86608,
+        "longitude": 90.93923
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "গোপালপুর উত্তর সরঃপ্রাঃবিঃ, গ্রাম-গোপালপুর",
+        "male_count": 2972,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86607,
+        "longitude": 90.93923
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "গোয়ালী সরঃ প্রাঃবিদ্যালয়, গ্রাম- গোয়ালী",
+        "male_count": 1167,
+        "female_count": 1192,
+        "hijra_count": 0,
+        "latitude": 23.8065,
+        "longitude": 91.06487
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "গোসাইপুর সরঃপ্রাঃবিঃ,গ্রাম- গোসাইপুর",
+        "male_count": 1769,
+        "female_count": 1547,
+        "hijra_count": 0,
+        "latitude": 23.93864,
+        "longitude": 91.00946
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "গৌরনগর সরঃপ্রাঃবিঃ, গ্রাম- গৌরনগর",
+        "male_count": 1960,
+        "female_count": 1463,
+        "hijra_count": 0,
+        "latitude": 23.96164,
+        "longitude": 90.99881
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "চরগোসাইপুর সরঃপ্রাঃবিঃ, গ্রাম- চরগোসাইপুর",
+        "male_count": 1984,
+        "female_count": 1645,
+        "hijra_count": 0,
+        "latitude": 23.94213,
+        "longitude": 91.00077
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "চরলাপাং সরঃপ্রাঃবিঃ, গ্রাম-চরলাপাং",
+        "male_count": 2487,
+        "female_count": 2174,
+        "hijra_count": 0,
+        "latitude": 23.89388,
+        "longitude": 90.92007
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "চরিলাম সরঃ প্রাথঃ বিদ্যাঃ,  গ্রাম- চরিলাম",
+        "male_count": 1220,
+        "female_count": 1037,
+        "hijra_count": 0,
+        "latitude": 23.88721,
+        "longitude": 91.04821
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "চিত্রি সরঃপ্রাঃবিঃ, গ্রাম- চিত্রি",
+        "male_count": 1180,
+        "female_count": 1044,
+        "hijra_count": 0,
+        "latitude": 23.91584,
+        "longitude": 90.95633
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "চুউরিয়া সরঃপ্রাঃবিঃ, গ্রাম- চুউরিয়া",
+        "male_count": 1279,
+        "female_count": 1224,
+        "hijra_count": 0,
+        "latitude": 23.79813,
+        "longitude": 90.96668
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "চেলিখোলা সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 1382,
+        "female_count": 1293,
+        "hijra_count": 0,
+        "latitude": 23.79495,
+        "longitude": 90.95127
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ছলিমগঞ্জ এ আর এম উচ্চ বিদ্যালয়, গ্রাম- ছলিমগঞ্জ",
+        "male_count": 1503,
+        "female_count": 1265,
+        "hijra_count": 0,
+        "latitude": 23.84882,
+        "longitude": 90.85091
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ছিনামাছি সরঃ প্রাঃ বিদ্যালয়, গ্রাম- ছিনামাছি",
+        "male_count": 720,
+        "female_count": 594,
+        "hijra_count": 0,
+        "latitude": 23.85552,
+        "longitude": 91.06007
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "জাফরপুর সরঃ প্রাঃ বিঃ, গ্রাম- জাফরপুর",
+        "male_count": 1251,
+        "female_count": 1271,
+        "hijra_count": 0,
+        "latitude": 23.82699,
+        "longitude": 90.99851
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "জালশুকা সরঃপ্রাঃবিঃ, গ্রাম- জালশুকা",
+        "male_count": 1768,
+        "female_count": 1483,
+        "hijra_count": 0,
+        "latitude": 23.95143,
+        "longitude": 91.01965
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "জিনদপুর ইউনিয়ন স্কুল এন্ড কলেজ, গ্রাম- জিনদপুর",
+        "male_count": 1716,
+        "female_count": 1723,
+        "hijra_count": 0,
+        "latitude": 23.81358,
+        "longitude": 90.98825
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "টানচারা সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- টানচারা",
+        "male_count": 544,
+        "female_count": 556,
+        "hijra_count": 0,
+        "latitude": 23.79547,
+        "longitude": 91.02891
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "টিয়ারা সরঃপ্রাঃবিদ্যালয়,গ্রাম-টিয়ারা",
+        "male_count": 2034,
+        "female_count": 1985,
+        "hijra_count": 0,
+        "latitude": 23.84846,
+        "longitude": 91.05039
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "থানারকান্দি সরঃপ্রাঃবিঃ, গ্রাম- থানারকান্দি",
+        "male_count": 1171,
+        "female_count": 965,
+        "hijra_count": 0,
+        "latitude": 23.94768,
+        "longitude": 90.9923
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "থোল্লাকান্দি সরঃপ্রাঃবিঃ, গ্রাম- থোল্লাকান্দি",
+        "male_count": 1793,
+        "female_count": 1714,
+        "hijra_count": 0,
+        "latitude": 23.84978,
+        "longitude": 90.86481
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "দড়িশ্রীরামপুর সরঃপ্রাঃবিঃ, গ্রাম- দড়িশ্রীরামপুর",
+        "male_count": 1077,
+        "female_count": 999,
+        "hijra_count": 0,
+        "latitude": 23.83899,
+        "longitude": 90.95288
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "দুবাচাইল সঃপ্রাঃবিঃ, গ্রাম-দুবাচাইল",
+        "male_count": 1824,
+        "female_count": 1610,
+        "hijra_count": 0,
+        "latitude": 23.76127,
+        "longitude": 90.88781
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "দুর্গারামপুর সরঃপ্রাঃবিঃ, গ্রাম- দূর্গারামপুর",
+        "male_count": 1222,
+        "female_count": 1120,
+        "hijra_count": 0,
+        "latitude": 23.93305,
+        "longitude": 90.95398
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "দৌলতপুর সঃ প্রাঃ বিঃ",
+        "male_count": 2868,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.90984,
+        "longitude": 90.98271
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "দৌলতপুর সরঃপ্রাঃবিঃ, গ্রাম- দৌলতপুর",
+        "male_count": 0,
+        "female_count": 2359,
+        "hijra_count": 0,
+        "latitude": 23.9099,
+        "longitude": 90.98268
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ধনাশী সরঃপ্রাঃবিঃ গ্রাম- ধনাশী",
+        "male_count": 2372,
+        "female_count": 2102,
+        "hijra_count": 0,
+        "latitude": 23.87884,
+        "longitude": 91.05579
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ধরাভাঙ্গা সরঃপ্রাঃবিঃ, গ্রাম-ধরাভাঙ্গা",
+        "male_count": 1313,
+        "female_count": 1314,
+        "hijra_count": 0,
+        "latitude": 23.86624,
+        "longitude": 90.85181
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নজরদৌলত সরঃপ্রাঃবিঃ, গ্রাম- নজরদৌলত",
+        "male_count": 902,
+        "female_count": 806,
+        "hijra_count": 0,
+        "latitude": 23.95173,
+        "longitude": 90.96499
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নবীনগর ইচ্ছাময়ী বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2827,
+        "hijra_count": 0,
+        "latitude": 23.88924,
+        "longitude": 90.96798
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নবীনগর ইচ্ছাময়ী বালিকা উচ্চ বিদ্যালয়",
+        "male_count": 2648,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.88927,
+        "longitude": 90.96782
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নবীনগর (উঃ) সরঃপ্রাঃবিঃ, গ্রাম-নবীনগর",
+        "male_count": 0,
+        "female_count": 3050,
+        "hijra_count": 0,
+        "latitude": 23.89281,
+        "longitude": 90.97119
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নবীনগর করিমশাহ সরঃপ্রাঃবিঃ,  গ্রাম- নবীনগর",
+        "male_count": 3098,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.89098,
+        "longitude": 90.97361
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নবীনগর (পঃ) সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-নবীনগর, কেন্দ্র-০১",
+        "male_count": 3334,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.88824,
+        "longitude": 90.96692
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নবীনগর (পঃ) সরকারি প্রাথমিক বিদ্যালয়, গ্রাম-নবীনগর, কেন্দ্র-০২",
+        "male_count": 0,
+        "female_count": 3512,
+        "hijra_count": 0,
+        "latitude": 23.8884,
+        "longitude": 90.9664
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নাছিরাবাদ সরঃপ্রাঃবিঃ, গ্রাম- নাছিরাবাদ",
+        "male_count": 1712,
+        "female_count": 1567,
+        "hijra_count": 0,
+        "latitude": 23.85551,
+        "longitude": 90.90326
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নাটঘর উচ্চ বিদ্যালয়, গ্রাম- নাটঘর",
+        "male_count": 1428,
+        "female_count": 1202,
+        "hijra_count": 0,
+        "latitude": 23.90008,
+        "longitude": 91.06055
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নাটঘর সরঃ প্রাথঃ বিদ্যাঃ, গ্রাম- নাটঘর",
+        "male_count": 1481,
+        "female_count": 1195,
+        "hijra_count": 0,
+        "latitude": 23.90007,
+        "longitude": 91.06274
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নান্দুরা সরঃ প্রাথঃ বিদ্যালয়, গ্রাম- নান্দুরা",
+        "male_count": 1283,
+        "female_count": 1015,
+        "hijra_count": 0,
+        "latitude": 23.92212,
+        "longitude": 91.06227
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নারায়নপুর ডি এস কামিল মাদ্রাসা, গ্রাম- নারায়নপুর",
+        "male_count": 0,
+        "female_count": 2937,
+        "hijra_count": 0,
+        "latitude": 23.87225,
+        "longitude": 90.97266
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নারায়নপুর সঃ প্রাঃবিঃ,গ্রাম-নারায়নপুর",
+        "male_count": 2923,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87103,
+        "longitude": 90.97288
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নিলখী সঃপ্রাঃবিঃ, গ্রাম-নিলখী",
+        "male_count": 1125,
+        "female_count": 1045,
+        "hijra_count": 0,
+        "latitude": 23.83494,
+        "longitude": 90.84539
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নুরজাহানপুর সরঃপ্রাঃবিঃ, গ্রাম- নূরজাহানপুর",
+        "male_count": 897,
+        "female_count": 829,
+        "hijra_count": 0,
+        "latitude": 23.86351,
+        "longitude": 90.86521
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নোয়াগাও উচ্চ বিদ্যালয়",
+        "male_count": 2935,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.86047,
+        "longitude": 91.06866
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নোয়াগাও পূর্ব সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2615,
+        "hijra_count": 0,
+        "latitude": 23.86297,
+        "longitude": 91.07499
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "নোয়াগ্রাম সরঃপ্রাঃবিঃ, গ্রাম- নোয়াগ্রাম",
+        "male_count": 1767,
+        "female_count": 1713,
+        "hijra_count": 0,
+        "latitude": 23.81841,
+        "longitude": 90.89456
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "প্যায়ারাকান্দি সঃ প্রাঃ বিঃ, প্যায়ারাকান্দি",
+        "male_count": 1104,
+        "female_count": 1055,
+        "hijra_count": 0,
+        "latitude": 23.80482,
+        "longitude": 90.89475
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ফতেহপুর কমলাকান্ত গুরুচরণ উচ্চ বিদ্যালয়, গ্রাম- ফতেহপুর",
+        "male_count": 1985,
+        "female_count": 1876,
+        "hijra_count": 0,
+        "latitude": 23.80702,
+        "longitude": 90.99928
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ফতেহপুর সরঃপ্রাঃবিঃ, গ্রাম ফতেহপুর",
+        "male_count": 1247,
+        "female_count": 1108,
+        "hijra_count": 0,
+        "latitude": 23.8965,
+        "longitude": 90.95923
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বগডহর উঃ সরঃপ্রাঃবিঃ, গ্রাম-বগডহর",
+        "male_count": 1778,
+        "female_count": 1526,
+        "hijra_count": 0,
+        "latitude": 23.89267,
+        "longitude": 90.99143
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বগডহর দঃ সরঃপ্রাঃবিঃ, গ্রাম-বগডহর",
+        "male_count": 1936,
+        "female_count": 1698,
+        "hijra_count": 0,
+        "latitude": 23.88661,
+        "longitude": 90.99678
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বড়াইল উচ্চ বিদ্যালয়, গ্রাম- বড়াইল",
+        "male_count": 1638,
+        "female_count": 1498,
+        "hijra_count": 0,
+        "latitude": 23.96307,
+        "longitude": 91.02588
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বড়াইল হোসাইনিয়া উঃ বিঃ, গ্রাম- বড়াইল",
+        "male_count": 1124,
+        "female_count": 998,
+        "hijra_count": 0,
+        "latitude": 23.95585,
+        "longitude": 91.02629
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বড়িকান্দি সরঃপ্রাঃবিঃ, গ্রাম-বড়িকান্দি",
+        "male_count": 1542,
+        "female_count": 1439,
+        "hijra_count": 0,
+        "latitude": 23.85532,
+        "longitude": 90.8709
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বাউচাইল সঃপ্রাঃবিঃ, গ্রাম- বাউচাইল",
+        "male_count": 1132,
+        "female_count": 1155,
+        "hijra_count": 0,
+        "latitude": 23.77778,
+        "longitude": 90.93617
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বাংগরা (উঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2435,
+        "female_count": 2352,
+        "hijra_count": 0,
+        "latitude": 23.79567,
+        "longitude": 90.99238
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বাঘাউড়া সরঃপ্রাঃবিঃ,গ্রাম- বাঘাউড়া",
+        "male_count": 1755,
+        "female_count": 1672,
+        "hijra_count": 0,
+        "latitude": 23.88516,
+        "longitude": 91.0224
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বাড়াইল ইসলামিক একাডেমী, গ্রামঃ বাড়াইল",
+        "male_count": 1477,
+        "female_count": 1423,
+        "hijra_count": 0,
+        "latitude": 23.8443,
+        "longitude": 90.85324
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বাড়ীখলা সরঃপ্রাঃবিঃ গ্রাম-বাড়ীখলা",
+        "male_count": 1629,
+        "female_count": 1593,
+        "hijra_count": 0,
+        "latitude": 23.81947,
+        "longitude": 90.9987
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বাড্ডা সরঃ প্রাঃবিঃ. গ্রাম-বাড্ডা",
+        "male_count": 2033,
+        "female_count": 2075,
+        "hijra_count": 0,
+        "latitude": 23.81753,
+        "longitude": 90.87777
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বার আউলিয়া সিনিঃ মাদ্রাসা, গ্রাম- ব্রাহ্মণহাতা",
+        "male_count": 3328,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87532,
+        "longitude": 91.07132
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বাশারুক সরঃপ্রাঃবিঃ, গ্রাম- বাশারুক",
+        "male_count": 1778,
+        "female_count": 1605,
+        "hijra_count": 0,
+        "latitude": 23.80959,
+        "longitude": 91.01451
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বিটঘর উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 3395,
+        "hijra_count": 0,
+        "latitude": 23.83462,
+        "longitude": 91.04022
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বিটঘর রাধানাথ উচ্চ বিদ্যালয়, গ্রাম- বিটঘর",
+        "male_count": 3414,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.8373,
+        "longitude": 91.03601
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বিদ্যাকুট অমর বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 4347,
+        "hijra_count": 0,
+        "latitude": 23.90739,
+        "longitude": 91.03961
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বিদ্যাকুট অমর বহুমুখী উচ্চ বিদ্যালয়",
+        "male_count": 5066,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.90751,
+        "longitude": 91.03959
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বীরগাঁও পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 919,
+        "female_count": 847,
+        "hijra_count": 0,
+        "latitude": 23.94966,
+        "longitude": 90.96991
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বীরগাঁও স্কুল এন্ড কলেজ, গ্রাম- বীরগাঁও",
+        "male_count": 735,
+        "female_count": 641,
+        "hijra_count": 0,
+        "latitude": 23.95131,
+        "longitude": 90.97378
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "বুধাগাছা সরঃ প্রাঃ বিঃ, গ্রাম-বুধাগাছা (ভদ্রগাছা)",
+        "male_count": 1462,
+        "female_count": 1353,
+        "hijra_count": 0,
+        "latitude": 23.83019,
+        "longitude": 91.02864
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ব্রাহ্মণহাতা সরকারী প্রাথমিক বিদ্যালয়, গ্রাম- ব্রাহ্মণহাতা",
+        "male_count": 0,
+        "female_count": 2925,
+        "hijra_count": 0,
+        "latitude": 23.87583,
+        "longitude": 91.0719
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ভাতুরিয়া সরঃপ্রাঃবিঃ, গ্রাম- ভাতুরিয়া",
+        "male_count": 853,
+        "female_count": 722,
+        "hijra_count": 0,
+        "latitude": 23.86227,
+        "longitude": 91.05976
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ভিটিবিশারা সরঃপ্রাঃবিঃ, ভিটিবিশারা",
+        "male_count": 1272,
+        "female_count": 1183,
+        "hijra_count": 0,
+        "latitude": 23.7851,
+        "longitude": 90.88352
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ভৈরবনগর সরঃপ্রাঃবিঃ, গ্রাম- ভৈরবনগর",
+        "male_count": 1318,
+        "female_count": 1066,
+        "hijra_count": 0,
+        "latitude": 23.92993,
+        "longitude": 91.02956
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ভোলাচং উচ্চ বিদ্যালয়, গ্রাম- ভোলাচং,",
+        "male_count": 2624,
+        "female_count": 2495,
+        "hijra_count": 2,
+        "latitude": 23.85556,
+        "longitude": 90.97161
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "ভোলাচং দক্ষিণ সঃপ্রাঃবিঃ, গ্রাম- ভোলাচং",
+        "male_count": 2854,
+        "female_count": 2879,
+        "hijra_count": 0,
+        "latitude": 23.84783,
+        "longitude": 90.97568
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মনিপুর সরঃপ্রাঃবিঃ,গ্রাম- মনিপুর",
+        "male_count": 1272,
+        "female_count": 979,
+        "hijra_count": 0,
+        "latitude": 23.93447,
+        "longitude": 91.01376
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মহেষপুর সরঃপ্রাঃবিঃ, গ্রাম- মহেষপুর",
+        "male_count": 2660,
+        "female_count": 2408,
+        "hijra_count": 0,
+        "latitude": 23.83991,
+        "longitude": 91.02619
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মাঝিকাড়া সঃপ্রাঃবিঃ, মাঝিকাড়া",
+        "male_count": 1046,
+        "female_count": 1069,
+        "hijra_count": 0,
+        "latitude": 23.88122,
+        "longitude": 90.96974
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মানিকনগর সরকারি প্রাথমিক বিদ্যালয়-গ্রাম মানিকনগর",
+        "male_count": 782,
+        "female_count": 741,
+        "hijra_count": 0,
+        "latitude": 23.85391,
+        "longitude": 90.87913
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মালাই সরঃ প্রাঃ বিঃ, গ্রাম- মালাই",
+        "male_count": 1413,
+        "female_count": 1405,
+        "hijra_count": 0,
+        "latitude": 23.80009,
+        "longitude": 90.98052
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মিরপুর উচ্চ বিঃ, গ্রাম-মিরপুর",
+        "male_count": 1391,
+        "female_count": 1294,
+        "hijra_count": 0,
+        "latitude": 23.85408,
+        "longitude": 91.02779
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মিরপুর সরঃপ্রাঃবিদ্যালয়. গ্রাম-মিরপুর",
+        "male_count": 1520,
+        "female_count": 1389,
+        "hijra_count": 0,
+        "latitude": 23.85066,
+        "longitude": 91.02284
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মুক্তারামপুর সরঃপ্রাঃবিঃ গ্রাম- মুক্তারামপুর",
+        "male_count": 1426,
+        "female_count": 1429,
+        "hijra_count": 0,
+        "latitude": 23.85856,
+        "longitude": 90.84615
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মেরকুটা (দঃ) সরঃপ্রাঃবিঃ গ্রাম- মেরকুটা",
+        "male_count": 1078,
+        "female_count": 994,
+        "hijra_count": 0,
+        "latitude": 23.80311,
+        "longitude": 90.98863
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মেরকুটা পূর্ব সরঃপ্রাঃবিঃ, গ্রাম- মেরকুটা",
+        "male_count": 2595,
+        "female_count": 2230,
+        "hijra_count": 0,
+        "latitude": 23.89613,
+        "longitude": 91.03275
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মোল্লা সরঃপ্রাঃবিঃ,গ্রাম- মোল্লা",
+        "male_count": 1024,
+        "female_count": 1030,
+        "hijra_count": 0,
+        "latitude": 23.808,
+        "longitude": 90.93024
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "মোহল্লা সরঃপ্রাঃবিঃ, গ্রাম- মোহল্লা",
+        "male_count": 2008,
+        "female_count": 1757,
+        "hijra_count": 0,
+        "latitude": 23.90513,
+        "longitude": 91.01039
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "যশাতুয়া সঃপ্রাঃবিঃ, গ্রাম- যশাতুয়া",
+        "male_count": 660,
+        "female_count": 658,
+        "hijra_count": 0,
+        "latitude": 23.80012,
+        "longitude": 90.92741
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "রছুল্লাবাদ উলফত আলী খান উচ্চ বিদ্যালয়, গ্রাম- রছুল্লাবাদ",
+        "male_count": 0,
+        "female_count": 3886,
+        "hijra_count": 0,
+        "latitude": 23.82643,
+        "longitude": 90.93887
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "রছুল্লাবাদ দাখিল মাদ্রাসা, গ্রাম- রছুল্লাবাদ",
+        "male_count": 4003,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.82977,
+        "longitude": 90.94058
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "রতনপুর সঃপ্রাবিঃ, গ্রাম-রতনপুর",
+        "male_count": 1967,
+        "female_count": 1977,
+        "hijra_count": 0,
+        "latitude": 23.79534,
+        "longitude": 90.92023
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "রসুলপুর সরঃ প্রাথঃ বিদ্যাঃ, গ্রাম-রসুলপুর",
+        "male_count": 1308,
+        "female_count": 976,
+        "hijra_count": 0,
+        "latitude": 23.95148,
+        "longitude": 91.08225
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "রুদ্রাক্ষবাড়ি সরঃ প্রাথঃ বিদ্যাঃ, গ্রাম- রুদ্রাক্ষবাড়ি",
+        "male_count": 1000,
+        "female_count": 882,
+        "hijra_count": 0,
+        "latitude": 23.88279,
+        "longitude": 91.06385
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "রেজতপুর সরঃ প্রাঃবিঃ, গ্রাম- রেজতপুর",
+        "male_count": 1136,
+        "female_count": 1035,
+        "hijra_count": 0,
+        "latitude": 23.87075,
+        "longitude": 90.94395
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "লক্ষীপুর (উঃ) সঃপ্রাঃবিঃ, গ্রাম- উত্তর লক্ষীপুর",
+        "male_count": 2303,
+        "female_count": 1912,
+        "hijra_count": 0,
+        "latitude": 23.9583,
+        "longitude": 90.99053
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "লক্ষীপুর (দঃ) সরকারি প্রাথমিক বিদ্যালয়",
+        "male_count": 2428,
+        "female_count": 2229,
+        "hijra_count": 0,
+        "latitude": 23.92634,
+        "longitude": 90.98054
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "লহরী সরঃপ্রাঃবিঃ,গ্রাম-লহরী",
+        "male_count": 1322,
+        "female_count": 1320,
+        "hijra_count": 0,
+        "latitude": 23.83949,
+        "longitude": 90.9255
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "লাপাং সরঃপ্রাঃবিঃ, গ্রাম-লাপাং",
+        "male_count": 1389,
+        "female_count": 1143,
+        "hijra_count": 0,
+        "latitude": 23.90135,
+        "longitude": 90.95117
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শাহপুর (দক্ষিণ) সরঃ প্রাঃবিঃ , গ্রাম-শাহপুর",
+        "male_count": 1553,
+        "female_count": 1463,
+        "hijra_count": 0,
+        "latitude": 23.7749,
+        "longitude": 90.9167
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শাহপুর সঃপ্রাঃবিঃ, গ্রাম- শাহপুর",
+        "male_count": 1295,
+        "female_count": 1327,
+        "hijra_count": 0,
+        "latitude": 23.77793,
+        "longitude": 90.91932
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শাহবাজপুর সরঃপ্রাঃবিঃ, গ্রাম- শাহবাজপুর",
+        "male_count": 1777,
+        "female_count": 1740,
+        "hijra_count": 0,
+        "latitude": 23.8497,
+        "longitude": 90.91168
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শিকানিকা সরঃপ্রাঃবিঃ,  গ্রাম শিকানিকা",
+        "male_count": 924,
+        "female_count": 916,
+        "hijra_count": 0,
+        "latitude": 23.80963,
+        "longitude": 90.96081
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শিবপুর ইউনিয়ন উচ্চ বিদ্যালয়",
+        "male_count": 2910,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.87111,
+        "longitude": 91.03565
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শিবপুর ইউনিয়ন উচ্চ বিদ্যালয়",
+        "male_count": 0,
+        "female_count": 2667,
+        "hijra_count": 0,
+        "latitude": 23.87113,
+        "longitude": 91.03561
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শ্যামগ্রাম বনলতা বিপিন বালিকা উচ্চ বিদ্যালয়, গ্রাম- শ্যামগ্রাম",
+        "male_count": 3391,
+        "female_count": 0,
+        "hijra_count": 0,
+        "latitude": 23.84046,
+        "longitude": 90.90128
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শ্যামগ্রাম মোহিনী কিশোর স্কুল এন্ড কলেজ,গ্রাম- শ্যামগ্রাম",
+        "male_count": 0,
+        "female_count": 3192,
+        "hijra_count": 0,
+        "latitude": 23.83881,
+        "longitude": 90.90178
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শ্রীঘর সরঃপ্রাঃবিঃ গ্রাম-শ্রীঘর",
+        "male_count": 2599,
+        "female_count": 2375,
+        "hijra_count": 0,
+        "latitude": 23.84712,
+        "longitude": 90.88538
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শ্রীরামপুর (পঃ) সরঃপ্রাঃবিঃ গ্রাম- শ্রীরামপুর",
+        "male_count": 1645,
+        "female_count": 1671,
+        "hijra_count": 0,
+        "latitude": 23.85586,
+        "longitude": 90.95632
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "শ্রীরামপুর পুর্ব সরঃপ্রাঃবিঃ গ্রাম- শ্রীরামপুর",
+        "male_count": 1879,
+        "female_count": 1765,
+        "hijra_count": 0,
+        "latitude": 23.85771,
+        "longitude": 90.96801
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "সাতগাঁও আদর্শ উচ্চ বিদ্যালয়, গ্রাম- নবীপুর",
+        "male_count": 1790,
+        "female_count": 1583,
+        "hijra_count": 0,
+        "latitude": 23.90454,
+        "longitude": 90.95085
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "সাতমোড়া উচ্চ বিদ্যালয়,  গ্রাম- সাতমোড়া",
+        "male_count": 2086,
+        "female_count": 2124,
+        "hijra_count": 0,
+        "latitude": 23.786,
+        "longitude": 90.94328
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "সাহেবনগর সরঃপ্রাঃবিঃ, গ্রাম- সাহেবনগর",
+        "male_count": 961,
+        "female_count": 918,
+        "hijra_count": 0,
+        "latitude": 23.87536,
+        "longitude": 90.92554
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "সেমন্তঘর সরঃপ্রাঃবিদ্যালয়, গ্রাম-সেমন্তঘর",
+        "male_count": 1966,
+        "female_count": 1706,
+        "hijra_count": 0,
+        "latitude": 23.89136,
+        "longitude": 91.02178
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "হরিপুর সরকারি প্রাথমিক বিদ্যালয়, গ্রাম- হরিপুর",
+        "male_count": 638,
+        "female_count": 552,
+        "hijra_count": 0,
+        "latitude": 23.94608,
+        "longitude": 90.95699
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "হাজীপুর সরঃপ্রাঃবিঃ, গ্রাম-হাজীপুর",
+        "male_count": 1318,
+        "female_count": 1246,
+        "hijra_count": 0,
+        "latitude": 23.79704,
+        "longitude": 91.00717
+    },
+    {
+        "settings_code": 247,
+        "settings_name": "ব্রাক্ষণবাড়িয়া-৫",
+        "center_name": "হুরুয়া সরঃপ্রাঃবিঃ, গ্রাম- হুরুয়া",
+        "male_count": 1298,
+        "female_count": 1314,
+        "hijra_count": 0,
+        "latitude": 23.8152,
+        "longitude": 90.9823
+    }
+]
