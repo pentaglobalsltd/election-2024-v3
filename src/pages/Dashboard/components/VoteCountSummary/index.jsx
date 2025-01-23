@@ -18,7 +18,7 @@ const VoteCountSummary = () => {
         {totalVoter ? (
           <Statistic
             className="vote"
-            title="মোট ভোট"
+            title="মোট ভোটার"
             value={toBN(totalVoter)}
             valueStyle={{
               color: '#3d7bf2',
@@ -35,7 +35,7 @@ const VoteCountSummary = () => {
           {maleVoter ? (
             <Statistic
               className="vote"
-              title="বৈধ ভোট"
+              title="পুরুষ ভোটার"
               value={toBN(maleVoter)}
               valueStyle={{
                 color: '#3f8600',
@@ -50,7 +50,7 @@ const VoteCountSummary = () => {
           {femaleVoter ? (
             <Statistic
               className="vote"
-              title="অবৈধ ভোট"
+              title="মহিলা ভোটার"
               value={toBN(femaleVoter)}
               valueStyle={{
                 color: '#ff8399',
@@ -65,7 +65,7 @@ const VoteCountSummary = () => {
           {hijraVoter ? (
             <Statistic
               className="vote"
-              title="অবৈধ ভোট"
+              title="হিজড়া ভোটার"
               value={toBN(hijraVoter)}
               valueStyle={{
                 color: '#ff8399',
