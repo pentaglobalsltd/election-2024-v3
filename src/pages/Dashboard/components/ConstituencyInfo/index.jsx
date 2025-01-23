@@ -81,6 +81,11 @@ const ConstituencyInfo = ({ selectedDistrict }) => {
 
   useEffect(() => {
     setSelectedConstituencyCount(null);
+    dispatch(
+      selectConstituency({
+        selectedConstituency: null,
+      }),
+    );
   }, [selectedDistrict]);
   if (!selectedConstituencyCount) return null;
 

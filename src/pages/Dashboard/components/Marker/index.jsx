@@ -23,7 +23,11 @@ export const MarkerLayer = () => {
   };
 
   useEffect(() => {
-    if (selectedConstituency?.code) loadJsonFile(selectedConstituency.code);
+    if (selectedConstituency?.code) {
+      loadJsonFile(selectedConstituency.code);
+    } else {
+      setJsonData(null);
+    }
   }, [selectedConstituency]);
 
   return (
