@@ -6,6 +6,7 @@ import { selectDistrict } from '../../../../../actions/district';
 import { getElectionAreas } from '../../../../../staticData/ElectionArea';
 
 import './styles.scss';
+import { selectMenu } from '../../../../../actions/menu';
 
 const SVG = () => {
   const dispatch = useDispatch();
@@ -17,7 +18,10 @@ const SVG = () => {
   const { selectedDistrict } = _selectedDistrict || {};
   const { code: selectedDistrictCode } = selectedDistrict || {};
 
-  const handleSelectedDistrict = (district) => {
+  const handleSelectedDistrict = (divisionCode, district) => {
+    if (divisionCode !== Number(selectedMenu)) {
+      dispatch(selectMenu({ selectedMenu: null }));
+    }
     dispatch(selectDistrict({ selectedDistrict: district }));
   };
 
@@ -38,7 +42,7 @@ const SVG = () => {
             className={`svg__division ${Number(selectedMenu) === Number(area.division.code) ? 'svg__division-active' : ''} ${Number(selectedDistrictCode) === Number(area.district.code) ? 'svg__district-active' : ''}`}
             tabIndex={100}
             onClick={() => {
-              handleSelectedDistrict(area.district);
+              handleSelectedDistrict(area.division.code, area.district);
             }}
           >
             {area.district.component}

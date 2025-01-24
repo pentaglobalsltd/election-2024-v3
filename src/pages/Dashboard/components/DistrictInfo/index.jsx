@@ -15,7 +15,7 @@ const { Text } = Typography;
 
 const columns = [
   {
-    title: 'পুরুষ ভোট',
+    title: 'পুরুষ ভোটার',
     dataIndex: 'male_count',
     key: 'male_count',
     render: (value) => {
@@ -23,13 +23,13 @@ const columns = [
     },
   },
   {
-    title: 'মহিলা ভোট',
+    title: 'মহিলা ভোটার',
     dataIndex: 'female_count',
     key: 'female_count',
     render: (value) => <Text>{toBN(value)}</Text>,
   },
   {
-    title: 'হিজড়া ভোট',
+    title: 'হিজড়া ভোটার',
     dataIndex: 'hijra_count',
     key: 'hijra_count',
     render: (value) => <Text>{toBN(value)}</Text>,
@@ -92,6 +92,7 @@ const DistrictInfo = () => {
       open={selectedDistrict}
       key="DIstrict"
       mask={false}
+      zIndex={1100}
     >
       <>
         <svg

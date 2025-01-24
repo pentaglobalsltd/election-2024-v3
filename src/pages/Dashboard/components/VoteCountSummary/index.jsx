@@ -1,8 +1,9 @@
 import React from 'react';
-import { Affix, Statistic, Card, Flex } from 'antd';
+import { Affix, Statistic, Card } from 'antd';
 
 import { toBN } from 'react-en-bn';
 import totalVoteCounts from '../../../../staticData/totalCounts.json';
+import './styles.css';
 
 const VoteCountSummary = () => {
   const {
@@ -14,7 +15,11 @@ const VoteCountSummary = () => {
 
   return (
     <Affix>
-      <Card>
+      <Card
+        style={{
+          boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
+        }}
+      >
         {totalVoter ? (
           <Statistic
             className="vote"
@@ -31,7 +36,7 @@ const VoteCountSummary = () => {
         )}
 
         <hr />
-        <Flex gap="16px">
+        <div className="flex-container">
           {maleVoter ? (
             <Statistic
               className="vote"
@@ -76,7 +81,7 @@ const VoteCountSummary = () => {
           ) : (
             <></>
           )}
-        </Flex>
+        </div>
       </Card>
     </Affix>
   );

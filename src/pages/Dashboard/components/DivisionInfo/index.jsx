@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { toBN } from 'react-en-bn';
 
-import { notification, Table, Typography } from 'antd';
+import { ConfigProvider, notification, Table, Typography } from 'antd';
 
 import { selectMenu } from '../../../../actions/menu';
 import divisionVoteCounts from '../../../../staticData/divisionInfo.json';
@@ -108,6 +108,20 @@ const DivisionInfo = () => {
       setTimeout(() => openNotification(selectedDivision), 250);
   }, [divisionVoteCounts, selectedMenu]);
 
-  return <>{contextHolder}</>;
+  return (
+    <>
+      <ConfigProvider
+        theme={{
+          components: {
+            Notification: {
+              zIndexPopup: 1050,
+            },
+          },
+        }}
+      >
+        {contextHolder}
+      </ConfigProvider>
+    </>
+  );
 };
 export default DivisionInfo;

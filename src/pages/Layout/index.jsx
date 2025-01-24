@@ -14,12 +14,17 @@ import { icons } from '../../staticData/iconMap.jsx';
 
 import { defaultDivision } from '../../const/defaultDivision.js';
 import './styles.scss';
+import { selectDistrict } from '../../actions/district.js';
 
 const electionAreas = getElectionAreas();
 const _divisions = [...electionAreas.map((area) => area.division)];
-const divisions = _divisions.filter((item, index, array) =>
-  isUnique(array.slice(0, index), item),
-);
+
+const divisions = _divisions
+  .filter((item, index, array) => isUnique(array.slice(0, index), item))
+  .map((item) => ({
+    ...item,
+    key: item.code,
+  }));
 
 const { Sider, Content } = Layout;
 
@@ -40,6 +45,7 @@ const CustomLayout = () => {
       {
         name: 'সমগ্র বাংলাদেশ',
         code: defaultDivision.DEFAULT,
+        key: defaultDivision.DEFAULT,
       },
       ...divisions,
     ].map((item) =>
@@ -67,6 +73,8 @@ const CustomLayout = () => {
         selectedMenu: e.key,
       }),
     );
+
+    dispatch(selectDistrict({ selectedDistrict: null }));
   };
 
   let torender = null;
