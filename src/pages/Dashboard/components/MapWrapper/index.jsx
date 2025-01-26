@@ -26,7 +26,7 @@ const MapWrapper = ({ children }) => {
       center={[24, 90.399452]}
       zoom={screennWidth === 'small' ? 6 : screennWidth === 'mid' ? 7 : 7}
       style={mapStyle}
-      maxZoom={10}
+      maxZoom={13}
       zoomControl={false}
     >
       <ZoomControl position={'bottomleft'} />
