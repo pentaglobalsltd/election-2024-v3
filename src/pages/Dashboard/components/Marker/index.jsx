@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { TileLayer as LeafletTileLayer } from 'react-leaflet';
-import MarkerClusterGroup from 'react-leaflet-cluster';
 import { useSelector } from 'react-redux';
 import CustomMarker from './CustomMarker';
 
@@ -32,18 +31,16 @@ export const MarkerLayer = () => {
 
   return (
     <>
-      <MarkerClusterGroup chunkedLoading spiderfyDistanceMultiplier={2}>
-        {jsonData?.map((data, index) => {
-          return data?.latitude !== 'NaN' && data?.longitude !== 'NaN' ? (
-            <CustomMarker
-              key={index}
-              data={data}
-              isActive={false}
-              isNews={true}
-            />
-          ) : null;
-        })}
-      </MarkerClusterGroup>
+      {jsonData?.map((data, index) => {
+        return data?.latitude !== 'NaN' && data?.longitude !== 'NaN' ? (
+          <CustomMarker
+            key={index}
+            data={data}
+            isActive={false}
+            isNews={true}
+          />
+        ) : null;
+      })}
     </>
   );
 };
