@@ -24,12 +24,12 @@ const VoteCountSummary = () => {
           <Statistic
             className="vote"
             title="মোট ভোটার"
-            value={toBN(totalVoter)}
+            value={totalVoter}
+            formatter={(value) => toBN(value.toLocaleString('en-US'))}
             valueStyle={{
               color: '#3d7bf2',
               fontWeight: 'bold',
             }}
-            separator=","
           />
         ) : (
           <></>
@@ -41,7 +41,8 @@ const VoteCountSummary = () => {
             <Statistic
               className="vote"
               title="পুরুষ ভোটার"
-              value={toBN(maleVoter)}
+              value={maleVoter}
+              formatter={(value) => toBN(value.toLocaleString('en-US'))}
               valueStyle={{
                 color: '#3f8600',
                 fontSize: '14px',
@@ -56,7 +57,8 @@ const VoteCountSummary = () => {
             <Statistic
               className="vote"
               title="মহিলা ভোটার"
-              value={toBN(femaleVoter)}
+              value={femaleVoter}
+              formatter={(value) => toBN(value.toLocaleString('en-US'))}
               valueStyle={{
                 color: '#3f8600',
                 fontSize: '14px',
@@ -71,7 +73,8 @@ const VoteCountSummary = () => {
             <Statistic
               className="vote"
               title="হিজড়া ভোটার"
-              value={toBN(hijraVoter)}
+              value={hijraVoter}
+              formatter={(value) => toBN(value.toLocaleString('en-US'))}
               valueStyle={{
                 color: '#3f8600',
                 fontSize: '14px',
