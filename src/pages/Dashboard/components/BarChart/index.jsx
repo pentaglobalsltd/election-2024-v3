@@ -9,7 +9,7 @@ export const BarChart = ({ data }) => {
     },
     yaxis: {
       labels: {
-        formatter: (value) => toBN(value || 0),
+        formatter: (value) => toBN(value.toLocaleString('en-US') || 0),
       },
     },
     title: {
@@ -22,7 +22,7 @@ export const BarChart = ({ data }) => {
     dataLabels: {
       enabled: true,
       formatter: function (val) {
-        return toBN(val || 0);
+        return toBN(val.toLocaleString('en-US') || 0);
       },
     },
     fill: {

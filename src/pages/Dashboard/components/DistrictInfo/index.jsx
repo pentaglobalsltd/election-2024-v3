@@ -19,20 +19,20 @@ const columns = [
     dataIndex: 'male_count',
     key: 'male_count',
     render: (value) => {
-      return <Text>{toBN(value)}</Text>;
+      return <Text>{toBN(value.toLocaleString('en-US'))}</Text>;
     },
   },
   {
     title: 'মহিলা ভোটার',
     dataIndex: 'female_count',
     key: 'female_count',
-    render: (value) => <Text>{toBN(value)}</Text>,
+    render: (value) => <Text>{toBN(value.toLocaleString('en-US'))}</Text>,
   },
   {
     title: 'হিজড়া ভোটার',
     dataIndex: 'hijra_count',
     key: 'hijra_count',
-    render: (value) => <Text>{toBN(value)}</Text>,
+    render: (value) => <Text>{toBN(value.toLocaleString('en-US'))}</Text>,
   },
 ];
 
